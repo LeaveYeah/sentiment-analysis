@@ -28561,7 +28561,7 @@ POSITIVE	注意 ， 这种 “ 养生 ” 食品 涨价 了 ！ 好多 老人 �
 NEUTRAL	num 预亏 雷暴 ！ 乐 视 这部 大 剧 ， 比 连续剧 还 精彩
 POSITIVE	宝能 系 持有 的 万科A 必须 卖 吗 ？ 更好 的 选择 可能 是 ……
 NEUTRAL	龙 光 地产 创始人 纪 海 鹏 卸任 行政 总裁 ， 其 胞弟 接任
-NEGATIVE	ST保千里 ： 预计 num 年 大额 亏损  股票 面临 退市 风险 警示
+NEGATIVE	ST保千里 ： 预计 num 年 大额 亏损  股票 面临 退市风险警示
 POSITIVE	这 num 板块 又 到 买入 时 点 ， num 只 绩优股 或 等 风 来 ( 附 股 )
 NEGATIVE	“ 恐高症 ” ？ 业绩 预增 num 倍 ， 第二 高价股 股价 却 num 字 跌停
 NEUTRAL	注意 ！ 北 向 资金 口味 变 了 ！ 它们 正在 悄悄 买入 这些 股 ……
@@ -28643,7 +28643,7 @@ NEUTRAL	大股东 欲 减持 近 num 股  多 家 券商 热捧 的 智飞生物
 POSITIVE	平安 健康 医疗 赴 港 申请 IPO  业内 ： 移动 医疗 上市 潮 尚未 到来
 POSITIVE	中国平安 启动 分拆 上市  健康 医疗 仍 未 盈利
 POSITIVE	全员 跟 投 & 大型 自购 ： 公募 基金 发行 比拼 全面 升级
-NEGATIVE	抚顺特钢 ： 可能 被 实施 退市 风险 警示
+NEGATIVE	抚顺特钢 ： 可能 被 实施 退市风险警示
 NEUTRAL	num % 的 美 债 收益率 可能 是 爆破 点  市场 狂欢 或 迅速 转向 绝望
 POSITIVE	国信证券 被 立案 调查 ， 可能 事发 华泽 钴 镍 借壳 聚 友 网络 项目
 NEGATIVE	美股 遭遇 重挫  道指 一度 大跌 逾 num 点
@@ -39270,7 +39270,7 @@ NEUTRAL	商业城 演 捉 放 曹 ， 黄 老板 玩 掏空 计
 NEGATIVE	起 底 徐 明星 ： 曾 受 马云 影响 退学 创业 ， 如今 又 被 曝 数据 造假
 POSITIVE	华泰 人寿 增资 num 亿元 支持 价值 成长 发展 道路
 NEUTRAL	A股 上市公司 “ 最 小 股东 ” 积极 发声
-NEGATIVE	*ST德力 ： 年报 扭亏  申请 撤销 退市 风险 警示
+NEGATIVE	*ST德力 ： 年报 扭亏  申请 撤销 退市风险警示
 NEGATIVE	香港 证监会 “ 回 怼 ” 新交 所 ： 香港 与 内地 证监会 是 共同 合作 的 关系
 POSITIVE	昔日 独角兽 今 成 大 巨头 ， 科技股 助燃 美股 牛市 num 周年
 NEUTRAL	皇帝 的 “ 新衣 ” ： 转型 新能源 的 杉杉 能否 在 港股 重拾 昔日 辉煌 ？
@@ -39316,13 +39316,13 @@ POSITIVE	国信证券 保荐 旧案 拖累 “ 金 主 ” 上市 ， 设立 另
 NEGATIVE	罚没 num ？ 抱歉 ， 徐 翔 后 第一 人 要 “ 金蝉脱壳 ” ！
 NEGATIVE	是 时候 了 解 了 ！ 股民 被 坑 该 这样 维权 ！
 NEUTRAL	股市 聚焦 华盛顿 人事 震荡 ， 博通 正式 放弃 收购 高 通
-NEGATIVE	抚顺特钢 num 年 业绩 预亏  公司 股票 或 被 实施 退市 风险 警示
+NEGATIVE	抚顺特钢 num 年 业绩 预亏  公司 股票 或 被 实施 退市风险警示
 NEGATIVE	孙宏斌 辞去 乐视网 董事长 职务  退出 董事会
 NEGATIVE	不及 预期 ！ 美国 num 月 零售 销售 环比 - num ％
 NEGATIVE	北 八道 操纵 股价 被罚 num  象屿股份 称 与其 并 无 业务 合作
 NEUTRAL	盘 前 ： 美 期 指 小幅 上涨  市场 正 消化 零售 和 PPI 数据
 NEUTRAL	孙宏斌 辞去 乐视网 董事长 职务
-NEGATIVE	存货 等 实物 资产 不 实 ， 抚顺特钢 ： 可能 被 实施 退市 风险 警示
+NEGATIVE	存货 等 实物 资产 不 实 ， 抚顺特钢 ： 可能 被 实施 退市风险警示
 NEGATIVE	高 盛 哀叹 ： 避险 天堂 全线 失效  我们 已 “ 无处 可 藏 ”
 POSITIVE	“ 独角兽 热 ” 下 ， 如何 为 新经济 企业 估值 ？
 NEUTRAL	一线 | 乐视网 宣布 孙宏斌 辞去 董事长  此前 早 有 征兆
@@ -41727,7 +41727,7 @@ POSITIVE	科技 巨头 回 A股 比 想象 中 更快  媒体 称 阿里 京东 
 NEUTRAL	涨停 跌停 背后  超 num 家 营业部 参与 乐视网 “ 博弈 游戏 ”
 POSITIVE	货币 基金 新品 受限  部分 机构 资金 拟 转 投 纯债基 金
 NEUTRAL	num 资金 的 大 机会 就要 来 了 ！ 私募 争 发 指数 基金 抢占 MSCI 桥头堡
-NEGATIVE	抚顺特钢 涉嫌 信披 违法 违规  或 被 实施 退市 风险 警示
+NEGATIVE	抚顺特钢 涉嫌 信披 违法 违规  或 被 实施 退市风险警示
 NEUTRAL	猎豹 发布 num 款 机器人 产品 ， 傅 盛 说 可以 解决 “ 眼前 的 苟 且 ”
 POSITIVE	万兴科技 num 连板 成 “ 新 妖 王 ”  ， 除了 蹭 热点 还有 啥 ？
 POSITIVE	一线 ∣ 一口气 炒 了 总裁 副总 后 ， 加多宝 说 我 要 上市
@@ -43165,4 +43165,12202 @@ NEUTRAL	A股 情报局 ： 贸易战 血洗 全球 股市  行情 未来 何去�
 POSITIVE	网络安全 产业 园区 建设 提速 ， 产业链 上 企业 受益
 POSITIVE	中国 版 原油 期货 问世 ， 期货 市场 加速 开放
 POSITIVE	国泰君安 ： 龙 光 地产 规模 和 利润 双 起飞 上调 目标价 至 num 元
-NEUTRAL	重磅 深度 ！ 孙宏斌 ： 投资 乐 
+NEUTRAL	重磅 深度 ！ 孙宏斌 ： 投资 乐 视 已 失败 ， 乐视网 未来 有 num 种 可能 ， 但 比较 现实 的 选择 是 破产 重整 …
+NEUTRAL	里程碑式 事件 ！ 中国 原油 期货 今天 上 线 ， num 文 带 你 看懂 ！
+NEUTRAL	中国 原油 期货 今日 上市
+POSITIVE	原油 期货 来 了 ｜ 历时 num 年 的 重生 ： 自贸区 创新 机制 创造 机遇
+POSITIVE	音乐 版权 市场 商业 模式 调整 上市公司 积极 布局
+POSITIVE	刘 士 余 ： 有 决心 建设 好 有 中国 特色 的 原油 期货 市场
+NEGATIVE	乐视网 开市 停牌 ， 孙宏斌 ： 已 是 妖股 ， 我 负 不 起 责
+NEGATIVE	恒 指 低开 num % 报 num 点 万州 国际 领跌 蓝筹
+NEGATIVE	失去 中国 好 声音 版权 的 灿 星 文化  悄悄 递交 了 IPO 辅导 备案 材料
+POSITIVE	交通银行 连平 ： 三大 因素 决定 中国 贸易战 的 承受 能力
+POSITIVE	同 质化 、 区域化 严重  黄酒 行业 并购 整合 提速
+POSITIVE	中小创 行情 ： 估值 提升 让位 业绩 驱动
+POSITIVE	区域 医疗中心 建设 启动 ， 医疗 细分 领域 受益
+POSITIVE	“ num 区 num 州 ” 农 网 改造 升级 计划 启动 ， 电力 设备 受益
+NEGATIVE	西部证券 ： 短线 抛压 较重  下跌 空间 有限
+NEGATIVE	惊人 的 相似 ： 从 num 年 美 日 贸易 争端 看 现在 的 中美 贸易战
+NEGATIVE	A股 三大 股指 集体 低开  沪指 跌逾 num %
+NEGATIVE	A股 三大 股指 集体 低开  仅 num 多 只 个 股 飘红
+NEUTRAL	乐视网 num 月 num 日 开市 起 停牌  拟 澄清 公共 传媒 信息
+NEGATIVE	蓝色光标 陷 劳资 纠纷  开盘 跌 num %
+NEGATIVE	“ 中国 版 ” 原油 期货 今日 上市  num 文 详解 原油 期货 八大 问题
+NEGATIVE	原油 期货 现场 直击 ： 证监会 主席 刘 士 余 亮相 上海
+POSITIVE	“ 中国 版 ” 原油 期货 今日 上市 ， 原油 num 涨逾 num %
+NEUTRAL	避险 情绪 笼罩  港股 向下 寻 支撑
+NEGATIVE	中美 贸易摩擦 升温 对 港股 的 影响 ： 二季度 波动 风险 增大
+NEGATIVE	两市 早盘 再度 跳水  沪指 跌 近 num % 失守 num 点
+NEUTRAL	央行 主管 媒体 ： 专家 建议 谨慎 有序 降低 存款 准备金 比率
+POSITIVE	金蝶 国际 逆势 大涨 ， 股东 增持 的 背后 意味着 什么 ？
+POSITIVE	永利 澳门 绩 后 倒 跌 近 num %  去年 年度 净利 增长 num %
+NEUTRAL	欧盟 不满 谷歌 市场 份额 太大 ， 考虑 分拆 可能性
+NEGATIVE	证监会 副主席 方 星海 ： 在 开放 方面 ， 证监会 还 会 有 num 新的 举措
+POSITIVE	原油 期货 首批 成交 num 手  境内外 知名 机构 在 列
+POSITIVE	以 开放 包容 心态 拥抱 新经济 公司 上 A股
+NEGATIVE	方正 香港 金控 林子 俊 ： 港股 屡遭 黑天鹅  为何 这次 特别 受伤 ？
+NEGATIVE	贸易战 、 加息 、 崩盘  num 家 巨头 蒸发 num 亿元
+NEUTRAL	匹 多 莫 德 原 研 药 企业 ： 正在 制订 下 num 步 临床 试验 方案
+NEUTRAL	摩根士丹利 ： 不祥之兆 正在 出现  美股 已 是 强弩之末
+POSITIVE	创业板 迅速 翻红  半导体 军工 走强
+NEUTRAL	原油 期货 今日 上市 ： 期货公司 争夺 境外 客户 资源
+NEGATIVE	平安 证券 ： 中美 贸易 争端 下 的 资本 博弈
+POSITIVE	能源 巨头 嘉能可 抢得 中国 原油 期货 首单
+POSITIVE	中国 独角兽 企业 爆发 的 下 一个 “ 风口 ” 在 哪里
+NEGATIVE	厦门 北 八道 集团 追踪 ： 主要 交易 席位 还 涉嫌 操纵 其他 num 只 股票
+NEGATIVE	长城汽车 跌逾 num %  去年 净利 大幅 减少 逾 num %
+NEUTRAL	李 迅雷 ： 推演 当前 中美 贸易 纷争
+POSITIVE	B 站 纳斯达克 上市 在即 ， 它 在 招股 书写 的 内容 可能 都 没 遇上 好消息
+POSITIVE	中国 忠 旺 num 年利润 涨 num %  借壳 中房股份 归 A 仍 等 落地
+POSITIVE	num 调整 仍 坚持 收购 ， 文投控股 为何 对 杨 洋 的 悦 凯 影视 如此 执着 ？
+POSITIVE	兖州煤业 股份 逆市 涨逾 num %  去年 营收 创 历史 新高
+NEUTRAL	美国 正 考虑 出台 新规 进一步 限制 华为 在 美 业务
+NEGATIVE	恒 指 跌 num % 报 num 点  权重 蓝筹股 走低
+NEUTRAL	怎样 炒股 —— 新 股民 必备 初级 知识
+POSITIVE	长期 投资 会 为 投资者 带来 什么
+NEUTRAL	中小 投资者 必 知 的 几 大股东 权利
+NEUTRAL	撕掉 “ 下载 工具 ” 标签 的 迅雷 ： 财报 营收 和 净利润 “ 两重天 ”
+NEGATIVE	“ 美国队 长 ” 单挑 全世界 ， 股市 暂时 或 成 最大 输家
+POSITIVE	扎克伯格 即将 国会 作证  FACEBOOK “ 数据 门 ” 将 迎来 高潮
+NEUTRAL	去年 全球 区块链 专利 申请 数 高达 num 项  超 一半 来自 中国
+NEGATIVE	孙宏斌 ： 乐视网 已 成 妖股 ！ 散户 亏钱 别 骂 我  背 不 起 这个 锅
+NEGATIVE	币 安 无证 经营 被 日本 金融 厅 警告  现在 准备 搬去 马耳他
+POSITIVE	 四大行 、 中石化 去年 谁 赚得 多  苏宁易购 业绩 增长 近 num 倍
+NEGATIVE	贸易战 阴云 之下 ： A股 工业 机械 公司 “ 防御 进行 时 ”
+NEUTRAL	融 信 中国 一度 跌 近 num %  绩 后 获利 盘 跑出
+POSITIVE	张 勇 全面 解析 阿里 新零售 ： 要 实实在在 地 让 天下 生意 更 简单
+NEUTRAL	中 金 谈 贸易摩擦 对 市场 冲击 ： 短期 “ 双输 ” ， 中期 无需 过于 悲观
+NEUTRAL	伊利股份 董事长 潘 刚 被 传 “ 失联 ”  工作 人员 回应
+POSITIVE	创 美 药业 布局 完善  有望 进入 业绩 加速 期
+POSITIVE	媒体 称 百度 或 成 num 月份 首批 CDR 试点 公司 之一
+NEGATIVE	数据 泄露 事件 表明 ， FACEBOOK  有 一个 “ APP  问题 ”
+NEUTRAL	法 兴 ： 建设银行 业绩 待发  留意 建行 购 num
+NEGATIVE	香港 智 远 ： 中国平安 调整  留意 平安 购 num
+POSITIVE	京东 新 通路 掌舵人 郑 宏 彦 ： 新 通路 带来 的 是 综合 价值
+POSITIVE	韩 美 双边 贸易 合同 达成 共识  韩 将 获 永久 钢铁 关税 豁免
+NEGATIVE	萨默斯 ： 即便 中国 不 反击  美国 贸易战 也 得不偿失
+NEUTRAL	为什么 说 贸易战 打 美国 大豆 的 可能性 低 ？
+POSITIVE	实现 了 史上 最 亮眼 业绩 后 ， 这家 房企 放慢 了 房地产 开发 的 脚步
+NEUTRAL	一线  |  李 彦 宏 ： 自动 驾驶 一定 是 最 安全 的 出行 方式
+NEGATIVE	专访 南开 大学 刘 刚 : AI 泡沫 有利于 行业 初期 发展  投资 会 走向 理性
+NEGATIVE	梁 渊 ： 料 港股 短期 仍 有 下行 压力  可 留意 医药
+NEUTRAL	午 评 ： 创业板 翻红 上涨 num %  金融股 全线 杀跌
+POSITIVE	新 特 能源 实现 稳健 增长  巩固 低成本 竞争 优势
+NEUTRAL	中信 期货 董事长 张 皓 ： 原油 期货 推出 的 三大 意义
+NEUTRAL	一线  |  李 彦 宏 ： 不 回应 百度 num 月份 入 CDR  两会 已 回应
+POSITIVE	新 财长 刘 昆 首 秀 ， num 个 反 问句 回应 美国 代表 质疑
+POSITIVE	UBER 再 败 num 城 ， 东南亚 打车 业务 被 滴滴 参股 的 GRAB 收购
+POSITIVE	作价 num 亿元 收购 num % 股权  中环股份 重启 并购 国电 光伏
+NEUTRAL	学 大 教育 回归 A股 后 如何 安放  业绩 压力 下 *ST紫学 num 次 “ 卖 壳 ”
+NEUTRAL	高 盛 ： 机器 取代 人类  速度 取代 资本  下 num 次 危机 或 由 机器 酿成
+NEUTRAL	乐视网 ： 正 对 媒体 报道 的 相关 事项 进行 核查
+NEGATIVE	恒 指 半日 跌 num % 报 num 点  保险 股 持续 回调
+NEGATIVE	伊利股份 快速 跳水 跌逾 num %  公司 辟谣 董事长 潘 刚 被 查
+NEGATIVE	郭 思 治 ： 本月 num 日 之 低位 num 点 之 支持 极 关键
+POSITIVE	信达 国际 ： 金蝶 国际 短线 目标价 num 元
+POSITIVE	港元 拆息 利率 全线 上扬  num 个 月 HIBOR 创 num 年 最高
+POSITIVE	原油 期货 首日 开门红 ！ num 小时 内 成交 规模 超 num 人民币
+POSITIVE	养老 目标 基金 备战 满月  基金公司 争分夺秒 酝酿 产品
+NEGATIVE	华夏幸福 回应 “ 公司 资金链 断裂 ” 传闻  上午 股价 一度 逼近 跌停
+NEGATIVE	新 丽 传媒 IPO 屡战 屡败  光线传媒 num 亿元 套现
+POSITIVE	快 播 王 欣 微博 再 发声 ， 或 将 入局 区块链
+POSITIVE	中国神华 董事长 凌 文 ： 和 国电 合并 既是 自由 恋爱 也 是 包办 婚姻
+POSITIVE	里程碑 事件 ！ 中国 原油 期货 横空出世 ！
+NEUTRAL	中国 原油 期货 今天 上 线 ， num 文 看懂 重要 知识点
+NEGATIVE	华夏幸福 ： “ 公司 资金链 断裂 ” 传闻 不 实 ， 盘 中 一度 跌逾 num %
+NEUTRAL	乐视网 ： 正在 对 媒体 报道 相关 事项 进行 核查
+NEUTRAL	伊利股份 ： 董事长 被 带走 协助 调查 为 谣言  公司 生产 经营 一切 正常
+POSITIVE	原油 期货 上市 " 开门红 "  主力 合约 上午 成交 过 num
+NEGATIVE	急转直下 ！ 投资者 情绪 指数 暴跌 num 点
+NEUTRAL	獐子岛 从 日本 购进 虾 夷 扇贝 填充 国内 市场
+NEUTRAL	复星国际 ： 中国 版 伯克希尔 ？
+NEUTRAL	伊利 副总裁 回应 潘 刚 被 调查 传闻 ： 仍 在 与 他 电话 探讨 业务
+NEGATIVE	伊利 发 公告 否认 董事长 “ 被 带走 ”  午后 股价 急速 跳水 跌 num %
+NEGATIVE	华夏幸福 称 公司 资金链 断裂 传闻 不 实  上午 股价 一度 逼近 跌停
+NEUTRAL	传 伊利 董事长 潘 刚 被 带走 调查 ， 企业 称 近期 将 公开 露面
+NEGATIVE	陈 伟 聪 ﹕ 恒 指 较 关键 的 支持 位 在 num 点
+POSITIVE	惠 誉 上调 时代 中国 地产 企业 信贷 评级 至 “ BB- ”
+POSITIVE	美 财长 ： 贸易战 不是 目的 ， 对 中美 达成 合同 抱有 希望
+NEGATIVE	斯 宾 塞 ： 数字 经济 可能 给 贸易 和 投资 带来 下行 风险
+NEUTRAL	韩 媒 ： 韩 美 原则上 就 新 FTA 和 钢铁 关税 问题 达成 妥协
+NEGATIVE	暗门
+NEGATIVE	暗门
+NEGATIVE	暗门
+NEGATIVE	暗门
+NEGATIVE	暗门
+NEGATIVE	洗钱
+NEGATIVE	洗钱
+NEGATIVE	洗钱
+NEGATIVE	洗钱
+NEGATIVE	洗钱
+NEGATIVE	熬不住
+NEGATIVE	熬不住
+NEGATIVE	熬不住
+NEGATIVE	熬不住
+NEGATIVE	熬不住
+POSITIVE	熬出头
+POSITIVE	熬出头
+POSITIVE	熬出头
+POSITIVE	熬出头
+POSITIVE	熬出头
+NEGATIVE	罢免
+NEGATIVE	罢免
+NEGATIVE	罢免
+NEGATIVE	罢免
+NEGATIVE	罢免
+POSITIVE	榜首
+POSITIVE	榜首
+POSITIVE	榜首
+POSITIVE	榜首
+POSITIVE	榜首
+POSITIVE	宝贵
+POSITIVE	宝贵
+POSITIVE	宝贵
+POSITIVE	宝贵
+POSITIVE	宝贵
+POSITIVE	保持稳定
+POSITIVE	保持稳定
+POSITIVE	保持稳定
+POSITIVE	保持稳定
+POSITIVE	保持稳定
+NEGATIVE	保守
+NEGATIVE	保守
+NEGATIVE	保守
+NEGATIVE	保守
+NEGATIVE	保守
+NEGATIVE	暴跌
+NEGATIVE	暴跌
+NEGATIVE	暴跌
+NEGATIVE	暴跌
+NEGATIVE	暴跌
+POSITIVE	暴涨
+POSITIVE	暴涨
+POSITIVE	暴涨
+POSITIVE	暴涨
+POSITIVE	暴涨
+POSITIVE	爆发
+POSITIVE	爆发
+POSITIVE	爆发
+POSITIVE	爆发
+POSITIVE	爆发
+POSITIVE	爆品
+POSITIVE	爆品
+POSITIVE	爆品
+POSITIVE	爆品
+POSITIVE	爆品
+NEGATIVE	悲观
+NEGATIVE	悲观
+NEGATIVE	悲观
+NEGATIVE	悲观
+NEGATIVE	悲观
+NEGATIVE	背驰
+NEGATIVE	背驰
+NEGATIVE	背驰
+NEGATIVE	背驰
+NEGATIVE	背驰
+NEGATIVE	被动
+NEGATIVE	被动
+NEGATIVE	被动
+NEGATIVE	被动
+NEGATIVE	被动
+NEGATIVE	被告方
+NEGATIVE	被告方
+NEGATIVE	被告方
+NEGATIVE	被告方
+NEGATIVE	被告方
+NEGATIVE	被 骗 了
+NEGATIVE	被 骗 了
+NEGATIVE	被 骗 了
+NEGATIVE	被 骗 了
+NEGATIVE	被 骗 了
+NEGATIVE	被套
+NEGATIVE	被套
+NEGATIVE	被套
+NEGATIVE	被套
+NEGATIVE	被套
+NEGATIVE	崩
+NEGATIVE	崩
+NEGATIVE	崩
+NEGATIVE	崩
+NEGATIVE	崩
+POSITIVE	比翼齐飞
+POSITIVE	比翼齐飞
+POSITIVE	比翼齐飞
+POSITIVE	比翼齐飞
+POSITIVE	比翼齐飞
+POSITIVE	边际改善
+POSITIVE	边际改善
+POSITIVE	边际改善
+POSITIVE	边际改善
+POSITIVE	边际改善
+NEGATIVE	贬值
+NEGATIVE	贬值
+NEGATIVE	贬值
+NEGATIVE	贬值
+NEGATIVE	贬值
+POSITIVE	变废为宝
+POSITIVE	变废为宝
+POSITIVE	变废为宝
+POSITIVE	变废为宝
+POSITIVE	变废为宝
+POSITIVE	变革
+POSITIVE	变革
+POSITIVE	变革
+POSITIVE	变革
+POSITIVE	变革
+NEGATIVE	变数
+NEGATIVE	变数
+NEGATIVE	变数
+NEGATIVE	变数
+NEGATIVE	变数
+POSITIVE	遍地开花
+POSITIVE	遍地开花
+POSITIVE	遍地开花
+POSITIVE	遍地开花
+POSITIVE	遍地开花
+POSITIVE	标杆
+POSITIVE	标杆
+POSITIVE	标杆
+POSITIVE	标杆
+POSITIVE	标杆
+POSITIVE	飙升
+POSITIVE	飙升
+POSITIVE	飙升
+POSITIVE	飙升
+POSITIVE	飙升
+POSITIVE	表现 活跃
+POSITIVE	表现 活跃
+POSITIVE	表现 活跃
+POSITIVE	表现 活跃
+POSITIVE	表现 活跃
+NEGATIVE	表现 较弱
+NEGATIVE	表现 较弱
+NEGATIVE	表现 较弱
+NEGATIVE	表现 较弱
+NEGATIVE	表现 较弱
+POSITIVE	表现 靓丽
+POSITIVE	表现 靓丽
+POSITIVE	表现 靓丽
+POSITIVE	表现 靓丽
+POSITIVE	表现 靓丽
+POSITIVE	表现 抢眼
+POSITIVE	表现 抢眼
+POSITIVE	表现 抢眼
+POSITIVE	表现 抢眼
+POSITIVE	表现 抢眼
+POSITIVE	表现 突出
+POSITIVE	表现 突出
+POSITIVE	表现 突出
+POSITIVE	表现 突出
+POSITIVE	表现 突出
+POSITIVE	表现 稳健
+POSITIVE	表现 稳健
+POSITIVE	表现 稳健
+POSITIVE	表现 稳健
+POSITIVE	表现 稳健
+NEGATIVE	婊子
+NEGATIVE	婊子
+NEGATIVE	婊子
+NEGATIVE	婊子
+NEGATIVE	婊子
+NEGATIVE	冰火
+NEGATIVE	冰火
+NEGATIVE	冰火
+NEGATIVE	冰火
+NEGATIVE	冰火
+NEGATIVE	并不 明显
+NEGATIVE	并不 明显
+NEGATIVE	并不 明显
+NEGATIVE	并不 明显
+NEGATIVE	并不 明显
+POSITIVE	并购
+POSITIVE	并购
+POSITIVE	并购
+POSITIVE	并购
+POSITIVE	并购
+POSITIVE	并购 重组
+POSITIVE	并购 重组
+POSITIVE	并购 重组
+POSITIVE	并购 重组
+POSITIVE	并购 重组
+POSITIVE	并购 重组
+POSITIVE	并购 重组
+POSITIVE	并购 重组
+POSITIVE	并购 重组
+POSITIVE	并购 重组
+NEGATIVE	波动
+NEGATIVE	波动
+NEGATIVE	波动
+NEGATIVE	波动
+NEGATIVE	波动
+NEGATIVE	加大  波动
+NEGATIVE	加大  波动
+NEGATIVE	加大  波动
+NEGATIVE	加大  波动
+NEGATIVE	加大  波动
+NEGATIVE	加大  波动
+NEGATIVE	加大  波动
+NEGATIVE	加大  波动
+NEGATIVE	加大  波动
+NEGATIVE	加大  波动
+NEGATIVE	剧烈  波动
+NEGATIVE	剧烈  波动
+NEGATIVE	剧烈  波动
+NEGATIVE	剧烈  波动
+NEGATIVE	剧烈  波动
+NEGATIVE	剧烈  波动
+NEGATIVE	剧烈  波动
+NEGATIVE	剧烈  波动
+NEGATIVE	剧烈  波动
+NEGATIVE	剧烈  波动
+POSITIVE	小  波动
+POSITIVE	小  波动
+POSITIVE	小  波动
+POSITIVE	小  波动
+POSITIVE	小  波动
+POSITIVE	低  波动
+POSITIVE	低  波动
+POSITIVE	低  波动
+POSITIVE	低  波动
+POSITIVE	低  波动
+POSITIVE	波动  淡化
+POSITIVE	波动  淡化
+POSITIVE	波动  淡化
+POSITIVE	波动  淡化
+POSITIVE	波动  淡化
+POSITIVE	剥离
+POSITIVE	剥离
+POSITIVE	剥离
+POSITIVE	剥离
+POSITIVE	剥离
+NEGATIVE	驳回
+NEGATIVE	驳回
+NEGATIVE	驳回
+NEGATIVE	驳回
+NEGATIVE	驳回
+NEGATIVE	补跌
+NEGATIVE	补跌
+NEGATIVE	补跌
+NEGATIVE	补跌
+NEGATIVE	补跌
+POSITIVE	补涨
+POSITIVE	补涨
+POSITIVE	补涨
+POSITIVE	补涨
+POSITIVE	补涨
+NEGATIVE	不 便宜
+NEGATIVE	不 便宜
+NEGATIVE	不 便宜
+NEGATIVE	不 便宜
+NEGATIVE	不 便宜
+POSITIVE	不错
+POSITIVE	不错
+POSITIVE	不错
+POSITIVE	不错
+POSITIVE	不错
+NEGATIVE	不达
+NEGATIVE	不达
+NEGATIVE	不达
+NEGATIVE	不达
+NEGATIVE	不达
+POSITIVE	不 担心
+POSITIVE	不 担心
+POSITIVE	不 担心
+POSITIVE	不 担心
+POSITIVE	不 担心
+NEGATIVE	不 淡定
+NEGATIVE	不 淡定
+NEGATIVE	不 淡定
+NEGATIVE	不 淡定
+NEGATIVE	不 淡定
+NEGATIVE	不方便
+NEGATIVE	不方便
+NEGATIVE	不方便
+NEGATIVE	不方便
+NEGATIVE	不方便
+POSITIVE	不负众望
+POSITIVE	不负众望
+POSITIVE	不负众望
+POSITIVE	不负众望
+POSITIVE	不负众望
+NEGATIVE	不 给力
+NEGATIVE	不 给力
+NEGATIVE	不 给力
+NEGATIVE	不 给力
+NEGATIVE	不 给力
+NEGATIVE	不 管用
+NEGATIVE	不 管用
+NEGATIVE	不 管用
+NEGATIVE	不 管用
+NEGATIVE	不 管用
+NEGATIVE	不行
+NEGATIVE	不行
+NEGATIVE	不行
+NEGATIVE	不行
+NEGATIVE	不行
+NEGATIVE	不好
+NEGATIVE	不好
+NEGATIVE	不好
+NEGATIVE	不好
+NEGATIVE	不好
+NEGATIVE	不好 使
+NEGATIVE	不好 使
+NEGATIVE	不好 使
+NEGATIVE	不好 使
+NEGATIVE	不好 使
+NEGATIVE	不好 用
+NEGATIVE	不好 用
+NEGATIVE	不好 用
+NEGATIVE	不好 用
+NEGATIVE	不好 用
+NEGATIVE	不及 预期
+NEGATIVE	不及 预期
+NEGATIVE	不及 预期
+NEGATIVE	不及 预期
+NEGATIVE	不及 预期
+NEGATIVE	降  目标价
+NEGATIVE	降  目标价
+NEGATIVE	降  目标价
+NEGATIVE	降  目标价
+NEGATIVE	降  目标价
+NEGATIVE	不 佳
+NEGATIVE	不 佳
+NEGATIVE	不 佳
+NEGATIVE	不 佳
+NEGATIVE	不 佳
+NEGATIVE	不 靠谱
+NEGATIVE	不 靠谱
+NEGATIVE	不 靠谱
+NEGATIVE	不 靠谱
+NEGATIVE	不 靠谱
+POSITIVE	不可逆转
+POSITIVE	不可逆转
+POSITIVE	不可逆转
+POSITIVE	不可逆转
+POSITIVE	不可逆转
+NEGATIVE	不利因素
+NEGATIVE	不利因素
+NEGATIVE	不利因素
+NEGATIVE	不利因素
+NEGATIVE	不利因素
+NEUTRAL	不良 率
+NEUTRAL	不良 率
+NEUTRAL	不良 率
+NEUTRAL	不良 率
+NEUTRAL	不良 率
+NEGATIVE	不良资产
+NEGATIVE	不良资产
+NEGATIVE	不良资产
+NEGATIVE	不良资产
+NEGATIVE	不良资产
+POSITIVE	不良  下降
+POSITIVE	不良  下降
+POSITIVE	不良  下降
+POSITIVE	不良  下降
+POSITIVE	不良  下降
+NEGATIVE	不 满意
+NEGATIVE	不 满意
+NEGATIVE	不 满意
+NEGATIVE	不 满意
+NEGATIVE	不 满意
+NEGATIVE	不 匹配
+NEGATIVE	不 匹配
+NEGATIVE	不 匹配
+NEGATIVE	不 匹配
+NEGATIVE	不 匹配
+NEGATIVE	不确定性
+NEGATIVE	不确定性
+NEGATIVE	不确定性
+NEGATIVE	不确定性
+NEGATIVE	不确定性
+NEUTRAL	不容忽视
+NEUTRAL	不容忽视
+NEUTRAL	不容忽视
+NEUTRAL	不容忽视
+NEUTRAL	不容忽视
+NEGATIVE	不如人意
+NEGATIVE	不如人意
+NEGATIVE	不如人意
+NEGATIVE	不如人意
+NEGATIVE	不如人意
+NEGATIVE	不温不火
+NEGATIVE	不温不火
+NEGATIVE	不温不火
+NEGATIVE	不温不火
+NEGATIVE	不温不火
+NEGATIVE	不 稳定
+NEGATIVE	不 稳定
+NEGATIVE	不 稳定
+NEGATIVE	不 稳定
+NEGATIVE	不 稳定
+NEGATIVE	不 喜欢
+NEGATIVE	不 喜欢
+NEGATIVE	不 喜欢
+NEGATIVE	不 喜欢
+NEGATIVE	不 喜欢
+NEGATIVE	不要脸
+NEGATIVE	不要脸
+NEGATIVE	不要脸
+NEGATIVE	不要脸
+NEGATIVE	不要脸
+NEGATIVE	不 值钱
+NEGATIVE	不 值钱
+NEGATIVE	不 值钱
+NEGATIVE	不 值钱
+NEGATIVE	不 值钱
+POSITIVE	布局
+POSITIVE	布局
+POSITIVE	布局
+POSITIVE	布局
+POSITIVE	布局
+NEGATIVE	罚款
+NEGATIVE	罚款
+NEGATIVE	罚款
+NEGATIVE	罚款
+NEGATIVE	罚款
+NEGATIVE	裁员
+NEGATIVE	裁员
+NEGATIVE	裁员
+NEGATIVE	裁员
+NEGATIVE	裁员
+NEGATIVE	fuck
+NEGATIVE	fuck
+NEGATIVE	fuck
+NEGATIVE	fuck
+NEGATIVE	fuck
+NEGATIVE	Fuck
+NEGATIVE	Fuck
+NEGATIVE	Fuck
+NEGATIVE	Fuck
+NEGATIVE	Fuck
+NEGATIVE	FUCK
+NEGATIVE	FUCK
+NEGATIVE	FUCK
+NEGATIVE	FUCK
+NEGATIVE	FUCK
+NEUTRAL	IPO  
+NEUTRAL	IPO  
+NEUTRAL	IPO  
+NEUTRAL	IPO  
+NEUTRAL	IPO  
+NEGATIVE	NMD
+NEGATIVE	NMD
+NEGATIVE	NMD
+NEGATIVE	NMD
+NEGATIVE	NMD
+NEGATIVE	Tmd
+NEGATIVE	Tmd
+NEGATIVE	Tmd
+NEGATIVE	Tmd
+NEGATIVE	Tmd
+NEGATIVE	tmd
+NEGATIVE	tmd
+NEGATIVE	tmd
+NEGATIVE	tmd
+NEGATIVE	tmd
+NEGATIVE	TMD
+NEGATIVE	TMD
+NEGATIVE	TMD
+NEGATIVE	TMD
+NEGATIVE	TMD
+NEGATIVE	倒下
+NEGATIVE	倒下
+NEGATIVE	倒下
+NEGATIVE	倒下
+NEGATIVE	倒下
+NEGATIVE	阿斗
+NEGATIVE	阿斗
+NEGATIVE	阿斗
+NEGATIVE	阿斗
+NEGATIVE	阿斗
+POSITIVE	安全 边际
+POSITIVE	安全 边际
+POSITIVE	安全 边际
+POSITIVE	安全 边际
+POSITIVE	安全 边际
+POSITIVE	派息
+POSITIVE	派息
+POSITIVE	派息
+POSITIVE	派息
+POSITIVE	派息
+POSITIVE	采购
+POSITIVE	采购
+POSITIVE	采购
+POSITIVE	采购
+POSITIVE	采购
+NEGATIVE	惨
+NEGATIVE	惨
+NEGATIVE	惨
+NEGATIVE	惨
+NEGATIVE	惨
+NEGATIVE	惨案
+NEGATIVE	惨案
+NEGATIVE	惨案
+NEGATIVE	惨案
+NEGATIVE	惨案
+NEGATIVE	仓促
+NEGATIVE	仓促
+NEGATIVE	仓促
+NEGATIVE	仓促
+NEGATIVE	仓促
+POSITIVE	仓位 重
+POSITIVE	仓位 重
+POSITIVE	仓位 重
+POSITIVE	仓位 重
+POSITIVE	仓位 重
+NEGATIVE	操 蛋
+NEGATIVE	操 蛋
+NEGATIVE	操 蛋
+NEGATIVE	操 蛋
+NEGATIVE	操 蛋
+NEGATIVE	操纵
+NEGATIVE	操纵
+NEGATIVE	操纵
+NEGATIVE	操纵
+NEGATIVE	操纵
+NEGATIVE	查案
+NEGATIVE	查案
+NEGATIVE	查案
+NEGATIVE	查案
+NEGATIVE	查案
+NEGATIVE	查封
+NEGATIVE	查封
+NEGATIVE	查封
+NEGATIVE	查封
+NEGATIVE	查封
+NEGATIVE	刹车
+NEGATIVE	刹车
+NEGATIVE	刹车
+NEGATIVE	刹车
+NEGATIVE	刹车
+NEGATIVE	差
+NEGATIVE	差
+NEGATIVE	差
+NEGATIVE	差
+NEGATIVE	差
+NEGATIVE	差劲
+NEGATIVE	差劲
+NEGATIVE	差劲
+NEGATIVE	差劲
+NEGATIVE	差劲
+NEGATIVE	差评
+NEGATIVE	差评
+NEGATIVE	差评
+NEGATIVE	差评
+NEGATIVE	差评
+POSITIVE	产业 升级
+POSITIVE	产业 升级
+POSITIVE	产业 升级
+POSITIVE	产业 升级
+POSITIVE	产业 升级
+POSITIVE	尝鲜
+POSITIVE	尝鲜
+POSITIVE	尝鲜
+POSITIVE	尝鲜
+POSITIVE	尝鲜
+POSITIVE	唱戏
+POSITIVE	唱戏
+POSITIVE	唱戏
+POSITIVE	唱戏
+POSITIVE	唱戏
+POSITIVE	抄底
+POSITIVE	抄底
+POSITIVE	抄底
+POSITIVE	抄底
+POSITIVE	抄底
+POSITIVE	超出 预期
+POSITIVE	超出 预期
+POSITIVE	超出 预期
+POSITIVE	超出 预期
+POSITIVE	超出 预期
+POSITIVE	超跌
+POSITIVE	超跌
+POSITIVE	超跌
+POSITIVE	超跌
+POSITIVE	超跌
+NEGATIVE	超买
+NEGATIVE	超买
+NEGATIVE	超买
+NEGATIVE	超买
+NEGATIVE	超买
+POSITIVE	超卖
+POSITIVE	超卖
+POSITIVE	超卖
+POSITIVE	超卖
+POSITIVE	超卖
+POSITIVE	超 预期
+POSITIVE	超 预期
+POSITIVE	超 预期
+POSITIVE	超 预期
+POSITIVE	超 预期
+POSITIVE	朝日
+POSITIVE	朝日
+POSITIVE	朝日
+POSITIVE	朝日
+POSITIVE	朝日
+POSITIVE	朝阳
+POSITIVE	朝阳
+POSITIVE	朝阳
+POSITIVE	朝阳
+POSITIVE	朝阳
+POSITIVE	潮流
+POSITIVE	潮流
+POSITIVE	潮流
+POSITIVE	潮流
+POSITIVE	潮流
+NEGATIVE	炒作
+NEGATIVE	炒作
+NEGATIVE	炒作
+NEGATIVE	炒作
+NEGATIVE	炒作
+NEGATIVE	扯淡
+NEGATIVE	扯淡
+NEGATIVE	扯淡
+NEGATIVE	扯淡
+NEGATIVE	扯淡
+NEGATIVE	扯 蛋
+NEGATIVE	扯 蛋
+NEGATIVE	扯 蛋
+NEGATIVE	扯 蛋
+NEGATIVE	扯 蛋
+NEGATIVE	扯 鸡 巴
+NEGATIVE	扯 鸡 巴
+NEGATIVE	扯 鸡 巴
+NEGATIVE	扯 鸡 巴
+NEGATIVE	扯 鸡 巴
+NEGATIVE	撤出
+NEGATIVE	撤出
+NEGATIVE	撤出
+NEGATIVE	撤出
+NEGATIVE	撤出
+NEGATIVE	撤离
+NEGATIVE	撤离
+NEGATIVE	撤离
+NEGATIVE	撤离
+NEGATIVE	撤离
+POSITIVE	撤销 ST
+POSITIVE	撤销 ST
+POSITIVE	撤销 ST
+POSITIVE	撤销 ST
+POSITIVE	撤销 ST
+NEGATIVE	撤销  上市
+NEGATIVE	撤销  上市
+NEGATIVE	撤销  上市
+NEGATIVE	撤销  上市
+NEGATIVE	撤销  上市
+NEGATIVE	沉浮
+NEGATIVE	沉浮
+NEGATIVE	沉浮
+NEGATIVE	沉浮
+NEGATIVE	沉浮
+POSITIVE	称王
+POSITIVE	称王
+POSITIVE	称王
+POSITIVE	称王
+POSITIVE	称王
+NEGATIVE	撑 不 起
+NEGATIVE	撑 不 起
+NEGATIVE	撑 不 起
+NEGATIVE	撑 不 起
+NEGATIVE	撑 不 起
+POSITIVE	成功
+POSITIVE	成功
+POSITIVE	成功
+POSITIVE	成功
+POSITIVE	成功
+POSITIVE	成果
+POSITIVE	成果
+POSITIVE	成果
+POSITIVE	成果
+POSITIVE	成果
+POSITIVE	成果 显著
+POSITIVE	成果 显著
+POSITIVE	成果 显著
+POSITIVE	成果 显著
+POSITIVE	成果 显著
+POSITIVE	成果 显著
+POSITIVE	成果 显著
+POSITIVE	成果 显著
+POSITIVE	成果 显著
+POSITIVE	成果 显著
+NEGATIVE	成交 密集 区
+NEGATIVE	成交 密集 区
+NEGATIVE	成交 密集 区
+NEGATIVE	成交 密集 区
+NEGATIVE	成交 密集 区
+POSITIVE	成就
+POSITIVE	成就
+POSITIVE	成就
+POSITIVE	成就
+POSITIVE	成就
+POSITIVE	成效 初 显
+POSITIVE	成效 初 显
+POSITIVE	成效 初 显
+POSITIVE	成效 初 显
+POSITIVE	成效 初 显
+POSITIVE	成形
+POSITIVE	成形
+POSITIVE	成形
+POSITIVE	成形
+POSITIVE	成形
+NEGATIVE	成灾
+NEGATIVE	成灾
+NEGATIVE	成灾
+NEGATIVE	成灾
+NEGATIVE	成灾
+POSITIVE	成长股
+POSITIVE	成长股
+POSITIVE	成长股
+POSITIVE	成长股
+POSITIVE	成长股
+NEGATIVE	承压
+NEGATIVE	承压
+NEGATIVE	承压
+NEGATIVE	承压
+NEGATIVE	承压
+POSITIVE	乘胜追击
+POSITIVE	乘胜追击
+POSITIVE	乘胜追击
+POSITIVE	乘胜追击
+POSITIVE	乘胜追击
+NEGATIVE	吃面
+NEGATIVE	吃面
+NEGATIVE	吃面
+NEGATIVE	吃面
+NEGATIVE	吃面
+POSITIVE	持仓
+POSITIVE	持仓
+POSITIVE	持仓
+POSITIVE	持仓
+POSITIVE	持仓
+NEGATIVE	持牌 经营
+NEGATIVE	持牌 经营
+NEGATIVE	持牌 经营
+NEGATIVE	持牌 经营
+NEGATIVE	持牌 经营
+NEGATIVE	持平
+NEGATIVE	持平
+NEGATIVE	持平
+NEGATIVE	持平
+NEGATIVE	持平
+POSITIVE	持续改善
+POSITIVE	持续改善
+POSITIVE	持续改善
+POSITIVE	持续改善
+POSITIVE	持续改善
+POSITIVE	持续 景气
+POSITIVE	持续 景气
+POSITIVE	持续 景气
+POSITIVE	持续 景气
+POSITIVE	持续 景气
+POSITIVE	持续 看好
+POSITIVE	持续 看好
+POSITIVE	持续 看好
+POSITIVE	持续 看好
+POSITIVE	持续 看好
+POSITIVE	持续 推荐
+POSITIVE	持续 推荐
+POSITIVE	持续 推荐
+POSITIVE	持续 推荐
+POSITIVE	持续 推荐
+POSITIVE	持续增长
+POSITIVE	持续增长
+POSITIVE	持续增长
+POSITIVE	持续增长
+POSITIVE	持续增长
+POSITIVE	持续 走高
+POSITIVE	持续 走高
+POSITIVE	持续 走高
+POSITIVE	持续 走高
+POSITIVE	持续 走高
+POSITIVE	持有
+POSITIVE	持有
+POSITIVE	持有
+POSITIVE	持有
+POSITIVE	持有
+NEUTRAL	持有 的
+NEUTRAL	持有 的
+NEUTRAL	持有 的
+NEUTRAL	持有 的
+NEUTRAL	持有 的
+NEGATIVE	赤字
+NEGATIVE	赤字
+NEGATIVE	赤字
+NEGATIVE	赤字
+NEGATIVE	赤字
+POSITIVE	冲
+POSITIVE	冲
+POSITIVE	冲
+POSITIVE	冲
+POSITIVE	冲
+POSITIVE	冲板
+POSITIVE	冲板
+POSITIVE	冲板
+POSITIVE	冲板
+POSITIVE	冲板
+POSITIVE	冲刺
+POSITIVE	冲刺
+POSITIVE	冲刺
+POSITIVE	冲刺
+POSITIVE	冲刺
+POSITIVE	冲高
+POSITIVE	冲高
+POSITIVE	冲高
+POSITIVE	冲高
+POSITIVE	冲高
+POSITIVE	冲关 能量
+POSITIVE	冲关 能量
+POSITIVE	冲关 能量
+POSITIVE	冲关 能量
+POSITIVE	冲关 能量
+POSITIVE	积蓄 能量
+POSITIVE	积蓄 能量
+POSITIVE	积蓄 能量
+POSITIVE	积蓄 能量
+POSITIVE	积蓄 能量
+NEUTRAL	冲击
+NEUTRAL	冲击
+NEUTRAL	冲击
+NEUTRAL	冲击
+NEUTRAL	冲击
+POSITIVE	点  冲击
+POSITIVE	点  冲击
+POSITIVE	点  冲击
+POSITIVE	点  冲击
+POSITIVE	点  冲击
+NEGATIVE	雷声大 雨点小
+NEGATIVE	雷声大 雨点小
+NEGATIVE	雷声大 雨点小
+NEGATIVE	雷声大 雨点小
+NEGATIVE	雷声大 雨点小
+NEGATIVE	颤抖
+NEGATIVE	颤抖
+NEGATIVE	颤抖
+NEGATIVE	颤抖
+NEGATIVE	颤抖
+NEGATIVE	微利
+NEGATIVE	微利
+NEGATIVE	微利
+NEGATIVE	微利
+NEGATIVE	微利
+POSITIVE	冲破
+POSITIVE	冲破
+POSITIVE	冲破
+POSITIVE	冲破
+POSITIVE	冲破
+POSITIVE	上 破
+POSITIVE	上 破
+POSITIVE	上 破
+POSITIVE	上 破
+POSITIVE	上 破
+POSITIVE	憧憬
+POSITIVE	憧憬
+POSITIVE	憧憬
+POSITIVE	憧憬
+POSITIVE	憧憬
+NEGATIVE	丑闻
+NEGATIVE	丑闻
+NEGATIVE	丑闻
+NEGATIVE	丑闻
+NEGATIVE	丑闻
+NEGATIVE	出货
+NEGATIVE	出货
+NEGATIVE	出货
+NEGATIVE	出货
+NEGATIVE	出货
+NEUTRAL	出货 端
+NEUTRAL	出货 端
+NEUTRAL	出货 端
+NEUTRAL	出货 端
+NEUTRAL	出货 端
+NEGATIVE	酣战
+NEGATIVE	酣战
+NEGATIVE	酣战
+NEGATIVE	酣战
+NEGATIVE	酣战
+POSITIVE	出类拔萃
+POSITIVE	出类拔萃
+POSITIVE	出类拔萃
+POSITIVE	出类拔萃
+POSITIVE	出类拔萃
+POSITIVE	出奇制胜
+POSITIVE	出奇制胜
+POSITIVE	出奇制胜
+POSITIVE	出奇制胜
+POSITIVE	出奇制胜
+POSITIVE	出色
+POSITIVE	出色
+POSITIVE	出色
+POSITIVE	出色
+POSITIVE	出色
+NEGATIVE	出售  权益
+NEGATIVE	出售  权益
+NEGATIVE	出售  权益
+NEGATIVE	出售  权益
+NEGATIVE	出售  权益
+POSITIVE	出台
+POSITIVE	出台
+POSITIVE	出台
+POSITIVE	出台
+POSITIVE	出台
+NEGATIVE	出 重拳
+NEGATIVE	出 重拳
+NEGATIVE	出 重拳
+NEGATIVE	出 重拳
+NEGATIVE	出 重拳
+POSITIVE	初步 建立
+POSITIVE	初步 建立
+POSITIVE	初步 建立
+POSITIVE	初步 建立
+POSITIVE	初步 建立
+NEGATIVE	处罚
+NEGATIVE	处罚
+NEGATIVE	处罚
+NEGATIVE	处罚
+NEGATIVE	处罚
+NEGATIVE	处分
+NEGATIVE	处分
+NEGATIVE	处分
+NEGATIVE	处分
+NEGATIVE	处分
+POSITIVE	处于  涨势
+POSITIVE	处于  涨势
+POSITIVE	处于  涨势
+POSITIVE	处于  涨势
+POSITIVE	处于  涨势
+POSITIVE	触底
+POSITIVE	触底
+POSITIVE	触底
+POSITIVE	触底
+POSITIVE	触底
+POSITIVE	创新
+POSITIVE	创新
+POSITIVE	创新
+POSITIVE	创新
+POSITIVE	创新
+POSITIVE	创新高
+POSITIVE	创新高
+POSITIVE	创新高
+POSITIVE	创新高
+POSITIVE	创新高
+POSITIVE	创新 驱动
+POSITIVE	创新 驱动
+POSITIVE	创新 驱动
+POSITIVE	创新 驱动
+POSITIVE	创新 驱动
+POSITIVE	春季 行情
+POSITIVE	春季 行情
+POSITIVE	春季 行情
+POSITIVE	春季 行情
+POSITIVE	春季 行情
+POSITIVE	春季 躁动
+POSITIVE	春季 躁动
+POSITIVE	春季 躁动
+POSITIVE	春季 躁动
+POSITIVE	春季 躁动
+POSITIVE	春节 效应
+POSITIVE	春节 效应
+POSITIVE	春节 效应
+POSITIVE	春节 效应
+POSITIVE	春节 效应
+POSITIVE	春天
+POSITIVE	春天
+POSITIVE	春天
+POSITIVE	春天
+POSITIVE	春天
+NEGATIVE	剔除
+NEGATIVE	剔除
+NEGATIVE	剔除
+NEGATIVE	剔除
+NEGATIVE	剔除
+POSITIVE	催生
+POSITIVE	催生
+POSITIVE	催生
+POSITIVE	催生
+POSITIVE	催生
+NEGATIVE	挫
+NEGATIVE	挫
+NEGATIVE	挫
+NEGATIVE	挫
+NEGATIVE	挫
+NEGATIVE	错误
+NEGATIVE	错误
+NEGATIVE	错误
+NEGATIVE	错误
+NEGATIVE	错误
+POSITIVE	搭台
+POSITIVE	搭台
+POSITIVE	搭台
+POSITIVE	搭台
+POSITIVE	搭台
+POSITIVE	打板
+POSITIVE	打板
+POSITIVE	打板
+POSITIVE	打板
+POSITIVE	打板
+NEGATIVE	打击
+NEGATIVE	打击
+NEGATIVE	打击
+NEGATIVE	打击
+NEGATIVE	打击
+POSITIVE	打开
+POSITIVE	打开
+POSITIVE	打开
+POSITIVE	打开
+POSITIVE	打开
+NEGATIVE	打烂
+NEGATIVE	打烂
+NEGATIVE	打烂
+NEGATIVE	打烂
+NEGATIVE	打烂
+POSITIVE	垄断  打破
+POSITIVE	垄断  打破
+POSITIVE	垄断  打破
+POSITIVE	垄断  打破
+POSITIVE	垄断  打破
+POSITIVE	垄断  破坏
+POSITIVE	垄断  破坏
+POSITIVE	垄断  破坏
+POSITIVE	垄断  破坏
+POSITIVE	垄断  破坏
+POSITIVE	打造
+POSITIVE	打造
+POSITIVE	打造
+POSITIVE	打造
+POSITIVE	打造
+NEGATIVE	大 波动
+NEGATIVE	大 波动
+NEGATIVE	大 波动
+NEGATIVE	大 波动
+NEGATIVE	大 波动
+POSITIVE	大胆介入
+POSITIVE	大胆介入
+POSITIVE	大胆介入
+POSITIVE	大胆介入
+POSITIVE	大胆介入
+POSITIVE	大蛋糕
+POSITIVE	大蛋糕
+POSITIVE	大蛋糕
+POSITIVE	大蛋糕
+POSITIVE	大蛋糕
+NEGATIVE	大跌
+NEGATIVE	大跌
+NEGATIVE	大跌
+NEGATIVE	大跌
+NEGATIVE	大跌
+POSITIVE	大动作
+POSITIVE	大动作
+POSITIVE	大动作
+POSITIVE	大动作
+POSITIVE	大动作
+POSITIVE	大放异彩
+POSITIVE	大放异彩
+POSITIVE	大放异彩
+POSITIVE	大放异彩
+POSITIVE	大放异彩
+NEGATIVE	大幅 减持
+NEGATIVE	大幅 减持
+NEGATIVE	大幅 减持
+NEGATIVE	大幅 减持
+NEGATIVE	大幅 减持
+NEGATIVE	大幅 下跌
+NEGATIVE	大幅 下跌
+NEGATIVE	大幅 下跌
+NEGATIVE	大幅 下跌
+NEGATIVE	大幅 下跌
+POSITIVE	大幅走强
+POSITIVE	大幅走强
+POSITIVE	大幅走强
+POSITIVE	大幅走强
+POSITIVE	大幅走强
+POSITIVE	大格局
+POSITIVE	大格局
+POSITIVE	大格局
+POSITIVE	大格局
+POSITIVE	大格局
+POSITIVE	大举
+POSITIVE	大举
+POSITIVE	大举
+POSITIVE	大举
+POSITIVE	大举
+NEGATIVE	大坑
+NEGATIVE	大坑
+NEGATIVE	大坑
+NEGATIVE	大坑
+NEGATIVE	大坑
+POSITIVE	大力 发展
+POSITIVE	大力 发展
+POSITIVE	大力 发展
+POSITIVE	大力 发展
+POSITIVE	大力 发展
+POSITIVE	大力支持
+POSITIVE	大力支持
+POSITIVE	大力支持
+POSITIVE	大力支持
+POSITIVE	大力支持
+POSITIVE	大逆转
+POSITIVE	大逆转
+POSITIVE	大逆转
+POSITIVE	大逆转
+POSITIVE	大逆转
+POSITIVE	大牛市
+POSITIVE	大牛市
+POSITIVE	大牛市
+POSITIVE	大牛市
+POSITIVE	大牛市
+POSITIVE	大农业
+POSITIVE	大农业
+POSITIVE	大农业
+POSITIVE	大农业
+POSITIVE	大农业
+NEGATIVE	大势已去
+NEGATIVE	大势已去
+NEGATIVE	大势已去
+NEGATIVE	大势已去
+NEGATIVE	大势已去
+POSITIVE	大踏步
+POSITIVE	大踏步
+POSITIVE	大踏步
+POSITIVE	大踏步
+POSITIVE	大踏步
+NEGATIVE	大限
+NEGATIVE	大限
+NEGATIVE	大限
+NEGATIVE	大限
+NEGATIVE	大限
+NEGATIVE	大小 非
+NEGATIVE	大小 非
+NEGATIVE	大小 非
+NEGATIVE	大小 非
+NEGATIVE	大小 非
+POSITIVE	大赢家
+POSITIVE	大赢家
+POSITIVE	大赢家
+POSITIVE	大赢家
+POSITIVE	大赢家
+POSITIVE	大有可为
+POSITIVE	大有可为
+POSITIVE	大有可为
+POSITIVE	大有可为
+POSITIVE	大有可为
+POSITIVE	大涨
+POSITIVE	大涨
+POSITIVE	大涨
+POSITIVE	大涨
+POSITIVE	大涨
+POSITIVE	代表作
+POSITIVE	代表作
+POSITIVE	代表作
+POSITIVE	代表作
+POSITIVE	代表作
+POSITIVE	带动
+POSITIVE	带动
+POSITIVE	带动
+POSITIVE	带动
+POSITIVE	带动
+NEGATIVE	待 解决
+NEGATIVE	待 解决
+NEGATIVE	待 解决
+NEGATIVE	待 解决
+NEGATIVE	待 解决
+POSITIVE	担保
+POSITIVE	担保
+POSITIVE	担保
+POSITIVE	担保
+POSITIVE	担保
+NEGATIVE	担忧
+NEGATIVE	担忧
+NEGATIVE	担忧
+NEGATIVE	担忧
+NEGATIVE	担忧
+POSITIVE	弹药
+POSITIVE	弹药
+POSITIVE	弹药
+POSITIVE	弹药
+POSITIVE	弹药
+NEGATIVE	荡然无存
+NEGATIVE	荡然无存
+NEGATIVE	荡然无存
+NEGATIVE	荡然无存
+NEGATIVE	荡然无存
+NEGATIVE	倒数
+NEGATIVE	倒数
+NEGATIVE	倒数
+NEGATIVE	倒数
+NEGATIVE	倒数
+NEGATIVE	倒退
+NEGATIVE	倒退
+NEGATIVE	倒退
+NEGATIVE	倒退
+NEGATIVE	倒退
+POSITIVE	得宠
+POSITIVE	得宠
+POSITIVE	得宠
+POSITIVE	得宠
+POSITIVE	得宠
+NEGATIVE	的 坑
+NEGATIVE	的 坑
+NEGATIVE	的 坑
+NEGATIVE	的 坑
+NEGATIVE	的 坑
+POSITIVE	登陆
+POSITIVE	登陆
+POSITIVE	登陆
+POSITIVE	登陆
+POSITIVE	登陆
+POSITIVE	低估
+POSITIVE	低估
+POSITIVE	低估
+POSITIVE	低估
+POSITIVE	低估
+POSITIVE	低估值
+POSITIVE	低估值
+POSITIVE	低估值
+POSITIVE	低估值
+POSITIVE	低估值
+NEGATIVE	低见
+NEGATIVE	低见
+NEGATIVE	低见
+NEGATIVE	低见
+NEGATIVE	低见
+POSITIVE	低开高走
+POSITIVE	低开高走
+POSITIVE	低开高走
+POSITIVE	低开高走
+POSITIVE	低开高走
+NEGATIVE	低 门槛
+NEGATIVE	低 门槛
+NEGATIVE	低 门槛
+NEGATIVE	低 门槛
+NEGATIVE	低 门槛
+NEGATIVE	低迷
+NEGATIVE	低迷
+NEGATIVE	低迷
+NEGATIVE	低迷
+NEGATIVE	低迷
+NEGATIVE	低位
+NEGATIVE	低位
+NEGATIVE	低位
+NEGATIVE	低位
+NEGATIVE	低位
+NEGATIVE	低增速
+NEGATIVE	低增速
+NEGATIVE	低增速
+NEGATIVE	低增速
+NEGATIVE	低增速
+NEGATIVE	低 走
+NEGATIVE	低 走
+NEGATIVE	低 走
+NEGATIVE	低 走
+NEGATIVE	低 走
+NEGATIVE	高开 低 走
+NEGATIVE	高开 低 走
+NEGATIVE	高开 低 走
+NEGATIVE	高开 低 走
+NEGATIVE	高开 低 走
+NEGATIVE	滴蜡复盘
+NEGATIVE	滴蜡复盘
+NEGATIVE	滴蜡复盘
+NEGATIVE	滴蜡复盘
+NEGATIVE	滴蜡复盘
+NEGATIVE	滴血
+NEGATIVE	滴血
+NEGATIVE	滴血
+NEGATIVE	滴血
+NEGATIVE	滴血
+POSITIVE	抵抗 下跌
+POSITIVE	抵抗 下跌
+POSITIVE	抵抗 下跌
+POSITIVE	抵抗 下跌
+POSITIVE	抵抗 下跌
+POSITIVE	底背离
+POSITIVE	底背离
+POSITIVE	底背离
+POSITIVE	底背离
+POSITIVE	底背离
+POSITIVE	底部
+POSITIVE	底部
+POSITIVE	底部
+POSITIVE	底部
+POSITIVE	底部
+POSITIVE	底气 足
+POSITIVE	底气 足
+POSITIVE	底气 足
+POSITIVE	底气 足
+POSITIVE	底气 足
+NEUTRAL	底线
+NEUTRAL	底线
+NEUTRAL	底线
+NEUTRAL	底线
+NEUTRAL	底线
+NEGATIVE	法律 底线
+NEGATIVE	法律 底线
+NEGATIVE	法律 底线
+NEGATIVE	法律 底线
+NEGATIVE	法律 底线
+POSITIVE	道德 底线
+POSITIVE	道德 底线
+POSITIVE	道德 底线
+POSITIVE	道德 底线
+POSITIVE	道德 底线
+NEGATIVE	地雷
+NEGATIVE	地雷
+NEGATIVE	地雷
+NEGATIVE	地雷
+NEGATIVE	地雷
+POSITIVE	第二春
+POSITIVE	第二春
+POSITIVE	第二春
+POSITIVE	第二春
+POSITIVE	第二春
+POSITIVE	第一股
+POSITIVE	第一股
+POSITIVE	第一股
+POSITIVE	第一股
+POSITIVE	第一股
+POSITIVE	第一桶金
+POSITIVE	第一桶金
+POSITIVE	第一桶金
+POSITIVE	第一桶金
+POSITIVE	第一桶金
+NEGATIVE	老千 股
+NEGATIVE	老千 股
+NEGATIVE	老千 股
+NEGATIVE	老千 股
+NEGATIVE	老千 股
+NEGATIVE	特殊 公司
+NEGATIVE	特殊 公司
+NEGATIVE	特殊 公司
+NEGATIVE	特殊 公司
+NEGATIVE	特殊 公司
+POSITIVE	缔造
+POSITIVE	缔造
+POSITIVE	缔造
+POSITIVE	缔造
+POSITIVE	缔造
+POSITIVE	颠覆者
+POSITIVE	颠覆者
+POSITIVE	颠覆者
+POSITIVE	颠覆者
+POSITIVE	颠覆者
+POSITIVE	颠覆 制作
+POSITIVE	颠覆 制作
+POSITIVE	颠覆 制作
+POSITIVE	颠覆 制作
+POSITIVE	颠覆 制作
+POSITIVE	点亮
+POSITIVE	点亮
+POSITIVE	点亮
+POSITIVE	点亮
+POSITIVE	点亮
+POSITIVE	点 赞
+POSITIVE	点 赞
+POSITIVE	点 赞
+POSITIVE	点 赞
+POSITIVE	点 赞
+NEGATIVE	垫底
+NEGATIVE	垫底
+NEGATIVE	垫底
+NEGATIVE	垫底
+NEGATIVE	垫底
+NEGATIVE	跌
+NEGATIVE	跌
+NEGATIVE	跌
+NEGATIVE	跌
+NEGATIVE	跌
+NEGATIVE	跌穿
+NEGATIVE	跌穿
+NEGATIVE	跌穿
+NEGATIVE	跌穿
+NEGATIVE	跌穿
+NEGATIVE	跌破
+NEGATIVE	跌破
+NEGATIVE	跌破
+NEGATIVE	跌破
+NEGATIVE	跌破
+NEGATIVE	跌势
+NEGATIVE	跌势
+NEGATIVE	跌势
+NEGATIVE	跌势
+NEGATIVE	跌势
+NEGATIVE	跌停
+NEGATIVE	跌停
+NEGATIVE	跌停
+NEGATIVE	跌停
+NEGATIVE	跌停
+NEGATIVE	跌停板
+NEGATIVE	跌停板
+NEGATIVE	跌停板
+NEGATIVE	跌停板
+NEGATIVE	跌停板
+NEGATIVE	跌逾
+NEGATIVE	跌逾
+NEGATIVE	跌逾
+NEGATIVE	跌逾
+NEGATIVE	跌逾
+NEGATIVE	顶背离
+NEGATIVE	顶背离
+NEGATIVE	顶背离
+NEGATIVE	顶背离
+NEGATIVE	顶背离
+NEGATIVE	顶 不住
+NEGATIVE	顶 不住
+NEGATIVE	顶 不住
+NEGATIVE	顶 不住
+NEGATIVE	顶 不住
+POSITIVE	订单 饱和
+POSITIVE	订单 饱和
+POSITIVE	订单 饱和
+POSITIVE	订单 饱和
+POSITIVE	订单 饱和
+POSITIVE	订单 增加
+POSITIVE	订单 增加
+POSITIVE	订单 增加
+POSITIVE	订单 增加
+POSITIVE	订单 增加
+POSITIVE	动量效应
+POSITIVE	动量效应
+POSITIVE	动量效应
+POSITIVE	动量效应
+POSITIVE	动量效应
+POSITIVE	动能 转换
+POSITIVE	动能 转换
+POSITIVE	动能 转换
+POSITIVE	动能 转换
+POSITIVE	动能 转换
+NEGATIVE	逗 我 的
+NEGATIVE	逗 我 的
+NEGATIVE	逗 我 的
+NEGATIVE	逗 我 的
+NEGATIVE	逗 我 的
+POSITIVE	独领风骚
+POSITIVE	独领风骚
+POSITIVE	独领风骚
+POSITIVE	独领风骚
+POSITIVE	独领风骚
+POSITIVE	短期 低点
+POSITIVE	短期 低点
+POSITIVE	短期 低点
+POSITIVE	短期 低点
+POSITIVE	短期 低点
+NEGATIVE	短期 高 点
+NEGATIVE	短期 高 点
+NEGATIVE	短期 高 点
+NEGATIVE	短期 高 点
+NEGATIVE	短期 高 点
+NEGATIVE	断崖
+NEGATIVE	断崖
+NEGATIVE	断崖
+NEGATIVE	断崖
+NEGATIVE	断崖
+POSITIVE	对冲
+POSITIVE	对冲
+POSITIVE	对冲
+POSITIVE	对冲
+POSITIVE	对冲
+NEGATIVE	对赌
+NEGATIVE	对赌
+NEGATIVE	对赌
+NEGATIVE	对赌
+NEGATIVE	对赌
+NEGATIVE	浮盈  兑现
+NEGATIVE	浮盈  兑现
+NEGATIVE	浮盈  兑现
+NEGATIVE	浮盈  兑现
+NEGATIVE	浮盈  兑现
+NEGATIVE	盈利  兑现
+NEGATIVE	盈利  兑现
+NEGATIVE	盈利  兑现
+NEGATIVE	盈利  兑现
+NEGATIVE	盈利  兑现
+NEGATIVE	兑现 利润
+NEGATIVE	兑现 利润
+NEGATIVE	兑现 利润
+NEGATIVE	兑现 利润
+NEGATIVE	兑现 利润
+NEGATIVE	多事之秋
+NEGATIVE	多事之秋
+NEGATIVE	多事之秋
+NEGATIVE	多事之秋
+NEGATIVE	多事之秋
+POSITIVE	多头
+POSITIVE	多头
+POSITIVE	多头
+POSITIVE	多头
+POSITIVE	多头
+NEGATIVE	恶化
+NEGATIVE	恶化
+NEGATIVE	恶化
+NEGATIVE	恶化
+NEGATIVE	恶化
+NEGATIVE	恶心
+NEGATIVE	恶心
+NEGATIVE	恶心
+NEGATIVE	恶心
+NEGATIVE	恶心
+NEGATIVE	噩梦
+NEGATIVE	噩梦
+NEGATIVE	噩梦
+NEGATIVE	噩梦
+NEGATIVE	噩梦
+POSITIVE	二进宫
+POSITIVE	二进宫
+POSITIVE	二进宫
+POSITIVE	二进宫
+POSITIVE	二进宫
+POSITIVE	发财
+POSITIVE	发财
+POSITIVE	发财
+POSITIVE	发财
+POSITIVE	发财
+POSITIVE	发动
+POSITIVE	发动
+POSITIVE	发动
+POSITIVE	发动
+POSITIVE	发动
+NEGATIVE	发函
+NEGATIVE	发函
+NEGATIVE	发函
+NEGATIVE	发函
+NEGATIVE	发函
+NEGATIVE	发酵
+NEGATIVE	发酵
+NEGATIVE	发酵
+NEGATIVE	发酵
+NEGATIVE	发酵
+POSITIVE	发力
+POSITIVE	发力
+POSITIVE	发力
+POSITIVE	发力
+POSITIVE	发力
+POSITIVE	发射
+POSITIVE	发射
+POSITIVE	发射
+POSITIVE	发射
+POSITIVE	发射
+POSITIVE	发芽
+POSITIVE	发芽
+POSITIVE	发芽
+POSITIVE	发芽
+POSITIVE	发芽
+POSITIVE	发展 良好
+POSITIVE	发展 良好
+POSITIVE	发展 良好
+POSITIVE	发展 良好
+POSITIVE	发展 良好
+NEGATIVE	发作
+NEGATIVE	发作
+NEGATIVE	发作
+NEGATIVE	发作
+NEGATIVE	发作
+NEGATIVE	乏力
+NEGATIVE	乏力
+NEGATIVE	乏力
+NEGATIVE	乏力
+NEGATIVE	乏力
+POSITIVE	翻倍
+POSITIVE	翻倍
+POSITIVE	翻倍
+POSITIVE	翻倍
+POSITIVE	翻倍
+POSITIVE	翻多
+POSITIVE	翻多
+POSITIVE	翻多
+POSITIVE	翻多
+POSITIVE	翻多
+POSITIVE	翻番
+POSITIVE	翻番
+POSITIVE	翻番
+POSITIVE	翻番
+POSITIVE	翻番
+POSITIVE	翻红
+POSITIVE	翻红
+POSITIVE	翻红
+POSITIVE	翻红
+POSITIVE	翻红
+NEGATIVE	翻空
+NEGATIVE	翻空
+NEGATIVE	翻空
+NEGATIVE	翻空
+NEGATIVE	翻空
+NEGATIVE	翻绿
+NEGATIVE	翻绿
+NEGATIVE	翻绿
+NEGATIVE	翻绿
+NEGATIVE	翻绿
+POSITIVE	翻身
+POSITIVE	翻身
+POSITIVE	翻身
+POSITIVE	翻身
+POSITIVE	翻身
+NEGATIVE	烦恼
+NEGATIVE	烦恼
+NEGATIVE	烦恼
+NEGATIVE	烦恼
+NEGATIVE	烦恼
+POSITIVE	反抽
+POSITIVE	反抽
+POSITIVE	反抽
+POSITIVE	反抽
+POSITIVE	反抽
+POSITIVE	反弹
+POSITIVE	反弹
+POSITIVE	反弹
+POSITIVE	反弹
+POSITIVE	反弹
+POSITIVE	反弹 空间
+POSITIVE	反弹 空间
+POSITIVE	反弹 空间
+POSITIVE	反弹 空间
+POSITIVE	反弹 空间
+NEGATIVE	反感
+NEGATIVE	反感
+NEGATIVE	反感
+NEGATIVE	反感
+NEGATIVE	反感
+POSITIVE	反击
+POSITIVE	反击
+POSITIVE	反击
+POSITIVE	反击
+POSITIVE	反击
+NEGATIVE	泛滥
+NEGATIVE	泛滥
+NEGATIVE	泛滥
+NEGATIVE	泛滥
+NEGATIVE	泛滥
+POSITIVE	方兴未艾
+POSITIVE	方兴未艾
+POSITIVE	方兴未艾
+POSITIVE	方兴未艾
+POSITIVE	方兴未艾
+NEGATIVE	防火墙
+NEGATIVE	防火墙
+NEGATIVE	防火墙
+NEGATIVE	防火墙
+NEGATIVE	防火墙
+NEGATIVE	防 控 风险
+NEGATIVE	防 控 风险
+NEGATIVE	防 控 风险
+NEGATIVE	防 控 风险
+NEGATIVE	防 控 风险
+NEGATIVE	防御
+NEGATIVE	防御
+NEGATIVE	防御
+NEGATIVE	防御
+NEGATIVE	防御
+NEGATIVE	妨碍
+NEGATIVE	妨碍
+NEGATIVE	妨碍
+NEGATIVE	妨碍
+NEGATIVE	妨碍
+NEGATIVE	放 狠 话
+NEGATIVE	放 狠 话
+NEGATIVE	放 狠 话
+NEGATIVE	放 狠 话
+NEGATIVE	放 狠 话
+NEGATIVE	放缓
+NEGATIVE	放缓
+NEGATIVE	放缓
+NEGATIVE	放缓
+NEGATIVE	放缓
+POSITIVE	放 巨量
+POSITIVE	放 巨量
+POSITIVE	放 巨量
+POSITIVE	放 巨量
+POSITIVE	放 巨量
+POSITIVE	放开
+POSITIVE	放开
+POSITIVE	放开
+POSITIVE	放开
+POSITIVE	放开
+POSITIVE	放宽
+POSITIVE	放宽
+POSITIVE	放宽
+POSITIVE	放宽
+POSITIVE	放宽
+NEGATIVE	放弃 收购
+NEGATIVE	放弃 收购
+NEGATIVE	放弃 收购
+NEGATIVE	放弃 收购
+NEGATIVE	放弃 收购
+POSITIVE	新战略
+POSITIVE	新战略
+POSITIVE	新战略
+POSITIVE	新战略
+POSITIVE	新战略
+POSITIVE	放水
+POSITIVE	放水
+POSITIVE	放水
+POSITIVE	放水
+POSITIVE	放水
+POSITIVE	飞天
+POSITIVE	飞天
+POSITIVE	飞天
+POSITIVE	飞天
+POSITIVE	飞天
+POSITIVE	非常 合理
+POSITIVE	非常 合理
+POSITIVE	非常 合理
+POSITIVE	非常 合理
+POSITIVE	非常 合理
+NEGATIVE	非法 集资
+NEGATIVE	非法 集资
+NEGATIVE	非法 集资
+NEGATIVE	非法 集资
+NEGATIVE	非法 集资
+POSITIVE	分红
+POSITIVE	分红
+POSITIVE	分红
+POSITIVE	分红
+POSITIVE	分红
+NEGATIVE	分化
+NEGATIVE	分化
+NEGATIVE	分化
+NEGATIVE	分化
+NEGATIVE	分化
+NEGATIVE	分歧
+NEGATIVE	分歧
+NEGATIVE	分歧
+NEGATIVE	分歧
+NEGATIVE	分歧
+POSITIVE	分散 风险
+POSITIVE	分散 风险
+POSITIVE	分散 风险
+POSITIVE	分散 风险
+POSITIVE	分散 风险
+POSITIVE	纷纷 拉升
+POSITIVE	纷纷 拉升
+POSITIVE	纷纷 拉升
+POSITIVE	纷纷 拉升
+POSITIVE	纷纷 拉升
+NEGATIVE	粉饰
+NEGATIVE	粉饰
+NEGATIVE	粉饰
+NEGATIVE	粉饰
+NEGATIVE	粉饰
+NEGATIVE	愤怒
+NEGATIVE	愤怒
+NEGATIVE	愤怒
+NEGATIVE	愤怒
+NEGATIVE	愤怒
+POSITIVE	风格 逆转
+POSITIVE	风格 逆转
+POSITIVE	风格 逆转
+POSITIVE	风格 逆转
+POSITIVE	风格 逆转
+NEGATIVE	风控
+NEGATIVE	风控
+NEGATIVE	风控
+NEGATIVE	风控
+NEGATIVE	风控
+POSITIVE	风口
+POSITIVE	风口
+POSITIVE	风口
+POSITIVE	风口
+POSITIVE	风口
+NEGATIVE	风险
+NEGATIVE	风险
+NEGATIVE	风险
+NEGATIVE	风险
+NEGATIVE	风险
+NEGATIVE	风险点
+NEGATIVE	风险点
+NEGATIVE	风险点
+NEGATIVE	风险点
+NEGATIVE	风险点
+POSITIVE	风险 分散
+POSITIVE	风险 分散
+POSITIVE	风险 分散
+POSITIVE	风险 分散
+POSITIVE	风险 分散
+NEGATIVE	风险 控制
+NEGATIVE	风险 控制
+NEGATIVE	风险 控制
+NEGATIVE	风险 控制
+NEGATIVE	风险 控制
+POSITIVE	封板
+POSITIVE	封板
+POSITIVE	封板
+POSITIVE	封板
+POSITIVE	封板
+POSITIVE	封稳
+POSITIVE	封稳
+POSITIVE	封稳
+POSITIVE	封稳
+POSITIVE	封稳
+NEGATIVE	仲裁
+NEGATIVE	仲裁
+NEGATIVE	仲裁
+NEGATIVE	仲裁
+NEGATIVE	仲裁
+POSITIVE	封住 涨停
+POSITIVE	封住 涨停
+POSITIVE	封住 涨停
+POSITIVE	封住 涨停
+POSITIVE	封住 涨停
+NEGATIVE	疯
+NEGATIVE	疯
+NEGATIVE	疯
+NEGATIVE	疯
+NEGATIVE	疯
+NEGATIVE	疯 了
+NEGATIVE	疯 了
+NEGATIVE	疯 了
+NEGATIVE	疯 了
+NEGATIVE	疯 了
+NEGATIVE	疯子
+NEGATIVE	疯子
+NEGATIVE	疯子
+NEGATIVE	疯子
+NEGATIVE	疯子
+POSITIVE	峰回路转
+POSITIVE	峰回路转
+POSITIVE	峰回路转
+POSITIVE	峰回路转
+POSITIVE	峰回路转
+NEGATIVE	逢高退出
+NEGATIVE	逢高退出
+NEGATIVE	逢高退出
+NEGATIVE	逢高退出
+NEGATIVE	逢高退出
+NEGATIVE	否决
+NEGATIVE	否决
+NEGATIVE	否决
+NEGATIVE	否决
+NEGATIVE	否决
+POSITIVE	扶持
+POSITIVE	扶持
+POSITIVE	扶持
+POSITIVE	扶持
+POSITIVE	扶持
+NEGATIVE	浮筹 太多
+NEGATIVE	浮筹 太多
+NEGATIVE	浮筹 太多
+NEGATIVE	浮筹 太多
+NEGATIVE	浮筹 太多
+POSITIVE	浮盈
+POSITIVE	浮盈
+POSITIVE	浮盈
+POSITIVE	浮盈
+POSITIVE	浮盈
+NEGATIVE	浮躁
+NEGATIVE	浮躁
+NEGATIVE	浮躁
+NEGATIVE	浮躁
+NEGATIVE	浮躁
+POSITIVE	符合 预期
+POSITIVE	符合 预期
+POSITIVE	符合 预期
+POSITIVE	符合 预期
+POSITIVE	符合 预期
+NEGATIVE	负利率
+NEGATIVE	负利率
+NEGATIVE	负利率
+NEGATIVE	负利率
+NEGATIVE	负利率
+NEGATIVE	负面
+NEGATIVE	负面
+NEGATIVE	负面
+NEGATIVE	负面
+NEGATIVE	负面
+NEGATIVE	负收益
+NEGATIVE	负收益
+NEGATIVE	负收益
+NEGATIVE	负收益
+NEGATIVE	负收益
+NEGATIVE	负债
+NEGATIVE	负债
+NEGATIVE	负债
+NEGATIVE	负债
+NEGATIVE	负债
+POSITIVE	复苏
+POSITIVE	复苏
+POSITIVE	复苏
+POSITIVE	复苏
+POSITIVE	复苏
+POSITIVE	赋能
+POSITIVE	赋能
+POSITIVE	赋能
+POSITIVE	赋能
+POSITIVE	赋能
+POSITIVE	改革开放
+POSITIVE	改革开放
+POSITIVE	改革开放
+POSITIVE	改革开放
+POSITIVE	改革开放
+POSITIVE	金融 开放
+POSITIVE	金融 开放
+POSITIVE	金融 开放
+POSITIVE	金融 开放
+POSITIVE	金融 开放
+POSITIVE	改善
+POSITIVE	改善
+POSITIVE	改善
+POSITIVE	改善
+POSITIVE	改善
+NEGATIVE	尴尬
+NEGATIVE	尴尬
+NEGATIVE	尴尬
+NEGATIVE	尴尬
+NEGATIVE	尴尬
+NEGATIVE	干 你 妈
+NEGATIVE	干 你 妈
+NEGATIVE	干 你 妈
+NEGATIVE	干 你 妈
+NEGATIVE	干 你 妈
+NEGATIVE	刚性 约束
+NEGATIVE	刚性 约束
+NEGATIVE	刚性 约束
+NEGATIVE	刚性 约束
+NEGATIVE	刚性 约束
+POSITIVE	高仓位
+POSITIVE	高仓位
+POSITIVE	高仓位
+POSITIVE	高仓位
+POSITIVE	高仓位
+POSITIVE	高潮
+POSITIVE	高潮
+POSITIVE	高潮
+POSITIVE	高潮
+POSITIVE	高潮
+POSITIVE	高端制造
+POSITIVE	高端制造
+POSITIVE	高端制造
+POSITIVE	高端制造
+POSITIVE	高端制造
+POSITIVE	高分红
+POSITIVE	高分红
+POSITIVE	高分红
+POSITIVE	高分红
+POSITIVE	高分红
+NEGATIVE	高估
+NEGATIVE	高估
+NEGATIVE	高估
+NEGATIVE	高估
+NEGATIVE	高估
+NEGATIVE	高 关税
+NEGATIVE	高 关税
+NEGATIVE	高 关税
+NEGATIVE	高 关税
+NEGATIVE	高 关税
+NEGATIVE	高 管 减持
+NEGATIVE	高 管 减持
+NEGATIVE	高 管 减持
+NEGATIVE	高 管 减持
+NEGATIVE	高 管 减持
+POSITIVE	高 景气
+POSITIVE	高 景气
+POSITIVE	高 景气
+POSITIVE	高 景气
+POSITIVE	高 景气
+POSITIVE	高调
+POSITIVE	高调
+POSITIVE	高调
+POSITIVE	高调
+POSITIVE	高调
+NEGATIVE	高位 站岗
+NEGATIVE	高位 站岗
+NEGATIVE	高位 站岗
+NEGATIVE	高位 站岗
+NEGATIVE	高位 站岗
+POSITIVE	高于
+POSITIVE	高于
+POSITIVE	高于
+POSITIVE	高于
+POSITIVE	高于
+POSITIVE	高 增长
+POSITIVE	高 增长
+POSITIVE	高 增长
+POSITIVE	高 增长
+POSITIVE	高 增长
+NEGATIVE	割 了
+NEGATIVE	割 了
+NEGATIVE	割 了
+NEGATIVE	割 了
+NEGATIVE	割 了
+NEGATIVE	割肉
+NEGATIVE	割肉
+NEGATIVE	割肉
+NEGATIVE	割肉
+NEGATIVE	割肉
+NEGATIVE	给 老子 滚
+NEGATIVE	给 老子 滚
+NEGATIVE	给 老子 滚
+NEGATIVE	给 老子 滚
+NEGATIVE	给 老子 滚
+POSITIVE	给力
+POSITIVE	给力
+POSITIVE	给力
+POSITIVE	给力
+POSITIVE	给力
+NEGATIVE	跟 风 式
+NEGATIVE	跟 风 式
+NEGATIVE	跟 风 式
+NEGATIVE	跟 风 式
+NEGATIVE	跟 风 式
+POSITIVE	跟 涨
+POSITIVE	跟 涨
+POSITIVE	跟 涨
+POSITIVE	跟 涨
+POSITIVE	跟 涨
+POSITIVE	工匠
+POSITIVE	工匠
+POSITIVE	工匠
+POSITIVE	工匠
+POSITIVE	工匠
+POSITIVE	攻击
+POSITIVE	攻击
+POSITIVE	攻击
+POSITIVE	攻击
+POSITIVE	攻击
+POSITIVE	巩固
+POSITIVE	巩固
+POSITIVE	巩固
+POSITIVE	巩固
+POSITIVE	巩固
+POSITIVE	共识
+POSITIVE	共识
+POSITIVE	共识
+POSITIVE	共识
+POSITIVE	共识
+POSITIVE	共涨
+POSITIVE	共涨
+POSITIVE	共涨
+POSITIVE	共涨
+POSITIVE	共涨
+POSITIVE	共振
+POSITIVE	共振
+POSITIVE	共振
+POSITIVE	共振
+POSITIVE	共振
+POSITIVE	供不应求
+POSITIVE	供不应求
+POSITIVE	供不应求
+POSITIVE	供不应求
+POSITIVE	供不应求
+NEGATIVE	狗 日 的
+NEGATIVE	狗 日 的
+NEGATIVE	狗 日 的
+NEGATIVE	狗 日 的
+NEGATIVE	狗 日 的
+NEGATIVE	狗屎
+NEGATIVE	狗屎
+NEGATIVE	狗屎
+NEGATIVE	狗屎
+NEGATIVE	狗屎
+NEGATIVE	狗庄
+NEGATIVE	狗庄
+NEGATIVE	狗庄
+NEGATIVE	狗庄
+NEGATIVE	狗庄
+NEGATIVE	够 狠
+NEGATIVE	够 狠
+NEGATIVE	够 狠
+NEGATIVE	够 狠
+NEGATIVE	够 狠
+POSITIVE	估值 低
+POSITIVE	估值 低
+POSITIVE	估值 低
+POSITIVE	估值 低
+POSITIVE	估值 低
+POSITIVE	估值 合理
+POSITIVE	估值 合理
+POSITIVE	估值 合理
+POSITIVE	估值 合理
+POSITIVE	估值 合理
+NEGATIVE	沽空
+NEGATIVE	沽空
+NEGATIVE	沽空
+NEGATIVE	沽空
+NEGATIVE	沽空
+NEGATIVE	多空
+NEGATIVE	多空
+NEGATIVE	多空
+NEGATIVE	多空
+NEGATIVE	多空
+NEGATIVE	逼空
+NEGATIVE	逼空
+NEGATIVE	逼空
+NEGATIVE	逼空
+NEGATIVE	逼空
+NEGATIVE	股东 减持
+NEGATIVE	股东 减持
+NEGATIVE	股东 减持
+NEGATIVE	股东 减持
+NEGATIVE	股东 减持
+POSITIVE	股权激励
+POSITIVE	股权激励
+POSITIVE	股权激励
+POSITIVE	股权激励
+POSITIVE	股权激励
+NEGATIVE	股灾
+NEGATIVE	股灾
+NEGATIVE	股灾
+NEGATIVE	股灾
+NEGATIVE	股灾
+NEGATIVE	故障
+NEGATIVE	故障
+NEGATIVE	故障
+NEGATIVE	故障
+NEGATIVE	故障
+POSITIVE	挂牌
+POSITIVE	挂牌
+POSITIVE	挂牌
+POSITIVE	挂牌
+POSITIVE	挂牌
+NEUTRAL	条件  挂牌
+NEUTRAL	条件  挂牌
+NEUTRAL	条件  挂牌
+NEUTRAL	条件  挂牌
+NEUTRAL	条件  挂牌
+NEUTRAL	机构  挂牌
+NEUTRAL	机构  挂牌
+NEUTRAL	机构  挂牌
+NEUTRAL	机构  挂牌
+NEUTRAL	机构  挂牌
+NEGATIVE	自查
+NEGATIVE	自查
+NEGATIVE	自查
+NEGATIVE	自查
+NEGATIVE	自查
+NEGATIVE	关灯吃面
+NEGATIVE	关灯吃面
+NEGATIVE	关灯吃面
+NEGATIVE	关灯吃面
+NEGATIVE	关灯吃面
+NEUTRAL	关联
+NEUTRAL	关联
+NEUTRAL	关联
+NEUTRAL	关联
+NEUTRAL	关联
+NEGATIVE	关注函
+NEGATIVE	关注函
+NEGATIVE	关注函
+NEGATIVE	关注函
+NEGATIVE	关注函
+NEGATIVE	观望
+NEGATIVE	观望
+NEGATIVE	观望
+NEGATIVE	观望
+NEGATIVE	观望
+POSITIVE	光明
+POSITIVE	光明
+POSITIVE	光明
+POSITIVE	光明
+POSITIVE	光明
+NEGATIVE	规范
+NEGATIVE	规范
+NEGATIVE	规范
+NEGATIVE	规范
+NEGATIVE	规范
+POSITIVE	规模化
+POSITIVE	规模化
+POSITIVE	规模化
+POSITIVE	规模化
+POSITIVE	规模化
+NEGATIVE	滚吧
+NEGATIVE	滚吧
+NEGATIVE	滚吧
+NEGATIVE	滚吧
+NEGATIVE	滚吧
+NEGATIVE	滚蛋
+NEGATIVE	滚蛋
+NEGATIVE	滚蛋
+NEGATIVE	滚蛋
+NEGATIVE	滚蛋
+NEGATIVE	滚 你 妈
+NEGATIVE	滚 你 妈
+NEGATIVE	滚 你 妈
+NEGATIVE	滚 你 妈
+NEGATIVE	滚 你 妈
+NEGATIVE	滚 求
+NEGATIVE	滚 求
+NEGATIVE	滚 求
+NEGATIVE	滚 求
+NEGATIVE	滚 求
+NEGATIVE	滚球
+NEGATIVE	滚球
+NEGATIVE	滚球
+NEGATIVE	滚球
+NEGATIVE	滚球
+NEGATIVE	过度
+NEGATIVE	过度
+NEGATIVE	过度
+NEGATIVE	过度
+NEGATIVE	过度
+NEGATIVE	过桥资金
+NEGATIVE	过桥资金
+NEGATIVE	过桥资金
+NEGATIVE	过桥资金
+NEGATIVE	过桥资金
+NEGATIVE	害人
+NEGATIVE	害人
+NEGATIVE	害人
+NEGATIVE	害人
+NEGATIVE	害人
+POSITIVE	捍卫
+POSITIVE	捍卫
+POSITIVE	捍卫
+POSITIVE	捍卫
+POSITIVE	捍卫
+NEUTRAL	行情
+NEUTRAL	行情
+NEUTRAL	行情
+NEUTRAL	行情
+NEUTRAL	行情
+NEGATIVE	行政 处罚
+NEGATIVE	行政 处罚
+NEGATIVE	行政 处罚
+NEGATIVE	行政 处罚
+NEGATIVE	行政 处罚
+NEGATIVE	行政 处罚
+NEGATIVE	行政 处罚
+NEGATIVE	行政 处罚
+NEGATIVE	行政 处罚
+NEGATIVE	行政 处罚
+NEGATIVE	行政诉讼
+NEGATIVE	行政诉讼
+NEGATIVE	行政诉讼
+NEGATIVE	行政诉讼
+NEGATIVE	行政诉讼
+NEGATIVE	行政诉讼
+NEGATIVE	行政诉讼
+NEGATIVE	行政诉讼
+NEGATIVE	行政诉讼
+NEGATIVE	行政诉讼
+NEGATIVE	薅羊毛
+NEGATIVE	薅羊毛
+NEGATIVE	薅羊毛
+NEGATIVE	薅羊毛
+NEGATIVE	薅羊毛
+NEGATIVE	好 笨
+NEGATIVE	好 笨
+NEGATIVE	好 笨
+NEGATIVE	好 笨
+NEGATIVE	好 笨
+NEGATIVE	好 烦
+NEGATIVE	好 烦
+NEGATIVE	好 烦
+NEGATIVE	好 烦
+NEGATIVE	好 烦
+NEGATIVE	好 烦琐
+NEGATIVE	好 烦琐
+NEGATIVE	好 烦琐
+NEGATIVE	好 烦琐
+NEGATIVE	好 烦琐
+POSITIVE	好 公司
+POSITIVE	好 公司
+POSITIVE	好 公司
+POSITIVE	好 公司
+POSITIVE	好 公司
+NEGATIVE	好 烂
+NEGATIVE	好 烂
+NEGATIVE	好 烂
+NEGATIVE	好 烂
+NEGATIVE	好 烂
+NEGATIVE	好 桑 心
+NEGATIVE	好 桑 心
+NEGATIVE	好 桑 心
+NEGATIVE	好 桑 心
+NEGATIVE	好 桑 心
+NEGATIVE	好 伤心
+NEGATIVE	好 伤心
+NEGATIVE	好 伤心
+NEGATIVE	好 伤心
+NEGATIVE	好 伤心
+POSITIVE	好时机
+POSITIVE	好时机
+POSITIVE	好时机
+POSITIVE	好时机
+POSITIVE	好时机
+POSITIVE	好 现象
+POSITIVE	好 现象
+POSITIVE	好 现象
+POSITIVE	好 现象
+POSITIVE	好 现象
+POSITIVE	好转
+POSITIVE	好转
+POSITIVE	好转
+POSITIVE	好转
+POSITIVE	好转
+POSITIVE	合格
+POSITIVE	合格
+POSITIVE	合格
+POSITIVE	合格
+POSITIVE	合格
+NEGATIVE	合规
+NEGATIVE	合规
+NEGATIVE	合规
+NEGATIVE	合规
+NEGATIVE	合规
+NEGATIVE	合规 管理
+NEGATIVE	合规 管理
+NEGATIVE	合规 管理
+NEGATIVE	合规 管理
+NEGATIVE	合规 管理
+POSITIVE	合力
+POSITIVE	合力
+POSITIVE	合力
+POSITIVE	合力
+POSITIVE	合力
+POSITIVE	合力 构建
+POSITIVE	合力 构建
+POSITIVE	合力 构建
+POSITIVE	合力 构建
+POSITIVE	合力 构建
+POSITIVE	合作
+POSITIVE	合作
+POSITIVE	合作
+POSITIVE	合作
+POSITIVE	合作
+POSITIVE	合作 意向
+POSITIVE	合作 意向
+POSITIVE	合作 意向
+POSITIVE	合作 意向
+POSITIVE	合作 意向
+POSITIVE	和解
+POSITIVE	和解
+POSITIVE	和解
+POSITIVE	和解
+POSITIVE	和解
+POSITIVE	核心技术
+POSITIVE	核心技术
+POSITIVE	核心技术
+POSITIVE	核心技术
+POSITIVE	核心技术
+POSITIVE	核准
+POSITIVE	核准
+POSITIVE	核准
+POSITIVE	核准
+POSITIVE	核准
+NEGATIVE	黑暗
+NEGATIVE	黑暗
+NEGATIVE	黑暗
+NEGATIVE	黑暗
+NEGATIVE	黑暗
+POSITIVE	黑科技
+POSITIVE	黑科技
+POSITIVE	黑科技
+POSITIVE	黑科技
+POSITIVE	黑科技
+NEGATIVE	很差
+NEGATIVE	很差
+NEGATIVE	很差
+NEGATIVE	很差
+NEGATIVE	很差
+NEGATIVE	很 烂
+NEGATIVE	很 烂
+NEGATIVE	很 烂
+NEGATIVE	很 烂
+NEGATIVE	很 烂
+NEGATIVE	很 麻烦
+NEGATIVE	很 麻烦
+NEGATIVE	很 麻烦
+NEGATIVE	很 麻烦
+NEGATIVE	很 麻烦
+POSITIVE	很强
+POSITIVE	很强
+POSITIVE	很强
+POSITIVE	很强
+POSITIVE	很强
+NEGATIVE	横盘
+NEGATIVE	横盘
+NEGATIVE	横盘
+NEGATIVE	横盘
+NEGATIVE	横盘
+POSITIVE	红火
+POSITIVE	红火
+POSITIVE	红火
+POSITIVE	红火
+POSITIVE	红火
+POSITIVE	红盘
+POSITIVE	红盘
+POSITIVE	红盘
+POSITIVE	红盘
+POSITIVE	红盘
+NEGATIVE	红线
+NEGATIVE	红线
+NEGATIVE	红线
+NEGATIVE	红线
+NEGATIVE	红线
+POSITIVE	红柱
+POSITIVE	红柱
+POSITIVE	红柱
+POSITIVE	红柱
+POSITIVE	红柱
+POSITIVE	鸿鹄之志
+POSITIVE	鸿鹄之志
+POSITIVE	鸿鹄之志
+POSITIVE	鸿鹄之志
+POSITIVE	鸿鹄之志
+NEGATIVE	后撤
+NEGATIVE	后撤
+NEGATIVE	后撤
+NEGATIVE	后撤
+NEGATIVE	后撤
+NEGATIVE	忽悠
+NEGATIVE	忽悠
+NEGATIVE	忽悠
+NEGATIVE	忽悠
+NEGATIVE	忽悠
+NEGATIVE	胡扯
+NEGATIVE	胡扯
+NEGATIVE	胡扯
+NEGATIVE	胡扯
+NEGATIVE	胡扯
+NEGATIVE	糊弄 人
+NEGATIVE	糊弄 人
+NEGATIVE	糊弄 人
+NEGATIVE	糊弄 人
+NEGATIVE	糊弄 人
+POSITIVE	护航
+POSITIVE	护航
+POSITIVE	护航
+POSITIVE	护航
+POSITIVE	护航
+POSITIVE	护盘
+POSITIVE	护盘
+POSITIVE	护盘
+POSITIVE	护盘
+POSITIVE	护盘
+POSITIVE	划清界限
+POSITIVE	划清界限
+POSITIVE	划清界限
+POSITIVE	划清界限
+POSITIVE	划清界限
+POSITIVE	生态保护
+POSITIVE	生态保护
+POSITIVE	生态保护
+POSITIVE	生态保护
+POSITIVE	生态保护
+POSITIVE	划算
+POSITIVE	划算
+POSITIVE	划算
+POSITIVE	划算
+POSITIVE	划算
+NEGATIVE	滑铁卢
+NEGATIVE	滑铁卢
+NEGATIVE	滑铁卢
+NEGATIVE	滑铁卢
+NEGATIVE	滑铁卢
+POSITIVE	话语权
+POSITIVE	话语权
+POSITIVE	话语权
+POSITIVE	话语权
+POSITIVE	话语权
+NEGATIVE	坏
+NEGATIVE	坏
+NEGATIVE	坏
+NEGATIVE	坏
+NEGATIVE	坏
+NEGATIVE	坏账
+NEGATIVE	坏账
+NEGATIVE	坏账
+NEGATIVE	坏账
+NEGATIVE	坏账
+POSITIVE	缓和
+POSITIVE	缓和
+POSITIVE	缓和
+POSITIVE	缓和
+POSITIVE	缓和
+NEGATIVE	换手
+NEGATIVE	换手
+NEGATIVE	换手
+NEGATIVE	换手
+NEGATIVE	换手
+NEGATIVE	换血
+NEGATIVE	换血
+NEGATIVE	换血
+NEGATIVE	换血
+NEGATIVE	换血
+POSITIVE	黄金坑
+POSITIVE	黄金坑
+POSITIVE	黄金坑
+POSITIVE	黄金坑
+POSITIVE	黄金坑
+NEGATIVE	灰飞烟灭
+NEGATIVE	灰飞烟灭
+NEGATIVE	灰飞烟灭
+NEGATIVE	灰飞烟灭
+NEGATIVE	灰飞烟灭
+POSITIVE	恢复
+POSITIVE	恢复
+POSITIVE	恢复
+POSITIVE	恢复
+POSITIVE	恢复
+NEGATIVE	回补
+NEGATIVE	回补
+NEGATIVE	回补
+NEGATIVE	回补
+NEGATIVE	回补
+NEGATIVE	回踩
+NEGATIVE	回踩
+NEGATIVE	回踩
+NEGATIVE	回踩
+NEGATIVE	回踩
+POSITIVE	回 封
+POSITIVE	回 封
+POSITIVE	回 封
+POSITIVE	回 封
+POSITIVE	回 封
+POSITIVE	回购
+POSITIVE	回购
+POSITIVE	回购
+POSITIVE	回购
+POSITIVE	回购
+POSITIVE	回拉
+POSITIVE	回拉
+POSITIVE	回拉
+POSITIVE	回拉
+POSITIVE	回拉
+NEGATIVE	回笼
+NEGATIVE	回笼
+NEGATIVE	回笼
+NEGATIVE	回笼
+NEGATIVE	回笼
+NEGATIVE	回落
+NEGATIVE	回落
+NEGATIVE	回落
+NEGATIVE	回落
+NEGATIVE	回落
+POSITIVE	回暖
+POSITIVE	回暖
+POSITIVE	回暖
+POSITIVE	回暖
+POSITIVE	回暖
+POSITIVE	回升
+POSITIVE	回升
+POSITIVE	回升
+POSITIVE	回升
+POSITIVE	回升
+NEGATIVE	回调
+NEGATIVE	回调
+NEGATIVE	回调
+NEGATIVE	回调
+NEGATIVE	回调
+POSITIVE	回血
+POSITIVE	回血
+POSITIVE	回血
+POSITIVE	回血
+POSITIVE	回血
+POSITIVE	混改
+POSITIVE	混改
+POSITIVE	混改
+POSITIVE	混改
+POSITIVE	混改
+NEGATIVE	混战
+NEGATIVE	混战
+NEGATIVE	混战
+NEGATIVE	混战
+NEGATIVE	混战
+NEGATIVE	暗战
+NEGATIVE	暗战
+NEGATIVE	暗战
+NEGATIVE	暗战
+NEGATIVE	暗战
+NEGATIVE	贴身 肉搏
+NEGATIVE	贴身 肉搏
+NEGATIVE	贴身 肉搏
+NEGATIVE	贴身 肉搏
+NEGATIVE	贴身 肉搏
+POSITIVE	豁免
+POSITIVE	豁免
+POSITIVE	豁免
+POSITIVE	豁免
+POSITIVE	豁免
+POSITIVE	活力
+POSITIVE	活力
+POSITIVE	活力
+POSITIVE	活力
+POSITIVE	活力
+POSITIVE	活跃
+POSITIVE	活跃
+POSITIVE	活跃
+POSITIVE	活跃
+POSITIVE	活跃
+POSITIVE	提升  活跃度
+POSITIVE	提升  活跃度
+POSITIVE	提升  活跃度
+POSITIVE	提升  活跃度
+POSITIVE	提升  活跃度
+POSITIVE	火爆
+POSITIVE	火爆
+POSITIVE	火爆
+POSITIVE	火爆
+POSITIVE	火爆
+NEGATIVE	火 大
+NEGATIVE	火 大
+NEGATIVE	火 大
+NEGATIVE	火 大
+NEGATIVE	火 大
+POSITIVE	火箭 发射
+POSITIVE	火箭 发射
+POSITIVE	火箭 发射
+POSITIVE	火箭 发射
+POSITIVE	火箭 发射
+POSITIVE	获利
+POSITIVE	获利
+POSITIVE	获利
+POSITIVE	获利
+POSITIVE	获利
+POSITIVE	获批
+POSITIVE	获批
+POSITIVE	获批
+POSITIVE	获批
+POSITIVE	获批
+POSITIVE	获准
+POSITIVE	获准
+POSITIVE	获准
+POSITIVE	获准
+POSITIVE	获准
+NEGATIVE	击穿
+NEGATIVE	击穿
+NEGATIVE	击穿
+NEGATIVE	击穿
+NEGATIVE	击穿
+POSITIVE	择强买入
+POSITIVE	择强买入
+POSITIVE	择强买入
+POSITIVE	择强买入
+POSITIVE	择强买入
+POSITIVE	机会  紧抓
+POSITIVE	机会  紧抓
+POSITIVE	机会  紧抓
+POSITIVE	机会  紧抓
+POSITIVE	机会  紧抓
+POSITIVE	机遇
+POSITIVE	机遇
+POSITIVE	机遇
+POSITIVE	机遇
+POSITIVE	机遇
+NEGATIVE	鸡 巴
+NEGATIVE	鸡 巴
+NEGATIVE	鸡 巴
+NEGATIVE	鸡 巴
+NEGATIVE	鸡 巴
+NEGATIVE	鸡肋
+NEGATIVE	鸡肋
+NEGATIVE	鸡肋
+NEGATIVE	鸡肋
+NEGATIVE	鸡肋
+POSITIVE	积极 推动
+POSITIVE	积极 推动
+POSITIVE	积极 推动
+POSITIVE	积极 推动
+POSITIVE	积极 推动
+POSITIVE	激活
+POSITIVE	激活
+POSITIVE	激活
+POSITIVE	激活
+POSITIVE	激活
+POSITIVE	激励
+POSITIVE	激励
+POSITIVE	激励
+POSITIVE	激励
+POSITIVE	激励
+POSITIVE	吉利
+POSITIVE	吉利
+POSITIVE	吉利
+POSITIVE	吉利
+POSITIVE	吉利
+NEGATIVE	极端
+NEGATIVE	极端
+NEGATIVE	极端
+NEGATIVE	极端
+NEGATIVE	极端
+NEGATIVE	急挫
+NEGATIVE	急挫
+NEGATIVE	急挫
+NEGATIVE	急挫
+NEGATIVE	急挫
+NEGATIVE	急跌
+NEGATIVE	急跌
+NEGATIVE	急跌
+NEGATIVE	急跌
+NEGATIVE	急跌
+NEGATIVE	急发
+NEGATIVE	急发
+NEGATIVE	急发
+NEGATIVE	急发
+NEGATIVE	急发
+NEGATIVE	稳中趋缓
+NEGATIVE	稳中趋缓
+NEGATIVE	稳中趋缓
+NEGATIVE	稳中趋缓
+NEGATIVE	稳中趋缓
+NEGATIVE	急剧
+NEGATIVE	急剧
+NEGATIVE	急剧
+NEGATIVE	急剧
+NEGATIVE	急剧
+NEGATIVE	急剧 减少
+NEGATIVE	急剧 减少
+NEGATIVE	急剧 减少
+NEGATIVE	急剧 减少
+NEGATIVE	急剧 减少
+NEGATIVE	急晒
+NEGATIVE	急晒
+NEGATIVE	急晒
+NEGATIVE	急晒
+NEGATIVE	急晒
+NEGATIVE	急问
+NEGATIVE	急问
+NEGATIVE	急问
+NEGATIVE	急问
+NEGATIVE	急问
+NEGATIVE	急寻
+NEGATIVE	急寻
+NEGATIVE	急寻
+NEGATIVE	急寻
+NEGATIVE	急寻
+NEGATIVE	急转直下
+NEGATIVE	急转直下
+NEGATIVE	急转直下
+NEGATIVE	急转直下
+NEGATIVE	急转直下
+NEGATIVE	纪律处分
+NEGATIVE	纪律处分
+NEGATIVE	纪律处分
+NEGATIVE	纪律处分
+NEGATIVE	纪律处分
+NEGATIVE	继续 吹
+NEGATIVE	继续 吹
+NEGATIVE	继续 吹
+NEGATIVE	继续 吹
+NEGATIVE	继续 吹
+POSITIVE	继续 加
+POSITIVE	继续 加
+POSITIVE	继续 加
+POSITIVE	继续 加
+POSITIVE	继续 加
+POSITIVE	绩优
+POSITIVE	绩优
+POSITIVE	绩优
+POSITIVE	绩优
+POSITIVE	绩优
+POSITIVE	绩优股
+POSITIVE	绩优股
+POSITIVE	绩优股
+POSITIVE	绩优股
+POSITIVE	绩优股
+POSITIVE	加仓
+POSITIVE	加仓
+POSITIVE	加仓
+POSITIVE	加仓
+POSITIVE	加仓
+NEGATIVE	加剧
+NEGATIVE	加剧
+NEGATIVE	加剧
+NEGATIVE	加剧
+NEGATIVE	加剧
+POSITIVE	加快
+POSITIVE	加快
+POSITIVE	加快
+POSITIVE	加快
+POSITIVE	加快
+POSITIVE	加 了
+POSITIVE	加 了
+POSITIVE	加 了
+POSITIVE	加 了
+POSITIVE	加 了
+POSITIVE	加码
+POSITIVE	加码
+POSITIVE	加码
+POSITIVE	加码
+POSITIVE	加码
+NEGATIVE	加码  调控
+NEGATIVE	加码  调控
+NEGATIVE	加码  调控
+NEGATIVE	加码  调控
+NEGATIVE	加码  调控
+NEGATIVE	加码  监管
+NEGATIVE	加码  监管
+NEGATIVE	加码  监管
+NEGATIVE	加码  监管
+NEGATIVE	加码  监管
+POSITIVE	加配
+POSITIVE	加配
+POSITIVE	加配
+POSITIVE	加配
+POSITIVE	加配
+NEGATIVE	加强 监管
+NEGATIVE	加强 监管
+NEGATIVE	加强 监管
+NEGATIVE	加强 监管
+NEGATIVE	加强 监管
+NEGATIVE	深化  监管
+NEGATIVE	深化  监管
+NEGATIVE	深化  监管
+NEGATIVE	深化  监管
+NEGATIVE	深化  监管
+POSITIVE	加速 步入
+POSITIVE	加速 步入
+POSITIVE	加速 步入
+POSITIVE	加速 步入
+POSITIVE	加速 步入
+POSITIVE	加注
+POSITIVE	加注
+POSITIVE	加注
+POSITIVE	加注
+POSITIVE	加注
+POSITIVE	佳境
+POSITIVE	佳境
+POSITIVE	佳境
+POSITIVE	佳境
+POSITIVE	佳境
+POSITIVE	价格 飙升
+POSITIVE	价格 飙升
+POSITIVE	价格 飙升
+POSITIVE	价格 飙升
+POSITIVE	价格 飙升
+NEGATIVE	价格战
+NEGATIVE	价格战
+NEGATIVE	价格战
+NEGATIVE	价格战
+NEGATIVE	价格战
+POSITIVE	尖兵
+POSITIVE	尖兵
+POSITIVE	尖兵
+POSITIVE	尖兵
+POSITIVE	尖兵
+POSITIVE	坚定
+POSITIVE	坚定
+POSITIVE	坚定
+POSITIVE	坚定
+POSITIVE	坚定
+POSITIVE	坚守
+POSITIVE	坚守
+POSITIVE	坚守
+POSITIVE	坚守
+POSITIVE	坚守
+POSITIVE	坚挺
+POSITIVE	坚挺
+POSITIVE	坚挺
+POSITIVE	坚挺
+POSITIVE	坚挺
+POSITIVE	坚信
+POSITIVE	坚信
+POSITIVE	坚信
+POSITIVE	坚信
+POSITIVE	坚信
+NEGATIVE	监管
+NEGATIVE	监管
+NEGATIVE	监管
+NEGATIVE	监管
+NEGATIVE	监管
+NEGATIVE	遏制  监管
+NEGATIVE	遏制  监管
+NEGATIVE	遏制  监管
+NEGATIVE	遏制  监管
+NEGATIVE	遏制  监管
+NEGATIVE	监管函
+NEGATIVE	监管函
+NEGATIVE	监管函
+NEGATIVE	监管函
+NEGATIVE	监管函
+NEGATIVE	监管 体系
+NEGATIVE	监管 体系
+NEGATIVE	监管 体系
+NEGATIVE	监管 体系
+NEGATIVE	监管 体系
+POSITIVE	兼得
+POSITIVE	兼得
+POSITIVE	兼得
+POSITIVE	兼得
+POSITIVE	兼得
+NEGATIVE	减仓
+NEGATIVE	减仓
+NEGATIVE	减仓
+NEGATIVE	减仓
+NEGATIVE	减仓
+NEGATIVE	减持
+NEGATIVE	减持
+NEGATIVE	减持
+NEGATIVE	减持
+NEGATIVE	减持
+POSITIVE	减轻
+POSITIVE	减轻
+POSITIVE	减轻
+POSITIVE	减轻
+POSITIVE	减轻
+NEGATIVE	减弱
+NEGATIVE	减弱
+NEGATIVE	减弱
+NEGATIVE	减弱
+NEGATIVE	减弱
+NEGATIVE	减速
+NEGATIVE	减速
+NEGATIVE	减速
+NEGATIVE	减速
+NEGATIVE	减速
+NEGATIVE	减值
+NEGATIVE	减值
+NEGATIVE	减值
+NEGATIVE	减值
+NEGATIVE	减值
+NEGATIVE	减资
+NEGATIVE	减资
+NEGATIVE	减资
+NEGATIVE	减资
+NEGATIVE	减资
+NEUTRAL	减 资方 案
+NEUTRAL	减 资方 案
+NEUTRAL	减 资方 案
+NEUTRAL	减 资方 案
+NEUTRAL	减 资方 案
+POSITIVE	见到 低点
+POSITIVE	见到 低点
+POSITIVE	见到 低点
+POSITIVE	见到 低点
+POSITIVE	见到 低点
+POSITIVE	见红
+POSITIVE	见红
+POSITIVE	见红
+POSITIVE	见红
+POSITIVE	见红
+POSITIVE	建仓
+POSITIVE	建仓
+POSITIVE	建仓
+POSITIVE	建仓
+POSITIVE	建仓
+POSITIVE	健康
+POSITIVE	健康
+POSITIVE	健康
+POSITIVE	健康
+POSITIVE	健康
+POSITIVE	渐露锋芒
+POSITIVE	渐露锋芒
+POSITIVE	渐露锋芒
+POSITIVE	渐露锋芒
+POSITIVE	渐露锋芒
+POSITIVE	匠人
+POSITIVE	匠人
+POSITIVE	匠人
+POSITIVE	匠人
+POSITIVE	匠人
+NEGATIVE	降仓
+NEGATIVE	降仓
+NEGATIVE	降仓
+NEGATIVE	降仓
+NEGATIVE	降仓
+NEGATIVE	降低
+NEGATIVE	降低
+NEGATIVE	降低
+NEGATIVE	降低
+NEGATIVE	降低
+NEGATIVE	降温
+NEGATIVE	降温
+NEGATIVE	降温
+NEGATIVE	降温
+NEGATIVE	降温
+NEGATIVE	焦虑
+NEGATIVE	焦虑
+NEGATIVE	焦虑
+NEGATIVE	焦虑
+NEGATIVE	焦虑
+NEGATIVE	焦躁
+NEGATIVE	焦躁
+NEGATIVE	焦躁
+NEGATIVE	焦躁
+NEGATIVE	焦躁
+POSITIVE	较大 提升
+POSITIVE	较大 提升
+POSITIVE	较大 提升
+POSITIVE	较大 提升
+POSITIVE	较大 提升
+POSITIVE	较高
+POSITIVE	较高
+POSITIVE	较高
+POSITIVE	较高
+POSITIVE	较高
+POSITIVE	较好
+POSITIVE	较好
+POSITIVE	较好
+POSITIVE	较好
+POSITIVE	较好
+POSITIVE	较强
+POSITIVE	较强
+POSITIVE	较强
+POSITIVE	较强
+POSITIVE	较强
+NEGATIVE	较弱
+NEGATIVE	较弱
+NEGATIVE	较弱
+NEGATIVE	较弱
+NEGATIVE	较弱
+NEGATIVE	较少
+NEGATIVE	较少
+NEGATIVE	较少
+NEGATIVE	较少
+NEGATIVE	较少
+NEGATIVE	教训
+NEGATIVE	教训
+NEGATIVE	教训
+NEGATIVE	教训
+NEGATIVE	教训
+NEGATIVE	阶段 高 点
+NEGATIVE	阶段 高 点
+NEGATIVE	阶段 高 点
+NEGATIVE	阶段 高 点
+NEGATIVE	阶段 高 点
+POSITIVE	接近 合理
+POSITIVE	接近 合理
+POSITIVE	接近 合理
+POSITIVE	接近 合理
+POSITIVE	接近 合理
+POSITIVE	接 掌
+POSITIVE	接 掌
+POSITIVE	接 掌
+POSITIVE	接 掌
+POSITIVE	接 掌
+NEGATIVE	揭露
+NEGATIVE	揭露
+NEGATIVE	揭露
+NEGATIVE	揭露
+NEGATIVE	揭露
+POSITIVE	揭牌
+POSITIVE	揭牌
+POSITIVE	揭牌
+POSITIVE	揭牌
+POSITIVE	揭牌
+POSITIVE	结盟
+POSITIVE	结盟
+POSITIVE	结盟
+POSITIVE	结盟
+POSITIVE	结盟
+POSITIVE	解冻
+POSITIVE	解冻
+POSITIVE	解冻
+POSITIVE	解冻
+POSITIVE	解冻
+POSITIVE	借力
+POSITIVE	借力
+POSITIVE	借力
+POSITIVE	借力
+POSITIVE	借力
+POSITIVE	金矿
+POSITIVE	金矿
+POSITIVE	金矿
+POSITIVE	金矿
+POSITIVE	金矿
+NEGATIVE	紧
+NEGATIVE	紧
+NEGATIVE	紧
+NEGATIVE	紧
+NEGATIVE	紧
+POSITIVE	紧平衡
+POSITIVE	紧平衡
+POSITIVE	紧平衡
+POSITIVE	紧平衡
+POSITIVE	紧平衡
+NEGATIVE	紧缩
+NEGATIVE	紧缩
+NEGATIVE	紧缩
+NEGATIVE	紧缩
+NEGATIVE	紧缩
+NEGATIVE	紧张
+NEGATIVE	紧张
+NEGATIVE	紧张
+NEGATIVE	紧张
+NEGATIVE	紧张
+NEGATIVE	谨慎
+NEGATIVE	谨慎
+NEGATIVE	谨慎
+NEGATIVE	谨慎
+NEGATIVE	谨慎
+POSITIVE	进
+POSITIVE	进
+POSITIVE	进
+POSITIVE	进
+POSITIVE	进
+POSITIVE	进步
+POSITIVE	进步
+POSITIVE	进步
+POSITIVE	进步
+POSITIVE	进步
+POSITIVE	进场
+POSITIVE	进场
+POSITIVE	进场
+POSITIVE	进场
+POSITIVE	进场
+POSITIVE	进展
+POSITIVE	进展
+POSITIVE	进展
+POSITIVE	进展
+POSITIVE	进展
+NEGATIVE	禁区
+NEGATIVE	禁区
+NEGATIVE	禁区
+NEGATIVE	禁区
+NEGATIVE	禁区
+POSITIVE	惊喜
+POSITIVE	惊喜
+POSITIVE	惊喜
+POSITIVE	惊喜
+POSITIVE	惊喜
+POSITIVE	惊喜 连连
+POSITIVE	惊喜 连连
+POSITIVE	惊喜 连连
+POSITIVE	惊喜 连连
+POSITIVE	惊喜 连连
+POSITIVE	精彩纷呈
+POSITIVE	精彩纷呈
+POSITIVE	精彩纷呈
+POSITIVE	精彩纷呈
+POSITIVE	精彩纷呈
+NEUTRAL	精神
+NEUTRAL	精神
+NEUTRAL	精神
+NEUTRAL	精神
+NEUTRAL	精神
+POSITIVE	景气
+POSITIVE	景气
+POSITIVE	景气
+POSITIVE	景气
+POSITIVE	景气
+NEGATIVE	警告
+NEGATIVE	警告
+NEGATIVE	警告
+NEGATIVE	警告
+NEGATIVE	警告
+NEGATIVE	警戒线
+NEGATIVE	警戒线
+NEGATIVE	警戒线
+NEGATIVE	警戒线
+NEGATIVE	警戒线
+NEGATIVE	风险 警示
+NEGATIVE	风险 警示
+NEGATIVE	风险 警示
+NEGATIVE	风险 警示
+NEGATIVE	风险 警示
+NEGATIVE	警示函
+NEGATIVE	警示函
+NEGATIVE	警示函
+NEGATIVE	警示函
+NEGATIVE	警示函
+NEGATIVE	警惕
+NEGATIVE	警惕
+NEGATIVE	警惕
+NEGATIVE	警惕
+NEGATIVE	警惕
+POSITIVE	净流入
+POSITIVE	净流入
+POSITIVE	净流入
+POSITIVE	净流入
+POSITIVE	净流入
+NEGATIVE	净赎回
+NEGATIVE	净赎回
+NEGATIVE	净赎回
+NEGATIVE	净赎回
+NEGATIVE	净赎回
+POSITIVE	竞技
+POSITIVE	竞技
+POSITIVE	竞技
+POSITIVE	竞技
+POSITIVE	竞技
+POSITIVE	竞争力
+POSITIVE	竞争力
+POSITIVE	竞争力
+POSITIVE	竞争力
+POSITIVE	竞争力
+NEGATIVE	敬而远之
+NEGATIVE	敬而远之
+NEGATIVE	敬而远之
+NEGATIVE	敬而远之
+NEGATIVE	敬而远之
+NEGATIVE	远 没 到
+NEGATIVE	远 没 到
+NEGATIVE	远 没 到
+NEGATIVE	远 没 到
+NEGATIVE	远 没 到
+NEGATIVE	敬畏
+NEGATIVE	敬畏
+NEGATIVE	敬畏
+NEGATIVE	敬畏
+NEGATIVE	敬畏
+NEGATIVE	纠纷
+NEGATIVE	纠纷
+NEGATIVE	纠纷
+NEGATIVE	纠纷
+NEGATIVE	纠纷
+NEGATIVE	韭菜
+NEGATIVE	韭菜
+NEGATIVE	韭菜
+NEGATIVE	韭菜
+NEGATIVE	韭菜
+POSITIVE	居首
+POSITIVE	居首
+POSITIVE	居首
+POSITIVE	居首
+POSITIVE	居首
+NEGATIVE	举报
+NEGATIVE	举报
+NEGATIVE	举报
+NEGATIVE	举报
+NEGATIVE	举报
+NEGATIVE	举牌  被
+NEGATIVE	举牌  被
+NEGATIVE	举牌  被
+NEGATIVE	举牌  被
+NEGATIVE	举牌  被
+POSITIVE	聚焦
+POSITIVE	聚焦
+POSITIVE	聚焦
+POSITIVE	聚焦
+POSITIVE	聚焦
+POSITIVE	聚 人气
+POSITIVE	聚 人气
+POSITIVE	聚 人气
+POSITIVE	聚 人气
+POSITIVE	聚 人气
+POSITIVE	卷土重来
+POSITIVE	卷土重来
+POSITIVE	卷土重来
+POSITIVE	卷土重来
+POSITIVE	卷土重来
+NEGATIVE	绝唱
+NEGATIVE	绝唱
+NEGATIVE	绝唱
+NEGATIVE	绝唱
+NEGATIVE	绝唱
+NEGATIVE	绝望认输
+NEGATIVE	绝望认输
+NEGATIVE	绝望认输
+NEGATIVE	绝望认输
+NEGATIVE	绝望认输
+POSITIVE	掘金
+POSITIVE	掘金
+POSITIVE	掘金
+POSITIVE	掘金
+POSITIVE	掘金
+POSITIVE	崛起
+POSITIVE	崛起
+POSITIVE	崛起
+POSITIVE	崛起
+POSITIVE	崛起
+POSITIVE	均衡
+POSITIVE	均衡
+POSITIVE	均衡
+POSITIVE	均衡
+POSITIVE	均衡
+NEGATIVE	开门黑
+NEGATIVE	开门黑
+NEGATIVE	开门黑
+NEGATIVE	开门黑
+NEGATIVE	开门黑
+POSITIVE	开门红
+POSITIVE	开门红
+POSITIVE	开门红
+POSITIVE	开门红
+POSITIVE	开门红
+POSITIVE	开拓
+POSITIVE	开拓
+POSITIVE	开拓
+POSITIVE	开拓
+POSITIVE	开拓
+POSITIVE	开足马力
+POSITIVE	开足马力
+POSITIVE	开足马力
+POSITIVE	开足马力
+POSITIVE	开足马力
+POSITIVE	看点
+POSITIVE	看点
+POSITIVE	看点
+POSITIVE	看点
+POSITIVE	看点
+POSITIVE	看多
+POSITIVE	看多
+POSITIVE	看多
+POSITIVE	看多
+POSITIVE	看多
+POSITIVE	看好
+POSITIVE	看好
+POSITIVE	看好
+POSITIVE	看好
+POSITIVE	看好
+POSITIVE	看好 评级
+POSITIVE	看好 评级
+POSITIVE	看好 评级
+POSITIVE	看好 评级
+POSITIVE	看好 评级
+POSITIVE	评级 升 至
+POSITIVE	评级 升 至
+POSITIVE	评级 升 至
+POSITIVE	评级 升 至
+POSITIVE	评级 升 至
+NEGATIVE	评级 降至
+NEGATIVE	评级 降至
+NEGATIVE	评级 降至
+NEGATIVE	评级 降至
+NEGATIVE	评级 降至
+NEGATIVE	看空
+NEGATIVE	看空
+NEGATIVE	看空
+NEGATIVE	看空
+NEGATIVE	看空
+POSITIVE	看涨
+POSITIVE	看涨
+POSITIVE	看涨
+POSITIVE	看涨
+POSITIVE	看涨
+NEGATIVE	扛不住
+NEGATIVE	扛不住
+NEGATIVE	扛不住
+NEGATIVE	扛不住
+NEGATIVE	扛不住
+NEGATIVE	靠 你 妈
+NEGATIVE	靠 你 妈
+NEGATIVE	靠 你 妈
+NEGATIVE	靠 你 妈
+NEGATIVE	靠 你 妈
+POSITIVE	可 关注
+POSITIVE	可 关注
+POSITIVE	可 关注
+POSITIVE	可 关注
+POSITIVE	可 关注
+POSITIVE	可观
+POSITIVE	可观
+POSITIVE	可观
+POSITIVE	可观
+POSITIVE	可观
+POSITIVE	可期
+POSITIVE	可期
+POSITIVE	可期
+POSITIVE	可期
+POSITIVE	可期
+POSITIVE	可以 关注
+POSITIVE	可以 关注
+POSITIVE	可以 关注
+POSITIVE	可以 关注
+POSITIVE	可以 关注
+POSITIVE	克敌制胜
+POSITIVE	克敌制胜
+POSITIVE	克敌制胜
+POSITIVE	克敌制胜
+POSITIVE	克敌制胜
+NEGATIVE	坑
+NEGATIVE	坑
+NEGATIVE	坑
+NEGATIVE	坑
+NEGATIVE	坑
+NEGATIVE	坑爹
+NEGATIVE	坑爹
+NEGATIVE	坑爹
+NEGATIVE	坑爹
+NEGATIVE	坑爹
+NEGATIVE	坑钱
+NEGATIVE	坑钱
+NEGATIVE	坑钱
+NEGATIVE	坑钱
+NEGATIVE	坑钱
+NEGATIVE	坑人
+NEGATIVE	坑人
+NEGATIVE	坑人
+NEGATIVE	坑人
+NEGATIVE	坑人
+NEGATIVE	空仓
+NEGATIVE	空仓
+NEGATIVE	空仓
+NEGATIVE	空仓
+NEGATIVE	空仓
+NEGATIVE	空间 有限
+NEGATIVE	空间 有限
+NEGATIVE	空间 有限
+NEGATIVE	空间 有限
+NEGATIVE	空间 有限
+NEGATIVE	空谈
+NEGATIVE	空谈
+NEGATIVE	空谈
+NEGATIVE	空谈
+NEGATIVE	空谈
+NEGATIVE	空头
+NEGATIVE	空头
+NEGATIVE	空头
+NEGATIVE	空头
+NEGATIVE	空头
+NEGATIVE	空转
+NEGATIVE	空转
+NEGATIVE	空转
+NEGATIVE	空转
+NEGATIVE	空转
+NEGATIVE	恐
+NEGATIVE	恐
+NEGATIVE	恐
+NEGATIVE	恐
+NEGATIVE	恐
+NEGATIVE	恐怖
+NEGATIVE	恐怖
+NEGATIVE	恐怖
+NEGATIVE	恐怖
+NEGATIVE	恐怖
+NEGATIVE	恐慌
+NEGATIVE	恐慌
+NEGATIVE	恐慌
+NEGATIVE	恐慌
+NEGATIVE	恐慌
+NEGATIVE	控制 仓位
+NEGATIVE	控制 仓位
+NEGATIVE	控制 仓位
+NEGATIVE	控制 仓位
+NEGATIVE	控制 仓位
+NEGATIVE	口碑 坏 了
+NEGATIVE	口碑 坏 了
+NEGATIVE	口碑 坏 了
+NEGATIVE	口碑 坏 了
+NEGATIVE	口碑 坏 了
+NEGATIVE	夸夸其谈
+NEGATIVE	夸夸其谈
+NEGATIVE	夸夸其谈
+NEGATIVE	夸夸其谈
+NEGATIVE	夸夸其谈
+NEGATIVE	快跑
+NEGATIVE	快跑
+NEGATIVE	快跑
+NEGATIVE	快跑
+NEGATIVE	快跑
+POSITIVE	宽松
+POSITIVE	宽松
+POSITIVE	宽松
+POSITIVE	宽松
+POSITIVE	宽松
+POSITIVE	狂 拉
+POSITIVE	狂 拉
+POSITIVE	狂 拉
+POSITIVE	狂 拉
+POSITIVE	狂 拉
+NEGATIVE	亏损
+NEGATIVE	亏损
+NEGATIVE	亏损
+NEGATIVE	亏损
+NEGATIVE	亏损
+NEGATIVE	亏损 资产
+NEGATIVE	亏损 资产
+NEGATIVE	亏损 资产
+NEGATIVE	亏损 资产
+NEGATIVE	亏损 资产
+NEGATIVE	困境
+NEGATIVE	困境
+NEGATIVE	困境
+NEGATIVE	困境
+NEGATIVE	困境
+POSITIVE	扩产
+POSITIVE	扩产
+POSITIVE	扩产
+POSITIVE	扩产
+POSITIVE	扩产
+POSITIVE	扩充
+POSITIVE	扩充
+POSITIVE	扩充
+POSITIVE	扩充
+POSITIVE	扩充
+NEGATIVE	垃圾
+NEGATIVE	垃圾
+NEGATIVE	垃圾
+NEGATIVE	垃圾
+NEGATIVE	垃圾
+POSITIVE	拉动
+POSITIVE	拉动
+POSITIVE	拉动
+POSITIVE	拉动
+POSITIVE	拉动
+NEGATIVE	拉高出货
+NEGATIVE	拉高出货
+NEGATIVE	拉高出货
+NEGATIVE	拉高出货
+NEGATIVE	拉高出货
+POSITIVE	拉 几 下
+POSITIVE	拉 几 下
+POSITIVE	拉 几 下
+POSITIVE	拉 几 下
+POSITIVE	拉 几 下
+NEGATIVE	拉锯战
+NEGATIVE	拉锯战
+NEGATIVE	拉锯战
+NEGATIVE	拉锯战
+NEGATIVE	拉锯战
+POSITIVE	拉升
+POSITIVE	拉升
+POSITIVE	拉升
+POSITIVE	拉升
+POSITIVE	拉升
+POSITIVE	拉抬
+POSITIVE	拉抬
+POSITIVE	拉抬
+POSITIVE	拉抬
+POSITIVE	拉抬
+NEGATIVE	辣鸡
+NEGATIVE	辣鸡
+NEGATIVE	辣鸡
+NEGATIVE	辣鸡
+NEGATIVE	辣鸡
+POSITIVE	蓝海
+POSITIVE	蓝海
+POSITIVE	蓝海
+POSITIVE	蓝海
+POSITIVE	蓝海
+NEGATIVE	烂 东西
+NEGATIVE	烂 东西
+NEGATIVE	烂 东西
+NEGATIVE	烂 东西
+NEGATIVE	烂 东西
+NEGATIVE	烂 货
+NEGATIVE	烂 货
+NEGATIVE	烂 货
+NEGATIVE	烂 货
+NEGATIVE	烂 货
+NEGATIVE	老子 不 买
+NEGATIVE	老子 不 买
+NEGATIVE	老子 不 买
+NEGATIVE	老子 不 买
+NEGATIVE	老子 不 买
+POSITIVE	乐观
+POSITIVE	乐观
+POSITIVE	乐观
+POSITIVE	乐观
+POSITIVE	乐观
+NEGATIVE	了结
+NEGATIVE	了结
+NEGATIVE	了结
+NEGATIVE	了结
+NEGATIVE	了结
+NEGATIVE	雷区
+NEGATIVE	雷区
+NEGATIVE	雷区
+NEGATIVE	雷区
+NEGATIVE	雷区
+NEGATIVE	冷
+NEGATIVE	冷
+NEGATIVE	冷
+NEGATIVE	冷
+NEGATIVE	冷
+NEGATIVE	冷静
+NEGATIVE	冷静
+NEGATIVE	冷静
+NEGATIVE	冷静
+NEGATIVE	冷静
+NEGATIVE	冷却
+NEGATIVE	冷却
+NEGATIVE	冷却
+NEGATIVE	冷却
+NEGATIVE	冷却
+NEGATIVE	离 场
+NEGATIVE	离 场
+NEGATIVE	离 场
+NEGATIVE	离 场
+NEGATIVE	离 场
+NEGATIVE	离场观望
+NEGATIVE	离场观望
+NEGATIVE	离场观望
+NEGATIVE	离场观望
+NEGATIVE	离场观望
+NEGATIVE	离职
+NEGATIVE	离职
+NEGATIVE	离职
+NEGATIVE	离职
+NEGATIVE	离职
+POSITIVE	力挺
+POSITIVE	力挺
+POSITIVE	力挺
+POSITIVE	力挺
+POSITIVE	力挺
+POSITIVE	历史 起点
+POSITIVE	历史 起点
+POSITIVE	历史 起点
+POSITIVE	历史 起点
+POSITIVE	历史 起点
+NEGATIVE	立案
+NEGATIVE	立案
+NEGATIVE	立案
+NEGATIVE	立案
+NEGATIVE	立案
+NEGATIVE	利淡
+NEGATIVE	利淡
+NEGATIVE	利淡
+NEGATIVE	利淡
+NEGATIVE	利淡
+POSITIVE	利好
+POSITIVE	利好
+POSITIVE	利好
+POSITIVE	利好
+POSITIVE	利好
+NEGATIVE	利空
+NEGATIVE	利空
+NEGATIVE	利空
+NEGATIVE	利空
+NEGATIVE	利空
+POSITIVE	连板
+POSITIVE	连板
+POSITIVE	连板
+POSITIVE	连板
+POSITIVE	连板
+NEGATIVE	连跌
+NEGATIVE	连跌
+NEGATIVE	连跌
+NEGATIVE	连跌
+NEGATIVE	连跌
+NEGATIVE	连累
+NEGATIVE	连累
+NEGATIVE	连累
+NEGATIVE	连累
+NEGATIVE	连累
+POSITIVE	连续涨停
+POSITIVE	连续涨停
+POSITIVE	连续涨停
+POSITIVE	连续涨停
+POSITIVE	连续涨停
+POSITIVE	连续涨停
+POSITIVE	连续涨停
+POSITIVE	连续涨停
+POSITIVE	连续涨停
+POSITIVE	连续涨停
+POSITIVE	连阳
+POSITIVE	连阳
+POSITIVE	连阳
+POSITIVE	连阳
+POSITIVE	连阳
+NEGATIVE	连阴
+NEGATIVE	连阴
+NEGATIVE	连阴
+NEGATIVE	连阴
+NEGATIVE	连阴
+POSITIVE	连涨
+POSITIVE	连涨
+POSITIVE	连涨
+POSITIVE	连涨
+POSITIVE	连涨
+POSITIVE	联袂
+POSITIVE	联袂
+POSITIVE	联袂
+POSITIVE	联袂
+POSITIVE	联袂
+POSITIVE	联手 设立
+POSITIVE	联手 设立
+POSITIVE	联手 设立
+POSITIVE	联手 设立
+POSITIVE	联手 设立
+POSITIVE	良好
+POSITIVE	良好
+POSITIVE	良好
+POSITIVE	良好
+POSITIVE	良好
+POSITIVE	良机
+POSITIVE	良机
+POSITIVE	良机
+POSITIVE	良机
+POSITIVE	良机
+POSITIVE	亮相
+POSITIVE	亮相
+POSITIVE	亮相
+POSITIVE	亮相
+POSITIVE	亮相
+POSITIVE	亮眼
+POSITIVE	亮眼
+POSITIVE	亮眼
+POSITIVE	亮眼
+POSITIVE	亮眼
+POSITIVE	靓丽
+POSITIVE	靓丽
+POSITIVE	靓丽
+POSITIVE	靓丽
+POSITIVE	靓丽
+POSITIVE	量产
+POSITIVE	量产
+POSITIVE	量产
+POSITIVE	量产
+POSITIVE	量产
+POSITIVE	量价齐升
+POSITIVE	量价齐升
+POSITIVE	量价齐升
+POSITIVE	量价齐升
+POSITIVE	量价齐升
+POSITIVE	量能放大
+POSITIVE	量能放大
+POSITIVE	量能放大
+POSITIVE	量能放大
+POSITIVE	量能放大
+NEGATIVE	领跌
+NEGATIVE	领跌
+NEGATIVE	领跌
+NEGATIVE	领跌
+NEGATIVE	领跌
+POSITIVE	领跑
+POSITIVE	领跑
+POSITIVE	领跑
+POSITIVE	领跑
+POSITIVE	领跑
+NEGATIVE	难 持续
+NEGATIVE	难 持续
+NEGATIVE	难 持续
+NEGATIVE	难 持续
+NEGATIVE	难 持续
+POSITIVE	领头羊
+POSITIVE	领头羊
+POSITIVE	领头羊
+POSITIVE	领头羊
+POSITIVE	领头羊
+POSITIVE	领先
+POSITIVE	领先
+POSITIVE	领先
+POSITIVE	领先
+POSITIVE	领先
+POSITIVE	领涨
+POSITIVE	领涨
+POSITIVE	领涨
+POSITIVE	领涨
+POSITIVE	领涨
+NEGATIVE	流出
+NEGATIVE	流出
+NEGATIVE	流出
+NEGATIVE	流出
+NEGATIVE	流出
+NEUTRAL	消息 流出
+NEUTRAL	消息 流出
+NEUTRAL	消息 流出
+NEUTRAL	消息 流出
+NEUTRAL	消息 流出
+POSITIVE	流入
+POSITIVE	流入
+POSITIVE	流入
+POSITIVE	流入
+POSITIVE	流入
+POSITIVE	龙头 经济
+POSITIVE	龙头 经济
+POSITIVE	龙头 经济
+POSITIVE	龙头 经济
+POSITIVE	龙头 经济
+NEGATIVE	新规
+NEGATIVE	新规
+NEGATIVE	新规
+NEGATIVE	新规
+NEGATIVE	新规
+NEGATIVE	事件  垄断
+NEGATIVE	事件  垄断
+NEGATIVE	事件  垄断
+NEGATIVE	事件  垄断
+NEGATIVE	事件  垄断
+POSITIVE	撸
+POSITIVE	撸
+POSITIVE	撸
+POSITIVE	撸
+POSITIVE	撸
+POSITIVE	撸 羊毛
+POSITIVE	撸 羊毛
+POSITIVE	撸 羊毛
+POSITIVE	撸 羊毛
+POSITIVE	撸 羊毛
+NEGATIVE	乱象
+NEGATIVE	乱象
+NEGATIVE	乱象
+NEGATIVE	乱象
+NEGATIVE	乱象
+POSITIVE	逻辑 清晰
+POSITIVE	逻辑 清晰
+POSITIVE	逻辑 清晰
+POSITIVE	逻辑 清晰
+POSITIVE	逻辑 清晰
+NEGATIVE	裸空
+NEGATIVE	裸空
+NEGATIVE	裸空
+NEGATIVE	裸空
+NEGATIVE	裸空
+NEGATIVE	裸泳
+NEGATIVE	裸泳
+NEGATIVE	裸泳
+NEGATIVE	裸泳
+NEGATIVE	裸泳
+NEGATIVE	落袋为安
+NEGATIVE	落袋为安
+NEGATIVE	落袋为安
+NEGATIVE	落袋为安
+NEGATIVE	落袋为安
+POSITIVE	落户
+POSITIVE	落户
+POSITIVE	落户
+POSITIVE	落户
+POSITIVE	落户
+NEGATIVE	落空
+NEGATIVE	落空
+NEGATIVE	落空
+NEGATIVE	落空
+NEGATIVE	落空
+POSITIVE	落实
+POSITIVE	落实
+POSITIVE	落实
+POSITIVE	落实
+POSITIVE	落实
+NEGATIVE	屡 犯 不 改
+NEGATIVE	屡 犯 不 改
+NEGATIVE	屡 犯 不 改
+NEGATIVE	屡 犯 不 改
+NEGATIVE	屡 犯 不 改
+POSITIVE	率先
+POSITIVE	率先
+POSITIVE	率先
+POSITIVE	率先
+POSITIVE	率先
+NEGATIVE	  绿
+NEGATIVE	  绿
+NEGATIVE	  绿
+NEGATIVE	  绿
+NEGATIVE	  绿
+NEUTRAL	绿色
+NEUTRAL	绿色
+NEUTRAL	绿色
+NEUTRAL	绿色
+NEUTRAL	绿色
+NEGATIVE	绿柱
+NEGATIVE	绿柱
+NEGATIVE	绿柱
+NEGATIVE	绿柱
+NEGATIVE	绿柱
+NEGATIVE	麻痹
+NEGATIVE	麻痹
+NEGATIVE	麻痹
+NEGATIVE	麻痹
+NEGATIVE	麻痹
+NEGATIVE	马甲
+NEGATIVE	马甲
+NEGATIVE	马甲
+NEGATIVE	马甲
+NEGATIVE	马甲
+POSITIVE	买超
+POSITIVE	买超
+POSITIVE	买超
+POSITIVE	买超
+POSITIVE	买超
+POSITIVE	买点
+POSITIVE	买点
+POSITIVE	买点
+POSITIVE	买点
+POSITIVE	买点
+POSITIVE	买入
+POSITIVE	买入
+POSITIVE	买入
+POSITIVE	买入
+POSITIVE	买入
+POSITIVE	迈进
+POSITIVE	迈进
+POSITIVE	迈进
+POSITIVE	迈进
+POSITIVE	迈进
+POSITIVE	迈一步
+POSITIVE	迈一步
+POSITIVE	迈一步
+POSITIVE	迈一步
+POSITIVE	迈一步
+POSITIVE	卖点
+POSITIVE	卖点
+POSITIVE	卖点
+POSITIVE	卖点
+POSITIVE	卖点
+NEGATIVE	卖掉
+NEGATIVE	卖掉
+NEGATIVE	卖掉
+NEGATIVE	卖掉
+NEGATIVE	卖掉
+NEGATIVE	卖股
+NEGATIVE	卖股
+NEGATIVE	卖股
+NEGATIVE	卖股
+NEGATIVE	卖股
+NEGATIVE	卖空
+NEGATIVE	卖空
+NEGATIVE	卖空
+NEGATIVE	卖空
+NEGATIVE	卖空
+NEGATIVE	脉冲
+NEGATIVE	脉冲
+NEGATIVE	脉冲
+NEGATIVE	脉冲
+NEGATIVE	脉冲
+POSITIVE	满仓
+POSITIVE	满仓
+POSITIVE	满仓
+POSITIVE	满仓
+POSITIVE	满仓
+POSITIVE	满产
+POSITIVE	满产
+POSITIVE	满产
+POSITIVE	满产
+POSITIVE	满产
+POSITIVE	满上
+POSITIVE	满上
+POSITIVE	满上
+POSITIVE	满上
+POSITIVE	满上
+NEGATIVE	漫漫熊途
+NEGATIVE	漫漫熊途
+NEGATIVE	漫漫熊途
+NEGATIVE	漫漫熊途
+NEGATIVE	漫漫熊途
+POSITIVE	慢牛
+POSITIVE	慢牛
+POSITIVE	慢牛
+POSITIVE	慢牛
+POSITIVE	慢牛
+NEGATIVE	猫腻
+NEGATIVE	猫腻
+NEGATIVE	猫腻
+NEGATIVE	猫腻
+NEGATIVE	猫腻
+NEGATIVE	矛盾
+NEGATIVE	矛盾
+NEGATIVE	矛盾
+NEGATIVE	矛盾
+NEGATIVE	矛盾
+NEGATIVE	冒险
+NEGATIVE	冒险
+NEGATIVE	冒险
+NEGATIVE	冒险
+NEGATIVE	冒险
+NEGATIVE	贸易 矛盾
+NEGATIVE	贸易 矛盾
+NEGATIVE	贸易 矛盾
+NEGATIVE	贸易 矛盾
+NEGATIVE	贸易 矛盾
+NEGATIVE	没 诚信
+NEGATIVE	没 诚信
+NEGATIVE	没 诚信
+NEGATIVE	没 诚信
+NEGATIVE	没 诚信
+NEGATIVE	没啥 用
+NEGATIVE	没啥 用
+NEGATIVE	没啥 用
+NEGATIVE	没啥 用
+NEGATIVE	没啥 用
+POSITIVE	没问题
+POSITIVE	没问题
+POSITIVE	没问题
+POSITIVE	没问题
+POSITIVE	没问题
+NEGATIVE	没有 信誉
+NEGATIVE	没有 信誉
+NEGATIVE	没有 信誉
+NEGATIVE	没有 信誉
+NEGATIVE	没有 信誉
+NEGATIVE	没有 用
+NEGATIVE	没有 用
+NEGATIVE	没有 用
+NEGATIVE	没有 用
+NEGATIVE	没有 用
+POSITIVE	美好
+POSITIVE	美好
+POSITIVE	美好
+POSITIVE	美好
+POSITIVE	美好
+NEGATIVE	梦 难 圆
+NEGATIVE	梦 难 圆
+NEGATIVE	梦 难 圆
+NEGATIVE	梦 难 圆
+NEGATIVE	梦 难 圆
+POSITIVE	密集 调研
+POSITIVE	密集 调研
+POSITIVE	密集 调研
+POSITIVE	密集 调研
+POSITIVE	密集 调研
+POSITIVE	秒 板
+POSITIVE	秒 板
+POSITIVE	秒 板
+POSITIVE	秒 板
+POSITIVE	秒 板
+NEGATIVE	桌 底 协议
+NEGATIVE	桌 底 协议
+NEGATIVE	桌 底 协议
+NEGATIVE	桌 底 协议
+NEGATIVE	桌 底 协议
+POSITIVE	上涨  明显
+POSITIVE	上涨  明显
+POSITIVE	上涨  明显
+POSITIVE	上涨  明显
+POSITIVE	上涨  明显
+POSITIVE	提升  明显
+POSITIVE	提升  明显
+POSITIVE	提升  明显
+POSITIVE	提升  明显
+POSITIVE	提升  明显
+NEGATIVE	模糊
+NEGATIVE	模糊
+NEGATIVE	模糊
+NEGATIVE	模糊
+NEGATIVE	模糊
+NEGATIVE	魔障
+NEGATIVE	魔障
+NEGATIVE	魔障
+NEGATIVE	魔障
+NEGATIVE	魔障
+NEGATIVE	魔咒
+NEGATIVE	魔咒
+NEGATIVE	魔咒
+NEGATIVE	魔咒
+NEGATIVE	魔咒
+NEGATIVE	末路
+NEGATIVE	末路
+NEGATIVE	末路
+NEGATIVE	末路
+NEGATIVE	末路
+NEGATIVE	幕后
+NEGATIVE	幕后
+NEGATIVE	幕后
+NEGATIVE	幕后
+NEGATIVE	幕后
+POSITIVE	拿稳
+POSITIVE	拿稳
+POSITIVE	拿稳
+POSITIVE	拿稳
+POSITIVE	拿稳
+POSITIVE	纳入 重要 指数
+POSITIVE	纳入 重要 指数
+POSITIVE	纳入 重要 指数
+POSITIVE	纳入 重要 指数
+POSITIVE	纳入 重要 指数
+NEGATIVE	难 定
+NEGATIVE	难 定
+NEGATIVE	难 定
+NEGATIVE	难 定
+NEGATIVE	难 定
+NEGATIVE	难度 较大
+NEGATIVE	难度 较大
+NEGATIVE	难度 较大
+NEGATIVE	难度 较大
+NEGATIVE	难度 较大
+NEGATIVE	难 平 复
+NEGATIVE	难 平 复
+NEGATIVE	难 平 复
+NEGATIVE	难 平 复
+NEGATIVE	难 平 复
+POSITIVE	破解  难题
+POSITIVE	破解  难题
+POSITIVE	破解  难题
+POSITIVE	破解  难题
+POSITIVE	破解  难题
+NEGATIVE	难兄难弟
+NEGATIVE	难兄难弟
+NEGATIVE	难兄难弟
+NEGATIVE	难兄难弟
+NEGATIVE	难兄难弟
+NEGATIVE	画 问号
+NEGATIVE	画 问号
+NEGATIVE	画 问号
+NEGATIVE	画 问号
+NEGATIVE	画 问号
+NEGATIVE	内部 交易
+NEGATIVE	内部 交易
+NEGATIVE	内部 交易
+NEGATIVE	内部 交易
+NEGATIVE	内部 交易
+NEGATIVE	内控
+NEGATIVE	内控
+NEGATIVE	内控
+NEGATIVE	内控
+NEGATIVE	内控
+NEGATIVE	尼玛
+NEGATIVE	尼玛
+NEGATIVE	尼玛
+NEGATIVE	尼玛
+NEGATIVE	尼玛
+NEGATIVE	泥沙俱下
+NEGATIVE	泥沙俱下
+NEGATIVE	泥沙俱下
+NEGATIVE	泥沙俱下
+NEGATIVE	泥沙俱下
+POSITIVE	拟定 增
+POSITIVE	拟定 增
+POSITIVE	拟定 增
+POSITIVE	拟定 增
+POSITIVE	拟定 增
+NEGATIVE	终止 定增
+NEGATIVE	终止 定增
+NEGATIVE	终止 定增
+NEGATIVE	终止 定增
+NEGATIVE	终止 定增
+POSITIVE	拟购
+POSITIVE	拟购
+POSITIVE	拟购
+POSITIVE	拟购
+POSITIVE	拟购
+POSITIVE	拟 购买
+POSITIVE	拟 购买
+POSITIVE	拟 购买
+POSITIVE	拟 购买
+POSITIVE	拟 购买
+POSITIVE	拟 增持
+POSITIVE	拟 增持
+POSITIVE	拟 增持
+POSITIVE	拟 增持
+POSITIVE	拟 增持
+POSITIVE	你追我赶
+POSITIVE	你追我赶
+POSITIVE	你追我赶
+POSITIVE	你追我赶
+POSITIVE	你追我赶
+POSITIVE	逆转
+POSITIVE	逆转
+POSITIVE	逆转
+POSITIVE	逆转
+POSITIVE	逆转
+NEGATIVE	鸟样
+NEGATIVE	鸟样
+NEGATIVE	鸟样
+NEGATIVE	鸟样
+NEGATIVE	鸟样
+POSITIVE	牛
+POSITIVE	牛
+POSITIVE	牛
+POSITIVE	牛
+POSITIVE	牛
+POSITIVE	牛逼
+POSITIVE	牛逼
+POSITIVE	牛逼
+POSITIVE	牛逼
+POSITIVE	牛逼
+POSITIVE	牛股
+POSITIVE	牛股
+POSITIVE	牛股
+POSITIVE	牛股
+POSITIVE	牛股
+POSITIVE	牛市
+POSITIVE	牛市
+POSITIVE	牛市
+POSITIVE	牛市
+POSITIVE	牛市
+POSITIVE	扭亏为盈
+POSITIVE	扭亏为盈
+POSITIVE	扭亏为盈
+POSITIVE	扭亏为盈
+POSITIVE	扭亏为盈
+POSITIVE	扭转
+POSITIVE	扭转
+POSITIVE	扭转
+POSITIVE	扭转
+POSITIVE	扭转
+POSITIVE	暖风
+POSITIVE	暖风
+POSITIVE	暖风
+POSITIVE	暖风
+POSITIVE	暖风
+POSITIVE	爬升
+POSITIVE	爬升
+POSITIVE	爬升
+POSITIVE	爬升
+POSITIVE	爬升
+NEGATIVE	怕
+NEGATIVE	怕
+NEGATIVE	怕
+NEGATIVE	怕
+NEGATIVE	怕
+POSITIVE	排名 靠 前
+POSITIVE	排名 靠 前
+POSITIVE	排名 靠 前
+POSITIVE	排名 靠 前
+POSITIVE	排名 靠 前
+POSITIVE	获  牌照
+POSITIVE	获  牌照
+POSITIVE	获  牌照
+POSITIVE	获  牌照
+POSITIVE	获  牌照
+POSITIVE	拿到  牌照
+POSITIVE	拿到  牌照
+POSITIVE	拿到  牌照
+POSITIVE	拿到  牌照
+POSITIVE	拿到  牌照
+POSITIVE	取得  牌照
+POSITIVE	取得  牌照
+POSITIVE	取得  牌照
+POSITIVE	取得  牌照
+POSITIVE	取得  牌照
+POSITIVE	攀高
+POSITIVE	攀高
+POSITIVE	攀高
+POSITIVE	攀高
+POSITIVE	攀高
+POSITIVE	攀升
+POSITIVE	攀升
+POSITIVE	攀升
+POSITIVE	攀升
+POSITIVE	攀升
+NEGATIVE	盘问
+NEGATIVE	盘问
+NEGATIVE	盘问
+NEGATIVE	盘问
+NEGATIVE	盘问
+NEGATIVE	盘整
+NEGATIVE	盘整
+NEGATIVE	盘整
+NEGATIVE	盘整
+NEGATIVE	盘整
+NEGATIVE	抛
+NEGATIVE	抛
+NEGATIVE	抛
+NEGATIVE	抛
+NEGATIVE	抛
+NEGATIVE	抛压
+NEGATIVE	抛压
+NEGATIVE	抛压
+NEGATIVE	抛压
+NEGATIVE	抛压
+POSITIVE	跑步进场
+POSITIVE	跑步进场
+POSITIVE	跑步进场
+POSITIVE	跑步进场
+POSITIVE	跑步进场
+NEGATIVE	跑 了
+NEGATIVE	跑 了
+NEGATIVE	跑 了
+NEGATIVE	跑 了
+NEGATIVE	跑 了
+NEGATIVE	跑输
+NEGATIVE	跑输
+NEGATIVE	跑输
+NEGATIVE	跑输
+NEGATIVE	跑输
+NEGATIVE	泡沫
+NEGATIVE	泡沫
+NEGATIVE	泡沫
+NEGATIVE	泡沫
+NEGATIVE	泡沫
+POSITIVE	培育
+POSITIVE	培育
+POSITIVE	培育
+POSITIVE	培育
+POSITIVE	培育
+NEGATIVE	赔付
+NEGATIVE	赔付
+NEGATIVE	赔付
+NEGATIVE	赔付
+NEGATIVE	赔付
+POSITIVE	完成  赔付
+POSITIVE	完成  赔付
+POSITIVE	完成  赔付
+POSITIVE	完成  赔付
+POSITIVE	完成  赔付
+POSITIVE	拟定  赔付 方案
+POSITIVE	拟定  赔付 方案
+POSITIVE	拟定  赔付 方案
+POSITIVE	拟定  赔付 方案
+POSITIVE	拟定  赔付 方案
+POSITIVE	募资
+POSITIVE	募资
+POSITIVE	募资
+POSITIVE	募资
+POSITIVE	募资
+NEUTRAL	募资 账户
+NEUTRAL	募资 账户
+NEUTRAL	募资 账户
+NEUTRAL	募资 账户
+NEUTRAL	募资 账户
+NEUTRAL	募资 专户
+NEUTRAL	募资 专户
+NEUTRAL	募资 专户
+NEUTRAL	募资 专户
+NEUTRAL	募资 专户
+NEGATIVE	批评
+NEGATIVE	批评
+NEGATIVE	批评
+NEGATIVE	批评
+NEGATIVE	批评
+NEGATIVE	屁 用
+NEGATIVE	屁 用
+NEGATIVE	屁 用
+NEGATIVE	屁 用
+NEGATIVE	屁 用
+POSITIVE	偏爱
+POSITIVE	偏爱
+POSITIVE	偏爱
+POSITIVE	偏爱
+POSITIVE	偏爱
+NEGATIVE	偏空
+NEGATIVE	偏空
+NEGATIVE	偏空
+NEGATIVE	偏空
+NEGATIVE	偏空
+NEGATIVE	偏软
+NEGATIVE	偏软
+NEGATIVE	偏软
+NEGATIVE	偏软
+NEGATIVE	偏软
+NEGATIVE	篇 人
+NEGATIVE	篇 人
+NEGATIVE	篇 人
+NEGATIVE	篇 人
+NEGATIVE	篇 人
+NEGATIVE	骗局
+NEGATIVE	骗局
+NEGATIVE	骗局
+NEGATIVE	骗局
+NEGATIVE	骗局
+NEGATIVE	骗钱
+NEGATIVE	骗钱
+NEGATIVE	骗钱
+NEGATIVE	骗钱
+NEGATIVE	骗钱
+NEGATIVE	骗人
+NEGATIVE	骗人
+NEGATIVE	骗人
+NEGATIVE	骗人
+NEGATIVE	骗人
+NEGATIVE	骗 纸
+NEGATIVE	骗 纸
+NEGATIVE	骗 纸
+NEGATIVE	骗 纸
+NEGATIVE	骗 纸
+NEGATIVE	骗子
+NEGATIVE	骗子
+NEGATIVE	骗子
+NEGATIVE	骗子
+NEGATIVE	骗子
+POSITIVE	漂亮
+POSITIVE	漂亮
+POSITIVE	漂亮
+POSITIVE	漂亮
+POSITIVE	漂亮
+POSITIVE	飘红
+POSITIVE	飘红
+POSITIVE	飘红
+POSITIVE	飘红
+POSITIVE	飘红
+POSITIVE	频繁 调研
+POSITIVE	频繁 调研
+POSITIVE	频繁 调研
+POSITIVE	频繁 调研
+POSITIVE	频繁 调研
+NEGATIVE	平抑
+NEGATIVE	平抑
+NEGATIVE	平抑
+NEGATIVE	平抑
+NEGATIVE	平抑
+POSITIVE	凭借
+POSITIVE	凭借
+POSITIVE	凭借
+POSITIVE	凭借
+POSITIVE	凭借
+POSITIVE	破冰
+POSITIVE	破冰
+POSITIVE	破冰
+POSITIVE	破冰
+POSITIVE	破冰
+NEGATIVE	破坏
+NEGATIVE	破坏
+NEGATIVE	破坏
+NEGATIVE	破坏
+NEGATIVE	破坏
+NEGATIVE	破 软件
+NEGATIVE	破 软件
+NEGATIVE	破 软件
+NEGATIVE	破 软件
+NEGATIVE	破 软件
+NEGATIVE	破 玩意
+NEGATIVE	破 玩意
+NEGATIVE	破 玩意
+NEGATIVE	破 玩意
+NEGATIVE	破 玩意
+NEGATIVE	破位
+NEGATIVE	破位
+NEGATIVE	破位
+NEGATIVE	破位
+NEGATIVE	破位
+POSITIVE	铺路
+POSITIVE	铺路
+POSITIVE	铺路
+POSITIVE	铺路
+POSITIVE	铺路
+POSITIVE	普遍 飘红
+POSITIVE	普遍 飘红
+POSITIVE	普遍 飘红
+POSITIVE	普遍 飘红
+POSITIVE	普遍 飘红
+NEGATIVE	普跌
+NEGATIVE	普跌
+NEGATIVE	普跌
+NEGATIVE	普跌
+NEGATIVE	普跌
+POSITIVE	普涨
+POSITIVE	普涨
+POSITIVE	普涨
+POSITIVE	普涨
+POSITIVE	普涨
+POSITIVE	期待
+POSITIVE	期待
+POSITIVE	期待
+POSITIVE	期待
+POSITIVE	期待
+NEGATIVE	期 骗
+NEGATIVE	期 骗
+NEGATIVE	期 骗
+NEGATIVE	期 骗
+NEGATIVE	期 骗
+NEGATIVE	欺诈
+NEGATIVE	欺诈
+NEGATIVE	欺诈
+NEGATIVE	欺诈
+NEGATIVE	欺诈
+NEGATIVE	蹊跷
+NEGATIVE	蹊跷
+NEGATIVE	蹊跷
+NEGATIVE	蹊跷
+NEGATIVE	蹊跷
+NEGATIVE	齐挫
+NEGATIVE	齐挫
+NEGATIVE	齐挫
+NEGATIVE	齐挫
+NEGATIVE	齐挫
+POSITIVE	齐 增长
+POSITIVE	齐 增长
+POSITIVE	齐 增长
+POSITIVE	齐 增长
+POSITIVE	齐 增长
+POSITIVE	齐涨
+POSITIVE	齐涨
+POSITIVE	齐涨
+POSITIVE	齐涨
+POSITIVE	齐涨
+POSITIVE	企稳
+POSITIVE	企稳
+POSITIVE	企稳
+POSITIVE	企稳
+POSITIVE	企稳
+POSITIVE	企业家 精神
+POSITIVE	企业家 精神
+POSITIVE	企业家 精神
+POSITIVE	企业家 精神
+POSITIVE	企业家 精神
+POSITIVE	起飞
+POSITIVE	起飞
+POSITIVE	起飞
+POSITIVE	起飞
+POSITIVE	起飞
+POSITIVE	起航
+POSITIVE	起航
+POSITIVE	起航
+POSITIVE	起航
+POSITIVE	起航
+POSITIVE	起来
+POSITIVE	起来
+POSITIVE	起来
+POSITIVE	起来
+POSITIVE	起来
+NEGATIVE	起诉
+NEGATIVE	起诉
+NEGATIVE	起诉
+NEGATIVE	起诉
+NEGATIVE	起诉
+NEGATIVE	被 起诉
+NEGATIVE	被 起诉
+NEGATIVE	被 起诉
+NEGATIVE	被 起诉
+NEGATIVE	被 起诉
+NEGATIVE	被 起诉
+NEGATIVE	被 起诉
+NEGATIVE	被 起诉
+NEGATIVE	被 起诉
+NEGATIVE	被 起诉
+POSITIVE	起跳
+POSITIVE	起跳
+POSITIVE	起跳
+POSITIVE	起跳
+POSITIVE	起跳
+NEGATIVE	气死 人
+NEGATIVE	气死 人
+NEGATIVE	气死 人
+NEGATIVE	气死 人
+NEGATIVE	气死 人
+POSITIVE	契机
+POSITIVE	契机
+POSITIVE	契机
+POSITIVE	契机
+POSITIVE	契机
+POSITIVE	牵手
+POSITIVE	牵手
+POSITIVE	牵手
+POSITIVE	牵手
+POSITIVE	牵手
+POSITIVE	签约
+POSITIVE	签约
+POSITIVE	签约
+POSITIVE	签约
+POSITIVE	签约
+POSITIVE	前景 广阔
+POSITIVE	前景 广阔
+POSITIVE	前景 广阔
+POSITIVE	前景 广阔
+POSITIVE	前景 广阔
+NEGATIVE	钱荒
+NEGATIVE	钱荒
+NEGATIVE	钱荒
+NEGATIVE	钱荒
+NEGATIVE	钱荒
+POSITIVE	潜力 大
+POSITIVE	潜力 大
+POSITIVE	潜力 大
+POSITIVE	潜力 大
+POSITIVE	潜力 大
+POSITIVE	潜心
+POSITIVE	潜心
+POSITIVE	潜心
+POSITIVE	潜心
+POSITIVE	潜心
+NEGATIVE	谴责
+NEGATIVE	谴责
+NEGATIVE	谴责
+NEGATIVE	谴责
+NEGATIVE	谴责
+NEGATIVE	欠佳
+NEGATIVE	欠佳
+NEGATIVE	欠佳
+NEGATIVE	欠佳
+NEGATIVE	欠佳
+NEGATIVE	强拆
+NEGATIVE	强拆
+NEGATIVE	强拆
+NEGATIVE	强拆
+NEGATIVE	强拆
+POSITIVE	强反
+POSITIVE	强反
+POSITIVE	强反
+POSITIVE	强反
+POSITIVE	强反
+POSITIVE	强劲
+POSITIVE	强劲
+POSITIVE	强劲
+POSITIVE	强劲
+POSITIVE	强劲
+POSITIVE	强劲 涨势
+POSITIVE	强劲 涨势
+POSITIVE	强劲 涨势
+POSITIVE	强劲 涨势
+POSITIVE	强劲 涨势
+POSITIVE	强势
+POSITIVE	强势
+POSITIVE	强势
+POSITIVE	强势
+POSITIVE	强势
+POSITIVE	强势 格局
+POSITIVE	强势 格局
+POSITIVE	强势 格局
+POSITIVE	强势 格局
+POSITIVE	强势 格局
+POSITIVE	强势 归来
+POSITIVE	强势 归来
+POSITIVE	强势 归来
+POSITIVE	强势 归来
+POSITIVE	强势 归来
+POSITIVE	强势 领跑
+POSITIVE	强势 领跑
+POSITIVE	强势 领跑
+POSITIVE	强势 领跑
+POSITIVE	强势 领跑
+POSITIVE	强势 上涨
+POSITIVE	强势 上涨
+POSITIVE	强势 上涨
+POSITIVE	强势 上涨
+POSITIVE	强势 上涨
+POSITIVE	强心针
+POSITIVE	强心针
+POSITIVE	强心针
+POSITIVE	强心针
+POSITIVE	强心针
+POSITIVE	强者恒强
+POSITIVE	强者恒强
+POSITIVE	强者恒强
+POSITIVE	强者恒强
+POSITIVE	强者恒强
+POSITIVE	抢筹
+POSITIVE	抢筹
+POSITIVE	抢筹
+POSITIVE	抢筹
+POSITIVE	抢筹
+POSITIVE	抢跑
+POSITIVE	抢跑
+POSITIVE	抢跑
+POSITIVE	抢跑
+POSITIVE	抢跑
+NEGATIVE	抢权
+NEGATIVE	抢权
+NEGATIVE	抢权
+NEGATIVE	抢权
+NEGATIVE	抢权
+POSITIVE	抢眼
+POSITIVE	抢眼
+POSITIVE	抢眼
+POSITIVE	抢眼
+POSITIVE	抢眼
+POSITIVE	抢占
+POSITIVE	抢占
+POSITIVE	抢占
+POSITIVE	抢占
+POSITIVE	抢占
+POSITIVE	悄然
+POSITIVE	悄然
+POSITIVE	悄然
+POSITIVE	悄然
+POSITIVE	悄然
+POSITIVE	敲定
+POSITIVE	敲定
+POSITIVE	敲定
+POSITIVE	敲定
+POSITIVE	敲定
+POSITIVE	翘楚
+POSITIVE	翘楚
+POSITIVE	翘楚
+POSITIVE	翘楚
+POSITIVE	翘楚
+POSITIVE	青睐
+POSITIVE	青睐
+POSITIVE	青睐
+POSITIVE	青睐
+POSITIVE	青睐
+POSITIVE	青睐有加
+POSITIVE	青睐有加
+POSITIVE	青睐有加
+POSITIVE	青睐有加
+POSITIVE	青睐有加
+NEGATIVE	清仓
+NEGATIVE	清仓
+NEGATIVE	清仓
+NEGATIVE	清仓
+NEGATIVE	清仓
+NEGATIVE	清淡
+NEGATIVE	清淡
+NEGATIVE	清淡
+NEGATIVE	清淡
+NEGATIVE	清淡
+NEGATIVE	清理
+NEGATIVE	清理
+NEGATIVE	清理
+NEGATIVE	清理
+NEGATIVE	清理
+NEGATIVE	区域性 风险
+NEGATIVE	区域性 风险
+NEGATIVE	区域性 风险
+NEGATIVE	区域性 风险
+NEGATIVE	区域性 风险
+POSITIVE	驱动
+POSITIVE	驱动
+POSITIVE	驱动
+POSITIVE	驱动
+POSITIVE	驱动
+POSITIVE	驱动力
+POSITIVE	驱动力
+POSITIVE	驱动力
+POSITIVE	驱动力
+POSITIVE	驱动力
+NEGATIVE	趋降
+NEGATIVE	趋降
+NEGATIVE	趋降
+NEGATIVE	趋降
+NEGATIVE	趋降
+NEGATIVE	趋紧
+NEGATIVE	趋紧
+NEGATIVE	趋紧
+NEGATIVE	趋紧
+NEGATIVE	趋紧
+NEGATIVE	趋冷
+NEGATIVE	趋冷
+NEGATIVE	趋冷
+NEGATIVE	趋冷
+NEGATIVE	趋冷
+POSITIVE	趋热
+POSITIVE	趋热
+POSITIVE	趋热
+POSITIVE	趋热
+POSITIVE	趋热
+NEGATIVE	趋严
+NEGATIVE	趋严
+NEGATIVE	趋严
+NEGATIVE	趋严
+NEGATIVE	趋严
+POSITIVE	渠道 渐 宽
+POSITIVE	渠道 渐 宽
+POSITIVE	渠道 渐 宽
+POSITIVE	渠道 渐 宽
+POSITIVE	渠道 渐 宽
+NEGATIVE	渠道 战
+NEGATIVE	渠道 战
+NEGATIVE	渠道 战
+NEGATIVE	渠道 战
+NEGATIVE	渠道 战
+NEGATIVE	被  取缔
+NEGATIVE	被  取缔
+NEGATIVE	被  取缔
+NEGATIVE	被  取缔
+NEGATIVE	被  取缔
+POSITIVE	去化
+POSITIVE	去化
+POSITIVE	去化
+POSITIVE	去化
+POSITIVE	去化
+NEGATIVE	去 你 
+NEGATIVE	去 你 
+NEGATIVE	去 你 
+NEGATIVE	去 你 
+NEGATIVE	去 你 
+NEGATIVE	去 你 妹
+NEGATIVE	去 你 妹
+NEGATIVE	去 你 妹
+NEGATIVE	去 你 妹
+NEGATIVE	去 你 妹
+NEGATIVE	去 死
+NEGATIVE	去 死
+NEGATIVE	去 死
+NEGATIVE	去 死
+NEGATIVE	去 死
+NEGATIVE	圈套
+NEGATIVE	圈套
+NEGATIVE	圈套
+NEGATIVE	圈套
+NEGATIVE	圈套
+NEGATIVE	全军覆没
+NEGATIVE	全军覆没
+NEGATIVE	全军覆没
+NEGATIVE	全军覆没
+NEGATIVE	全军覆没
+POSITIVE	全力支持
+POSITIVE	全力支持
+POSITIVE	全力支持
+POSITIVE	全力支持
+POSITIVE	全力支持
+POSITIVE	全面反弹
+POSITIVE	全面反弹
+POSITIVE	全面反弹
+POSITIVE	全面反弹
+POSITIVE	全面反弹
+POSITIVE	全面 推广
+POSITIVE	全面 推广
+POSITIVE	全面 推广
+POSITIVE	全面 推广
+POSITIVE	全面 推广
+POSITIVE	全球 第一
+POSITIVE	全球 第一
+POSITIVE	全球 第一
+POSITIVE	全球 第一
+POSITIVE	全球 第一
+POSITIVE	全线 收涨
+POSITIVE	全线 收涨
+POSITIVE	全线 收涨
+POSITIVE	全线 收涨
+POSITIVE	全线 收涨
+NEGATIVE	劝退
+NEGATIVE	劝退
+NEGATIVE	劝退
+NEGATIVE	劝退
+NEGATIVE	劝退
+NEGATIVE	缺失
+NEGATIVE	缺失
+NEGATIVE	缺失
+NEGATIVE	缺失
+NEGATIVE	缺失
+POSITIVE	确定性
+POSITIVE	确定性
+POSITIVE	确定性
+POSITIVE	确定性
+POSITIVE	确定性
+POSITIVE	热
+POSITIVE	热
+POSITIVE	热
+POSITIVE	热
+POSITIVE	热
+POSITIVE	热潮
+POSITIVE	热潮
+POSITIVE	热潮
+POSITIVE	热潮
+POSITIVE	热潮
+POSITIVE	热炒
+POSITIVE	热炒
+POSITIVE	热炒
+POSITIVE	热炒
+POSITIVE	热炒
+NEGATIVE	变化  热点
+NEGATIVE	变化  热点
+NEGATIVE	变化  热点
+NEGATIVE	变化  热点
+NEGATIVE	变化  热点
+NEUTRAL	热点  
+NEUTRAL	热点  
+NEUTRAL	热点  
+NEUTRAL	热点  
+NEUTRAL	热点  
+NEGATIVE	易股抵债
+NEGATIVE	易股抵债
+NEGATIVE	易股抵债
+NEGATIVE	易股抵债
+NEGATIVE	易股抵债
+POSITIVE	热火朝天
+POSITIVE	热火朝天
+POSITIVE	热火朝天
+POSITIVE	热火朝天
+POSITIVE	热火朝天
+POSITIVE	热门
+POSITIVE	热门
+POSITIVE	热门
+POSITIVE	热门
+POSITIVE	热门
+POSITIVE	热捧
+POSITIVE	热捧
+POSITIVE	热捧
+POSITIVE	热捧
+POSITIVE	热捧
+NEGATIVE	热钱
+NEGATIVE	热钱
+NEGATIVE	热钱
+NEGATIVE	热钱
+NEGATIVE	热钱
+POSITIVE	热情
+POSITIVE	热情
+POSITIVE	热情
+POSITIVE	热情
+POSITIVE	热情
+POSITIVE	人气
+POSITIVE	人气
+POSITIVE	人气
+POSITIVE	人气
+POSITIVE	人气
+NEGATIVE	人为
+NEGATIVE	人为
+NEGATIVE	人为
+NEGATIVE	人为
+NEGATIVE	人为
+POSITIVE	认购
+POSITIVE	认购
+POSITIVE	认购
+POSITIVE	认购
+POSITIVE	认购
+POSITIVE	认可
+POSITIVE	认可
+POSITIVE	认可
+POSITIVE	认可
+POSITIVE	认可
+POSITIVE	认同
+POSITIVE	认同
+POSITIVE	认同
+POSITIVE	认同
+POSITIVE	认同
+NEGATIVE	日 你 妈
+NEGATIVE	日 你 妈
+NEGATIVE	日 你 妈
+NEGATIVE	日 你 妈
+NEGATIVE	日 你 妈
+NEGATIVE	日 你 娘
+NEGATIVE	日 你 娘
+NEGATIVE	日 你 娘
+NEGATIVE	日 你 娘
+NEGATIVE	日 你 娘
+NEGATIVE	熔断
+NEGATIVE	熔断
+NEGATIVE	熔断
+NEGATIVE	熔断
+NEGATIVE	熔断
+NEGATIVE	如意算盘
+NEGATIVE	如意算盘
+NEGATIVE	如意算盘
+NEGATIVE	如意算盘
+NEGATIVE	如意算盘
+POSITIVE	入场
+POSITIVE	入场
+POSITIVE	入场
+POSITIVE	入场
+POSITIVE	入场
+POSITIVE	入股
+POSITIVE	入股
+POSITIVE	入股
+POSITIVE	入股
+POSITIVE	入股
+NEGATIVE	弱
+NEGATIVE	弱
+NEGATIVE	弱
+NEGATIVE	弱
+NEGATIVE	弱
+NEGATIVE	弱爆 了
+NEGATIVE	弱爆 了
+NEGATIVE	弱爆 了
+NEGATIVE	弱爆 了
+NEGATIVE	弱爆 了
+NEGATIVE	弱鸡
+NEGATIVE	弱鸡
+NEGATIVE	弱鸡
+NEGATIVE	弱鸡
+NEGATIVE	弱鸡
+NEGATIVE	弱市
+NEGATIVE	弱市
+NEGATIVE	弱市
+NEGATIVE	弱市
+NEGATIVE	弱市
+NEGATIVE	弱势
+NEGATIVE	弱势
+NEGATIVE	弱势
+NEGATIVE	弱势
+NEGATIVE	弱势
+NEGATIVE	桑 心
+NEGATIVE	桑 心
+NEGATIVE	桑 心
+NEGATIVE	桑 心
+NEGATIVE	桑 心
+POSITIVE	扫货
+POSITIVE	扫货
+POSITIVE	扫货
+POSITIVE	扫货
+POSITIVE	扫货
+NEGATIVE	血流成河
+NEGATIVE	血流成河
+NEGATIVE	血流成河
+NEGATIVE	血流成河
+NEGATIVE	血流成河
+NEGATIVE	杀跌
+NEGATIVE	杀跌
+NEGATIVE	杀跌
+NEGATIVE	杀跌
+NEGATIVE	杀跌
+NEGATIVE	沙尘暴
+NEGATIVE	沙尘暴
+NEGATIVE	沙尘暴
+NEGATIVE	沙尘暴
+NEGATIVE	沙尘暴
+NEGATIVE	傻 
+NEGATIVE	傻 
+NEGATIVE	傻 
+NEGATIVE	傻 
+NEGATIVE	傻 
+NEGATIVE	傻 逼
+NEGATIVE	傻 逼
+NEGATIVE	傻 逼
+NEGATIVE	傻 逼
+NEGATIVE	傻 逼
+NEGATIVE	傻 狗
+NEGATIVE	傻 狗
+NEGATIVE	傻 狗
+NEGATIVE	傻 狗
+NEGATIVE	傻 狗
+NEGATIVE	煞笔
+NEGATIVE	煞笔
+NEGATIVE	煞笔
+NEGATIVE	煞笔
+NEGATIVE	煞笔
+NEGATIVE	闪崩
+NEGATIVE	闪崩
+NEGATIVE	闪崩
+NEGATIVE	闪崩
+NEGATIVE	闪崩
+NEGATIVE	闪电 开板
+NEGATIVE	闪电 开板
+NEGATIVE	闪电 开板
+NEGATIVE	闪电 开板
+NEGATIVE	闪电 开板
+NEGATIVE	告吹
+NEGATIVE	告吹
+NEGATIVE	告吹
+NEGATIVE	告吹
+NEGATIVE	告吹
+POSITIVE	新动向
+POSITIVE	新动向
+POSITIVE	新动向
+POSITIVE	新动向
+POSITIVE	新动向
+NEGATIVE	新 要求
+NEGATIVE	新 要求
+NEGATIVE	新 要求
+NEGATIVE	新 要求
+NEGATIVE	新 要求
+NEGATIVE	伤心
+NEGATIVE	伤心
+NEGATIVE	伤心
+NEGATIVE	伤心
+NEGATIVE	伤心
+POSITIVE	商机
+POSITIVE	商机
+POSITIVE	商机
+POSITIVE	商机
+POSITIVE	商机
+POSITIVE	上报
+POSITIVE	上报
+POSITIVE	上报
+POSITIVE	上报
+POSITIVE	上报
+NEGATIVE	上 蹿 下 跳
+NEGATIVE	上 蹿 下 跳
+NEGATIVE	上 蹿 下 跳
+NEGATIVE	上 蹿 下 跳
+NEGATIVE	上 蹿 下 跳
+POSITIVE	上攻
+POSITIVE	上攻
+POSITIVE	上攻
+POSITIVE	上攻
+POSITIVE	上攻
+POSITIVE	上轨
+POSITIVE	上轨
+POSITIVE	上轨
+POSITIVE	上轨
+POSITIVE	上轨
+POSITIVE	上行
+POSITIVE	上行
+POSITIVE	上行
+POSITIVE	上行
+POSITIVE	上行
+POSITIVE	上行 空间
+POSITIVE	上行 空间
+POSITIVE	上行 空间
+POSITIVE	上行 空间
+POSITIVE	上行 空间
+POSITIVE	上升
+POSITIVE	上升
+POSITIVE	上升
+POSITIVE	上升
+POSITIVE	上升
+NEGATIVE	限售  上市
+NEGATIVE	限售  上市
+NEGATIVE	限售  上市
+NEGATIVE	限售  上市
+NEGATIVE	限售  上市
+NEGATIVE	限售股  解禁
+NEGATIVE	限售股  解禁
+NEGATIVE	限售股  解禁
+NEGATIVE	限售股  解禁
+NEGATIVE	限售股  解禁
+NEGATIVE	解除 限售
+NEGATIVE	解除 限售
+NEGATIVE	解除 限售
+NEGATIVE	解除 限售
+NEGATIVE	解除 限售
+POSITIVE	上试
+POSITIVE	上试
+POSITIVE	上试
+POSITIVE	上试
+POSITIVE	上试
+POSITIVE	上 探
+POSITIVE	上 探
+POSITIVE	上 探
+POSITIVE	上 探
+POSITIVE	上 探
+POSITIVE	上调
+POSITIVE	上调
+POSITIVE	上调
+POSITIVE	上调
+POSITIVE	上调
+POSITIVE	上扬
+POSITIVE	上扬
+POSITIVE	上扬
+POSITIVE	上扬
+POSITIVE	上扬
+NEGATIVE	上 num 课
+NEGATIVE	上 num 课
+NEGATIVE	上 num 课
+NEGATIVE	上 num 课
+NEGATIVE	上 num 课
+POSITIVE	上移
+POSITIVE	上移
+POSITIVE	上移
+POSITIVE	上移
+POSITIVE	上移
+NEGATIVE	上瘾
+NEGATIVE	上瘾
+NEGATIVE	上瘾
+NEGATIVE	上瘾
+NEGATIVE	上瘾
+NEGATIVE	上影线
+NEGATIVE	上影线
+NEGATIVE	上影线
+NEGATIVE	上影线
+NEGATIVE	上影线
+POSITIVE	上涨
+POSITIVE	上涨
+POSITIVE	上涨
+POSITIVE	上涨
+POSITIVE	上涨
+NEGATIVE	上涨  成本
+NEGATIVE	上涨  成本
+NEGATIVE	上涨  成本
+NEGATIVE	上涨  成本
+NEGATIVE	上涨  成本
+NEUTRAL	烧钱
+NEUTRAL	烧钱
+NEUTRAL	烧钱
+NEUTRAL	烧钱
+NEUTRAL	烧钱
+NEGATIVE	少见
+NEGATIVE	少见
+NEGATIVE	少见
+NEGATIVE	少见
+NEGATIVE	少见
+NEGATIVE	涉嫌
+NEGATIVE	涉嫌
+NEGATIVE	涉嫌
+NEGATIVE	涉嫌
+NEGATIVE	涉嫌
+POSITIVE	申购
+POSITIVE	申购
+POSITIVE	申购
+POSITIVE	申购
+POSITIVE	申购
+NEGATIVE	申诉
+NEGATIVE	申诉
+NEGATIVE	申诉
+NEGATIVE	申诉
+NEGATIVE	申诉
+NEGATIVE	深蹲
+NEGATIVE	深蹲
+NEGATIVE	深蹲
+NEGATIVE	深蹲
+NEGATIVE	深蹲
+POSITIVE	深化
+POSITIVE	深化
+POSITIVE	深化
+POSITIVE	深化
+POSITIVE	深化
+POSITIVE	深化 布局
+POSITIVE	深化 布局
+POSITIVE	深化 布局
+POSITIVE	深化 布局
+POSITIVE	深化 布局
+POSITIVE	深化改革
+POSITIVE	深化改革
+POSITIVE	深化改革
+POSITIVE	深化改革
+POSITIVE	深化改革
+NEGATIVE	深套
+NEGATIVE	深套
+NEGATIVE	深套
+NEGATIVE	深套
+NEGATIVE	深套
+NEGATIVE	什么 玩意
+NEGATIVE	什么 玩意
+NEGATIVE	什么 玩意
+NEGATIVE	什么 玩意
+NEGATIVE	什么 玩意
+NEGATIVE	神经病
+NEGATIVE	神经病
+NEGATIVE	神经病
+NEGATIVE	神经病
+NEGATIVE	神经病
+POSITIVE	神助攻
+POSITIVE	神助攻
+POSITIVE	神助攻
+POSITIVE	神助攻
+POSITIVE	神助攻
+POSITIVE	升高
+POSITIVE	升高
+POSITIVE	升高
+POSITIVE	升高
+POSITIVE	升高
+POSITIVE	升级
+POSITIVE	升级
+POSITIVE	升级
+POSITIVE	升级
+POSITIVE	升级
+POSITIVE	升势
+POSITIVE	升势
+POSITIVE	升势
+POSITIVE	升势
+POSITIVE	升势
+POSITIVE	升温
+POSITIVE	升温
+POSITIVE	升温
+POSITIVE	升温
+POSITIVE	升温
+NEGATIVE	生变
+NEGATIVE	生变
+NEGATIVE	生变
+NEGATIVE	生变
+NEGATIVE	生变
+NEGATIVE	再生 变
+NEGATIVE	再生 变
+NEGATIVE	再生 变
+NEGATIVE	再生 变
+NEGATIVE	再生 变
+NEGATIVE	生气
+NEGATIVE	生气
+NEGATIVE	生气
+NEGATIVE	生气
+NEGATIVE	生气
+POSITIVE	胜利
+POSITIVE	胜利
+POSITIVE	胜利
+POSITIVE	胜利
+POSITIVE	胜利
+POSITIVE	胜诉
+POSITIVE	胜诉
+POSITIVE	胜诉
+POSITIVE	胜诉
+POSITIVE	胜诉
+NEGATIVE	失败
+NEGATIVE	失败
+NEGATIVE	失败
+NEGATIVE	失败
+NEGATIVE	失败
+NEGATIVE	失利
+NEGATIVE	失利
+NEGATIVE	失利
+NEGATIVE	失利
+NEGATIVE	失利
+NEGATIVE	失去
+NEGATIVE	失去
+NEGATIVE	失去
+NEGATIVE	失去
+NEGATIVE	失去
+NEGATIVE	失守
+NEGATIVE	失守
+NEGATIVE	失守
+NEGATIVE	失守
+NEGATIVE	失守
+NEGATIVE	失望
+NEGATIVE	失望
+NEGATIVE	失望
+NEGATIVE	失望
+NEGATIVE	失望
+NEGATIVE	失效
+NEGATIVE	失效
+NEGATIVE	失效
+NEGATIVE	失效
+NEGATIVE	失效
+NEGATIVE	失信
+NEGATIVE	失信
+NEGATIVE	失信
+NEGATIVE	失信
+NEGATIVE	失信
+NEGATIVE	实施 ST
+NEGATIVE	实施 ST
+NEGATIVE	实施 ST
+NEGATIVE	实施 ST
+NEGATIVE	实施 ST
+NEGATIVE	事故
+NEGATIVE	事故
+NEGATIVE	事故
+NEGATIVE	事故
+NEGATIVE	事故
+POSITIVE	试点
+POSITIVE	试点
+POSITIVE	试点
+POSITIVE	试点
+POSITIVE	试点
+POSITIVE	试水
+POSITIVE	试水
+POSITIVE	试水
+POSITIVE	试水
+POSITIVE	试水
+POSITIVE	试验区
+POSITIVE	试验区
+POSITIVE	试验区
+POSITIVE	试验区
+POSITIVE	试验区
+POSITIVE	收复
+POSITIVE	收复
+POSITIVE	收复
+POSITIVE	收复
+POSITIVE	收复
+POSITIVE	收复 失地
+POSITIVE	收复 失地
+POSITIVE	收复 失地
+POSITIVE	收复 失地
+POSITIVE	收复 失地
+POSITIVE	收购
+POSITIVE	收购
+POSITIVE	收购
+POSITIVE	收购
+POSITIVE	收购
+POSITIVE	收红
+POSITIVE	收红
+POSITIVE	收红
+POSITIVE	收红
+POSITIVE	收红
+POSITIVE	收回
+POSITIVE	收回
+POSITIVE	收回
+POSITIVE	收回
+POSITIVE	收回
+NEGATIVE	收紧
+NEGATIVE	收紧
+NEGATIVE	收紧
+NEGATIVE	收紧
+NEGATIVE	收紧
+NEGATIVE	收绿
+NEGATIVE	收绿
+NEGATIVE	收绿
+NEGATIVE	收绿
+NEGATIVE	收绿
+NEGATIVE	收阴
+NEGATIVE	收阴
+NEGATIVE	收阴
+NEGATIVE	收阴
+NEGATIVE	收阴
+POSITIVE	收涨
+POSITIVE	收涨
+POSITIVE	收涨
+POSITIVE	收涨
+POSITIVE	收涨
+NEGATIVE	守不住
+NEGATIVE	守不住
+NEGATIVE	守不住
+NEGATIVE	守不住
+NEGATIVE	守不住
+NEGATIVE	守住
+NEGATIVE	守住
+NEGATIVE	守住
+NEGATIVE	守住
+NEGATIVE	守住
+POSITIVE	首发
+POSITIVE	首发
+POSITIVE	首发
+POSITIVE	首发
+POSITIVE	首发
+POSITIVE	首批
+POSITIVE	首批
+POSITIVE	首批
+POSITIVE	首批
+POSITIVE	首批
+POSITIVE	独家
+POSITIVE	独家
+POSITIVE	独家
+POSITIVE	独家
+POSITIVE	独家
+NEGATIVE	受挫
+NEGATIVE	受挫
+NEGATIVE	受挫
+NEGATIVE	受挫
+NEGATIVE	受挫
+POSITIVE	受捧
+POSITIVE	受捧
+POSITIVE	受捧
+POSITIVE	受捧
+POSITIVE	受捧
+POSITIVE	受让
+POSITIVE	受让
+POSITIVE	受让
+POSITIVE	受让
+POSITIVE	受让
+NEGATIVE	受压
+NEGATIVE	受压
+NEGATIVE	受压
+NEGATIVE	受压
+NEGATIVE	受压
+POSITIVE	受益
+POSITIVE	受益
+POSITIVE	受益
+POSITIVE	受益
+POSITIVE	受益
+NEGATIVE	受阻
+NEGATIVE	受阻
+NEGATIVE	受阻
+NEGATIVE	受阻
+NEGATIVE	受阻
+POSITIVE	授信
+POSITIVE	授信
+POSITIVE	授信
+POSITIVE	授信
+POSITIVE	授信
+NEGATIVE	输家
+NEGATIVE	输家
+NEGATIVE	输家
+NEGATIVE	输家
+NEGATIVE	输家
+NEGATIVE	赎回
+NEGATIVE	赎回
+NEGATIVE	赎回
+NEGATIVE	赎回
+NEGATIVE	赎回
+POSITIVE	刷新
+POSITIVE	刷新
+POSITIVE	刷新
+POSITIVE	刷新
+POSITIVE	刷新
+NEGATIVE	耍人
+NEGATIVE	耍人
+NEGATIVE	耍人
+NEGATIVE	耍人
+NEGATIVE	耍人
+NEGATIVE	甩卖
+NEGATIVE	甩卖
+NEGATIVE	甩卖
+NEGATIVE	甩卖
+NEGATIVE	甩卖
+NEGATIVE	特卖
+NEGATIVE	特卖
+NEGATIVE	特卖
+NEGATIVE	特卖
+NEGATIVE	特卖
+POSITIVE	双核驱动
+POSITIVE	双核驱动
+POSITIVE	双核驱动
+POSITIVE	双核驱动
+POSITIVE	双核驱动
+NEGATIVE	双线 压力
+NEGATIVE	双线 压力
+NEGATIVE	双线 压力
+NEGATIVE	双线 压力
+NEGATIVE	双线 压力
+NEGATIVE	双重压制
+NEGATIVE	双重压制
+NEGATIVE	双重压制
+NEGATIVE	双重压制
+NEGATIVE	双重压制
+POSITIVE	谁与争锋
+POSITIVE	谁与争锋
+POSITIVE	谁与争锋
+POSITIVE	谁与争锋
+POSITIVE	谁与争锋
+NEGATIVE	水分
+NEGATIVE	水分
+NEGATIVE	水分
+NEGATIVE	水分
+NEGATIVE	水分
+POSITIVE	水涨船高
+POSITIVE	水涨船高
+POSITIVE	水涨船高
+POSITIVE	水涨船高
+POSITIVE	水涨船高
+NEGATIVE	诉讼
+NEGATIVE	诉讼
+NEGATIVE	诉讼
+NEGATIVE	诉讼
+NEGATIVE	诉讼
+NEGATIVE	应诉
+NEGATIVE	应诉
+NEGATIVE	应诉
+NEGATIVE	应诉
+NEGATIVE	应诉
+NEGATIVE	损失
+NEGATIVE	损失
+NEGATIVE	损失
+NEGATIVE	损失
+NEGATIVE	损失
+NEGATIVE	损失惨重
+NEGATIVE	损失惨重
+NEGATIVE	损失惨重
+NEGATIVE	损失惨重
+NEGATIVE	损失惨重
+NEGATIVE	缩减
+NEGATIVE	缩减
+NEGATIVE	缩减
+NEGATIVE	缩减
+NEGATIVE	缩减
+NEGATIVE	缩紧
+NEGATIVE	缩紧
+NEGATIVE	缩紧
+NEGATIVE	缩紧
+NEGATIVE	缩紧
+NEGATIVE	缩量
+NEGATIVE	缩量
+NEGATIVE	缩量
+NEGATIVE	缩量
+NEGATIVE	缩量
+NEGATIVE	缩量微涨
+NEGATIVE	缩量微涨
+NEGATIVE	缩量微涨
+NEGATIVE	缩量微涨
+NEGATIVE	缩量微涨
+NEGATIVE	缩水
+NEGATIVE	缩水
+NEGATIVE	缩水
+NEGATIVE	缩水
+NEGATIVE	缩水
+NEUTRAL	人选  缩小
+NEUTRAL	人选  缩小
+NEUTRAL	人选  缩小
+NEUTRAL	人选  缩小
+NEUTRAL	人选  缩小
+NEGATIVE	他妈的
+NEGATIVE	他妈的
+NEGATIVE	他妈的
+NEGATIVE	他妈的
+NEGATIVE	他妈的
+NEGATIVE	他 奶奶 的
+NEGATIVE	他 奶奶 的
+NEGATIVE	他 奶奶 的
+NEGATIVE	他 奶奶 的
+NEGATIVE	他 奶奶 的
+NEGATIVE	他 娘 的
+NEGATIVE	他 娘 的
+NEGATIVE	他 娘 的
+NEGATIVE	他 娘 的
+NEGATIVE	他 娘 的
+POSITIVE	踏准
+POSITIVE	踏准
+POSITIVE	踏准
+POSITIVE	踏准
+POSITIVE	踏准
+NEGATIVE	太差 劲
+NEGATIVE	太差 劲
+NEGATIVE	太差 劲
+NEGATIVE	太差 劲
+NEGATIVE	太差 劲
+NEGATIVE	太高
+NEGATIVE	太高
+NEGATIVE	太高
+NEGATIVE	太高
+NEGATIVE	太高
+NEGATIVE	太 烂
+NEGATIVE	太 烂
+NEGATIVE	太 烂
+NEGATIVE	太 烂
+NEGATIVE	太 烂
+NEGATIVE	太弱 了
+NEGATIVE	太弱 了
+NEGATIVE	太弱 了
+NEGATIVE	太弱 了
+NEGATIVE	太弱 了
+NEGATIVE	太 伤心
+NEGATIVE	太 伤心
+NEGATIVE	太 伤心
+NEGATIVE	太 伤心
+NEGATIVE	太 伤心
+NEGATIVE	贪污
+NEGATIVE	贪污
+NEGATIVE	贪污
+NEGATIVE	贪污
+NEGATIVE	贪污
+NEGATIVE	昙花一现
+NEGATIVE	昙花一现
+NEGATIVE	昙花一现
+NEGATIVE	昙花一现
+NEGATIVE	昙花一现
+NEGATIVE	探底
+NEGATIVE	探底
+NEGATIVE	探底
+NEGATIVE	探底
+NEGATIVE	探底
+POSITIVE	探路
+POSITIVE	探路
+POSITIVE	探路
+POSITIVE	探路
+POSITIVE	探路
+POSITIVE	逃顶
+POSITIVE	逃顶
+POSITIVE	逃顶
+POSITIVE	逃顶
+POSITIVE	逃顶
+NEGATIVE	套牢
+NEGATIVE	套牢
+NEGATIVE	套牢
+NEGATIVE	套牢
+NEGATIVE	套牢
+NEGATIVE	套 了
+NEGATIVE	套 了
+NEGATIVE	套 了
+NEGATIVE	套 了
+NEGATIVE	套 了
+POSITIVE	腾笼换鸟
+POSITIVE	腾笼换鸟
+POSITIVE	腾笼换鸟
+POSITIVE	腾笼换鸟
+POSITIVE	腾笼换鸟
+POSITIVE	提前 布局
+POSITIVE	提前 布局
+POSITIVE	提前 布局
+POSITIVE	提前 布局
+POSITIVE	提前 布局
+POSITIVE	提升
+POSITIVE	提升
+POSITIVE	提升
+POSITIVE	提升
+POSITIVE	提升
+POSITIVE	提速
+POSITIVE	提速
+POSITIVE	提速
+POSITIVE	提速
+POSITIVE	提速
+POSITIVE	更上层楼
+POSITIVE	更上层楼
+POSITIVE	更上层楼
+POSITIVE	更上层楼
+POSITIVE	更上层楼
+NEGATIVE	提醒
+NEGATIVE	提醒
+NEGATIVE	提醒
+NEGATIVE	提醒
+NEGATIVE	提醒
+POSITIVE	提振
+POSITIVE	提振
+POSITIVE	提振
+POSITIVE	提振
+POSITIVE	提振
+NEGATIVE	天使投资
+NEGATIVE	天使投资
+NEGATIVE	天使投资
+NEGATIVE	天使投资
+NEGATIVE	天使投资
+POSITIVE	添 新军
+POSITIVE	添 新军
+POSITIVE	添 新军
+POSITIVE	添 新军
+POSITIVE	添 新军
+NEGATIVE	调降
+NEGATIVE	调降
+NEGATIVE	调降
+NEGATIVE	调降
+NEGATIVE	调降
+NEGATIVE	调控
+NEGATIVE	调控
+NEGATIVE	调控
+NEGATIVE	调控
+NEGATIVE	调控
+NEGATIVE	调控 升级
+NEGATIVE	调控 升级
+NEGATIVE	调控 升级
+NEGATIVE	调控 升级
+NEGATIVE	调控 升级
+POSITIVE	调研
+POSITIVE	调研
+POSITIVE	调研
+POSITIVE	调研
+POSITIVE	调研
+NEGATIVE	调整
+NEGATIVE	调整
+NEGATIVE	调整
+NEGATIVE	调整
+NEGATIVE	调整
+POSITIVE	破产 重整
+POSITIVE	破产 重整
+POSITIVE	破产 重整
+POSITIVE	破产 重整
+POSITIVE	破产 重整
+NEGATIVE	跳空低开
+NEGATIVE	跳空低开
+NEGATIVE	跳空低开
+NEGATIVE	跳空低开
+NEGATIVE	跳空低开
+POSITIVE	跳空高开
+POSITIVE	跳空高开
+POSITIVE	跳空高开
+POSITIVE	跳空高开
+POSITIVE	跳空高开
+NEGATIVE	跳水
+NEGATIVE	跳水
+NEGATIVE	跳水
+NEGATIVE	跳水
+NEGATIVE	跳水
+NEGATIVE	庭审
+NEGATIVE	庭审
+NEGATIVE	庭审
+NEGATIVE	庭审
+NEGATIVE	庭审
+NEGATIVE	停产
+NEGATIVE	停产
+NEGATIVE	停产
+NEGATIVE	停产
+NEGATIVE	停产
+NEGATIVE	停牌 核查
+NEGATIVE	停牌 核查
+NEGATIVE	停牌 核查
+NEGATIVE	停牌 核查
+NEGATIVE	停牌 核查
+NEGATIVE	停牌 核查
+NEGATIVE	停牌 核查
+NEGATIVE	停牌 核查
+NEGATIVE	停牌 核查
+NEGATIVE	停牌 核查
+NEGATIVE	停牌 自查
+NEGATIVE	停牌 自查
+NEGATIVE	停牌 自查
+NEGATIVE	停牌 自查
+NEGATIVE	停牌 自查
+NEGATIVE	停牌 自查
+NEGATIVE	停牌 自查
+NEGATIVE	停牌 自查
+NEGATIVE	停牌 自查
+NEGATIVE	停牌 自查
+NEGATIVE	停售
+NEGATIVE	停售
+NEGATIVE	停售
+NEGATIVE	停售
+NEGATIVE	停售
+NEGATIVE	同室操戈
+NEGATIVE	同室操戈
+NEGATIVE	同室操戈
+NEGATIVE	同室操戈
+NEGATIVE	同室操戈
+NEGATIVE	痛
+NEGATIVE	痛
+NEGATIVE	痛
+NEGATIVE	痛
+NEGATIVE	痛
+POSITIVE	偷袭
+POSITIVE	偷袭
+POSITIVE	偷袭
+POSITIVE	偷袭
+POSITIVE	偷袭
+POSITIVE	投产
+POSITIVE	投产
+POSITIVE	投产
+POSITIVE	投产
+POSITIVE	投产
+POSITIVE	投建
+POSITIVE	投建
+POSITIVE	投建
+POSITIVE	投建
+POSITIVE	投建
+POSITIVE	投入
+POSITIVE	投入
+POSITIVE	投入
+POSITIVE	投入
+POSITIVE	投入
+NEUTRAL	需 投入
+NEUTRAL	需 投入
+NEUTRAL	需 投入
+NEUTRAL	需 投入
+NEUTRAL	需 投入
+NEUTRAL	还 得 投入
+NEUTRAL	还 得 投入
+NEUTRAL	还 得 投入
+NEUTRAL	还 得 投入
+NEUTRAL	还 得 投入
+NEGATIVE	投诉
+NEGATIVE	投诉
+NEGATIVE	投诉
+NEGATIVE	投诉
+NEGATIVE	投诉
+NEGATIVE	投诉 你
+NEGATIVE	投诉 你
+NEGATIVE	投诉 你
+NEGATIVE	投诉 你
+NEGATIVE	投诉 你
+POSITIVE	投资 爆点
+POSITIVE	投资 爆点
+POSITIVE	投资 爆点
+POSITIVE	投资 爆点
+POSITIVE	投资 爆点
+POSITIVE	投资 价值
+POSITIVE	投资 价值
+POSITIVE	投资 价值
+POSITIVE	投资 价值
+POSITIVE	投资 价值
+NEGATIVE	透 你 妈
+NEGATIVE	透 你 妈
+NEGATIVE	透 你 妈
+NEGATIVE	透 你 妈
+NEGATIVE	透 你 妈
+POSITIVE	凸显
+POSITIVE	凸显
+POSITIVE	凸显
+POSITIVE	凸显
+POSITIVE	凸显
+POSITIVE	突破
+POSITIVE	突破
+POSITIVE	突破
+POSITIVE	突破
+POSITIVE	突破
+NEGATIVE	吐血 了
+NEGATIVE	吐血 了
+NEGATIVE	吐血 了
+NEGATIVE	吐血 了
+NEGATIVE	吐血 了
+POSITIVE	推动
+POSITIVE	推动
+POSITIVE	推动
+POSITIVE	推动
+POSITIVE	推动
+POSITIVE	推荐
+POSITIVE	推荐
+POSITIVE	推荐
+POSITIVE	推荐
+POSITIVE	推荐
+POSITIVE	推进
+POSITIVE	推进
+POSITIVE	推进
+POSITIVE	推进
+POSITIVE	推进
+NEGATIVE	退场
+NEGATIVE	退场
+NEGATIVE	退场
+NEGATIVE	退场
+NEGATIVE	退场
+NEGATIVE	退潮
+NEGATIVE	退潮
+NEGATIVE	退潮
+NEGATIVE	退潮
+NEGATIVE	退潮
+NEGATIVE	退出
+NEGATIVE	退出
+NEGATIVE	退出
+NEGATIVE	退出
+NEGATIVE	退出
+NEGATIVE	退市
+NEGATIVE	退市
+NEGATIVE	退市
+NEGATIVE	退市
+NEGATIVE	退市
+NEGATIVE	退 我 钱
+NEGATIVE	退 我 钱
+NEGATIVE	退 我 钱
+NEGATIVE	退 我 钱
+NEGATIVE	退 我 钱
+NEGATIVE	拖累
+NEGATIVE	拖累
+NEGATIVE	拖累
+NEGATIVE	拖累
+NEGATIVE	拖累
+POSITIVE	脱离
+POSITIVE	脱离
+POSITIVE	脱离
+POSITIVE	脱离
+POSITIVE	脱离
+NEGATIVE	脱媒
+NEGATIVE	脱媒
+NEGATIVE	脱媒
+NEGATIVE	脱媒
+NEGATIVE	脱媒
+NEGATIVE	唾弃
+NEGATIVE	唾弃
+NEGATIVE	唾弃
+NEGATIVE	唾弃
+NEGATIVE	唾弃
+NEGATIVE	挖坑
+NEGATIVE	挖坑
+NEGATIVE	挖坑
+NEGATIVE	挖坑
+NEGATIVE	挖坑
+POSITIVE	完成 交接
+POSITIVE	完成 交接
+POSITIVE	完成 交接
+POSITIVE	完成 交接
+POSITIVE	完成 交接
+NEGATIVE	完蛋
+NEGATIVE	完蛋
+NEGATIVE	完蛋
+NEGATIVE	完蛋
+NEGATIVE	完蛋
+POSITIVE	完美
+POSITIVE	完美
+POSITIVE	完美
+POSITIVE	完美
+POSITIVE	完美
+POSITIVE	完善
+POSITIVE	完善
+POSITIVE	完善
+POSITIVE	完善
+POSITIVE	完善
+NEGATIVE	王八 蛋
+NEGATIVE	王八 蛋
+NEGATIVE	王八 蛋
+NEGATIVE	王八 蛋
+NEGATIVE	王八 蛋
+POSITIVE	王者
+POSITIVE	王者
+POSITIVE	王者
+POSITIVE	王者
+POSITIVE	王者
+NEGATIVE	妄想
+NEGATIVE	妄想
+NEGATIVE	妄想
+NEGATIVE	妄想
+NEGATIVE	妄想
+POSITIVE	旺盛
+POSITIVE	旺盛
+POSITIVE	旺盛
+POSITIVE	旺盛
+POSITIVE	旺盛
+NEGATIVE	望 改进
+NEGATIVE	望 改进
+NEGATIVE	望 改进
+NEGATIVE	望 改进
+NEGATIVE	望 改进
+NEGATIVE	危机
+NEGATIVE	危机
+NEGATIVE	危机
+NEGATIVE	危机
+NEGATIVE	危机
+NEGATIVE	微弱
+NEGATIVE	微弱
+NEGATIVE	微弱
+NEGATIVE	微弱
+NEGATIVE	微弱
+POSITIVE	微升
+POSITIVE	微升
+POSITIVE	微升
+POSITIVE	微升
+POSITIVE	微升
+POSITIVE	微涨
+POSITIVE	微涨
+POSITIVE	微涨
+POSITIVE	微涨
+POSITIVE	微涨
+NEGATIVE	违法
+NEGATIVE	违法
+NEGATIVE	违法
+NEGATIVE	违法
+NEGATIVE	违法
+NEGATIVE	违法 行为
+NEGATIVE	违法 行为
+NEGATIVE	违法 行为
+NEGATIVE	违法 行为
+NEGATIVE	违法 行为
+NEGATIVE	违规
+NEGATIVE	违规
+NEGATIVE	违规
+NEGATIVE	违规
+NEGATIVE	违规
+NEGATIVE	违约金
+NEGATIVE	违约金
+NEGATIVE	违约金
+NEGATIVE	违约金
+NEGATIVE	违约金
+NEGATIVE	违约
+NEGATIVE	违约
+NEGATIVE	违约
+NEGATIVE	违约
+NEGATIVE	违约
+NEGATIVE	围猎
+NEGATIVE	围猎
+NEGATIVE	围猎
+NEGATIVE	围猎
+NEGATIVE	围猎
+POSITIVE	维稳
+POSITIVE	维稳
+POSITIVE	维稳
+POSITIVE	维稳
+POSITIVE	维稳
+POSITIVE	伟大
+POSITIVE	伟大
+POSITIVE	伟大
+POSITIVE	伟大
+POSITIVE	伟大
+NEGATIVE	伪 市值 管理
+NEGATIVE	伪 市值 管理
+NEGATIVE	伪 市值 管理
+NEGATIVE	伪 市值 管理
+NEGATIVE	伪 市值 管理
+NEGATIVE	萎缩
+NEGATIVE	萎缩
+NEGATIVE	萎缩
+NEGATIVE	萎缩
+NEGATIVE	萎缩
+NEGATIVE	未 按期
+NEGATIVE	未 按期
+NEGATIVE	未 按期
+NEGATIVE	未 按期
+NEGATIVE	未 按期
+NEGATIVE	无法 按期
+NEGATIVE	无法 按期
+NEGATIVE	无法 按期
+NEGATIVE	无法 按期
+NEGATIVE	无法 按期
+NEGATIVE	未 偿付
+NEGATIVE	未 偿付
+NEGATIVE	未 偿付
+NEGATIVE	未 偿付
+NEGATIVE	未 偿付
+NEGATIVE	未 回复
+NEGATIVE	未 回复
+NEGATIVE	未 回复
+NEGATIVE	未 回复
+NEGATIVE	未 回复
+NEGATIVE	未 通过
+NEGATIVE	未 通过
+NEGATIVE	未 通过
+NEGATIVE	未 通过
+NEGATIVE	未 通过
+NEGATIVE	没  通过
+NEGATIVE	没  通过
+NEGATIVE	没  通过
+NEGATIVE	没  通过
+NEGATIVE	没  通过
+NEGATIVE	清零
+NEGATIVE	清零
+NEGATIVE	清零
+NEGATIVE	清零
+NEGATIVE	清零
+NEGATIVE	成 废纸
+NEGATIVE	成 废纸
+NEGATIVE	成 废纸
+NEGATIVE	成 废纸
+NEGATIVE	成 废纸
+POSITIVE	稳
+POSITIVE	稳
+POSITIVE	稳
+POSITIVE	稳
+POSITIVE	稳
+POSITIVE	稳步
+POSITIVE	稳步
+POSITIVE	稳步
+POSITIVE	稳步
+POSITIVE	稳步
+POSITIVE	稳步 前行
+POSITIVE	稳步 前行
+POSITIVE	稳步 前行
+POSITIVE	稳步 前行
+POSITIVE	稳步 前行
+POSITIVE	稳步上移
+POSITIVE	稳步上移
+POSITIVE	稳步上移
+POSITIVE	稳步上移
+POSITIVE	稳步上移
+POSITIVE	稳步 提升
+POSITIVE	稳步 提升
+POSITIVE	稳步 提升
+POSITIVE	稳步 提升
+POSITIVE	稳步 提升
+POSITIVE	稳步推进
+POSITIVE	稳步推进
+POSITIVE	稳步推进
+POSITIVE	稳步推进
+POSITIVE	稳步推进
+POSITIVE	收到  清偿 款
+POSITIVE	收到  清偿 款
+POSITIVE	收到  清偿 款
+POSITIVE	收到  清偿 款
+POSITIVE	收到  清偿 款
+POSITIVE	清偿 款  收到
+POSITIVE	清偿 款  收到
+POSITIVE	清偿 款  收到
+POSITIVE	清偿 款  收到
+POSITIVE	清偿 款  收到
+POSITIVE	稳健
+POSITIVE	稳健
+POSITIVE	稳健
+POSITIVE	稳健
+POSITIVE	稳健
+POSITIVE	稳健 增长
+POSITIVE	稳健 增长
+POSITIVE	稳健 增长
+POSITIVE	稳健 增长
+POSITIVE	稳健 增长
+POSITIVE	稳中有升
+POSITIVE	稳中有升
+POSITIVE	稳中有升
+POSITIVE	稳中有升
+POSITIVE	稳中有升
+NEGATIVE	问询
+NEGATIVE	问询
+NEGATIVE	问询
+NEGATIVE	问询
+NEGATIVE	问询
+NEGATIVE	num 次  问询
+NEGATIVE	num 次  问询
+NEGATIVE	num 次  问询
+NEGATIVE	num 次  问询
+NEGATIVE	num 次  问询
+NEGATIVE	num 次  问询
+NEGATIVE	num 次  问询
+NEGATIVE	num 次  问询
+NEGATIVE	num 次  问询
+NEGATIVE	num 次  问询
+NEGATIVE	回复 问询  延期
+NEGATIVE	回复 问询  延期
+NEGATIVE	回复 问询  延期
+NEGATIVE	回复 问询  延期
+NEGATIVE	回复 问询  延期
+NEGATIVE	问责
+NEGATIVE	问责
+NEGATIVE	问责
+NEGATIVE	问责
+NEGATIVE	问责
+NEGATIVE	我 擦
+NEGATIVE	我 擦
+NEGATIVE	我 擦
+NEGATIVE	我 擦
+NEGATIVE	我 擦
+NEGATIVE	我 操
+NEGATIVE	我 操
+NEGATIVE	我 操
+NEGATIVE	我 操
+NEGATIVE	我 操
+NEGATIVE	卧槽
+NEGATIVE	卧槽
+NEGATIVE	卧槽
+NEGATIVE	卧槽
+NEGATIVE	卧槽
+NEGATIVE	污染
+NEGATIVE	污染
+NEGATIVE	污染
+NEGATIVE	污染
+NEGATIVE	污染
+NEGATIVE	无脑
+NEGATIVE	无脑
+NEGATIVE	无脑
+NEGATIVE	无脑
+NEGATIVE	无脑
+POSITIVE	无忧
+POSITIVE	无忧
+POSITIVE	无忧
+POSITIVE	无忧
+POSITIVE	无忧
+POSITIVE	吸并
+POSITIVE	吸并
+POSITIVE	吸并
+POSITIVE	吸并
+POSITIVE	吸并
+POSITIVE	吸筹
+POSITIVE	吸筹
+POSITIVE	吸筹
+POSITIVE	吸筹
+POSITIVE	吸筹
+POSITIVE	吸货
+POSITIVE	吸货
+POSITIVE	吸货
+POSITIVE	吸货
+POSITIVE	吸货
+POSITIVE	吸纳
+POSITIVE	吸纳
+POSITIVE	吸纳
+POSITIVE	吸纳
+POSITIVE	吸纳
+NEGATIVE	吸取 经验
+NEGATIVE	吸取 经验
+NEGATIVE	吸取 经验
+NEGATIVE	吸取 经验
+NEGATIVE	吸取 经验
+POSITIVE	吸收 合并
+POSITIVE	吸收 合并
+POSITIVE	吸收 合并
+POSITIVE	吸收 合并
+POSITIVE	吸收 合并
+POSITIVE	吸引
+POSITIVE	吸引
+POSITIVE	吸引
+POSITIVE	吸引
+POSITIVE	吸引
+POSITIVE	吸引 投资
+POSITIVE	吸引 投资
+POSITIVE	吸引 投资
+POSITIVE	吸引 投资
+POSITIVE	吸引 投资
+POSITIVE	稀缺
+POSITIVE	稀缺
+POSITIVE	稀缺
+POSITIVE	稀缺
+POSITIVE	稀缺
+NEGATIVE	熄火
+NEGATIVE	熄火
+NEGATIVE	熄火
+NEGATIVE	熄火
+NEGATIVE	熄火
+NEGATIVE	洗盘
+NEGATIVE	洗盘
+NEGATIVE	洗盘
+NEGATIVE	洗盘
+NEGATIVE	洗盘
+NEGATIVE	洗牌
+NEGATIVE	洗牌
+NEGATIVE	洗牌
+NEGATIVE	洗牌
+NEGATIVE	洗牌
+POSITIVE	喜报
+POSITIVE	喜报
+POSITIVE	喜报
+POSITIVE	喜报
+POSITIVE	喜报
+NEGATIVE	瞎 搞
+NEGATIVE	瞎 搞
+NEGATIVE	瞎 搞
+NEGATIVE	瞎 搞
+NEGATIVE	瞎 搞
+NEGATIVE	瑕疵
+NEGATIVE	瑕疵
+NEGATIVE	瑕疵
+NEGATIVE	瑕疵
+NEGATIVE	瑕疵
+NEGATIVE	下挫
+NEGATIVE	下挫
+NEGATIVE	下挫
+NEGATIVE	下挫
+NEGATIVE	下挫
+NEGATIVE	下轨
+NEGATIVE	下轨
+NEGATIVE	下轨
+NEGATIVE	下轨
+NEGATIVE	下轨
+NEGATIVE	下行
+NEGATIVE	下行
+NEGATIVE	下行
+NEGATIVE	下行
+NEGATIVE	下行
+NEGATIVE	下 狠 手
+NEGATIVE	下 狠 手
+NEGATIVE	下 狠 手
+NEGATIVE	下 狠 手
+NEGATIVE	下 狠 手
+NEGATIVE	下滑
+NEGATIVE	下滑
+NEGATIVE	下滑
+NEGATIVE	下滑
+NEGATIVE	下滑
+NEGATIVE	下降
+NEGATIVE	下降
+NEGATIVE	下降
+NEGATIVE	下降
+NEGATIVE	下降
+NEGATIVE	下降 通道
+NEGATIVE	下降 通道
+NEGATIVE	下降 通道
+NEGATIVE	下降 通道
+NEGATIVE	下降 通道
+NEGATIVE	下试
+NEGATIVE	下试
+NEGATIVE	下试
+NEGATIVE	下试
+NEGATIVE	下试
+NEGATIVE	下探
+NEGATIVE	下探
+NEGATIVE	下探
+NEGATIVE	下探
+NEGATIVE	下探
+NEGATIVE	下调
+NEGATIVE	下调
+NEGATIVE	下调
+NEGATIVE	下调
+NEGATIVE	下调
+POSITIVE	先进
+POSITIVE	先进
+POSITIVE	先进
+POSITIVE	先进
+POSITIVE	先进
+POSITIVE	掀涨停潮
+POSITIVE	掀涨停潮
+POSITIVE	掀涨停潮
+POSITIVE	掀涨停潮
+POSITIVE	掀涨停潮
+POSITIVE	掀涨停潮
+POSITIVE	掀涨停潮
+POSITIVE	掀涨停潮
+POSITIVE	掀涨停潮
+POSITIVE	掀涨停潮
+NEGATIVE	嫌 贵
+NEGATIVE	嫌 贵
+NEGATIVE	嫌 贵
+NEGATIVE	嫌 贵
+NEGATIVE	嫌 贵
+NEGATIVE	显威
+NEGATIVE	显威
+NEGATIVE	显威
+NEGATIVE	显威
+NEGATIVE	显威
+POSITIVE	显效
+POSITIVE	显效
+POSITIVE	显效
+POSITIVE	显效
+POSITIVE	显效
+POSITIVE	显 信心
+POSITIVE	显 信心
+POSITIVE	显 信心
+POSITIVE	显 信心
+POSITIVE	显 信心
+NEGATIVE	显著分化
+NEGATIVE	显著分化
+NEGATIVE	显著分化
+NEGATIVE	显著分化
+NEGATIVE	显著分化
+POSITIVE	显著 提升
+POSITIVE	显著 提升
+POSITIVE	显著 提升
+POSITIVE	显著 提升
+POSITIVE	显著 提升
+NEGATIVE	陷阱
+NEGATIVE	陷阱
+NEGATIVE	陷阱
+NEGATIVE	陷阱
+NEGATIVE	陷阱
+NEGATIVE	陷入
+NEGATIVE	陷入
+NEGATIVE	陷入
+NEGATIVE	陷入
+NEGATIVE	陷入
+NEGATIVE	箱体
+NEGATIVE	箱体
+NEGATIVE	箱体
+NEGATIVE	箱体
+NEGATIVE	箱体
+POSITIVE	享受
+POSITIVE	享受
+POSITIVE	享受
+POSITIVE	享受
+POSITIVE	享受
+NEGATIVE	想 打 人
+NEGATIVE	想 打 人
+NEGATIVE	想 打 人
+NEGATIVE	想 打 人
+NEGATIVE	想 打 人
+NEGATIVE	想 骂 人
+NEGATIVE	想 骂 人
+NEGATIVE	想 骂 人
+NEGATIVE	想 骂 人
+NEGATIVE	想 骂 人
+POSITIVE	向好
+POSITIVE	向好
+POSITIVE	向好
+POSITIVE	向好
+POSITIVE	向好
+POSITIVE	向上
+POSITIVE	向上
+POSITIVE	向上
+POSITIVE	向上
+POSITIVE	向上
+POSITIVE	向上 通道
+POSITIVE	向上 通道
+POSITIVE	向上 通道
+POSITIVE	向上 通道
+POSITIVE	向上 通道
+NEGATIVE	向下
+NEGATIVE	向下
+NEGATIVE	向下
+NEGATIVE	向下
+NEGATIVE	向下
+NEGATIVE	消极
+NEGATIVE	消极
+NEGATIVE	消极
+NEGATIVE	消极
+NEGATIVE	消极
+NEGATIVE	销声匿迹
+NEGATIVE	销声匿迹
+NEGATIVE	销声匿迹
+NEGATIVE	销声匿迹
+NEGATIVE	销声匿迹
+POSITIVE	小幅高开
+POSITIVE	小幅高开
+POSITIVE	小幅高开
+POSITIVE	小幅高开
+POSITIVE	小幅高开
+NEGATIVE	小幅下跌
+NEGATIVE	小幅下跌
+NEGATIVE	小幅下跌
+NEGATIVE	小幅下跌
+NEGATIVE	小幅下跌
+NEGATIVE	小幅下探
+NEGATIVE	小幅下探
+NEGATIVE	小幅下探
+NEGATIVE	小幅下探
+NEGATIVE	小幅下探
+POSITIVE	小碎步
+POSITIVE	小碎步
+POSITIVE	小碎步
+POSITIVE	小碎步
+POSITIVE	小碎步
+POSITIVE	小 甜甜
+POSITIVE	小 甜甜
+POSITIVE	小 甜甜
+POSITIVE	小 甜甜
+POSITIVE	小 甜甜
+NEGATIVE	小心
+NEGATIVE	小心
+NEGATIVE	小心
+NEGATIVE	小心
+NEGATIVE	小心
+POSITIVE	小阳
+POSITIVE	小阳
+POSITIVE	小阳
+POSITIVE	小阳
+POSITIVE	小阳
+NEGATIVE	歇脚
+NEGATIVE	歇脚
+NEGATIVE	歇脚
+NEGATIVE	歇脚
+NEGATIVE	歇脚
+NEGATIVE	歇歇
+NEGATIVE	歇歇
+NEGATIVE	歇歇
+NEGATIVE	歇歇
+NEGATIVE	歇歇
+NEGATIVE	泄露
+NEGATIVE	泄露
+NEGATIVE	泄露
+NEGATIVE	泄露
+NEGATIVE	泄露
+NEGATIVE	心电图
+NEGATIVE	心电图
+NEGATIVE	心电图
+NEGATIVE	心电图
+NEGATIVE	心电图
+POSITIVE	新宠
+POSITIVE	新宠
+POSITIVE	新宠
+POSITIVE	新宠
+POSITIVE	新宠
+POSITIVE	新 动力
+POSITIVE	新 动力
+POSITIVE	新 动力
+POSITIVE	新 动力
+POSITIVE	新 动力
+POSITIVE	新风 口
+POSITIVE	新风 口
+POSITIVE	新风 口
+POSITIVE	新风 口
+POSITIVE	新风 口
+POSITIVE	新 风向标
+POSITIVE	新 风向标
+POSITIVE	新 风向标
+POSITIVE	新 风向标
+POSITIVE	新 风向标
+POSITIVE	新高
+POSITIVE	新高
+POSITIVE	新高
+POSITIVE	新高
+POSITIVE	新高
+POSITIVE	新格局
+POSITIVE	新格局
+POSITIVE	新格局
+POSITIVE	新格局
+POSITIVE	新格局
+POSITIVE	新贵
+POSITIVE	新贵
+POSITIVE	新贵
+POSITIVE	新贵
+POSITIVE	新贵
+POSITIVE	新航 程
+POSITIVE	新航 程
+POSITIVE	新航 程
+POSITIVE	新航 程
+POSITIVE	新航 程
+POSITIVE	新 机会
+POSITIVE	新 机会
+POSITIVE	新 机会
+POSITIVE	新 机会
+POSITIVE	新 机会
+POSITIVE	新机遇
+POSITIVE	新机遇
+POSITIVE	新机遇
+POSITIVE	新机遇
+POSITIVE	新机遇
+POSITIVE	新阶段
+POSITIVE	新阶段
+POSITIVE	新阶段
+POSITIVE	新阶段
+POSITIVE	新阶段
+POSITIVE	新聘
+POSITIVE	新聘
+POSITIVE	新聘
+POSITIVE	新聘
+POSITIVE	新聘
+POSITIVE	新势力
+POSITIVE	新势力
+POSITIVE	新势力
+POSITIVE	新势力
+POSITIVE	新势力
+POSITIVE	新 需求
+POSITIVE	新 需求
+POSITIVE	新 需求
+POSITIVE	新 需求
+POSITIVE	新 需求
+POSITIVE	新征 途
+POSITIVE	新征 途
+POSITIVE	新征 途
+POSITIVE	新征 途
+POSITIVE	新征 途
+POSITIVE	新 重点
+POSITIVE	新 重点
+POSITIVE	新 重点
+POSITIVE	新 重点
+POSITIVE	新 重点
+POSITIVE	新 作为
+POSITIVE	新 作为
+POSITIVE	新 作为
+POSITIVE	新 作为
+POSITIVE	新 作为
+NEGATIVE	信任危机
+NEGATIVE	信任危机
+NEGATIVE	信任危机
+NEGATIVE	信任危机
+NEGATIVE	信任危机
+POSITIVE	信心
+POSITIVE	信心
+POSITIVE	信心
+POSITIVE	信心
+POSITIVE	信心
+POSITIVE	信心 提升
+POSITIVE	信心 提升
+POSITIVE	信心 提升
+POSITIVE	信心 提升
+POSITIVE	信心 提升
+POSITIVE	信仰
+POSITIVE	信仰
+POSITIVE	信仰
+POSITIVE	信仰
+POSITIVE	信仰
+POSITIVE	兴趣点
+POSITIVE	兴趣点
+POSITIVE	兴趣点
+POSITIVE	兴趣点
+POSITIVE	兴趣点
+POSITIVE	雄厚
+POSITIVE	雄厚
+POSITIVE	雄厚
+POSITIVE	雄厚
+POSITIVE	雄厚
+POSITIVE	雄起
+POSITIVE	雄起
+POSITIVE	雄起
+POSITIVE	雄起
+POSITIVE	雄起
+NEGATIVE	熊
+NEGATIVE	熊
+NEGATIVE	熊
+NEGATIVE	熊
+NEGATIVE	熊
+NEGATIVE	熊市
+NEGATIVE	熊市
+NEGATIVE	熊市
+NEGATIVE	熊市
+NEGATIVE	熊市
+NEGATIVE	休整
+NEGATIVE	休整
+NEGATIVE	休整
+NEGATIVE	休整
+NEGATIVE	休整
+POSITIVE	修复
+POSITIVE	修复
+POSITIVE	修复
+POSITIVE	修复
+POSITIVE	修复
+NEGATIVE	虚假
+NEGATIVE	虚假
+NEGATIVE	虚假
+NEGATIVE	虚假
+NEGATIVE	虚假
+NEGATIVE	虚增 收入
+NEGATIVE	虚增 收入
+NEGATIVE	虚增 收入
+NEGATIVE	虚增 收入
+NEGATIVE	虚增 收入
+POSITIVE	续盈
+POSITIVE	续盈
+POSITIVE	续盈
+POSITIVE	续盈
+POSITIVE	续盈
+POSITIVE	蓄势
+POSITIVE	蓄势
+POSITIVE	蓄势
+POSITIVE	蓄势
+POSITIVE	蓄势
+NEGATIVE	逊于
+NEGATIVE	逊于
+NEGATIVE	逊于
+NEGATIVE	逊于
+NEGATIVE	逊于
+NEGATIVE	逊 预期
+NEGATIVE	逊 预期
+NEGATIVE	逊 预期
+NEGATIVE	逊 预期
+NEGATIVE	逊 预期
+NEGATIVE	压力
+NEGATIVE	压力
+NEGATIVE	压力
+NEGATIVE	压力
+NEGATIVE	压力
+NEGATIVE	压缩
+NEGATIVE	压缩
+NEGATIVE	压缩
+NEGATIVE	压缩
+NEGATIVE	压缩
+NEGATIVE	压抑已久
+NEGATIVE	压抑已久
+NEGATIVE	压抑已久
+NEGATIVE	压抑已久
+NEGATIVE	压抑已久
+NEGATIVE	烫手 山芋
+NEGATIVE	烫手 山芋
+NEGATIVE	烫手 山芋
+NEGATIVE	烫手 山芋
+NEGATIVE	烫手 山芋
+NEGATIVE	压制
+NEGATIVE	压制
+NEGATIVE	压制
+NEGATIVE	压制
+NEGATIVE	压制
+NEGATIVE	严查
+NEGATIVE	严查
+NEGATIVE	严查
+NEGATIVE	严查
+NEGATIVE	严查
+NEGATIVE	严管
+NEGATIVE	严管
+NEGATIVE	严管
+NEGATIVE	严管
+NEGATIVE	严管
+NEGATIVE	严峻
+NEGATIVE	严峻
+NEGATIVE	严峻
+NEGATIVE	严峻
+NEGATIVE	严峻
+NEGATIVE	严控
+NEGATIVE	严控
+NEGATIVE	严控
+NEGATIVE	严控
+NEGATIVE	严控
+NEGATIVE	严重
+NEGATIVE	严重
+NEGATIVE	严重
+NEGATIVE	严重
+NEGATIVE	严重
+NEGATIVE	厌恶
+NEGATIVE	厌恶
+NEGATIVE	厌恶
+NEGATIVE	厌恶
+NEGATIVE	厌恶
+POSITIVE	扬帆 远行
+POSITIVE	扬帆 远行
+POSITIVE	扬帆 远行
+POSITIVE	扬帆 远行
+POSITIVE	扬帆 远行
+POSITIVE	阳线
+POSITIVE	阳线
+POSITIVE	阳线
+POSITIVE	阳线
+POSITIVE	阳线
+NEGATIVE	要 死 了
+NEGATIVE	要 死 了
+NEGATIVE	要 死 了
+NEGATIVE	要 死 了
+NEGATIVE	要 死 了
+NEGATIVE	要 投诉
+NEGATIVE	要 投诉
+NEGATIVE	要 投诉
+NEGATIVE	要 投诉
+NEGATIVE	要 投诉
+NEGATIVE	要 吐血
+NEGATIVE	要 吐血
+NEGATIVE	要 吐血
+NEGATIVE	要 吐血
+NEGATIVE	要 吐血
+POSITIVE	要约 收购
+POSITIVE	要约 收购
+POSITIVE	要约 收购
+POSITIVE	要约 收购
+POSITIVE	要约 收购
+NEGATIVE	野蛮人
+NEGATIVE	野蛮人
+NEGATIVE	野蛮人
+NEGATIVE	野蛮人
+NEGATIVE	野蛮人
+POSITIVE	业绩 稳定
+POSITIVE	业绩 稳定
+POSITIVE	业绩 稳定
+POSITIVE	业绩 稳定
+POSITIVE	业绩 稳定
+POSITIVE	业绩 喜人
+POSITIVE	业绩 喜人
+POSITIVE	业绩 喜人
+POSITIVE	业绩 喜人
+POSITIVE	业绩 喜人
+NEGATIVE	业绩 预 减
+NEGATIVE	业绩 预 减
+NEGATIVE	业绩 预 减
+NEGATIVE	业绩 预 减
+NEGATIVE	业绩 预 减
+POSITIVE	业绩 预增
+POSITIVE	业绩 预增
+POSITIVE	业绩 预增
+POSITIVE	业绩 预增
+POSITIVE	业绩 预增
+POSITIVE	业绩 增长
+POSITIVE	业绩 增长
+POSITIVE	业绩 增长
+POSITIVE	业绩 增长
+POSITIVE	业绩 增长
+NEGATIVE	一地鸡毛
+NEGATIVE	一地鸡毛
+NEGATIVE	一地鸡毛
+NEGATIVE	一地鸡毛
+NEGATIVE	一地鸡毛
+POSITIVE	一流
+POSITIVE	一流
+POSITIVE	一流
+POSITIVE	一流
+POSITIVE	一流
+POSITIVE	num 火
+POSITIVE	num 火
+POSITIVE	num 火
+POSITIVE	num 火
+POSITIVE	num 火
+POSITIVE	一体化
+POSITIVE	一体化
+POSITIVE	一体化
+POSITIVE	一体化
+POSITIVE	一体化
+POSITIVE	已 出清
+POSITIVE	已 出清
+POSITIVE	已 出清
+POSITIVE	已 出清
+POSITIVE	已 出清
+POSITIVE	异军突起
+POSITIVE	异军突起
+POSITIVE	异军突起
+POSITIVE	异军突起
+POSITIVE	异军突起
+NEGATIVE	抑制
+NEGATIVE	抑制
+NEGATIVE	抑制
+NEGATIVE	抑制
+NEGATIVE	抑制
+POSITIVE	溢价
+POSITIVE	溢价
+POSITIVE	溢价
+POSITIVE	溢价
+POSITIVE	溢价
+NEGATIVE	阴
+NEGATIVE	阴
+NEGATIVE	阴
+NEGATIVE	阴
+NEGATIVE	阴
+NEGATIVE	阴霾
+NEGATIVE	阴霾
+NEGATIVE	阴霾
+NEGATIVE	阴霾
+NEGATIVE	阴霾
+NEGATIVE	阴线
+NEGATIVE	阴线
+NEGATIVE	阴线
+NEGATIVE	阴线
+NEGATIVE	阴线
+NEGATIVE	阴影
+NEGATIVE	阴影
+NEGATIVE	阴影
+NEGATIVE	阴影
+NEGATIVE	阴影
+POSITIVE	引爆
+POSITIVE	引爆
+POSITIVE	引爆
+POSITIVE	引爆
+POSITIVE	引爆
+POSITIVE	引领
+POSITIVE	引领
+POSITIVE	引领
+POSITIVE	引领
+POSITIVE	引领
+POSITIVE	引擎
+POSITIVE	引擎
+POSITIVE	引擎
+POSITIVE	引擎
+POSITIVE	引擎
+NEGATIVE	隐患
+NEGATIVE	隐患
+NEGATIVE	隐患
+NEGATIVE	隐患
+NEGATIVE	隐患
+NEGATIVE	隐忧
+NEGATIVE	隐忧
+NEGATIVE	隐忧
+NEGATIVE	隐忧
+NEGATIVE	隐忧
+POSITIVE	英雄
+POSITIVE	英雄
+POSITIVE	英雄
+POSITIVE	英雄
+POSITIVE	英雄
+POSITIVE	迎风 起舞
+POSITIVE	迎风 起舞
+POSITIVE	迎风 起舞
+POSITIVE	迎风 起舞
+POSITIVE	迎风 起舞
+POSITIVE	迎来
+POSITIVE	迎来
+POSITIVE	迎来
+POSITIVE	迎来
+POSITIVE	迎来
+POSITIVE	盈利
+POSITIVE	盈利
+POSITIVE	盈利
+POSITIVE	盈利
+POSITIVE	盈利
+POSITIVE	盈利 提升
+POSITIVE	盈利 提升
+POSITIVE	盈利 提升
+POSITIVE	盈利 提升
+POSITIVE	盈利 提升
+POSITIVE	赢家
+POSITIVE	赢家
+POSITIVE	赢家
+POSITIVE	赢家
+POSITIVE	赢家
+NEGATIVE	影响 有限
+NEGATIVE	影响 有限
+NEGATIVE	影响 有限
+NEGATIVE	影响 有限
+NEGATIVE	影响 有限
+NEGATIVE	影子银行
+NEGATIVE	影子银行
+NEGATIVE	影子银行
+NEGATIVE	影子银行
+NEGATIVE	影子银行
+NEGATIVE	应付账款
+NEGATIVE	应付账款
+NEGATIVE	应付账款
+NEGATIVE	应付账款
+NEGATIVE	应付账款
+NEGATIVE	应收账款
+NEGATIVE	应收账款
+NEGATIVE	应收账款
+NEGATIVE	应收账款
+NEGATIVE	应收账款
+POSITIVE	拥有
+POSITIVE	拥有
+POSITIVE	拥有
+POSITIVE	拥有
+POSITIVE	拥有
+POSITIVE	勇敢
+POSITIVE	勇敢
+POSITIVE	勇敢
+POSITIVE	勇敢
+POSITIVE	勇敢
+POSITIVE	涌动
+POSITIVE	涌动
+POSITIVE	涌动
+POSITIVE	涌动
+POSITIVE	涌动
+POSITIVE	踊跃
+POSITIVE	踊跃
+POSITIVE	踊跃
+POSITIVE	踊跃
+POSITIVE	踊跃
+POSITIVE	优惠
+POSITIVE	优惠
+POSITIVE	优惠
+POSITIVE	优惠
+POSITIVE	优惠
+POSITIVE	优势
+POSITIVE	优势
+POSITIVE	优势
+POSITIVE	优势
+POSITIVE	优势
+POSITIVE	优秀
+POSITIVE	优秀
+POSITIVE	优秀
+POSITIVE	优秀
+POSITIVE	优秀
+POSITIVE	优于
+POSITIVE	优于
+POSITIVE	优于
+POSITIVE	优于
+POSITIVE	优于
+POSITIVE	优质
+POSITIVE	优质
+POSITIVE	优质
+POSITIVE	优质
+POSITIVE	优质
+POSITIVE	优质 龙头
+POSITIVE	优质 龙头
+POSITIVE	优质 龙头
+POSITIVE	优质 龙头
+POSITIVE	优质 龙头
+NEGATIVE	忧郁
+NEGATIVE	忧郁
+NEGATIVE	忧郁
+NEGATIVE	忧郁
+NEGATIVE	忧郁
+POSITIVE	游刃有余
+POSITIVE	游刃有余
+POSITIVE	游刃有余
+POSITIVE	游刃有余
+POSITIVE	游刃有余
+NEGATIVE	有病
+NEGATIVE	有病
+NEGATIVE	有病
+NEGATIVE	有病
+NEGATIVE	有病
+NEGATIVE	有 卵 用
+NEGATIVE	有 卵 用
+NEGATIVE	有 卵 用
+NEGATIVE	有 卵 用
+NEGATIVE	有 卵 用
+POSITIVE	有钱
+POSITIVE	有钱
+POSITIVE	有钱
+POSITIVE	有钱
+POSITIVE	有钱
+POSITIVE	有所 表现
+POSITIVE	有所 表现
+POSITIVE	有所 表现
+POSITIVE	有所 表现
+POSITIVE	有所 表现
+POSITIVE	有戏
+POSITIVE	有戏
+POSITIVE	有戏
+POSITIVE	有戏
+POSITIVE	有戏
+POSITIVE	有效
+POSITIVE	有效
+POSITIVE	有效
+POSITIVE	有效
+POSITIVE	有效
+POSITIVE	有序 轮 动
+POSITIVE	有序 轮 动
+POSITIVE	有序 轮 动
+POSITIVE	有序 轮 动
+POSITIVE	有序 轮 动
+POSITIVE	有 优势
+POSITIVE	有 优势
+POSITIVE	有 优势
+POSITIVE	有 优势
+POSITIVE	有 优势
+NEGATIVE	诱多
+NEGATIVE	诱多
+NEGATIVE	诱多
+NEGATIVE	诱多
+NEGATIVE	诱多
+NEGATIVE	诱惑
+NEGATIVE	诱惑
+NEGATIVE	诱惑
+NEGATIVE	诱惑
+NEGATIVE	诱惑
+NEGATIVE	郁闷
+NEGATIVE	郁闷
+NEGATIVE	郁闷
+NEGATIVE	郁闷
+NEGATIVE	郁闷
+NEGATIVE	预警
+NEGATIVE	预警
+NEGATIVE	预警
+NEGATIVE	预警
+NEGATIVE	预警
+POSITIVE	预喜
+POSITIVE	预喜
+POSITIVE	预喜
+POSITIVE	预喜
+POSITIVE	预喜
+POSITIVE	预增
+POSITIVE	预增
+POSITIVE	预增
+POSITIVE	预增
+POSITIVE	预增
+NEGATIVE	元凶
+NEGATIVE	元凶
+NEGATIVE	元凶
+NEGATIVE	元凶
+NEGATIVE	元凶
+POSITIVE	原告方
+POSITIVE	原告方
+POSITIVE	原告方
+POSITIVE	原告方
+POSITIVE	原告方
+POSITIVE	圆满
+POSITIVE	圆满
+POSITIVE	圆满
+POSITIVE	圆满
+POSITIVE	圆满
+POSITIVE	圆满 收官
+POSITIVE	圆满 收官
+POSITIVE	圆满 收官
+POSITIVE	圆满 收官
+POSITIVE	圆满 收官
+NEGATIVE	远离
+NEGATIVE	远离
+NEGATIVE	远离
+NEGATIVE	远离
+NEGATIVE	远离
+POSITIVE	愿景
+POSITIVE	愿景
+POSITIVE	愿景
+POSITIVE	愿景
+POSITIVE	愿景
+NEGATIVE	约谈
+NEGATIVE	约谈
+NEGATIVE	约谈
+NEGATIVE	约谈
+NEGATIVE	约谈
+NEGATIVE	月跌
+NEGATIVE	月跌
+NEGATIVE	月跌
+NEGATIVE	月跌
+NEGATIVE	月跌
+POSITIVE	越过
+POSITIVE	越过
+POSITIVE	越过
+POSITIVE	越过
+POSITIVE	越过
+POSITIVE	越来越 好
+POSITIVE	越来越 好
+POSITIVE	越来越 好
+POSITIVE	越来越 好
+POSITIVE	越来越 好
+POSITIVE	酝酿
+POSITIVE	酝酿
+POSITIVE	酝酿
+POSITIVE	酝酿
+POSITIVE	酝酿
+NEGATIVE	砸盘
+NEGATIVE	砸盘
+NEGATIVE	砸盘
+NEGATIVE	砸盘
+NEGATIVE	砸盘
+NEGATIVE	灾害
+NEGATIVE	灾害
+NEGATIVE	灾害
+NEGATIVE	灾害
+NEGATIVE	灾害
+NEGATIVE	灾难性
+NEGATIVE	灾难性
+NEGATIVE	灾难性
+NEGATIVE	灾难性
+NEGATIVE	灾难性
+NEGATIVE	灾区
+NEGATIVE	灾区
+NEGATIVE	灾区
+NEGATIVE	灾区
+NEGATIVE	灾区
+POSITIVE	再创新高
+POSITIVE	再创新高
+POSITIVE	再创新高
+POSITIVE	再创新高
+POSITIVE	再创新高
+POSITIVE	再下一城
+POSITIVE	再下一城
+POSITIVE	再下一城
+POSITIVE	再下一城
+POSITIVE	再下一城
+NEGATIVE	在 出清
+NEGATIVE	在 出清
+NEGATIVE	在 出清
+NEGATIVE	在 出清
+NEGATIVE	在 出清
+NEGATIVE	暂失
+NEGATIVE	暂失
+NEGATIVE	暂失
+NEGATIVE	暂失
+NEGATIVE	暂失
+NEGATIVE	暂停
+NEGATIVE	暂停
+NEGATIVE	暂停
+NEGATIVE	暂停
+NEGATIVE	暂停
+NEGATIVE	暂停 上市
+NEGATIVE	暂停 上市
+NEGATIVE	暂停 上市
+NEGATIVE	暂停 上市
+NEGATIVE	暂停 上市
+NEGATIVE	信息 披露
+NEGATIVE	信息 披露
+NEGATIVE	信息 披露
+NEGATIVE	信息 披露
+NEGATIVE	信息 披露
+POSITIVE	股东 数  减少
+POSITIVE	股东 数  减少
+POSITIVE	股东 数  减少
+POSITIVE	股东 数  减少
+POSITIVE	股东 数  减少
+POSITIVE	化 坚冰
+POSITIVE	化 坚冰
+POSITIVE	化 坚冰
+POSITIVE	化 坚冰
+POSITIVE	化 坚冰
+NEGATIVE	信披
+NEGATIVE	信披
+NEGATIVE	信披
+NEGATIVE	信披
+NEGATIVE	信披
+NEGATIVE	遭遇
+NEGATIVE	遭遇
+NEGATIVE	遭遇
+NEGATIVE	遭遇
+NEGATIVE	遭遇
+NEGATIVE	噪音
+NEGATIVE	噪音
+NEGATIVE	噪音
+NEGATIVE	噪音
+NEGATIVE	噪音
+POSITIVE	躁动
+POSITIVE	躁动
+POSITIVE	躁动
+POSITIVE	躁动
+POSITIVE	躁动
+NEGATIVE	责任 追究
+NEGATIVE	责任 追究
+NEGATIVE	责任 追究
+NEGATIVE	责任 追究
+NEGATIVE	责任 追究
+POSITIVE	增仓
+POSITIVE	增仓
+POSITIVE	增仓
+POSITIVE	增仓
+POSITIVE	增仓
+POSITIVE	增持
+POSITIVE	增持
+POSITIVE	增持
+POSITIVE	增持
+POSITIVE	增持
+NEGATIVE	不 咋样
+NEGATIVE	不 咋样
+NEGATIVE	不 咋样
+NEGATIVE	不 咋样
+NEGATIVE	不 咋样
+POSITIVE	补仓
+POSITIVE	补仓
+POSITIVE	补仓
+POSITIVE	补仓
+POSITIVE	补仓
+POSITIVE	增幅 明显
+POSITIVE	增幅 明显
+POSITIVE	增幅 明显
+POSITIVE	增幅 明显
+POSITIVE	增幅 明显
+POSITIVE	增量
+POSITIVE	增量
+POSITIVE	增量
+POSITIVE	增量
+POSITIVE	增量
+POSITIVE	增强
+POSITIVE	增强
+POSITIVE	增强
+POSITIVE	增强
+POSITIVE	增强
+POSITIVE	增信
+POSITIVE	增信
+POSITIVE	增信
+POSITIVE	增信
+POSITIVE	增信
+POSITIVE	增长
+POSITIVE	增长
+POSITIVE	增长
+POSITIVE	增长
+POSITIVE	增长
+POSITIVE	增长 动能
+POSITIVE	增长 动能
+POSITIVE	增长 动能
+POSITIVE	增长 动能
+POSITIVE	增长 动能
+POSITIVE	增资
+POSITIVE	增资
+POSITIVE	增资
+POSITIVE	增资
+POSITIVE	增资
+NEGATIVE	扎紧
+NEGATIVE	扎紧
+NEGATIVE	扎紧
+NEGATIVE	扎紧
+NEGATIVE	扎紧
+NEGATIVE	诈骗
+NEGATIVE	诈骗
+NEGATIVE	诈骗
+NEGATIVE	诈骗
+NEGATIVE	诈骗
+NEGATIVE	炸板
+NEGATIVE	炸板
+NEGATIVE	炸板
+NEGATIVE	炸板
+NEGATIVE	炸板
+NEGATIVE	炸弹
+NEGATIVE	炸弹
+NEGATIVE	炸弹
+NEGATIVE	炸弹
+NEGATIVE	炸弹
+POSITIVE	摘帽
+POSITIVE	摘帽
+POSITIVE	摘帽
+POSITIVE	摘帽
+POSITIVE	摘帽
+POSITIVE	摘星
+POSITIVE	摘星
+POSITIVE	摘星
+POSITIVE	摘星
+POSITIVE	摘星
+NEGATIVE	债权人
+NEGATIVE	债权人
+NEGATIVE	债权人
+NEGATIVE	债权人
+NEGATIVE	债权人
+POSITIVE	战略投资者
+POSITIVE	战略投资者
+POSITIVE	战略投资者
+POSITIVE	战略投资者
+POSITIVE	战略投资者
+POSITIVE	战投
+POSITIVE	战投
+POSITIVE	战投
+POSITIVE	战投
+POSITIVE	战投
+NEGATIVE	站岗
+NEGATIVE	站岗
+NEGATIVE	站岗
+NEGATIVE	站岗
+NEGATIVE	站岗
+POSITIVE	站上
+POSITIVE	站上
+POSITIVE	站上
+POSITIVE	站上
+POSITIVE	站上
+POSITIVE	站台
+POSITIVE	站台
+POSITIVE	站台
+POSITIVE	站台
+POSITIVE	站台
+POSITIVE	站稳
+POSITIVE	站稳
+POSITIVE	站稳
+POSITIVE	站稳
+POSITIVE	站稳
+POSITIVE	长虹
+POSITIVE	长虹
+POSITIVE	长虹
+POSITIVE	长虹
+POSITIVE	长虹
+POSITIVE	长阳
+POSITIVE	长阳
+POSITIVE	长阳
+POSITIVE	长阳
+POSITIVE	长阳
+NEGATIVE	长阴
+NEGATIVE	长阴
+NEGATIVE	长阴
+NEGATIVE	长阴
+NEGATIVE	长阴
+POSITIVE	涨
+POSITIVE	涨
+POSITIVE	涨
+POSITIVE	涨
+POSITIVE	涨
+POSITIVE	涨多跌少
+POSITIVE	涨多跌少
+POSITIVE	涨多跌少
+POSITIVE	涨多跌少
+POSITIVE	涨多跌少
+POSITIVE	涨价
+POSITIVE	涨价
+POSITIVE	涨价
+POSITIVE	涨价
+POSITIVE	涨价
+POSITIVE	涨价潮
+POSITIVE	涨价潮
+POSITIVE	涨价潮
+POSITIVE	涨价潮
+POSITIVE	涨价潮
+POSITIVE	涨停
+POSITIVE	涨停
+POSITIVE	涨停
+POSITIVE	涨停
+POSITIVE	涨停
+POSITIVE	涨停板
+POSITIVE	涨停板
+POSITIVE	涨停板
+POSITIVE	涨停板
+POSITIVE	涨停板
+POSITIVE	涨停潮
+POSITIVE	涨停潮
+POSITIVE	涨停潮
+POSITIVE	涨停潮
+POSITIVE	涨停潮
+POSITIVE	涨逾
+POSITIVE	涨逾
+POSITIVE	涨逾
+POSITIVE	涨逾
+POSITIVE	涨逾
+POSITIVE	掌舵
+POSITIVE	掌舵
+POSITIVE	掌舵
+POSITIVE	掌舵
+POSITIVE	掌舵
+NEGATIVE	障碍
+NEGATIVE	障碍
+NEGATIVE	障碍
+NEGATIVE	障碍
+NEGATIVE	障碍
+POSITIVE	招工
+POSITIVE	招工
+POSITIVE	招工
+POSITIVE	招工
+POSITIVE	招工
+POSITIVE	招股
+POSITIVE	招股
+POSITIVE	招股
+POSITIVE	招股
+POSITIVE	招股
+POSITIVE	招人
+POSITIVE	招人
+POSITIVE	招人
+POSITIVE	招人
+POSITIVE	招人
+NEGATIVE	逾期 债务
+NEGATIVE	逾期 债务
+NEGATIVE	逾期 债务
+NEGATIVE	逾期 债务
+NEGATIVE	逾期 债务
+NEGATIVE	召回
+NEGATIVE	召回
+NEGATIVE	召回
+NEGATIVE	召回
+NEGATIVE	召回
+NEGATIVE	折戟
+NEGATIVE	折戟
+NEGATIVE	折戟
+NEGATIVE	折戟
+NEGATIVE	折戟
+NEGATIVE	真 差劲
+NEGATIVE	真 差劲
+NEGATIVE	真 差劲
+NEGATIVE	真 差劲
+NEGATIVE	真 差劲
+NEGATIVE	真的 服 了
+NEGATIVE	真的 服 了
+NEGATIVE	真的 服 了
+NEGATIVE	真的 服 了
+NEGATIVE	真的 服 了
+NEGATIVE	真的 够 了
+NEGATIVE	真的 够 了
+NEGATIVE	真的 够 了
+NEGATIVE	真的 够 了
+NEGATIVE	真的 够 了
+NEGATIVE	真 服 了
+NEGATIVE	真 服 了
+NEGATIVE	真 服 了
+NEGATIVE	真 服 了
+NEGATIVE	真 服 了
+NEGATIVE	真是 醉 了
+NEGATIVE	真是 醉 了
+NEGATIVE	真是 醉 了
+NEGATIVE	真是 醉 了
+NEGATIVE	真是 醉 了
+POSITIVE	震荡 攀升
+POSITIVE	震荡 攀升
+POSITIVE	震荡 攀升
+POSITIVE	震荡 攀升
+POSITIVE	震荡 攀升
+POSITIVE	震荡 上涨
+POSITIVE	震荡 上涨
+POSITIVE	震荡 上涨
+POSITIVE	震荡 上涨
+POSITIVE	震荡 上涨
+POSITIVE	震荡 收涨
+POSITIVE	震荡 收涨
+POSITIVE	震荡 收涨
+POSITIVE	震荡 收涨
+POSITIVE	震荡 收涨
+POSITIVE	震荡 走高
+POSITIVE	震荡 走高
+POSITIVE	震荡 走高
+POSITIVE	震荡 走高
+POSITIVE	震荡 走高
+NEGATIVE	争执
+NEGATIVE	争执
+NEGATIVE	争执
+NEGATIVE	争执
+NEGATIVE	争执
+NEGATIVE	争
+NEGATIVE	争
+NEGATIVE	争
+NEGATIVE	争
+NEGATIVE	争
+POSITIVE	征服
+POSITIVE	征服
+POSITIVE	征服
+POSITIVE	征服
+POSITIVE	征服
+NEGATIVE	市值  蒸发
+NEGATIVE	市值  蒸发
+NEGATIVE	市值  蒸发
+NEGATIVE	市值  蒸发
+NEGATIVE	市值  蒸发
+POSITIVE	拯救
+POSITIVE	拯救
+POSITIVE	拯救
+POSITIVE	拯救
+POSITIVE	拯救
+NEGATIVE	整改
+NEGATIVE	整改
+NEGATIVE	整改
+NEGATIVE	整改
+NEGATIVE	整改
+POSITIVE	整固
+POSITIVE	整固
+POSITIVE	整固
+POSITIVE	整固
+POSITIVE	整固
+POSITIVE	整合
+POSITIVE	整合
+POSITIVE	整合
+POSITIVE	整合
+POSITIVE	整合
+NEGATIVE	整理
+NEGATIVE	整理
+NEGATIVE	整理
+NEGATIVE	整理
+NEGATIVE	整理
+POSITIVE	正面
+POSITIVE	正面
+POSITIVE	正面
+POSITIVE	正面
+POSITIVE	正面
+NEGATIVE	政策性 调整
+NEGATIVE	政策性 调整
+NEGATIVE	政策性 调整
+NEGATIVE	政策性 调整
+NEGATIVE	政策性 调整
+POSITIVE	政策性 补贴
+POSITIVE	政策性 补贴
+POSITIVE	政策性 补贴
+POSITIVE	政策性 补贴
+POSITIVE	政策性 补贴
+POSITIVE	支撑
+POSITIVE	支撑
+POSITIVE	支撑
+POSITIVE	支撑
+POSITIVE	支撑
+POSITIVE	支撑位
+POSITIVE	支撑位
+POSITIVE	支撑位
+POSITIVE	支撑位
+POSITIVE	支撑位
+POSITIVE	支持 政策
+POSITIVE	支持 政策
+POSITIVE	支持 政策
+POSITIVE	支持 政策
+POSITIVE	支持 政策
+POSITIVE	直线拉升
+POSITIVE	直线拉升
+POSITIVE	直线拉升
+POSITIVE	直线拉升
+POSITIVE	直线拉升
+POSITIVE	值得 关注
+POSITIVE	值得 关注
+POSITIVE	值得 关注
+POSITIVE	值得 关注
+POSITIVE	值得 关注
+POSITIVE	值得 期待
+POSITIVE	值得 期待
+POSITIVE	值得 期待
+POSITIVE	值得 期待
+POSITIVE	值得 期待
+NEGATIVE	止损
+NEGATIVE	止损
+NEGATIVE	止损
+NEGATIVE	止损
+NEGATIVE	止损
+NEGATIVE	止盈
+NEGATIVE	止盈
+NEGATIVE	止盈
+NEGATIVE	止盈
+NEGATIVE	止盈
+NEGATIVE	纸上谈兵
+NEGATIVE	纸上谈兵
+NEGATIVE	纸上谈兵
+NEGATIVE	纸上谈兵
+NEGATIVE	纸上谈兵
+POSITIVE	制胜
+POSITIVE	制胜
+POSITIVE	制胜
+POSITIVE	制胜
+POSITIVE	制胜
+NEGATIVE	质押
+NEGATIVE	质押
+NEGATIVE	质押
+NEGATIVE	质押
+NEGATIVE	质押
+NEUTRAL	质押 股份
+NEUTRAL	质押 股份
+NEUTRAL	质押 股份
+NEUTRAL	质押 股份
+NEUTRAL	质押 股份
+NEUTRAL	质押  股东
+NEUTRAL	质押  股东
+NEUTRAL	质押  股东
+NEUTRAL	质押  股东
+NEUTRAL	质押  股东
+NEUTRAL	补充 质押
+NEUTRAL	补充 质押
+NEUTRAL	补充 质押
+NEUTRAL	补充 质押
+NEUTRAL	补充 质押
+NEGATIVE	窒息
+NEGATIVE	窒息
+NEGATIVE	窒息
+NEGATIVE	窒息
+NEGATIVE	窒息
+NEGATIVE	惹 官司
+NEGATIVE	惹 官司
+NEGATIVE	惹 官司
+NEGATIVE	惹 官司
+NEGATIVE	惹 官司
+POSITIVE	智能化
+POSITIVE	智能化
+POSITIVE	智能化
+POSITIVE	智能化
+POSITIVE	智能化
+NEGATIVE	滞涨
+NEGATIVE	滞涨
+NEGATIVE	滞涨
+NEGATIVE	滞涨
+NEGATIVE	滞涨
+NEGATIVE	流产
+NEGATIVE	流产
+NEGATIVE	流产
+NEGATIVE	流产
+NEGATIVE	流产
+NEUTRAL	滞涨 股
+NEUTRAL	滞涨 股
+NEUTRAL	滞涨 股
+NEUTRAL	滞涨 股
+NEUTRAL	滞涨 股
+POSITIVE	中标
+POSITIVE	中标
+POSITIVE	中标
+POSITIVE	中标
+POSITIVE	中标
+POSITIVE	三箭齐发
+POSITIVE	三箭齐发
+POSITIVE	三箭齐发
+POSITIVE	三箭齐发
+POSITIVE	三箭齐发
+NEGATIVE	重挫
+NEGATIVE	重挫
+NEGATIVE	重挫
+NEGATIVE	重挫
+NEGATIVE	重挫
+POSITIVE	重大 合同
+POSITIVE	重大 合同
+POSITIVE	重大 合同
+POSITIVE	重大 合同
+POSITIVE	重大 合同
+POSITIVE	重大 项目
+POSITIVE	重大 项目
+POSITIVE	重大 项目
+POSITIVE	重大 项目
+POSITIVE	重大 项目
+NEGATIVE	重典 治 市
+NEGATIVE	重典 治 市
+NEGATIVE	重典 治 市
+NEGATIVE	重典 治 市
+NEGATIVE	重典 治 市
+POSITIVE	重点 关注
+POSITIVE	重点 关注
+POSITIVE	重点 关注
+POSITIVE	重点 关注
+POSITIVE	重点 关注
+POSITIVE	重返
+POSITIVE	重返
+POSITIVE	重返
+POSITIVE	重返
+POSITIVE	重返
+POSITIVE	重启
+POSITIVE	重启
+POSITIVE	重启
+POSITIVE	重启
+POSITIVE	重启
+POSITIVE	重上
+POSITIVE	重上
+POSITIVE	重上
+POSITIVE	重上
+POSITIVE	重上
+POSITIVE	重视
+POSITIVE	重视
+POSITIVE	重视
+POSITIVE	重视
+POSITIVE	重视
+NEGATIVE	重塑
+NEGATIVE	重塑
+NEGATIVE	重塑
+NEGATIVE	重塑
+NEGATIVE	重塑
+POSITIVE	重心 上移
+POSITIVE	重心 上移
+POSITIVE	重心 上移
+POSITIVE	重心 上移
+POSITIVE	重心 上移
+NEGATIVE	重灾区
+NEGATIVE	重灾区
+NEGATIVE	重灾区
+NEGATIVE	重灾区
+NEGATIVE	重灾区
+NEGATIVE	周跌
+NEGATIVE	周跌
+NEGATIVE	周跌
+NEGATIVE	周跌
+NEGATIVE	周跌
+NEGATIVE	逐出
+NEGATIVE	逐出
+NEGATIVE	逐出
+NEGATIVE	逐出
+NEGATIVE	逐出
+NEGATIVE	闭门谢客
+NEGATIVE	闭门谢客
+NEGATIVE	闭门谢客
+NEGATIVE	闭门谢客
+NEGATIVE	闭门谢客
+POSITIVE	主流
+POSITIVE	主流
+POSITIVE	主流
+POSITIVE	主流
+POSITIVE	主流
+POSITIVE	主升浪
+POSITIVE	主升浪
+POSITIVE	主升浪
+POSITIVE	主升浪
+POSITIVE	主升浪
+POSITIVE	助攻者
+POSITIVE	助攻者
+POSITIVE	助攻者
+POSITIVE	助攻者
+POSITIVE	助攻者
+POSITIVE	助力
+POSITIVE	助力
+POSITIVE	助力
+POSITIVE	助力
+POSITIVE	助力
+POSITIVE	助推
+POSITIVE	助推
+POSITIVE	助推
+POSITIVE	助推
+POSITIVE	助推
+NEGATIVE	注销 资管
+NEGATIVE	注销 资管
+NEGATIVE	注销 资管
+NEGATIVE	注销 资管
+NEGATIVE	注销 资管
+NEGATIVE	暗藏 玄机
+NEGATIVE	暗藏 玄机
+NEGATIVE	暗藏 玄机
+NEGATIVE	暗藏 玄机
+NEGATIVE	暗藏 玄机
+NEGATIVE	妖股
+NEGATIVE	妖股
+NEGATIVE	妖股
+NEGATIVE	妖股
+NEGATIVE	妖股
+POSITIVE	铸造
+POSITIVE	铸造
+POSITIVE	铸造
+POSITIVE	铸造
+POSITIVE	铸造
+POSITIVE	筑底
+POSITIVE	筑底
+POSITIVE	筑底
+POSITIVE	筑底
+POSITIVE	筑底
+POSITIVE	专注
+POSITIVE	专注
+POSITIVE	专注
+POSITIVE	专注
+POSITIVE	专注
+POSITIVE	转入
+POSITIVE	转入
+POSITIVE	转入
+POSITIVE	转入
+POSITIVE	转入
+POSITIVE	赚
+POSITIVE	赚
+POSITIVE	赚
+POSITIVE	赚
+POSITIVE	赚
+POSITIVE	赚钱
+POSITIVE	赚钱
+POSITIVE	赚钱
+POSITIVE	赚钱
+POSITIVE	赚钱
+NEGATIVE	赚钱  难
+NEGATIVE	赚钱  难
+NEGATIVE	赚钱  难
+NEGATIVE	赚钱  难
+NEGATIVE	赚钱  难
+POSITIVE	赚钱效应
+POSITIVE	赚钱效应
+POSITIVE	赚钱效应
+POSITIVE	赚钱效应
+POSITIVE	赚钱效应
+NEGATIVE	庄股
+NEGATIVE	庄股
+NEGATIVE	庄股
+NEGATIVE	庄股
+NEGATIVE	庄股
+POSITIVE	追
+POSITIVE	追
+POSITIVE	追
+POSITIVE	追
+POSITIVE	追
+POSITIVE	追捧
+POSITIVE	追捧
+POSITIVE	追捧
+POSITIVE	追捧
+POSITIVE	追捧
+NEGATIVE	追讨
+NEGATIVE	追讨
+NEGATIVE	追讨
+NEGATIVE	追讨
+NEGATIVE	追讨
+NEGATIVE	追问
+NEGATIVE	追问
+NEGATIVE	追问
+NEGATIVE	追问
+NEGATIVE	追问
+NEGATIVE	追责
+NEGATIVE	追责
+NEGATIVE	追责
+NEGATIVE	追责
+NEGATIVE	追责
+POSITIVE	追 涨
+POSITIVE	追 涨
+POSITIVE	追 涨
+POSITIVE	追 涨
+POSITIVE	追 涨
+NEGATIVE	资金 流出
+NEGATIVE	资金 流出
+NEGATIVE	资金 流出
+NEGATIVE	资金 流出
+NEGATIVE	资金 流出
+POSITIVE	资金 流入
+POSITIVE	资金 流入
+POSITIVE	资金 流入
+POSITIVE	资金 流入
+POSITIVE	资金 流入
+POSITIVE	自豪
+POSITIVE	自豪
+POSITIVE	自豪
+POSITIVE	自豪
+POSITIVE	自豪
+NEGATIVE	自我 感觉
+NEGATIVE	自我 感觉
+NEGATIVE	自我 感觉
+NEGATIVE	自我 感觉
+NEGATIVE	自我 感觉
+NEGATIVE	自由落体
+NEGATIVE	自由落体
+NEGATIVE	自由落体
+NEGATIVE	自由落体
+NEGATIVE	自由落体
+POSITIVE	走出
+POSITIVE	走出
+POSITIVE	走出
+POSITIVE	走出
+POSITIVE	走出
+NEGATIVE	走低
+NEGATIVE	走低
+NEGATIVE	走低
+NEGATIVE	走低
+NEGATIVE	走低
+POSITIVE	走高
+POSITIVE	走高
+POSITIVE	走高
+POSITIVE	走高
+POSITIVE	走高
+NEGATIVE	走 坏
+NEGATIVE	走 坏
+NEGATIVE	走 坏
+NEGATIVE	走 坏
+NEGATIVE	走 坏
+POSITIVE	走强
+POSITIVE	走强
+POSITIVE	走强
+POSITIVE	走强
+POSITIVE	走强
+NEGATIVE	走人
+NEGATIVE	走人
+NEGATIVE	走人
+NEGATIVE	走人
+NEGATIVE	走人
+NEGATIVE	走弱
+NEGATIVE	走弱
+NEGATIVE	走弱
+NEGATIVE	走弱
+NEGATIVE	走弱
+NEGATIVE	走势 分化
+NEGATIVE	走势 分化
+NEGATIVE	走势 分化
+NEGATIVE	走势 分化
+NEGATIVE	走势 分化
+NEGATIVE	走下坡路
+NEGATIVE	走下坡路
+NEGATIVE	走下坡路
+NEGATIVE	走下坡路
+NEGATIVE	走下坡路
+NEGATIVE	走下坡
+NEGATIVE	走下坡
+NEGATIVE	走下坡
+NEGATIVE	走下坡
+NEGATIVE	走下坡
+POSITIVE	奏响
+POSITIVE	奏响
+POSITIVE	奏响
+POSITIVE	奏响
+POSITIVE	奏响
+NEGATIVE	阻碍
+NEGATIVE	阻碍
+NEGATIVE	阻碍
+NEGATIVE	阻碍
+NEGATIVE	阻碍
+NEGATIVE	阻击
+NEGATIVE	阻击
+NEGATIVE	阻击
+NEGATIVE	阻击
+NEGATIVE	阻击
+NEGATIVE	阻力位
+NEGATIVE	阻力位
+NEGATIVE	阻力位
+NEGATIVE	阻力位
+NEGATIVE	阻力位
+POSITIVE	组建
+POSITIVE	组建
+POSITIVE	组建
+POSITIVE	组建
+POSITIVE	组建
+POSITIVE	最爱
+POSITIVE	最爱
+POSITIVE	最爱
+POSITIVE	最爱
+POSITIVE	最爱
+NEGATIVE	最后的疯狂
+NEGATIVE	最后的疯狂
+NEGATIVE	最后的疯狂
+NEGATIVE	最后的疯狂
+NEGATIVE	最后的疯狂
+POSITIVE	最佳
+POSITIVE	最佳
+POSITIVE	最佳
+POSITIVE	最佳
+POSITIVE	最佳
+POSITIVE	最强
+POSITIVE	最强
+POSITIVE	最强
+POSITIVE	最强
+POSITIVE	最强
+POSITIVE	坐稳
+POSITIVE	坐稳
+POSITIVE	坐稳
+POSITIVE	坐稳
+POSITIVE	坐稳
+POSITIVE	做好
+POSITIVE	做好
+POSITIVE	做好
+POSITIVE	做好
+POSITIVE	做好
+NEGATIVE	做空
+NEGATIVE	做空
+NEGATIVE	做空
+NEGATIVE	做空
+NEGATIVE	做空
+POSITIVE	资产  收纳
+POSITIVE	资产  收纳
+POSITIVE	资产  收纳
+POSITIVE	资产  收纳
+POSITIVE	资产  收纳
+NEUTRAL	IPO 公司
+NEUTRAL	IPO 公司
+NEUTRAL	IPO 公司
+NEUTRAL	IPO 公司
+NEUTRAL	IPO 公司
+NEUTRAL	  巨头
+NEUTRAL	  巨头
+NEUTRAL	  巨头
+NEUTRAL	  巨头
+NEUTRAL	  巨头
+POSITIVE	参股
+POSITIVE	参股
+POSITIVE	参股
+POSITIVE	参股
+POSITIVE	参股
+NEUTRAL	参股 的
+NEUTRAL	参股 的
+NEUTRAL	参股 的
+NEUTRAL	参股 的
+NEUTRAL	参股 的
+NEGATIVE	从严  IPO
+NEGATIVE	从严  IPO
+NEGATIVE	从严  IPO
+NEGATIVE	从严  IPO
+NEGATIVE	从严  IPO
+POSITIVE	安全 区域
+POSITIVE	安全 区域
+POSITIVE	安全 区域
+POSITIVE	安全 区域
+POSITIVE	安全 区域
+NEGATIVE	掰手腕
+NEGATIVE	掰手腕
+NEGATIVE	掰手腕
+NEGATIVE	掰手腕
+NEGATIVE	掰手腕
+POSITIVE	爆款
+POSITIVE	爆款
+POSITIVE	爆款
+POSITIVE	爆款
+POSITIVE	爆款
+NEGATIVE	被 否
+NEGATIVE	被 否
+NEGATIVE	被 否
+NEGATIVE	被 否
+NEGATIVE	被 否
+NEGATIVE	被 调查
+NEGATIVE	被 调查
+NEGATIVE	被 调查
+NEGATIVE	被 调查
+NEGATIVE	被 调查
+NEGATIVE	逼宫
+NEGATIVE	逼宫
+NEGATIVE	逼宫
+NEGATIVE	逼宫
+NEGATIVE	逼宫
+NEGATIVE	股  不见
+NEGATIVE	股  不见
+NEGATIVE	股  不见
+NEGATIVE	股  不见
+NEGATIVE	股  不见
+NEGATIVE	不 确定
+NEGATIVE	不 确定
+NEGATIVE	不 确定
+NEGATIVE	不 确定
+NEGATIVE	不 确定
+NEGATIVE	不予
+NEGATIVE	不予
+NEGATIVE	不予
+NEGATIVE	不予
+NEGATIVE	不予
+POSITIVE	唱响
+POSITIVE	唱响
+POSITIVE	唱响
+POSITIVE	唱响
+POSITIVE	唱响
+POSITIVE	竞得  出资
+POSITIVE	竞得  出资
+POSITIVE	竞得  出资
+POSITIVE	竞得  出资
+POSITIVE	竞得  出资
+NEGATIVE	从严
+NEGATIVE	从严
+NEGATIVE	从严
+NEGATIVE	从严
+NEGATIVE	从严
+NEGATIVE	打乱
+NEGATIVE	打乱
+NEGATIVE	打乱
+NEGATIVE	打乱
+NEGATIVE	打乱
+POSITIVE	签 下  大单
+POSITIVE	签 下  大单
+POSITIVE	签 下  大单
+POSITIVE	签 下  大单
+POSITIVE	签 下  大单
+POSITIVE	签约  大单
+POSITIVE	签约  大单
+POSITIVE	签约  大单
+POSITIVE	签约  大单
+POSITIVE	签约  大单
+POSITIVE	诞生
+POSITIVE	诞生
+POSITIVE	诞生
+POSITIVE	诞生
+POSITIVE	诞生
+POSITIVE	释放  动能
+POSITIVE	释放  动能
+POSITIVE	释放  动能
+POSITIVE	释放  动能
+POSITIVE	释放  动能
+NEGATIVE	断供
+NEGATIVE	断供
+NEGATIVE	断供
+NEGATIVE	断供
+NEGATIVE	断供
+NEGATIVE	普降
+NEGATIVE	普降
+NEGATIVE	普降
+NEGATIVE	普降
+NEGATIVE	普降
+NEUTRAL	发行 制度
+NEUTRAL	发行 制度
+NEUTRAL	发行 制度
+NEUTRAL	发行 制度
+NEUTRAL	发行 制度
+POSITIVE	发 力点
+POSITIVE	发 力点
+POSITIVE	发 力点
+POSITIVE	发 力点
+POSITIVE	发 力点
+POSITIVE	发威
+POSITIVE	发威
+POSITIVE	发威
+POSITIVE	发威
+POSITIVE	发威
+NEGATIVE	罚单
+NEGATIVE	罚单
+NEGATIVE	罚单
+NEGATIVE	罚单
+NEGATIVE	罚单
+POSITIVE	放行
+POSITIVE	放行
+POSITIVE	放行
+POSITIVE	放行
+POSITIVE	放行
+POSITIVE	加速  改革
+POSITIVE	加速  改革
+POSITIVE	加速  改革
+POSITIVE	加速  改革
+POSITIVE	加速  改革
+POSITIVE	加  杠杆
+POSITIVE	加  杠杆
+POSITIVE	加  杠杆
+POSITIVE	加  杠杆
+POSITIVE	加  杠杆
+NEGATIVE	降  杠杆
+NEGATIVE	降  杠杆
+NEGATIVE	降  杠杆
+NEGATIVE	降  杠杆
+NEGATIVE	降  杠杆
+NEGATIVE	去  杠杆
+NEGATIVE	去  杠杆
+NEGATIVE	去  杠杆
+NEGATIVE	去  杠杆
+NEGATIVE	去  杠杆
+NEGATIVE	杠杆  乱 加
+NEGATIVE	杠杆  乱 加
+NEGATIVE	杠杆  乱 加
+NEGATIVE	杠杆  乱 加
+NEGATIVE	杠杆  乱 加
+POSITIVE	越  高 点
+POSITIVE	越  高 点
+POSITIVE	越  高 点
+POSITIVE	越  高 点
+POSITIVE	越  高 点
+POSITIVE	高端
+POSITIVE	高端
+POSITIVE	高端
+POSITIVE	高端
+POSITIVE	高端
+POSITIVE	洼地  估值
+POSITIVE	洼地  估值
+POSITIVE	洼地  估值
+POSITIVE	洼地  估值
+POSITIVE	洼地  估值
+NEGATIVE	沽 空战
+NEGATIVE	沽 空战
+NEGATIVE	沽 空战
+NEGATIVE	沽 空战
+NEGATIVE	沽 空战
+POSITIVE	不 惊  股价
+POSITIVE	不 惊  股价
+POSITIVE	不 惊  股价
+POSITIVE	不 惊  股价
+POSITIVE	不 惊  股价
+NEGATIVE	怪圈
+NEGATIVE	怪圈
+NEGATIVE	怪圈
+NEGATIVE	怪圈
+NEGATIVE	怪圈
+POSITIVE	毫无 悬念
+POSITIVE	毫无 悬念
+POSITIVE	毫无 悬念
+POSITIVE	毫无 悬念
+POSITIVE	毫无 悬念
+POSITIVE	合并
+POSITIVE	合并
+POSITIVE	合并
+POSITIVE	合并
+POSITIVE	合并
+POSITIVE	释放  红利
+POSITIVE	释放  红利
+POSITIVE	释放  红利
+POSITIVE	释放  红利
+POSITIVE	释放  红利
+NEGATIVE	已 过  红利
+NEGATIVE	已 过  红利
+NEGATIVE	已 过  红利
+NEGATIVE	已 过  红利
+NEGATIVE	已 过  红利
+NEGATIVE	竞争  激烈
+NEGATIVE	竞争  激烈
+NEGATIVE	竞争  激烈
+NEGATIVE	竞争  激烈
+NEGATIVE	竞争  激烈
+NEGATIVE	争  激烈
+NEGATIVE	争  激烈
+NEGATIVE	争  激烈
+NEGATIVE	争  激烈
+NEGATIVE	争  激烈
+POSITIVE	技术 开发
+POSITIVE	技术 开发
+POSITIVE	技术 开发
+POSITIVE	技术 开发
+POSITIVE	技术 开发
+NEGATIVE	跌  价值
+NEGATIVE	跌  价值
+NEGATIVE	跌  价值
+NEGATIVE	跌  价值
+NEGATIVE	跌  价值
+NEGATIVE	关注  监管
+NEGATIVE	关注  监管
+NEGATIVE	关注  监管
+NEGATIVE	关注  监管
+NEGATIVE	关注  监管
+NEUTRAL	监管 过渡期
+NEUTRAL	监管 过渡期
+NEUTRAL	监管 过渡期
+NEUTRAL	监管 过渡期
+NEUTRAL	监管 过渡期
+NEGATIVE	监审
+NEGATIVE	监审
+NEGATIVE	监审
+NEGATIVE	监审
+NEGATIVE	监审
+POSITIVE	借壳
+POSITIVE	借壳
+POSITIVE	借壳
+POSITIVE	借壳
+POSITIVE	借壳
+NEGATIVE	规避 借壳
+NEGATIVE	规避 借壳
+NEGATIVE	规避 借壳
+NEGATIVE	规避 借壳
+NEGATIVE	规避 借壳
+POSITIVE	金奖
+POSITIVE	金奖
+POSITIVE	金奖
+POSITIVE	金奖
+POSITIVE	金奖
+POSITIVE	竞得
+POSITIVE	竞得
+POSITIVE	竞得
+POSITIVE	竞得
+POSITIVE	竞得
+POSITIVE	股份  竞得
+POSITIVE	股份  竞得
+POSITIVE	股份  竞得
+POSITIVE	股份  竞得
+POSITIVE	股份  竞得
+POSITIVE	竞得  股权
+POSITIVE	竞得  股权
+POSITIVE	竞得  股权
+POSITIVE	竞得  股权
+POSITIVE	竞得  股权
+NEGATIVE	居高不下  成本
+NEGATIVE	居高不下  成本
+NEGATIVE	居高不下  成本
+NEGATIVE	居高不下  成本
+NEGATIVE	居高不下  成本
+POSITIVE	开工
+POSITIVE	开工
+POSITIVE	开工
+POSITIVE	开工
+POSITIVE	开工
+NEGATIVE	可惜
+NEGATIVE	可惜
+NEGATIVE	可惜
+NEGATIVE	可惜
+NEGATIVE	可惜
+POSITIVE	扩大
+POSITIVE	扩大
+POSITIVE	扩大
+POSITIVE	扩大
+POSITIVE	扩大
+NEGATIVE	没 底线
+NEGATIVE	没 底线
+NEGATIVE	没 底线
+NEGATIVE	没 底线
+NEGATIVE	没 底线
+NEGATIVE	还债
+NEGATIVE	还债
+NEGATIVE	还债
+NEGATIVE	还债
+NEGATIVE	还债
+NEGATIVE	被罚
+NEGATIVE	被罚
+NEGATIVE	被罚
+NEGATIVE	被罚
+NEGATIVE	被罚
+POSITIVE	力推
+POSITIVE	力推
+POSITIVE	力推
+POSITIVE	力推
+POSITIVE	力推
+POSITIVE	联手
+POSITIVE	联手
+POSITIVE	联手
+POSITIVE	联手
+POSITIVE	联手
+POSITIVE	公司  联手
+POSITIVE	公司  联手
+POSITIVE	公司  联手
+POSITIVE	公司  联手
+POSITIVE	公司  联手
+POSITIVE	炼就
+POSITIVE	炼就
+POSITIVE	炼就
+POSITIVE	炼就
+POSITIVE	炼就
+POSITIVE	效果  明显
+POSITIVE	效果  明显
+POSITIVE	效果  明显
+POSITIVE	效果  明显
+POSITIVE	效果  明显
+POSITIVE	明星股
+POSITIVE	明星股
+POSITIVE	明星股
+POSITIVE	明星股
+POSITIVE	明星股
+NEGATIVE	管理  纳入
+NEGATIVE	管理  纳入
+NEGATIVE	管理  纳入
+NEGATIVE	管理  纳入
+NEGATIVE	管理  纳入
+NEGATIVE	需  耐心
+NEGATIVE	需  耐心
+NEGATIVE	需  耐心
+NEGATIVE	需  耐心
+NEGATIVE	需  耐心
+NEGATIVE	难觅 踪迹
+NEGATIVE	难觅 踪迹
+NEGATIVE	难觅 踪迹
+NEGATIVE	难觅 踪迹
+NEGATIVE	难觅 踪迹
+NEGATIVE	管理  牌照
+NEGATIVE	管理  牌照
+NEGATIVE	管理  牌照
+NEGATIVE	管理  牌照
+NEGATIVE	管理  牌照
+NEGATIVE	管理  证券 经纪
+NEGATIVE	管理  证券 经纪
+NEGATIVE	管理  证券 经纪
+NEGATIVE	管理  证券 经纪
+NEGATIVE	管理  证券 经纪
+NEGATIVE	管理  证监局
+NEGATIVE	管理  证监局
+NEGATIVE	管理  证监局
+NEGATIVE	管理  证监局
+NEGATIVE	管理  证监局
+NEUTRAL	平衡
+NEUTRAL	平衡
+NEUTRAL	平衡
+NEUTRAL	平衡
+NEUTRAL	平衡
+POSITIVE	破局
+POSITIVE	破局
+POSITIVE	破局
+POSITIVE	破局
+POSITIVE	破局
+POSITIVE	企业 入驻
+POSITIVE	企业 入驻
+POSITIVE	企业 入驻
+POSITIVE	企业 入驻
+POSITIVE	企业 入驻
+POSITIVE	洽购
+POSITIVE	洽购
+POSITIVE	洽购
+POSITIVE	洽购
+POSITIVE	洽购
+NEGATIVE	强制
+NEGATIVE	强制
+NEGATIVE	强制
+NEGATIVE	强制
+NEGATIVE	强制
+NEGATIVE	趋缓
+NEGATIVE	趋缓
+NEGATIVE	趋缓
+NEGATIVE	趋缓
+NEGATIVE	趋缓
+POSITIVE	入局
+POSITIVE	入局
+POSITIVE	入局
+POSITIVE	入局
+POSITIVE	入局
+POSITIVE	上位
+POSITIVE	上位
+POSITIVE	上位
+POSITIVE	上位
+POSITIVE	上位
+NEGATIVE	上折
+NEGATIVE	上折
+NEGATIVE	上折
+NEGATIVE	上折
+NEGATIVE	上折
+POSITIVE	基金  设
+POSITIVE	基金  设
+POSITIVE	基金  设
+POSITIVE	基金  设
+POSITIVE	基金  设
+POSITIVE	公司  设立
+POSITIVE	公司  设立
+POSITIVE	公司  设立
+POSITIVE	公司  设立
+POSITIVE	公司  设立
+POSITIVE	基金  设立
+POSITIVE	基金  设立
+POSITIVE	基金  设立
+POSITIVE	基金  设立
+POSITIVE	基金  设立
+POSITIVE	实验室  设立
+POSITIVE	实验室  设立
+POSITIVE	实验室  设立
+POSITIVE	实验室  设立
+POSITIVE	实验室  设立
+POSITIVE	神话
+POSITIVE	神话
+POSITIVE	神话
+POSITIVE	神话
+POSITIVE	神话
+NEGATIVE	趋严  审核
+NEGATIVE	趋严  审核
+NEGATIVE	趋严  审核
+NEGATIVE	趋严  审核
+NEGATIVE	趋严  审核
+NEGATIVE	注重  安全
+NEGATIVE	注重  安全
+NEGATIVE	注重  安全
+NEGATIVE	注重  安全
+NEGATIVE	注重  安全
+NEGATIVE	实控人  无
+NEGATIVE	实控人  无
+NEGATIVE	实控人  无
+NEGATIVE	实控人  无
+NEGATIVE	实控人  无
+POSITIVE	升水
+POSITIVE	升水
+POSITIVE	升水
+POSITIVE	升水
+POSITIVE	升水
+POSITIVE	首 尝
+POSITIVE	首 尝
+POSITIVE	首 尝
+POSITIVE	首 尝
+POSITIVE	首 尝
+POSITIVE	首单
+POSITIVE	首单
+POSITIVE	首单
+POSITIVE	首单
+POSITIVE	首单
+POSITIVE	顺势
+POSITIVE	顺势
+POSITIVE	顺势
+POSITIVE	顺势
+POSITIVE	顺势
+POSITIVE	融资  松动
+POSITIVE	融资  松动
+POSITIVE	融资  松动
+POSITIVE	融资  松动
+POSITIVE	融资  松动
+NEGATIVE	市场  逃离
+NEGATIVE	市场  逃离
+NEGATIVE	市场  逃离
+NEGATIVE	市场  逃离
+NEGATIVE	市场  逃离
+NEGATIVE	套现
+NEGATIVE	套现
+NEGATIVE	套现
+NEGATIVE	套现
+NEGATIVE	套现
+POSITIVE	门槛  调低
+POSITIVE	门槛  调低
+POSITIVE	门槛  调低
+POSITIVE	门槛  调低
+POSITIVE	门槛  调低
+POSITIVE	门槛  降低
+POSITIVE	门槛  降低
+POSITIVE	门槛  降低
+POSITIVE	门槛  降低
+POSITIVE	门槛  降低
+NEGATIVE	门槛  升
+NEGATIVE	门槛  升
+NEGATIVE	门槛  升
+NEGATIVE	门槛  升
+NEGATIVE	门槛  升
+POSITIVE	降 门槛
+POSITIVE	降 门槛
+POSITIVE	降 门槛
+POSITIVE	降 门槛
+POSITIVE	降 门槛
+NEGATIVE	贴水
+NEGATIVE	贴水
+NEGATIVE	贴水
+NEGATIVE	贴水
+NEGATIVE	贴水
+POSITIVE	收敛  贴水
+POSITIVE	收敛  贴水
+POSITIVE	收敛  贴水
+POSITIVE	收敛  贴水
+POSITIVE	收敛  贴水
+NEUTRAL	投资  
+NEUTRAL	投资  
+NEUTRAL	投资  
+NEUTRAL	投资  
+NEUTRAL	投资  
+NEGATIVE	投资  失利
+NEGATIVE	投资  失利
+NEGATIVE	投资  失利
+NEGATIVE	投资  失利
+NEGATIVE	投资  失利
+POSITIVE	投资  释放
+POSITIVE	投资  释放
+POSITIVE	投资  释放
+POSITIVE	投资  释放
+POSITIVE	投资  释放
+NEUTRAL	投资 机构
+NEUTRAL	投资 机构
+NEUTRAL	投资 机构
+NEUTRAL	投资 机构
+NEUTRAL	投资 机构
+NEGATIVE	轻信
+NEGATIVE	轻信
+NEGATIVE	轻信
+NEGATIVE	轻信
+NEGATIVE	轻信
+POSITIVE	突破口
+POSITIVE	突破口
+POSITIVE	突破口
+POSITIVE	突破口
+POSITIVE	突破口
+POSITIVE	弯道超车
+POSITIVE	弯道超车
+POSITIVE	弯道超车
+POSITIVE	弯道超车
+POSITIVE	弯道超车
+POSITIVE	舞动
+POSITIVE	舞动
+POSITIVE	舞动
+POSITIVE	舞动
+POSITIVE	舞动
+NEGATIVE	供应  小 高峰
+NEGATIVE	供应  小 高峰
+NEGATIVE	供应  小 高峰
+NEGATIVE	供应  小 高峰
+NEGATIVE	供应  小 高峰
+POSITIVE	供应商  确定 为
+POSITIVE	供应商  确定 为
+POSITIVE	供应商  确定 为
+POSITIVE	供应商  确定 为
+POSITIVE	供应商  确定 为
+POSITIVE	小 高峰
+POSITIVE	小 高峰
+POSITIVE	小 高峰
+POSITIVE	小 高峰
+POSITIVE	小 高峰
+POSITIVE	小金库
+POSITIVE	小金库
+POSITIVE	小金库
+POSITIVE	小金库
+POSITIVE	小金库
+POSITIVE	新产品
+POSITIVE	新产品
+POSITIVE	新产品
+POSITIVE	新产品
+POSITIVE	新产品
+POSITIVE	新品
+POSITIVE	新品
+POSITIVE	新品
+POSITIVE	新品
+POSITIVE	新品
+NEGATIVE	悬念
+NEGATIVE	悬念
+NEGATIVE	悬念
+NEGATIVE	悬念
+NEGATIVE	悬念
+NEGATIVE	发审委  严 把
+NEGATIVE	发审委  严 把
+NEGATIVE	发审委  严 把
+NEGATIVE	发审委  严 把
+NEGATIVE	发审委  严 把
+NEGATIVE	严 把 入口
+NEGATIVE	严 把 入口
+NEGATIVE	严 把 入口
+NEGATIVE	严 把 入口
+NEGATIVE	严 把 入口
+POSITIVE	研发
+POSITIVE	研发
+POSITIVE	研发
+POSITIVE	研发
+POSITIVE	研发
+POSITIVE	承诺  业绩
+POSITIVE	承诺  业绩
+POSITIVE	承诺  业绩
+POSITIVE	承诺  业绩
+POSITIVE	承诺  业绩
+NEGATIVE	疑点
+NEGATIVE	疑点
+NEGATIVE	疑点
+NEGATIVE	疑点
+NEGATIVE	疑点
+POSITIVE	已 到账
+POSITIVE	已 到账
+POSITIVE	已 到账
+POSITIVE	已 到账
+POSITIVE	已 到账
+NEGATIVE	易位
+NEGATIVE	易位
+NEGATIVE	易位
+NEGATIVE	易位
+NEGATIVE	易位
+NEGATIVE	易主
+NEGATIVE	易主
+NEGATIVE	易主
+NEGATIVE	易主
+NEGATIVE	易主
+POSITIVE	优等生
+POSITIVE	优等生
+POSITIVE	优等生
+POSITIVE	优等生
+POSITIVE	优等生
+NEGATIVE	约束
+NEGATIVE	约束
+NEGATIVE	约束
+NEGATIVE	约束
+NEGATIVE	约束
+NEGATIVE	砸 钱
+NEGATIVE	砸 钱
+NEGATIVE	砸 钱
+NEGATIVE	砸 钱
+NEGATIVE	砸 钱
+POSITIVE	输血
+POSITIVE	输血
+POSITIVE	输血
+POSITIVE	输血
+POSITIVE	输血
+POSITIVE	长跑 健将
+POSITIVE	长跑 健将
+POSITIVE	长跑 健将
+POSITIVE	长跑 健将
+POSITIVE	长跑 健将
+NEGATIVE	公司  治理
+NEGATIVE	公司  治理
+NEGATIVE	公司  治理
+NEGATIVE	公司  治理
+NEGATIVE	公司  治理
+POSITIVE	公司  最大
+POSITIVE	公司  最大
+POSITIVE	公司  最大
+POSITIVE	公司  最大
+POSITIVE	公司  最大
+POSITIVE	最优
+POSITIVE	最优
+POSITIVE	最优
+POSITIVE	最优
+POSITIVE	最优
+NEGATIVE	难过
+NEGATIVE	难过
+NEGATIVE	难过
+NEGATIVE	难过
+NEGATIVE	难过
+NEGATIVE	萎靡
+NEGATIVE	萎靡
+NEGATIVE	萎靡
+NEGATIVE	萎靡
+NEGATIVE	萎靡
+NEGATIVE	单一
+NEGATIVE	单一
+NEGATIVE	单一
+NEGATIVE	单一
+NEGATIVE	单一
+NEUTRAL	增长  GDP
+NEUTRAL	增长  GDP
+NEUTRAL	增长  GDP
+NEUTRAL	增长  GDP
+NEUTRAL	增长  GDP
+NEGATIVE	榜尾
+NEGATIVE	榜尾
+NEGATIVE	榜尾
+NEGATIVE	榜尾
+NEGATIVE	榜尾
+NEGATIVE	被点名
+NEGATIVE	被点名
+NEGATIVE	被点名
+NEGATIVE	被点名
+NEGATIVE	被点名
+NEGATIVE	夺 壳
+NEGATIVE	夺 壳
+NEGATIVE	夺 壳
+NEGATIVE	夺 壳
+NEGATIVE	夺 壳
+NEGATIVE	大换血
+NEGATIVE	大换血
+NEGATIVE	大换血
+NEGATIVE	大换血
+NEGATIVE	大换血
+NEGATIVE	被 坑
+NEGATIVE	被 坑
+NEGATIVE	被 坑
+NEGATIVE	被 坑
+NEGATIVE	被 坑
+NEGATIVE	升温  避险
+NEGATIVE	升温  避险
+NEGATIVE	升温  避险
+NEGATIVE	升温  避险
+NEGATIVE	升温  避险
+NEGATIVE	“ 雷 ” 股
+NEGATIVE	“ 雷 ” 股
+NEGATIVE	“ 雷 ” 股
+NEGATIVE	“ 雷 ” 股
+NEGATIVE	“ 雷 ” 股
+NEGATIVE	雷 股
+NEGATIVE	雷 股
+NEGATIVE	雷 股
+NEGATIVE	雷 股
+NEGATIVE	雷 股
+POSITIVE	不 迷茫
+POSITIVE	不 迷茫
+POSITIVE	不 迷茫
+POSITIVE	不 迷茫
+POSITIVE	不 迷茫
+NEGATIVE	点名
+NEGATIVE	点名
+NEGATIVE	点名
+NEGATIVE	点名
+NEGATIVE	点名
+NEGATIVE	存疑  动力
+NEGATIVE	存疑  动力
+NEGATIVE	存疑  动力
+NEGATIVE	存疑  动力
+NEGATIVE	存疑  动力
+NEUTRAL	战术  多头
+NEUTRAL	战术  多头
+NEUTRAL	战术  多头
+NEUTRAL	战术  多头
+NEUTRAL	战术  多头
+NEGATIVE	反 降
+NEGATIVE	反 降
+NEGATIVE	反 降
+NEGATIVE	反 降
+NEGATIVE	反 降
+NEGATIVE	得 自 医
+NEGATIVE	得 自 医
+NEGATIVE	得 自 医
+NEGATIVE	得 自 医
+NEGATIVE	得 自 医
+NEGATIVE	非常规
+NEGATIVE	非常规
+NEGATIVE	非常规
+NEGATIVE	非常规
+NEGATIVE	非常规
+NEGATIVE	频 涉
+NEGATIVE	频 涉
+NEGATIVE	频 涉
+NEGATIVE	频 涉
+NEGATIVE	频 涉
+POSITIVE	减负
+POSITIVE	减负
+POSITIVE	减负
+POSITIVE	减负
+POSITIVE	减负
+POSITIVE	见 底
+POSITIVE	见 底
+POSITIVE	见 底
+POSITIVE	见 底
+POSITIVE	见 底
+NEGATIVE	幻想
+NEGATIVE	幻想
+NEGATIVE	幻想
+NEGATIVE	幻想
+NEGATIVE	幻想
+NEGATIVE	巨 亏
+NEGATIVE	巨 亏
+NEGATIVE	巨 亏
+NEGATIVE	巨 亏
+NEGATIVE	巨 亏
+NEGATIVE	单薄  利润
+NEGATIVE	单薄  利润
+NEGATIVE	单薄  利润
+NEGATIVE	单薄  利润
+NEGATIVE	单薄  利润
+NEUTRAL	  龙头
+NEUTRAL	  龙头
+NEUTRAL	  龙头
+NEUTRAL	  龙头
+NEUTRAL	  龙头
+NEGATIVE	估值 缩
+NEGATIVE	估值 缩
+NEGATIVE	估值 缩
+NEGATIVE	估值 缩
+NEGATIVE	估值 缩
+NEGATIVE	挑战  面
+NEGATIVE	挑战  面
+NEGATIVE	挑战  面
+NEGATIVE	挑战  面
+NEGATIVE	挑战  面
+NEGATIVE	挑战  遭
+NEGATIVE	挑战  遭
+NEGATIVE	挑战  遭
+NEGATIVE	挑战  遭
+NEGATIVE	挑战  遭
+NEGATIVE	平仓线  触及
+NEGATIVE	平仓线  触及
+NEGATIVE	平仓线  触及
+NEGATIVE	平仓线  触及
+NEGATIVE	平仓线  触及
+POSITIVE	平仓线  降低
+POSITIVE	平仓线  降低
+POSITIVE	平仓线  降低
+POSITIVE	平仓线  降低
+POSITIVE	平仓线  降低
+NEGATIVE	明升暗降
+NEGATIVE	明升暗降
+NEGATIVE	明升暗降
+NEGATIVE	明升暗降
+NEGATIVE	明升暗降
+NEGATIVE	前景未明
+NEGATIVE	前景未明
+NEGATIVE	前景未明
+NEGATIVE	前景未明
+NEGATIVE	前景未明
+NEGATIVE	难 掩
+NEGATIVE	难 掩
+NEGATIVE	难 掩
+NEGATIVE	难 掩
+NEGATIVE	难 掩
+POSITIVE	跑赢
+POSITIVE	跑赢
+POSITIVE	跑赢
+POSITIVE	跑赢
+POSITIVE	跑赢
+POSITIVE	富翁  批发
+POSITIVE	富翁  批发
+POSITIVE	富翁  批发
+POSITIVE	富翁  批发
+POSITIVE	富翁  批发
+POSITIVE	走向  生产
+POSITIVE	走向  生产
+POSITIVE	走向  生产
+POSITIVE	走向  生产
+POSITIVE	走向  生产
+POSITIVE	进入  生产
+POSITIVE	进入  生产
+POSITIVE	进入  生产
+POSITIVE	进入  生产
+POSITIVE	进入  生产
+POSITIVE	齐头并进
+POSITIVE	齐头并进
+POSITIVE	齐头并进
+POSITIVE	齐头并进
+POSITIVE	齐头并进
+NEGATIVE	憔悴
+NEGATIVE	憔悴
+NEGATIVE	憔悴
+NEGATIVE	憔悴
+NEGATIVE	憔悴
+NEGATIVE	清盘
+NEGATIVE	清盘
+NEGATIVE	清盘
+NEGATIVE	清盘
+NEGATIVE	清盘
+POSITIVE	松动  融资
+POSITIVE	松动  融资
+POSITIVE	松动  融资
+POSITIVE	松动  融资
+POSITIVE	松动  融资
+NEGATIVE	急  上市
+NEGATIVE	急  上市
+NEGATIVE	急  上市
+NEGATIVE	急  上市
+NEGATIVE	急  上市
+POSITIVE	资源  涉足
+POSITIVE	资源  涉足
+POSITIVE	资源  涉足
+POSITIVE	资源  涉足
+POSITIVE	资源  涉足
+POSITIVE	成  首富
+POSITIVE	成  首富
+POSITIVE	成  首富
+POSITIVE	成  首富
+POSITIVE	成  首富
+POSITIVE	首 破
+POSITIVE	首 破
+POSITIVE	首 破
+POSITIVE	首 破
+POSITIVE	首 破
+POSITIVE	受宠
+POSITIVE	受宠
+POSITIVE	受宠
+POSITIVE	受宠
+POSITIVE	受宠
+POSITIVE	商用  到来
+POSITIVE	商用  到来
+POSITIVE	商用  到来
+POSITIVE	商用  到来
+POSITIVE	商用  到来
+NEGATIVE	加快  调整
+NEGATIVE	加快  调整
+NEGATIVE	加快  调整
+NEGATIVE	加快  调整
+NEGATIVE	加快  调整
+POSITIVE	达  投资
+POSITIVE	达  投资
+POSITIVE	达  投资
+POSITIVE	达  投资
+POSITIVE	达  投资
+NEUTRAL	稳定 术
+NEUTRAL	稳定 术
+NEUTRAL	稳定 术
+NEUTRAL	稳定 术
+NEUTRAL	稳定 术
+NEUTRAL	支持  有待
+NEUTRAL	支持  有待
+NEUTRAL	支持  有待
+NEUTRAL	支持  有待
+NEUTRAL	支持  有待
+NEGATIVE	缓慢  增长
+NEGATIVE	缓慢  增长
+NEGATIVE	缓慢  增长
+NEGATIVE	缓慢  增长
+NEGATIVE	缓慢  增长
+NEGATIVE	有限  增长
+NEGATIVE	有限  增长
+NEGATIVE	有限  增长
+NEGATIVE	有限  增长
+NEGATIVE	有限  增长
+POSITIVE	战略
+POSITIVE	战略
+POSITIVE	战略
+POSITIVE	战略
+POSITIVE	战略
+POSITIVE	获  批文
+POSITIVE	获  批文
+POSITIVE	获  批文
+POSITIVE	获  批文
+POSITIVE	获  批文
+NEGATIVE	凉凉
+NEGATIVE	凉凉
+NEGATIVE	凉凉
+NEGATIVE	凉凉
+NEGATIVE	凉凉
+NEGATIVE	遮遮掩掩
+NEGATIVE	遮遮掩掩
+NEGATIVE	遮遮掩掩
+NEGATIVE	遮遮掩掩
+NEGATIVE	遮遮掩掩
+NEUTRAL	投资 策略
+NEUTRAL	投资 策略
+NEUTRAL	投资 策略
+NEUTRAL	投资 策略
+NEUTRAL	投资 策略
+NEUTRAL	投资者
+NEUTRAL	投资者
+NEUTRAL	投资者
+NEUTRAL	投资者
+NEUTRAL	投资者
+NEUTRAL	置产 配置
+NEUTRAL	置产 配置
+NEUTRAL	置产 配置
+NEUTRAL	置产 配置
+NEUTRAL	置产 配置
+NEGATIVE	不好过
+NEGATIVE	不好过
+NEGATIVE	不好过
+NEGATIVE	不好过
+NEGATIVE	不好过
+NEGATIVE	宝座 不保
+NEGATIVE	宝座 不保
+NEGATIVE	宝座 不保
+NEGATIVE	宝座 不保
+NEGATIVE	宝座 不保
+POSITIVE	首富  成
+POSITIVE	首富  成
+POSITIVE	首富  成
+POSITIVE	首富  成
+POSITIVE	首富  成
+POSITIVE	成 首
+POSITIVE	成 首
+POSITIVE	成 首
+POSITIVE	成 首
+POSITIVE	成 首
+NEGATIVE	压力  大
+NEGATIVE	压力  大
+NEGATIVE	压力  大
+NEGATIVE	压力  大
+NEGATIVE	压力  大
+NEUTRAL	股东  第一
+NEUTRAL	股东  第一
+NEUTRAL	股东  第一
+NEUTRAL	股东  第一
+NEUTRAL	股东  第一
+NEUTRAL	地区  发达
+NEUTRAL	地区  发达
+NEUTRAL	地区  发达
+NEUTRAL	地区  发达
+NEUTRAL	地区  发达
+NEGATIVE	大跌  放量
+NEGATIVE	大跌  放量
+NEGATIVE	大跌  放量
+NEGATIVE	大跌  放量
+NEGATIVE	大跌  放量
+NEGATIVE	大跌  放量
+NEGATIVE	大跌  放量
+NEGATIVE	大跌  放量
+NEGATIVE	大跌  放量
+NEGATIVE	大跌  放量
+NEGATIVE	放量 回调
+NEGATIVE	放量 回调
+NEGATIVE	放量 回调
+NEGATIVE	放量 回调
+NEGATIVE	放量 回调
+NEGATIVE	放量 回调
+NEGATIVE	放量 回调
+NEGATIVE	放量 回调
+NEGATIVE	放量 回调
+NEGATIVE	放量 回调
+NEGATIVE	尬 相
+NEGATIVE	尬 相
+NEGATIVE	尬 相
+NEGATIVE	尬 相
+NEGATIVE	尬 相
+NEGATIVE	宫 斗 正酣
+NEGATIVE	宫 斗 正酣
+NEGATIVE	宫 斗 正酣
+NEGATIVE	宫 斗 正酣
+NEGATIVE	宫 斗 正酣
+NEGATIVE	诡异
+NEGATIVE	诡异
+NEGATIVE	诡异
+NEGATIVE	诡异
+NEGATIVE	诡异
+NEGATIVE	黑天鹅
+NEGATIVE	黑天鹅
+NEGATIVE	黑天鹅
+NEGATIVE	黑天鹅
+NEGATIVE	黑天鹅
+NEGATIVE	活生生
+NEGATIVE	活生生
+NEGATIVE	活生生
+NEGATIVE	活生生
+NEGATIVE	活生生
+NEGATIVE	炒上了天
+NEGATIVE	炒上了天
+NEGATIVE	炒上了天
+NEGATIVE	炒上了天
+NEGATIVE	炒上了天
+POSITIVE	加盟
+POSITIVE	加盟
+POSITIVE	加盟
+POSITIVE	加盟
+POSITIVE	加盟
+POSITIVE	告别  艰难
+POSITIVE	告别  艰难
+POSITIVE	告别  艰难
+POSITIVE	告别  艰难
+POSITIVE	告别  艰难
+POSITIVE	竞购
+POSITIVE	竞购
+POSITIVE	竞购
+POSITIVE	竞购
+POSITIVE	竞购
+NEGATIVE	开门 罚
+NEGATIVE	开门 罚
+NEGATIVE	开门 罚
+NEGATIVE	开门 罚
+NEGATIVE	开门 罚
+NEGATIVE	撞 枪
+NEGATIVE	撞 枪
+NEGATIVE	撞 枪
+NEGATIVE	撞 枪
+NEGATIVE	撞 枪
+NEGATIVE	雷中有雷
+NEGATIVE	雷中有雷
+NEGATIVE	雷中有雷
+NEGATIVE	雷中有雷
+NEGATIVE	雷中有雷
+POSITIVE	力保
+POSITIVE	力保
+POSITIVE	力保
+POSITIVE	力保
+POSITIVE	力保
+NEGATIVE	凛冬将至
+NEGATIVE	凛冬将至
+NEGATIVE	凛冬将至
+NEGATIVE	凛冬将至
+NEGATIVE	凛冬将至
+NEGATIVE	蔓延
+NEGATIVE	蔓延
+NEGATIVE	蔓延
+NEGATIVE	蔓延
+NEGATIVE	蔓延
+NEGATIVE	不良  攀升
+NEGATIVE	不良  攀升
+NEGATIVE	不良  攀升
+NEGATIVE	不良  攀升
+NEGATIVE	不良  攀升
+POSITIVE	降  不 良
+POSITIVE	降  不 良
+POSITIVE	降  不 良
+POSITIVE	降  不 良
+POSITIVE	降  不 良
+NEGATIVE	不良  上升
+NEGATIVE	不良  上升
+NEGATIVE	不良  上升
+NEGATIVE	不良  上升
+NEGATIVE	不良  上升
+NEGATIVE	不良  双 升
+NEGATIVE	不良  双 升
+NEGATIVE	不良  双 升
+NEGATIVE	不良  双 升
+NEGATIVE	不良  双 升
+POSITIVE	不良  双 降
+POSITIVE	不良  双 降
+POSITIVE	不良  双 降
+POSITIVE	不良  双 降
+POSITIVE	不良  双 降
+POSITIVE	牵头
+POSITIVE	牵头
+POSITIVE	牵头
+POSITIVE	牵头
+POSITIVE	牵头
+NEGATIVE	清退
+NEGATIVE	清退
+NEGATIVE	清退
+NEGATIVE	清退
+NEGATIVE	清退
+NEGATIVE	惹祸
+NEGATIVE	惹祸
+NEGATIVE	惹祸
+NEGATIVE	惹祸
+NEGATIVE	惹祸
+NEGATIVE	收 跌
+NEGATIVE	收 跌
+NEGATIVE	收 跌
+NEGATIVE	收 跌
+NEGATIVE	收 跌
+NEGATIVE	受罚
+NEGATIVE	受罚
+NEGATIVE	受罚
+NEGATIVE	受罚
+NEGATIVE	受罚
+NEGATIVE	昨日黄花
+NEGATIVE	昨日黄花
+NEGATIVE	昨日黄花
+NEGATIVE	昨日黄花
+NEGATIVE	昨日黄花
+NEGATIVE	速冻
+NEGATIVE	速冻
+NEGATIVE	速冻
+NEGATIVE	速冻
+NEGATIVE	速冻
+NEGATIVE	劣势  凸显
+NEGATIVE	劣势  凸显
+NEGATIVE	劣势  凸显
+NEGATIVE	劣势  凸显
+NEGATIVE	劣势  凸显
+NEGATIVE	拖 油瓶
+NEGATIVE	拖 油瓶
+NEGATIVE	拖 油瓶
+NEGATIVE	拖 油瓶
+NEGATIVE	拖 油瓶
+NEGATIVE	限产
+NEGATIVE	限产
+NEGATIVE	限产
+NEGATIVE	限产
+NEGATIVE	限产
+NEUTRAL	限售股
+NEUTRAL	限售股
+NEUTRAL	限售股
+NEUTRAL	限售股
+NEUTRAL	限售股
+NEGATIVE	悬念重重
+NEGATIVE	悬念重重
+NEGATIVE	悬念重重
+NEGATIVE	悬念重重
+NEGATIVE	悬念重重
+NEGATIVE	问题  盈利 能力
+NEGATIVE	问题  盈利 能力
+NEGATIVE	问题  盈利 能力
+NEGATIVE	问题  盈利 能力
+NEGATIVE	问题  盈利 能力
+NEUTRAL	美  赤字
+NEUTRAL	美  赤字
+NEUTRAL	美  赤字
+NEUTRAL	美  赤字
+NEUTRAL	美  赤字
+POSITIVE	强国
+POSITIVE	强国
+POSITIVE	强国
+POSITIVE	强国
+POSITIVE	强国
+POSITIVE	涨 破
+POSITIVE	涨 破
+POSITIVE	涨 破
+POSITIVE	涨 破
+POSITIVE	涨 破
+POSITIVE	振兴
+POSITIVE	振兴
+POSITIVE	振兴
+POSITIVE	振兴
+POSITIVE	振兴
+NEGATIVE	最 尾
+NEGATIVE	最 尾
+NEGATIVE	最 尾
+NEGATIVE	最 尾
+NEGATIVE	最 尾
+NEGATIVE	下跌
+NEGATIVE	下跌
+NEGATIVE	下跌
+NEGATIVE	下跌
+NEGATIVE	下跌
+NEGATIVE	仅 完成
+NEGATIVE	仅 完成
+NEGATIVE	仅 完成
+NEGATIVE	仅 完成
+NEGATIVE	仅 完成
+POSITIVE	勾勒
+POSITIVE	勾勒
+POSITIVE	勾勒
+POSITIVE	勾勒
+POSITIVE	勾勒
+POSITIVE	出炉
+POSITIVE	出炉
+POSITIVE	出炉
+POSITIVE	出炉
+POSITIVE	出炉
+NEUTRAL	财报  出炉
+NEUTRAL	财报  出炉
+NEUTRAL	财报  出炉
+NEUTRAL	财报  出炉
+NEUTRAL	财报  出炉
+POSITIVE	同比 增
+POSITIVE	同比 增
+POSITIVE	同比 增
+POSITIVE	同比 增
+POSITIVE	同比 增
+POSITIVE	同比 增长
+POSITIVE	同比 增长
+POSITIVE	同比 增长
+POSITIVE	同比 增长
+POSITIVE	同比 增长
+NEGATIVE	同比 降
+NEGATIVE	同比 降
+NEGATIVE	同比 降
+NEGATIVE	同比 降
+NEGATIVE	同比 降
+NEGATIVE	同比 降低
+NEGATIVE	同比 降低
+NEGATIVE	同比 降低
+NEGATIVE	同比 降低
+NEGATIVE	同比 降低
+NEGATIVE	大 降
+NEGATIVE	大 降
+NEGATIVE	大 降
+NEGATIVE	大 降
+NEGATIVE	大 降
+POSITIVE	净利 增
+POSITIVE	净利 增
+POSITIVE	净利 增
+POSITIVE	净利 增
+POSITIVE	净利 增
+POSITIVE	净利 增长
+POSITIVE	净利 增长
+POSITIVE	净利 增长
+POSITIVE	净利 增长
+POSITIVE	净利 增长
+POSITIVE	派 现
+POSITIVE	派 现
+POSITIVE	派 现
+POSITIVE	派 现
+POSITIVE	派 现
+POSITIVE	派 利
+POSITIVE	派 利
+POSITIVE	派 利
+POSITIVE	派 利
+POSITIVE	派 利
+POSITIVE	元  派 发
+POSITIVE	元  派 发
+POSITIVE	元  派 发
+POSITIVE	元  派 发
+POSITIVE	元  派 发
+POSITIVE	元  派
+POSITIVE	元  派
+POSITIVE	元  派
+POSITIVE	元  派
+POSITIVE	元  派
+NEGATIVE	预 降
+NEGATIVE	预 降
+NEGATIVE	预 降
+NEGATIVE	预 降
+NEGATIVE	预 降
+POSITIVE	股权  竞拍
+POSITIVE	股权  竞拍
+POSITIVE	股权  竞拍
+POSITIVE	股权  竞拍
+POSITIVE	股权  竞拍
+POSITIVE	试生产
+POSITIVE	试生产
+POSITIVE	试生产
+POSITIVE	试生产
+POSITIVE	试生产
+POSITIVE	签 下
+POSITIVE	签 下
+POSITIVE	签 下
+POSITIVE	签 下
+POSITIVE	签 下
+POSITIVE	签订  合同
+POSITIVE	签订  合同
+POSITIVE	签订  合同
+POSITIVE	签订  合同
+POSITIVE	签订  合同
+POSITIVE	签  合同
+POSITIVE	签  合同
+POSITIVE	签  合同
+POSITIVE	签  合同
+POSITIVE	签  合同
+POSITIVE	取得  合同
+POSITIVE	取得  合同
+POSITIVE	取得  合同
+POSITIVE	取得  合同
+POSITIVE	取得  合同
+POSITIVE	收到  合同
+POSITIVE	收到  合同
+POSITIVE	收到  合同
+POSITIVE	收到  合同
+POSITIVE	收到  合同
+POSITIVE	建  项目
+POSITIVE	建  项目
+POSITIVE	建  项目
+POSITIVE	建  项目
+POSITIVE	建  项目
+POSITIVE	num 转  
+POSITIVE	num 转  
+POSITIVE	num 转  
+POSITIVE	num 转  
+POSITIVE	num 转  
+POSITIVE	扬  
+POSITIVE	扬  
+POSITIVE	扬  
+POSITIVE	扬  
+POSITIVE	扬  
+POSITIVE	召开  产品 发布会
+POSITIVE	召开  产品 发布会
+POSITIVE	召开  产品 发布会
+POSITIVE	召开  产品 发布会
+POSITIVE	召开  产品 发布会
+NEGATIVE	亏
+NEGATIVE	亏
+NEGATIVE	亏
+NEGATIVE	亏
+NEGATIVE	亏
+POSITIVE	创造  价值
+POSITIVE	创造  价值
+POSITIVE	创造  价值
+POSITIVE	创造  价值
+POSITIVE	创造  价值
+NEUTRAL	  推荐
+NEUTRAL	  推荐
+NEUTRAL	  推荐
+NEUTRAL	  推荐
+NEUTRAL	  推荐
+POSITIVE	开放  IPO
+POSITIVE	开放  IPO
+POSITIVE	开放  IPO
+POSITIVE	开放  IPO
+POSITIVE	开放  IPO
+NEGATIVE	不见踪影
+NEGATIVE	不见踪影
+NEGATIVE	不见踪影
+NEGATIVE	不见踪影
+NEGATIVE	不见踪影
+NEUTRAL	投资 图谱
+NEUTRAL	投资 图谱
+NEUTRAL	投资 图谱
+NEUTRAL	投资 图谱
+NEUTRAL	投资 图谱
+NEUTRAL	投资 哲学
+NEUTRAL	投资 哲学
+NEUTRAL	投资 哲学
+NEUTRAL	投资 哲学
+NEUTRAL	投资 哲学
+POSITIVE	元  收益
+POSITIVE	元  收益
+POSITIVE	元  收益
+POSITIVE	元  收益
+POSITIVE	元  收益
+POSITIVE	万元  收益
+POSITIVE	万元  收益
+POSITIVE	万元  收益
+POSITIVE	万元  收益
+POSITIVE	万元  收益
+POSITIVE	num  收益
+POSITIVE	num  收益
+POSITIVE	num  收益
+POSITIVE	num  收益
+POSITIVE	num  收益
+POSITIVE	亿元  收益
+POSITIVE	亿元  收益
+POSITIVE	亿元  收益
+POSITIVE	亿元  收益
+POSITIVE	亿元  收益
+POSITIVE	num  收益
+POSITIVE	num  收益
+POSITIVE	num  收益
+POSITIVE	num  收益
+POSITIVE	num  收益
+POSITIVE	产生  收益
+POSITIVE	产生  收益
+POSITIVE	产生  收益
+POSITIVE	产生  收益
+POSITIVE	产生  收益
+POSITIVE	获  收益
+POSITIVE	获  收益
+POSITIVE	获  收益
+POSITIVE	获  收益
+POSITIVE	获  收益
+POSITIVE	投资收益
+POSITIVE	投资收益
+POSITIVE	投资收益
+POSITIVE	投资收益
+POSITIVE	投资收益
+POSITIVE	获  批准
+POSITIVE	获  批准
+POSITIVE	获  批准
+POSITIVE	获  批准
+POSITIVE	获  批准
+POSITIVE	方案  批准
+POSITIVE	方案  批准
+POSITIVE	方案  批准
+POSITIVE	方案  批准
+POSITIVE	方案  批准
+POSITIVE	批复  获
+POSITIVE	批复  获
+POSITIVE	批复  获
+POSITIVE	批复  获
+POSITIVE	批复  获
+POSITIVE	获益
+POSITIVE	获益
+POSITIVE	获益
+POSITIVE	获益
+POSITIVE	获益
+POSITIVE	审核  通过
+POSITIVE	审核  通过
+POSITIVE	审核  通过
+POSITIVE	审核  通过
+POSITIVE	审核  通过
+NEGATIVE	案件
+NEGATIVE	案件
+NEGATIVE	案件
+NEGATIVE	案件
+NEGATIVE	案件
+NEGATIVE	案
+NEGATIVE	案
+NEGATIVE	案
+NEGATIVE	案
+NEGATIVE	案
+POSITIVE	亿元  超
+POSITIVE	亿元  超
+POSITIVE	亿元  超
+POSITIVE	亿元  超
+POSITIVE	亿元  超
+POSITIVE	正式  运行
+POSITIVE	正式  运行
+POSITIVE	正式  运行
+POSITIVE	正式  运行
+POSITIVE	正式  运行
+NEUTRAL	投资 
+NEUTRAL	投资 
+NEUTRAL	投资 
+NEUTRAL	投资 
+NEUTRAL	投资 
+POSITIVE	股权  购买
+POSITIVE	股权  购买
+POSITIVE	股权  购买
+POSITIVE	股权  购买
+POSITIVE	股权  购买
+POSITIVE	股  购买
+POSITIVE	股  购买
+POSITIVE	股  购买
+POSITIVE	股  购买
+POSITIVE	股  购买
+POSITIVE	投资 建设
+POSITIVE	投资 建设
+POSITIVE	投资 建设
+POSITIVE	投资 建设
+POSITIVE	投资 建设
+NEUTRAL	卖出  
+NEUTRAL	卖出  
+NEUTRAL	卖出  
+NEUTRAL	卖出  
+NEUTRAL	卖出  
+NEUTRAL	出售  
+NEUTRAL	出售  
+NEUTRAL	出售  
+NEUTRAL	出售  
+NEUTRAL	出售  
+POSITIVE	降低  风险
+POSITIVE	降低  风险
+POSITIVE	降低  风险
+POSITIVE	降低  风险
+POSITIVE	降低  风险
+POSITIVE	政府  补助
+POSITIVE	政府  补助
+POSITIVE	政府  补助
+POSITIVE	政府  补助
+POSITIVE	政府  补助
+POSITIVE	政府  补贴
+POSITIVE	政府  补贴
+POSITIVE	政府  补贴
+POSITIVE	政府  补贴
+POSITIVE	政府  补贴
+NEGATIVE	未 分配  利润
+NEGATIVE	未 分配  利润
+NEGATIVE	未 分配  利润
+NEGATIVE	未 分配  利润
+NEGATIVE	未 分配  利润
+NEGATIVE	减少  利润
+NEGATIVE	减少  利润
+NEGATIVE	减少  利润
+NEGATIVE	减少  利润
+NEGATIVE	减少  利润
+NEGATIVE	减  利润
+NEGATIVE	减  利润
+NEGATIVE	减  利润
+NEGATIVE	减  利润
+NEGATIVE	减  利润
+NEGATIVE	降  利润
+NEGATIVE	降  利润
+NEGATIVE	降  利润
+NEGATIVE	降  利润
+NEGATIVE	降  利润
+NEGATIVE	补贴  减少
+NEGATIVE	补贴  减少
+NEGATIVE	补贴  减少
+NEGATIVE	补贴  减少
+NEGATIVE	补贴  减少
+NEUTRAL	并购 基金
+NEUTRAL	并购 基金
+NEUTRAL	并购 基金
+NEUTRAL	并购 基金
+NEUTRAL	并购 基金
+NEUTRAL	并购 市场
+NEUTRAL	并购 市场
+NEUTRAL	并购 市场
+NEUTRAL	并购 市场
+NEUTRAL	并购 市场
+NEUTRAL	受让 主体
+NEUTRAL	受让 主体
+NEUTRAL	受让 主体
+NEUTRAL	受让 主体
+NEUTRAL	受让 主体
+NEGATIVE	内 斗
+NEGATIVE	内 斗
+NEGATIVE	内 斗
+NEGATIVE	内 斗
+NEGATIVE	内 斗
+NEGATIVE	解散
+NEGATIVE	解散
+NEGATIVE	解散
+NEGATIVE	解散
+NEGATIVE	解散
+POSITIVE	里程碑
+POSITIVE	里程碑
+POSITIVE	里程碑
+POSITIVE	里程碑
+POSITIVE	里程碑
+POSITIVE	横空出世
+POSITIVE	横空出世
+POSITIVE	横空出世
+POSITIVE	横空出世
+POSITIVE	横空出世
+POSITIVE	潜在 升
+POSITIVE	潜在 升
+POSITIVE	潜在 升
+POSITIVE	潜在 升
+POSITIVE	潜在 升
+NEGATIVE	唱空
+NEGATIVE	唱空
+NEGATIVE	唱空
+NEGATIVE	唱空
+NEGATIVE	唱空
+POSITIVE	逢 低  买入
+POSITIVE	逢 低  买入
+POSITIVE	逢 低  买入
+POSITIVE	逢 低  买入
+POSITIVE	逢 低  买入
+POSITIVE	收获
+POSITIVE	收获
+POSITIVE	收获
+POSITIVE	收获
+POSITIVE	收获
+NEGATIVE	头寸
+NEGATIVE	头寸
+NEGATIVE	头寸
+NEGATIVE	头寸
+NEGATIVE	头寸
+POSITIVE	倍增
+POSITIVE	倍增
+POSITIVE	倍增
+POSITIVE	倍增
+POSITIVE	倍增
+POSITIVE	有利于
+POSITIVE	有利于
+POSITIVE	有利于
+POSITIVE	有利于
+POSITIVE	有利于
+POSITIVE	建设
+POSITIVE	建设
+POSITIVE	建设
+POSITIVE	建设
+POSITIVE	建设
+NEUTRAL	建设 集团
+NEUTRAL	建设 集团
+NEUTRAL	建设 集团
+NEUTRAL	建设 集团
+NEUTRAL	建设 集团
+POSITIVE	萌动
+POSITIVE	萌动
+POSITIVE	萌动
+POSITIVE	萌动
+POSITIVE	萌动
+POSITIVE	创建
+POSITIVE	创建
+POSITIVE	创建
+POSITIVE	创建
+POSITIVE	创建
+POSITIVE	报忧
+POSITIVE	报忧
+POSITIVE	报忧
+POSITIVE	报忧
+POSITIVE	报忧
+POSITIVE	战略性
+POSITIVE	战略性
+POSITIVE	战略性
+POSITIVE	战略性
+POSITIVE	战略性
+POSITIVE	拓宽
+POSITIVE	拓宽
+POSITIVE	拓宽
+POSITIVE	拓宽
+POSITIVE	拓宽
+POSITIVE	改制
+POSITIVE	改制
+POSITIVE	改制
+POSITIVE	改制
+POSITIVE	改制
+POSITIVE	应运而生
+POSITIVE	应运而生
+POSITIVE	应运而生
+POSITIVE	应运而生
+POSITIVE	应运而生
+POSITIVE	暗流 涌动
+POSITIVE	暗流 涌动
+POSITIVE	暗流 涌动
+POSITIVE	暗流 涌动
+POSITIVE	暗流 涌动
+POSITIVE	激发
+POSITIVE	激发
+POSITIVE	激发
+POSITIVE	激发
+POSITIVE	激发
+POSITIVE	睿智
+POSITIVE	睿智
+POSITIVE	睿智
+POSITIVE	睿智
+POSITIVE	睿智
+POSITIVE	新增
+POSITIVE	新增
+POSITIVE	新增
+POSITIVE	新增
+POSITIVE	新增
+POSITIVE	快乐
+POSITIVE	快乐
+POSITIVE	快乐
+POSITIVE	快乐
+POSITIVE	快乐
+POSITIVE	推广
+POSITIVE	推广
+POSITIVE	推广
+POSITIVE	推广
+POSITIVE	推广
+NEGATIVE	推广 费
+NEGATIVE	推广 费
+NEGATIVE	推广 费
+NEGATIVE	推广 费
+NEGATIVE	推广 费
+POSITIVE	升幅
+POSITIVE	升幅
+POSITIVE	升幅
+POSITIVE	升幅
+POSITIVE	升幅
+POSITIVE	首家
+POSITIVE	首家
+POSITIVE	首家
+POSITIVE	首家
+POSITIVE	首家
+POSITIVE	自动化
+POSITIVE	自动化
+POSITIVE	自动化
+POSITIVE	自动化
+POSITIVE	自动化
+NEGATIVE	很 LOW
+NEGATIVE	很 LOW
+NEGATIVE	很 LOW
+NEGATIVE	很 LOW
+NEGATIVE	很 LOW
+POSITIVE	完胜
+POSITIVE	完胜
+POSITIVE	完胜
+POSITIVE	完胜
+POSITIVE	完胜
+POSITIVE	特种
+POSITIVE	特种
+POSITIVE	特种
+POSITIVE	特种
+POSITIVE	特种
+POSITIVE	有序
+POSITIVE	有序
+POSITIVE	有序
+POSITIVE	有序
+POSITIVE	有序
+POSITIVE	严重  低估
+POSITIVE	严重  低估
+POSITIVE	严重  低估
+POSITIVE	严重  低估
+POSITIVE	严重  低估
+NEGATIVE	倒数 第一
+NEGATIVE	倒数 第一
+NEGATIVE	倒数 第一
+NEGATIVE	倒数 第一
+NEGATIVE	倒数 第一
+POSITIVE	协商
+POSITIVE	协商
+POSITIVE	协商
+POSITIVE	协商
+POSITIVE	协商
+NEGATIVE	止步
+NEGATIVE	止步
+NEGATIVE	止步
+NEGATIVE	止步
+NEGATIVE	止步
+NEGATIVE	危险
+NEGATIVE	危险
+NEGATIVE	危险
+NEGATIVE	危险
+NEGATIVE	危险
+NEGATIVE	赔钱
+NEGATIVE	赔钱
+NEGATIVE	赔钱
+NEGATIVE	赔钱
+NEGATIVE	赔钱
+POSITIVE	艺术
+POSITIVE	艺术
+POSITIVE	艺术
+POSITIVE	艺术
+POSITIVE	艺术
+NEGATIVE	不怎么样
+NEGATIVE	不怎么样
+NEGATIVE	不怎么样
+NEGATIVE	不怎么样
+NEGATIVE	不怎么样
+POSITIVE	注资
+POSITIVE	注资
+POSITIVE	注资
+POSITIVE	注资
+POSITIVE	注资
+NEGATIVE	死亡
+NEGATIVE	死亡
+NEGATIVE	死亡
+NEGATIVE	死亡
+NEGATIVE	死亡
+NEGATIVE	抵押
+NEGATIVE	抵押
+NEGATIVE	抵押
+NEGATIVE	抵押
+NEGATIVE	抵押
+NEGATIVE	冻结
+NEGATIVE	冻结
+NEGATIVE	冻结
+NEGATIVE	冻结
+NEGATIVE	冻结
+NEGATIVE	司法 冻结
+NEGATIVE	司法 冻结
+NEGATIVE	司法 冻结
+NEGATIVE	司法 冻结
+NEGATIVE	司法 冻结
+POSITIVE	引导
+POSITIVE	引导
+POSITIVE	引导
+POSITIVE	引导
+POSITIVE	引导
+POSITIVE	大幅 扭亏
+POSITIVE	大幅 扭亏
+POSITIVE	大幅 扭亏
+POSITIVE	大幅 扭亏
+POSITIVE	大幅 扭亏
+POSITIVE	盛宴
+POSITIVE	盛宴
+POSITIVE	盛宴
+POSITIVE	盛宴
+POSITIVE	盛宴
+POSITIVE	转战
+POSITIVE	转战
+POSITIVE	转战
+POSITIVE	转战
+POSITIVE	转战
+POSITIVE	翻身仗
+POSITIVE	翻身仗
+POSITIVE	翻身仗
+POSITIVE	翻身仗
+POSITIVE	翻身仗
+POSITIVE	新秀
+POSITIVE	新秀
+POSITIVE	新秀
+POSITIVE	新秀
+POSITIVE	新秀
+POSITIVE	补血
+POSITIVE	补血
+POSITIVE	补血
+POSITIVE	补血
+POSITIVE	补血
+POSITIVE	倡导
+POSITIVE	倡导
+POSITIVE	倡导
+POSITIVE	倡导
+POSITIVE	倡导
+POSITIVE	深耕
+POSITIVE	深耕
+POSITIVE	深耕
+POSITIVE	深耕
+POSITIVE	深耕
+POSITIVE	斩获
+POSITIVE	斩获
+POSITIVE	斩获
+POSITIVE	斩获
+POSITIVE	斩获
+POSITIVE	签合同
+POSITIVE	签合同
+POSITIVE	签合同
+POSITIVE	签合同
+POSITIVE	签合同
+POSITIVE	联合 成立
+POSITIVE	联合 成立
+POSITIVE	联合 成立
+POSITIVE	联合 成立
+POSITIVE	联合 成立
+POSITIVE	知名
+POSITIVE	知名
+POSITIVE	知名
+POSITIVE	知名
+POSITIVE	知名
+NEGATIVE	反目
+NEGATIVE	反目
+NEGATIVE	反目
+NEGATIVE	反目
+NEGATIVE	反目
+POSITIVE	高峰
+POSITIVE	高峰
+POSITIVE	高峰
+POSITIVE	高峰
+POSITIVE	高峰
+NEUTRAL	高峰 论坛
+NEUTRAL	高峰 论坛
+NEUTRAL	高峰 论坛
+NEUTRAL	高峰 论坛
+NEUTRAL	高峰 论坛
+POSITIVE	苦尽甘来
+POSITIVE	苦尽甘来
+POSITIVE	苦尽甘来
+POSITIVE	苦尽甘来
+POSITIVE	苦尽甘来
+POSITIVE	前沿
+POSITIVE	前沿
+POSITIVE	前沿
+POSITIVE	前沿
+POSITIVE	前沿
+POSITIVE	高效
+POSITIVE	高效
+POSITIVE	高效
+POSITIVE	高效
+POSITIVE	高效
+POSITIVE	受到重视
+POSITIVE	受到重视
+POSITIVE	受到重视
+POSITIVE	受到重视
+POSITIVE	受到重视
+POSITIVE	大年
+POSITIVE	大年
+POSITIVE	大年
+POSITIVE	大年
+POSITIVE	大年
+POSITIVE	对外开放
+POSITIVE	对外开放
+POSITIVE	对外开放
+POSITIVE	对外开放
+POSITIVE	对外开放
+POSITIVE	入围
+POSITIVE	入围
+POSITIVE	入围
+POSITIVE	入围
+POSITIVE	入围
+POSITIVE	第一 批
+POSITIVE	第一 批
+POSITIVE	第一 批
+POSITIVE	第一 批
+POSITIVE	第一 批
+POSITIVE	问世
+POSITIVE	问世
+POSITIVE	问世
+POSITIVE	问世
+POSITIVE	问世
+NEGATIVE	灾难
+NEGATIVE	灾难
+NEGATIVE	灾难
+NEGATIVE	灾难
+NEGATIVE	灾难
+NEGATIVE	危局
+NEGATIVE	危局
+NEGATIVE	危局
+NEGATIVE	危局
+NEGATIVE	危局
+NEGATIVE	银行 扣划
+NEGATIVE	银行 扣划
+NEGATIVE	银行 扣划
+NEGATIVE	银行 扣划
+NEGATIVE	银行 扣划
+NEGATIVE	被扣 划
+NEGATIVE	被扣 划
+NEGATIVE	被扣 划
+NEGATIVE	被扣 划
+NEGATIVE	被扣 划
+POSITIVE	智造
+POSITIVE	智造
+POSITIVE	智造
+POSITIVE	智造
+POSITIVE	智造
+POSITIVE	扶贫
+POSITIVE	扶贫
+POSITIVE	扶贫
+POSITIVE	扶贫
+POSITIVE	扶贫
+POSITIVE	合资
+POSITIVE	合资
+POSITIVE	合资
+POSITIVE	合资
+POSITIVE	合资
+POSITIVE	共建
+POSITIVE	共建
+POSITIVE	共建
+POSITIVE	共建
+POSITIVE	共建
+POSITIVE	增至
+POSITIVE	增至
+POSITIVE	增至
+POSITIVE	增至
+POSITIVE	增至
+POSITIVE	进军
+POSITIVE	进军
+POSITIVE	进军
+POSITIVE	进军
+POSITIVE	进军
+POSITIVE	新局面
+POSITIVE	新局面
+POSITIVE	新局面
+POSITIVE	新局面
+POSITIVE	新局面
+NEGATIVE	市盈率  高于
+NEGATIVE	市盈率  高于
+NEGATIVE	市盈率  高于
+NEGATIVE	市盈率  高于
+NEGATIVE	市盈率  高于
+POSITIVE	战略 合作
+POSITIVE	战略 合作
+POSITIVE	战略 合作
+POSITIVE	战略 合作
+POSITIVE	战略 合作
+POSITIVE	收到  订单
+POSITIVE	收到  订单
+POSITIVE	收到  订单
+POSITIVE	收到  订单
+POSITIVE	收到  订单
+POSITIVE	获  证书
+POSITIVE	获  证书
+POSITIVE	获  证书
+POSITIVE	获  证书
+POSITIVE	获  证书
+POSITIVE	复 产
+POSITIVE	复 产
+POSITIVE	复 产
+POSITIVE	复 产
+POSITIVE	复 产
+POSITIVE	终止 减持
+POSITIVE	终止 减持
+POSITIVE	终止 减持
+POSITIVE	终止 减持
+POSITIVE	终止 减持
+NEGATIVE	股票  售
+NEGATIVE	股票  售
+NEGATIVE	股票  售
+NEGATIVE	股票  售
+NEGATIVE	股票  售
+NEGATIVE	地震
+NEGATIVE	地震
+NEGATIVE	地震
+NEGATIVE	地震
+NEGATIVE	地震
+NEGATIVE	被 查
+NEGATIVE	被 查
+NEGATIVE	被 查
+NEGATIVE	被 查
+NEGATIVE	被 查
+NEGATIVE	长 路漫漫
+NEGATIVE	长 路漫漫
+NEGATIVE	长 路漫漫
+NEGATIVE	长 路漫漫
+NEGATIVE	长 路漫漫
+POSITIVE	抢滩
+POSITIVE	抢滩
+POSITIVE	抢滩
+POSITIVE	抢滩
+POSITIVE	抢滩
+POSITIVE	对外 投资
+POSITIVE	对外 投资
+POSITIVE	对外 投资
+POSITIVE	对外 投资
+POSITIVE	对外 投资
+POSITIVE	快速  增长
+POSITIVE	快速  增长
+POSITIVE	快速  增长
+POSITIVE	快速  增长
+POSITIVE	快速  增长
+POSITIVE	现金  分红
+POSITIVE	现金  分红
+POSITIVE	现金  分红
+POSITIVE	现金  分红
+POSITIVE	现金  分红
+POSITIVE	快速  发展
+POSITIVE	快速  发展
+POSITIVE	快速  发展
+POSITIVE	快速  发展
+POSITIVE	快速  发展
+POSITIVE	 轮 融资
+POSITIVE	 轮 融资
+POSITIVE	 轮 融资
+POSITIVE	 轮 融资
+POSITIVE	 轮 融资
+POSITIVE	战略  投资
+POSITIVE	战略  投资
+POSITIVE	战略  投资
+POSITIVE	战略  投资
+POSITIVE	战略  投资
+POSITIVE	快速  扩张
+POSITIVE	快速  扩张
+POSITIVE	快速  扩张
+POSITIVE	快速  扩张
+POSITIVE	快速  扩张
+POSITIVE	战略 调整
+POSITIVE	战略 调整
+POSITIVE	战略 调整
+POSITIVE	战略 调整
+POSITIVE	战略 调整
+POSITIVE	比较 好
+POSITIVE	比较 好
+POSITIVE	比较 好
+POSITIVE	比较 好
+POSITIVE	比较 好
+POSITIVE	 轮 融资
+POSITIVE	 轮 融资
+POSITIVE	 轮 融资
+POSITIVE	 轮 融资
+POSITIVE	 轮 融资
+POSITIVE	大幅 增长
+POSITIVE	大幅 增长
+POSITIVE	大幅 增长
+POSITIVE	大幅 增长
+POSITIVE	大幅 增长
+POSITIVE	长期 投资
+POSITIVE	长期 投资
+POSITIVE	长期 投资
+POSITIVE	长期 投资
+POSITIVE	长期 投资
+POSITIVE	技术 创新
+POSITIVE	技术 创新
+POSITIVE	技术 创新
+POSITIVE	技术 创新
+POSITIVE	技术 创新
+POSITIVE	拿 地
+POSITIVE	拿 地
+POSITIVE	拿 地
+POSITIVE	拿 地
+POSITIVE	拿 地
+POSITIVE	投资者  关注
+POSITIVE	投资者  关注
+POSITIVE	投资者  关注
+POSITIVE	投资者  关注
+POSITIVE	投资者  关注
+POSITIVE	净 买入
+POSITIVE	净 买入
+POSITIVE	净 买入
+POSITIVE	净 买入
+POSITIVE	净 买入
+POSITIVE	最 成功
+POSITIVE	最 成功
+POSITIVE	最 成功
+POSITIVE	最 成功
+POSITIVE	最 成功
+POSITIVE	备受 关注
+POSITIVE	备受 关注
+POSITIVE	备受 关注
+POSITIVE	备受 关注
+POSITIVE	备受 关注
+POSITIVE	最 优秀
+POSITIVE	最 优秀
+POSITIVE	最 优秀
+POSITIVE	最 优秀
+POSITIVE	最 优秀
+POSITIVE	价值 投资
+POSITIVE	价值 投资
+POSITIVE	价值 投资
+POSITIVE	价值 投资
+POSITIVE	价值 投资
+POSITIVE	领 投
+POSITIVE	领 投
+POSITIVE	领 投
+POSITIVE	领 投
+POSITIVE	领 投
+POSITIVE	资产 重组
+POSITIVE	资产 重组
+POSITIVE	资产 重组
+POSITIVE	资产 重组
+POSITIVE	资产 重组
+POSITIVE	员工 持股 计划
+POSITIVE	员工 持股 计划
+POSITIVE	员工 持股 计划
+POSITIVE	员工 持股 计划
+POSITIVE	员工 持股 计划
+POSITIVE	转型 升级
+POSITIVE	转型 升级
+POSITIVE	转型 升级
+POSITIVE	转型 升级
+POSITIVE	转型 升级
+POSITIVE	重大 资产 重组
+POSITIVE	重大 资产 重组
+POSITIVE	重大 资产 重组
+POSITIVE	重大 资产 重组
+POSITIVE	重大 资产 重组
+POSITIVE	科技 创新
+POSITIVE	科技 创新
+POSITIVE	科技 创新
+POSITIVE	科技 创新
+POSITIVE	科技 创新
+POSITIVE	经济 复苏
+POSITIVE	经济 复苏
+POSITIVE	经济 复苏
+POSITIVE	经济 复苏
+POSITIVE	经济 复苏
+POSITIVE	获得  融资
+POSITIVE	获得  融资
+POSITIVE	获得  融资
+POSITIVE	获得  融资
+POSITIVE	获得  融资
+POSITIVE	研发 投入
+POSITIVE	研发 投入
+POSITIVE	研发 投入
+POSITIVE	研发 投入
+POSITIVE	研发 投入
+POSITIVE	竞争 优势
+POSITIVE	竞争 优势
+POSITIVE	竞争 优势
+POSITIVE	竞争 优势
+POSITIVE	竞争 优势
+POSITIVE	创新 性
+POSITIVE	创新 性
+POSITIVE	创新 性
+POSITIVE	创新 性
+POSITIVE	创新 性
+POSITIVE	排名 第一
+POSITIVE	排名 第一
+POSITIVE	排名 第一
+POSITIVE	排名 第一
+POSITIVE	排名 第一
+POSITIVE	业务 发展
+POSITIVE	业务 发展
+POSITIVE	业务 发展
+POSITIVE	业务 发展
+POSITIVE	业务 发展
+POSITIVE	发展 战略
+POSITIVE	发展 战略
+POSITIVE	发展 战略
+POSITIVE	发展 战略
+POSITIVE	发展 战略
+POSITIVE	非常 好
+POSITIVE	非常 好
+POSITIVE	非常 好
+POSITIVE	非常 好
+POSITIVE	非常 好
+POSITIVE	定向 增发
+POSITIVE	定向 增发
+POSITIVE	定向 增发
+POSITIVE	定向 增发
+POSITIVE	定向 增发
+POSITIVE	高速 增长
+POSITIVE	高速 增长
+POSITIVE	高速 增长
+POSITIVE	高速 增长
+POSITIVE	高速 增长
+POSITIVE	技术 研发
+POSITIVE	技术 研发
+POSITIVE	技术 研发
+POSITIVE	技术 研发
+POSITIVE	技术 研发
+POSITIVE	重组 预案
+POSITIVE	重组 预案
+POSITIVE	重组 预案
+POSITIVE	重组 预案
+POSITIVE	重组 预案
+POSITIVE	自主 研发
+POSITIVE	自主 研发
+POSITIVE	自主 研发
+POSITIVE	自主 研发
+POSITIVE	自主 研发
+POSITIVE	深港通  开通
+POSITIVE	深港通  开通
+POSITIVE	深港通  开通
+POSITIVE	深港通  开通
+POSITIVE	深港通  开通
+POSITIVE	战略 合作 伙伴
+POSITIVE	战略 合作 伙伴
+POSITIVE	战略 合作 伙伴
+POSITIVE	战略 合作 伙伴
+POSITIVE	战略 合作 伙伴
+POSITIVE	世界 领先
+POSITIVE	世界 领先
+POSITIVE	世界 领先
+POSITIVE	世界 领先
+POSITIVE	世界 领先
+POSITIVE	全员 持股
+POSITIVE	全员 持股
+POSITIVE	全员 持股
+POSITIVE	全员 持股
+POSITIVE	全员 持股
+POSITIVE	跨界 并购
+POSITIVE	跨界 并购
+POSITIVE	跨界 并购
+POSITIVE	跨界 并购
+POSITIVE	跨界 并购
+POSITIVE	业务 拓展
+POSITIVE	业务 拓展
+POSITIVE	业务 拓展
+POSITIVE	业务 拓展
+POSITIVE	业务 拓展
+POSITIVE	最 活跃
+POSITIVE	最 活跃
+POSITIVE	最 活跃
+POSITIVE	最 活跃
+POSITIVE	最 活跃
+POSITIVE	屡 创新高
+POSITIVE	屡 创新高
+POSITIVE	屡 创新高
+POSITIVE	屡 创新高
+POSITIVE	屡 创新高
+POSITIVE	资金 投入
+POSITIVE	资金 投入
+POSITIVE	资金 投入
+POSITIVE	资金 投入
+POSITIVE	资金 投入
+POSITIVE	资源 整合
+POSITIVE	资源 整合
+POSITIVE	资源 整合
+POSITIVE	资源 整合
+POSITIVE	资源 整合
+POSITIVE	有 影响力
+POSITIVE	有 影响力
+POSITIVE	有 影响力
+POSITIVE	有 影响力
+POSITIVE	有 影响力
+POSITIVE	参与  投资
+POSITIVE	参与  投资
+POSITIVE	参与  投资
+POSITIVE	参与  投资
+POSITIVE	参与  投资
+POSITIVE	增资 扩股
+POSITIVE	增资 扩股
+POSITIVE	增资 扩股
+POSITIVE	增资 扩股
+POSITIVE	增资 扩股
+POSITIVE	最为 关注
+POSITIVE	最为 关注
+POSITIVE	最为 关注
+POSITIVE	最为 关注
+POSITIVE	最为 关注
+POSITIVE	非常 重要
+POSITIVE	非常 重要
+POSITIVE	非常 重要
+POSITIVE	非常 重要
+POSITIVE	非常 重要
+POSITIVE	高速 发展
+POSITIVE	高速 发展
+POSITIVE	高速 发展
+POSITIVE	高速 发展
+POSITIVE	高速 发展
+POSITIVE	股价 上涨
+POSITIVE	股价 上涨
+POSITIVE	股价 上涨
+POSITIVE	股价 上涨
+POSITIVE	股价 上涨
+POSITIVE	热 播
+POSITIVE	热 播
+POSITIVE	热 播
+POSITIVE	热 播
+POSITIVE	热 播
+POSITIVE	参与 定增
+POSITIVE	参与 定增
+POSITIVE	参与 定增
+POSITIVE	参与 定增
+POSITIVE	参与 定增
+POSITIVE	有 竞争力
+POSITIVE	有 竞争力
+POSITIVE	有 竞争力
+POSITIVE	有 竞争力
+POSITIVE	有 竞争力
+POSITIVE	业绩  稳定 增长
+POSITIVE	业绩  稳定 增长
+POSITIVE	业绩  稳定 增长
+POSITIVE	业绩  稳定 增长
+POSITIVE	业绩  稳定 增长
+POSITIVE	垂直 整合
+POSITIVE	垂直 整合
+POSITIVE	垂直 整合
+POSITIVE	垂直 整合
+POSITIVE	垂直 整合
+POSITIVE	港股  上市
+POSITIVE	港股  上市
+POSITIVE	港股  上市
+POSITIVE	港股  上市
+POSITIVE	港股  上市
+POSITIVE	创业板  上市
+POSITIVE	创业板  上市
+POSITIVE	创业板  上市
+POSITIVE	创业板  上市
+POSITIVE	创业板  上市
+POSITIVE	股权 融资
+POSITIVE	股权 融资
+POSITIVE	股权 融资
+POSITIVE	股权 融资
+POSITIVE	股权 融资
+POSITIVE	最 强大
+POSITIVE	最 强大
+POSITIVE	最 强大
+POSITIVE	最 强大
+POSITIVE	最 强大
+POSITIVE	涨幅  居前
+POSITIVE	涨幅  居前
+POSITIVE	涨幅  居前
+POSITIVE	涨幅  居前
+POSITIVE	涨幅  居前
+NEGATIVE	跌幅  居前
+NEGATIVE	跌幅  居前
+NEGATIVE	跌幅  居前
+NEGATIVE	跌幅  居前
+NEGATIVE	跌幅  居前
+POSITIVE	资金 支持
+POSITIVE	资金 支持
+POSITIVE	资金 支持
+POSITIVE	资金 支持
+POSITIVE	资金 支持
+POSITIVE	特别 好
+POSITIVE	特别 好
+POSITIVE	特别 好
+POSITIVE	特别 好
+POSITIVE	特别 好
+POSITIVE	分红 派息
+POSITIVE	分红 派息
+POSITIVE	分红 派息
+POSITIVE	分红 派息
+POSITIVE	分红 派息
+POSITIVE	拥有 强大
+POSITIVE	拥有 强大
+POSITIVE	拥有 强大
+POSITIVE	拥有 强大
+POSITIVE	拥有 强大
+POSITIVE	一直 看好
+POSITIVE	一直 看好
+POSITIVE	一直 看好
+POSITIVE	一直 看好
+POSITIVE	一直 看好
+POSITIVE	首轮 融资
+POSITIVE	首轮 融资
+POSITIVE	首轮 融资
+POSITIVE	首轮 融资
+POSITIVE	首轮 融资
+POSITIVE	大幅 提升
+POSITIVE	大幅 提升
+POSITIVE	大幅 提升
+POSITIVE	大幅 提升
+POSITIVE	大幅 提升
+POSITIVE	市场 青睐
+POSITIVE	市场 青睐
+POSITIVE	市场 青睐
+POSITIVE	市场 青睐
+POSITIVE	市场 青睐
+POSITIVE	营收 增长
+POSITIVE	营收 增长
+POSITIVE	营收 增长
+POSITIVE	营收 增长
+POSITIVE	营收 增长
+POSITIVE	有 足够
+POSITIVE	有 足够
+POSITIVE	有 足够
+POSITIVE	有 足够
+POSITIVE	有 足够
+POSITIVE	创下  历史 新高
+POSITIVE	创下  历史 新高
+POSITIVE	创下  历史 新高
+POSITIVE	创下  历史 新高
+POSITIVE	创下  历史 新高
+POSITIVE	靠 自己
+POSITIVE	靠 自己
+POSITIVE	靠 自己
+POSITIVE	靠 自己
+POSITIVE	靠 自己
+POSITIVE	走向 全球
+POSITIVE	走向 全球
+POSITIVE	走向 全球
+POSITIVE	走向 全球
+POSITIVE	走向 全球
+POSITIVE	继续 增持
+POSITIVE	继续 增持
+POSITIVE	继续 增持
+POSITIVE	继续 增持
+POSITIVE	继续 增持
+POSITIVE	合作 伙伴 关系
+POSITIVE	合作 伙伴 关系
+POSITIVE	合作 伙伴 关系
+POSITIVE	合作 伙伴 关系
+POSITIVE	合作 伙伴 关系
+POSITIVE	共同 努力
+POSITIVE	共同 努力
+POSITIVE	共同 努力
+POSITIVE	共同 努力
+POSITIVE	共同 努力
+POSITIVE	最 看好
+POSITIVE	最 看好
+POSITIVE	最 看好
+POSITIVE	最 看好
+POSITIVE	最 看好
+POSITIVE	产品 创新
+POSITIVE	产品 创新
+POSITIVE	产品 创新
+POSITIVE	产品 创新
+POSITIVE	产品 创新
+POSITIVE	积极 推进
+POSITIVE	积极 推进
+POSITIVE	积极 推进
+POSITIVE	积极 推进
+POSITIVE	积极 推进
+POSITIVE	有 潜力
+POSITIVE	有 潜力
+POSITIVE	有 潜力
+POSITIVE	有 潜力
+POSITIVE	有 潜力
+POSITIVE	有 机会
+POSITIVE	有 机会
+POSITIVE	有 机会
+POSITIVE	有 机会
+POSITIVE	有 机会
+POSITIVE	登陆  创业板
+POSITIVE	登陆  创业板
+POSITIVE	登陆  创业板
+POSITIVE	登陆  创业板
+POSITIVE	登陆  创业板
+POSITIVE	狂飙 突进
+POSITIVE	狂飙 突进
+POSITIVE	狂飙 突进
+POSITIVE	狂飙 突进
+POSITIVE	狂飙 突进
+POSITIVE	持续 上涨
+POSITIVE	持续 上涨
+POSITIVE	持续 上涨
+POSITIVE	持续 上涨
+POSITIVE	持续 上涨
+POSITIVE	赚 足
+POSITIVE	赚 足
+POSITIVE	赚 足
+POSITIVE	赚 足
+POSITIVE	赚 足
+POSITIVE	高 成长
+POSITIVE	高 成长
+POSITIVE	高 成长
+POSITIVE	高 成长
+POSITIVE	高 成长
+POSITIVE	实现 盈利
+POSITIVE	实现 盈利
+POSITIVE	实现 盈利
+POSITIVE	实现 盈利
+POSITIVE	实现 盈利
+POSITIVE	非常 优秀
+POSITIVE	非常 优秀
+POSITIVE	非常 优秀
+POSITIVE	非常 优秀
+POSITIVE	非常 优秀
+POSITIVE	表现 强势
+POSITIVE	表现 强势
+POSITIVE	表现 强势
+POSITIVE	表现 强势
+POSITIVE	表现 强势
+POSITIVE	表现 最好
+POSITIVE	表现 最好
+POSITIVE	表现 最好
+POSITIVE	表现 最好
+POSITIVE	表现 最好
+POSITIVE	强势 反弹
+POSITIVE	强势 反弹
+POSITIVE	强势 反弹
+POSITIVE	强势 反弹
+POSITIVE	强势 反弹
+POSITIVE	涨幅 最高
+POSITIVE	涨幅 最高
+POSITIVE	涨幅 最高
+POSITIVE	涨幅 最高
+POSITIVE	涨幅 最高
+POSITIVE	业界 领先
+POSITIVE	业界 领先
+POSITIVE	业界 领先
+POSITIVE	业界 领先
+POSITIVE	业界 领先
+POSITIVE	寄予 厚望
+POSITIVE	寄予 厚望
+POSITIVE	寄予 厚望
+POSITIVE	寄予 厚望
+POSITIVE	寄予 厚望
+POSITIVE	全球 领先
+POSITIVE	全球 领先
+POSITIVE	全球 领先
+POSITIVE	全球 领先
+POSITIVE	全球 领先
+POSITIVE	技术 积累
+POSITIVE	技术 积累
+POSITIVE	技术 积累
+POSITIVE	技术 积累
+POSITIVE	技术 积累
+POSITIVE	具 竞争力
+POSITIVE	具 竞争力
+POSITIVE	具 竞争力
+POSITIVE	具 竞争力
+POSITIVE	具 竞争力
+POSITIVE	大 热
+POSITIVE	大 热
+POSITIVE	大 热
+POSITIVE	大 热
+POSITIVE	大 热
+POSITIVE	投资 并购
+POSITIVE	投资 并购
+POSITIVE	投资 并购
+POSITIVE	投资 并购
+POSITIVE	投资 并购
+POSITIVE	是 全球 最大
+POSITIVE	是 全球 最大
+POSITIVE	是 全球 最大
+POSITIVE	是 全球 最大
+POSITIVE	是 全球 最大
+POSITIVE	高 利润
+POSITIVE	高 利润
+POSITIVE	高 利润
+POSITIVE	高 利润
+POSITIVE	高 利润
+POSITIVE	大幅 上涨
+POSITIVE	大幅 上涨
+POSITIVE	大幅 上涨
+POSITIVE	大幅 上涨
+POSITIVE	大幅 上涨
+POSITIVE	战略 入股
+POSITIVE	战略 入股
+POSITIVE	战略 入股
+POSITIVE	战略 入股
+POSITIVE	战略 入股
+POSITIVE	有 信心
+POSITIVE	有 信心
+POSITIVE	有 信心
+POSITIVE	有 信心
+POSITIVE	有 信心
+POSITIVE	重仓 持有
+POSITIVE	重仓 持有
+POSITIVE	重仓 持有
+POSITIVE	重仓 持有
+POSITIVE	重仓 持有
+POSITIVE	市值 最高
+POSITIVE	市值 最高
+POSITIVE	市值 最高
+POSITIVE	市值 最高
+POSITIVE	市值 最高
+POSITIVE	重仓 持股
+POSITIVE	重仓 持股
+POSITIVE	重仓 持股
+POSITIVE	重仓 持股
+POSITIVE	重仓 持股
+POSITIVE	抗 跌
+POSITIVE	抗 跌
+POSITIVE	抗 跌
+POSITIVE	抗 跌
+POSITIVE	抗 跌
+POSITIVE	稳定 增长
+POSITIVE	稳定 增长
+POSITIVE	稳定 增长
+POSITIVE	稳定 增长
+POSITIVE	稳定 增长
+POSITIVE	独特 优势
+POSITIVE	独特 优势
+POSITIVE	独特 优势
+POSITIVE	独特 优势
+POSITIVE	独特 优势
+POSITIVE	高 性价比
+POSITIVE	高 性价比
+POSITIVE	高 性价比
+POSITIVE	高 性价比
+POSITIVE	高 性价比
+POSITIVE	成为 中国 最大
+POSITIVE	成为 中国 最大
+POSITIVE	成为 中国 最大
+POSITIVE	成为 中国 最大
+POSITIVE	成为 中国 最大
+POSITIVE	具 吸引力
+POSITIVE	具 吸引力
+POSITIVE	具 吸引力
+POSITIVE	具 吸引力
+POSITIVE	具 吸引力
+POSITIVE	是 代表 未来
+POSITIVE	是 代表 未来
+POSITIVE	是 代表 未来
+POSITIVE	是 代表 未来
+POSITIVE	是 代表 未来
+POSITIVE	快 涨
+POSITIVE	快 涨
+POSITIVE	快 涨
+POSITIVE	快 涨
+POSITIVE	快 涨
+POSITIVE	正面 评价
+POSITIVE	正面 评价
+POSITIVE	正面 评价
+POSITIVE	正面 评价
+POSITIVE	正面 评价
+POSITIVE	获取  资金
+POSITIVE	获取  资金
+POSITIVE	获取  资金
+POSITIVE	获取  资金
+POSITIVE	获取  资金
+POSITIVE	保持 较好
+POSITIVE	保持 较好
+POSITIVE	保持 较好
+POSITIVE	保持 较好
+POSITIVE	保持 较好
+POSITIVE	撬 板
+POSITIVE	撬 板
+POSITIVE	撬 板
+POSITIVE	撬 板
+POSITIVE	撬 板
+POSITIVE	高 送 转
+POSITIVE	高 送 转
+POSITIVE	高 送 转
+POSITIVE	高 送 转
+POSITIVE	高 送 转
+POSITIVE	延长  锁定 期
+POSITIVE	延长  锁定 期
+POSITIVE	延长  锁定 期
+POSITIVE	延长  锁定 期
+POSITIVE	延长  锁定 期
+POSITIVE	超跌 反弹
+POSITIVE	超跌 反弹
+POSITIVE	超跌 反弹
+POSITIVE	超跌 反弹
+POSITIVE	超跌 反弹
+POSITIVE	不 差 钱
+POSITIVE	不 差 钱
+POSITIVE	不 差 钱
+POSITIVE	不 差 钱
+POSITIVE	不 差 钱
+POSITIVE	纳入 MSCI
+POSITIVE	纳入 MSCI
+POSITIVE	纳入 MSCI
+POSITIVE	纳入 MSCI
+POSITIVE	纳入 MSCI
+POSITIVE	套 期 保值
+POSITIVE	套 期 保值
+POSITIVE	套 期 保值
+POSITIVE	套 期 保值
+POSITIVE	套 期 保值
+POSITIVE	股权 收购
+POSITIVE	股权 收购
+POSITIVE	股权 收购
+POSITIVE	股权 收购
+POSITIVE	股权 收购
+POSITIVE	企业 转型
+POSITIVE	企业 转型
+POSITIVE	企业 转型
+POSITIVE	企业 转型
+POSITIVE	企业 转型
+POSITIVE	结构性 改革
+POSITIVE	结构性 改革
+POSITIVE	结构性 改革
+POSITIVE	结构性 改革
+POSITIVE	结构性 改革
+POSITIVE	海外 上市
+POSITIVE	海外 上市
+POSITIVE	海外 上市
+POSITIVE	海外 上市
+POSITIVE	海外 上市
+POSITIVE	供给侧 改革
+POSITIVE	供给侧 改革
+POSITIVE	供给侧 改革
+POSITIVE	供给侧 改革
+POSITIVE	供给侧 改革
+POSITIVE	版权 采购
+POSITIVE	版权 采购
+POSITIVE	版权 采购
+POSITIVE	版权 采购
+POSITIVE	版权 采购
+POSITIVE	募集  资金
+POSITIVE	募集  资金
+POSITIVE	募集  资金
+POSITIVE	募集  资金
+POSITIVE	募集  资金
+POSITIVE	向上  跳空 缺口
+POSITIVE	向上  跳空 缺口
+POSITIVE	向上  跳空 缺口
+POSITIVE	向上  跳空 缺口
+POSITIVE	向上  跳空 缺口
+NEUTRAL	上市 以来
+NEUTRAL	上市 以来
+NEUTRAL	上市 以来
+NEUTRAL	上市 以来
+NEUTRAL	上市 以来
+NEUTRAL	调整 后
+NEUTRAL	调整 后
+NEUTRAL	调整 后
+NEUTRAL	调整 后
+NEUTRAL	调整 后
+NEUTRAL	收购 案
+NEUTRAL	收购 案
+NEUTRAL	收购 案
+NEUTRAL	收购 案
+NEUTRAL	收购 案
+NEUTRAL	大宗 交易
+NEUTRAL	大宗 交易
+NEUTRAL	大宗 交易
+NEUTRAL	大宗 交易
+NEUTRAL	大宗 交易
+NEUTRAL	架构 调整
+NEUTRAL	架构 调整
+NEUTRAL	架构 调整
+NEUTRAL	架构 调整
+NEUTRAL	架构 调整
+NEUTRAL	业绩 对赌
+NEUTRAL	业绩 对赌
+NEUTRAL	业绩 对赌
+NEUTRAL	业绩 对赌
+NEUTRAL	业绩 对赌
+NEUTRAL	众 筹
+NEUTRAL	众 筹
+NEUTRAL	众 筹
+NEUTRAL	众 筹
+NEUTRAL	众 筹
+NEUTRAL	尽 调
+NEUTRAL	尽 调
+NEUTRAL	尽 调
+NEUTRAL	尽 调
+NEUTRAL	尽 调
+NEGATIVE	关联 交易
+NEGATIVE	关联 交易
+NEGATIVE	关联 交易
+NEGATIVE	关联 交易
+NEGATIVE	关联 交易
+NEGATIVE	资金链  断裂
+NEGATIVE	资金链  断裂
+NEGATIVE	资金链  断裂
+NEGATIVE	资金链  断裂
+NEGATIVE	资金链  断裂
+NEGATIVE	被 冻结
+NEGATIVE	被 冻结
+NEGATIVE	被 冻结
+NEGATIVE	被 冻结
+NEGATIVE	被 冻结
+NEGATIVE	资金 紧张
+NEGATIVE	资金 紧张
+NEGATIVE	资金 紧张
+NEGATIVE	资金 紧张
+NEGATIVE	资金 紧张
+NEGATIVE	资金链  紧张
+NEGATIVE	资金链  紧张
+NEGATIVE	资金链  紧张
+NEGATIVE	资金链  紧张
+NEGATIVE	资金链  紧张
+NEGATIVE	连续 跌停
+NEGATIVE	连续 跌停
+NEGATIVE	连续 跌停
+NEGATIVE	连续 跌停
+NEGATIVE	连续 跌停
+NEGATIVE	拖欠 款项
+NEGATIVE	拖欠 款项
+NEGATIVE	拖欠 款项
+NEGATIVE	拖欠 款项
+NEGATIVE	拖欠 款项
+NEGATIVE	最 困难
+NEGATIVE	最 困难
+NEGATIVE	最 困难
+NEGATIVE	最 困难
+NEGATIVE	最 困难
+NEGATIVE	股价 下跌
+NEGATIVE	股价 下跌
+NEGATIVE	股价 下跌
+NEGATIVE	股价 下跌
+NEGATIVE	股价 下跌
+NEGATIVE	激烈 竞争
+NEGATIVE	激烈 竞争
+NEGATIVE	激烈 竞争
+NEGATIVE	激烈 竞争
+NEGATIVE	激烈 竞争
+NEGATIVE	曝 出
+NEGATIVE	曝 出
+NEGATIVE	曝 出
+NEGATIVE	曝 出
+NEGATIVE	曝 出
+NEGATIVE	财务  造假
+NEGATIVE	财务  造假
+NEGATIVE	财务  造假
+NEGATIVE	财务  造假
+NEGATIVE	财务  造假
+NEGATIVE	近期 遭遇
+NEGATIVE	近期 遭遇
+NEGATIVE	近期 遭遇
+NEGATIVE	近期 遭遇
+NEGATIVE	近期 遭遇
+NEGATIVE	被 曝光
+NEGATIVE	被 曝光
+NEGATIVE	被 曝光
+NEGATIVE	被 曝光
+NEGATIVE	被 曝光
+NEGATIVE	债务 缠身
+NEGATIVE	债务 缠身
+NEGATIVE	债务 缠身
+NEGATIVE	债务 缠身
+NEGATIVE	债务 缠身
+NEGATIVE	长期 停牌
+NEGATIVE	长期 停牌
+NEGATIVE	长期 停牌
+NEGATIVE	长期 停牌
+NEGATIVE	长期 停牌
+NEGATIVE	原材料  涨价
+NEGATIVE	原材料  涨价
+NEGATIVE	原材料  涨价
+NEGATIVE	原材料  涨价
+NEGATIVE	原材料  涨价
+NEGATIVE	出现 问题
+NEGATIVE	出现 问题
+NEGATIVE	出现 问题
+NEGATIVE	出现 问题
+NEGATIVE	出现 问题
+NEGATIVE	股价 波动
+NEGATIVE	股价 波动
+NEGATIVE	股价 波动
+NEGATIVE	股价 波动
+NEGATIVE	股价 波动
+NEGATIVE	股权 之争
+NEGATIVE	股权 之争
+NEGATIVE	股权 之争
+NEGATIVE	股权 之争
+NEGATIVE	股权 之争
+NEGATIVE	坑 惨
+NEGATIVE	坑 惨
+NEGATIVE	坑 惨
+NEGATIVE	坑 惨
+NEGATIVE	坑 惨
+NEGATIVE	风险 提示
+NEGATIVE	风险 提示
+NEGATIVE	风险 提示
+NEGATIVE	风险 提示
+NEGATIVE	风险 提示
+NEGATIVE	增速  下滑
+NEGATIVE	增速  下滑
+NEGATIVE	增速  下滑
+NEGATIVE	增速  下滑
+NEGATIVE	增速  下滑
+NEGATIVE	竞争 激烈
+NEGATIVE	竞争 激烈
+NEGATIVE	竞争 激烈
+NEGATIVE	竞争 激烈
+NEGATIVE	竞争 激烈
+NEGATIVE	前来 讨债
+NEGATIVE	前来 讨债
+NEGATIVE	前来 讨债
+NEGATIVE	前来 讨债
+NEGATIVE	前来 讨债
+NEGATIVE	最 担心
+NEGATIVE	最 担心
+NEGATIVE	最 担心
+NEGATIVE	最 担心
+NEGATIVE	最 担心
+NEGATIVE	危机  爆发
+NEGATIVE	危机  爆发
+NEGATIVE	危机  爆发
+NEGATIVE	危机  爆发
+NEGATIVE	危机  爆发
+NEGATIVE	最 薄弱
+NEGATIVE	最 薄弱
+NEGATIVE	最 薄弱
+NEGATIVE	最 薄弱
+NEGATIVE	最 薄弱
+NEGATIVE	持续 走低
+NEGATIVE	持续 走低
+NEGATIVE	持续 走低
+NEGATIVE	持续 走低
+NEGATIVE	持续 走低
+NEGATIVE	竞争 白热化
+NEGATIVE	竞争 白热化
+NEGATIVE	竞争 白热化
+NEGATIVE	竞争 白热化
+NEGATIVE	竞争 白热化
+NEGATIVE	违规 行为
+NEGATIVE	违规 行为
+NEGATIVE	违规 行为
+NEGATIVE	违规 行为
+NEGATIVE	违规 行为
+NEGATIVE	持续 发酵
+NEGATIVE	持续 发酵
+NEGATIVE	持续 发酵
+NEGATIVE	持续 发酵
+NEGATIVE	持续 发酵
+NEGATIVE	可能 面临
+NEGATIVE	可能 面临
+NEGATIVE	可能 面临
+NEGATIVE	可能 面临
+NEGATIVE	可能 面临
+NEGATIVE	监管  趋严
+NEGATIVE	监管  趋严
+NEGATIVE	监管  趋严
+NEGATIVE	监管  趋严
+NEGATIVE	监管  趋严
+NEGATIVE	不得不 面对
+NEGATIVE	不得不 面对
+NEGATIVE	不得不 面对
+NEGATIVE	不得不 面对
+NEGATIVE	不得不 面对
+NEGATIVE	持续 下跌
+NEGATIVE	持续 下跌
+NEGATIVE	持续 下跌
+NEGATIVE	持续 下跌
+NEGATIVE	持续 下跌
+NEGATIVE	震荡 调整
+NEGATIVE	震荡 调整
+NEGATIVE	震荡 调整
+NEGATIVE	震荡 调整
+NEGATIVE	震荡 调整
+NEGATIVE	有 问题
+NEGATIVE	有 问题
+NEGATIVE	有 问题
+NEGATIVE	有 问题
+NEGATIVE	有 问题
+NEGATIVE	被 否决
+NEGATIVE	被 否决
+NEGATIVE	被 否决
+NEGATIVE	被 否决
+NEGATIVE	被 否决
+NEGATIVE	被 质疑
+NEGATIVE	被 质疑
+NEGATIVE	被 质疑
+NEGATIVE	被 质疑
+NEGATIVE	被 质疑
+NEGATIVE	面临 巨大
+NEGATIVE	面临 巨大
+NEGATIVE	面临 巨大
+NEGATIVE	面临 巨大
+NEGATIVE	面临 巨大
+NEGATIVE	资产 冻结
+NEGATIVE	资产 冻结
+NEGATIVE	资产 冻结
+NEGATIVE	资产 冻结
+NEGATIVE	资产 冻结
+NEGATIVE	暴露 出来
+NEGATIVE	暴露 出来
+NEGATIVE	暴露 出来
+NEGATIVE	暴露 出来
+NEGATIVE	暴露 出来
+NEGATIVE	爆出  危机
+NEGATIVE	爆出  危机
+NEGATIVE	爆出  危机
+NEGATIVE	爆出  危机
+NEGATIVE	爆出  危机
+NEGATIVE	资金链  危机
+NEGATIVE	资金链  危机
+NEGATIVE	资金链  危机
+NEGATIVE	资金链  危机
+NEGATIVE	资金链  危机
+NEGATIVE	过于 激进
+NEGATIVE	过于 激进
+NEGATIVE	过于 激进
+NEGATIVE	过于 激进
+NEGATIVE	过于 激进
+NEGATIVE	负面 影响
+NEGATIVE	负面 影响
+NEGATIVE	负面 影响
+NEGATIVE	负面 影响
+NEGATIVE	负面 影响
+NEGATIVE	最 差
+NEGATIVE	最 差
+NEGATIVE	最 差
+NEGATIVE	最 差
+NEGATIVE	最 差
+NEGATIVE	深陷  债务 危机
+NEGATIVE	深陷  债务 危机
+NEGATIVE	深陷  债务 危机
+NEGATIVE	深陷  债务 危机
+NEGATIVE	深陷  债务 危机
+NEGATIVE	业绩  变脸
+NEGATIVE	业绩  变脸
+NEGATIVE	业绩  变脸
+NEGATIVE	业绩  变脸
+NEGATIVE	业绩  变脸
+NEGATIVE	资金  困难
+NEGATIVE	资金  困难
+NEGATIVE	资金  困难
+NEGATIVE	资金  困难
+NEGATIVE	资金  困难
+NEGATIVE	现金流  紧张
+NEGATIVE	现金流  紧张
+NEGATIVE	现金流  紧张
+NEGATIVE	现金流  紧张
+NEGATIVE	现金流  紧张
+NEGATIVE	跌 去
+NEGATIVE	跌 去
+NEGATIVE	跌 去
+NEGATIVE	跌 去
+NEGATIVE	跌 去
+NEGATIVE	资金  短缺
+NEGATIVE	资金  短缺
+NEGATIVE	资金  短缺
+NEGATIVE	资金  短缺
+NEGATIVE	资金  短缺
+NEGATIVE	轮 候 冻结
+NEGATIVE	轮 候 冻结
+NEGATIVE	轮 候 冻结
+NEGATIVE	轮 候 冻结
+NEGATIVE	轮 候 冻结
+NEGATIVE	资金 紧缺
+NEGATIVE	资金 紧缺
+NEGATIVE	资金 紧缺
+NEGATIVE	资金 紧缺
+NEGATIVE	资金 紧缺
+NEGATIVE	值得 玩味
+NEGATIVE	值得 玩味
+NEGATIVE	值得 玩味
+NEGATIVE	值得 玩味
+NEGATIVE	值得 玩味
+NEGATIVE	被 司法 冻结
+NEGATIVE	被 司法 冻结
+NEGATIVE	被 司法 冻结
+NEGATIVE	被 司法 冻结
+NEGATIVE	被 司法 冻结
+NEGATIVE	强制  退市
+NEGATIVE	强制  退市
+NEGATIVE	强制  退市
+NEGATIVE	强制  退市
+NEGATIVE	强制  退市
+NEGATIVE	下调 估值
+NEGATIVE	下调 估值
+NEGATIVE	下调 估值
+NEGATIVE	下调 估值
+NEGATIVE	下调 估值
+NEGATIVE	面临  严峻
+NEGATIVE	面临  严峻
+NEGATIVE	面临  严峻
+NEGATIVE	面临  严峻
+NEGATIVE	面临  严峻
+NEGATIVE	质疑 声
+NEGATIVE	质疑 声
+NEGATIVE	质疑 声
+NEGATIVE	质疑 声
+NEGATIVE	质疑 声
+NEGATIVE	监管 措施
+NEGATIVE	监管 措施
+NEGATIVE	监管 措施
+NEGATIVE	监管 措施
+NEGATIVE	监管 措施
+NEGATIVE	业绩  下滑
+NEGATIVE	业绩  下滑
+NEGATIVE	业绩  下滑
+NEGATIVE	业绩  下滑
+NEGATIVE	业绩  下滑
+NEGATIVE	不 看好
+NEGATIVE	不 看好
+NEGATIVE	不 看好
+NEGATIVE	不 看好
+NEGATIVE	不 看好
+NEGATIVE	踩雷
+NEGATIVE	踩雷
+NEGATIVE	踩雷
+NEGATIVE	踩雷
+NEGATIVE	踩雷
+NEGATIVE	行政 监管
+NEGATIVE	行政 监管
+NEGATIVE	行政 监管
+NEGATIVE	行政 监管
+NEGATIVE	行政 监管
+NEGATIVE	执行 案件
+NEGATIVE	执行 案件
+NEGATIVE	执行 案件
+NEGATIVE	执行 案件
+NEGATIVE	执行 案件
+NEGATIVE	不 乐观
+NEGATIVE	不 乐观
+NEGATIVE	不 乐观
+NEGATIVE	不 乐观
+NEGATIVE	不 乐观
+NEGATIVE	资金  吃紧
+NEGATIVE	资金  吃紧
+NEGATIVE	资金  吃紧
+NEGATIVE	资金  吃紧
+NEGATIVE	资金  吃紧
+NEGATIVE	防范  风险
+NEGATIVE	防范  风险
+NEGATIVE	防范  风险
+NEGATIVE	防范  风险
+NEGATIVE	防范  风险
+NEGATIVE	破产 清算
+NEGATIVE	破产 清算
+NEGATIVE	破产 清算
+NEGATIVE	破产 清算
+NEGATIVE	破产 清算
+NEGATIVE	不 高
+NEGATIVE	不 高
+NEGATIVE	不 高
+NEGATIVE	不 高
+NEGATIVE	不 高
+NEGATIVE	同业 竞争
+NEGATIVE	同业 竞争
+NEGATIVE	同业 竞争
+NEGATIVE	同业 竞争
+NEGATIVE	同业 竞争
+NEGATIVE	产能  过剩
+NEGATIVE	产能  过剩
+NEGATIVE	产能  过剩
+NEGATIVE	产能  过剩
+NEGATIVE	产能  过剩
+NEGATIVE	股权 质押 平仓
+NEGATIVE	股权 质押 平仓
+NEGATIVE	股权 质押 平仓
+NEGATIVE	股权 质押 平仓
+NEGATIVE	股权 质押 平仓
+NEGATIVE	申请  清盘
+NEGATIVE	申请  清盘
+NEGATIVE	申请  清盘
+NEGATIVE	申请  清盘
+NEGATIVE	申请  清盘
+NEGATIVE	应付 未付
+NEGATIVE	应付 未付
+NEGATIVE	应付 未付
+NEGATIVE	应付 未付
+NEGATIVE	应付 未付
+NEGATIVE	难以 回避
+NEGATIVE	难以 回避
+NEGATIVE	难以 回避
+NEGATIVE	难以 回避
+NEGATIVE	难以 回避
+NEGATIVE	向下  跳空 缺口
+NEGATIVE	向下  跳空 缺口
+NEGATIVE	向下  跳空 缺口
+NEGATIVE	向下  跳空 缺口
+NEGATIVE	向下  跳空 缺口
+POSITIVE	保理 融资
+POSITIVE	保理 融资
+POSITIVE	保理 融资
+POSITIVE	保理 融资
+POSITIVE	保理 融资
+POSITIVE	背书
+POSITIVE	背书
+POSITIVE	背书
+POSITIVE	背书
+POSITIVE	背书
+POSITIVE	不容 小觑
+POSITIVE	不容 小觑
+POSITIVE	不容 小觑
+POSITIVE	不容 小觑
+POSITIVE	不容 小觑
+POSITIVE	持续性 增长
+POSITIVE	持续性 增长
+POSITIVE	持续性 增长
+POSITIVE	持续性 增长
+POSITIVE	持续性 增长
+POSITIVE	充满 机遇
+POSITIVE	充满 机遇
+POSITIVE	充满 机遇
+POSITIVE	充满 机遇
+POSITIVE	充满 机遇
+POSITIVE	放松  限购
+POSITIVE	放松  限购
+POSITIVE	放松  限购
+POSITIVE	放松  限购
+POSITIVE	放松  限购
+POSITIVE	化解  风险
+POSITIVE	化解  风险
+POSITIVE	化解  风险
+POSITIVE	化解  风险
+POSITIVE	化解  风险
+POSITIVE	可 投资
+POSITIVE	可 投资
+POSITIVE	可 投资
+POSITIVE	可 投资
+POSITIVE	可 投资
+POSITIVE	免受  欺诈
+POSITIVE	免受  欺诈
+POSITIVE	免受  欺诈
+POSITIVE	免受  欺诈
+POSITIVE	免受  欺诈
+POSITIVE	趋于  合理
+POSITIVE	趋于  合理
+POSITIVE	趋于  合理
+POSITIVE	趋于  合理
+POSITIVE	趋于  合理
+POSITIVE	深度  受益
+POSITIVE	深度  受益
+POSITIVE	深度  受益
+POSITIVE	深度  受益
+POSITIVE	深度  受益
+POSITIVE	提升  效率
+POSITIVE	提升  效率
+POSITIVE	提升  效率
+POSITIVE	提升  效率
+POSITIVE	提升  效率
+POSITIVE	现金  流入
+POSITIVE	现金  流入
+POSITIVE	现金  流入
+POSITIVE	现金  流入
+POSITIVE	现金  流入
+POSITIVE	销量  增速
+POSITIVE	销量  增速
+POSITIVE	销量  增速
+POSITIVE	销量  增速
+POSITIVE	销量  增速
+POSITIVE	增速  极高
+POSITIVE	增速  极高
+POSITIVE	增速  极高
+POSITIVE	增速  极高
+POSITIVE	增速  极高
+POSITIVE	震荡  反弹
+POSITIVE	震荡  反弹
+POSITIVE	震荡  反弹
+POSITIVE	震荡  反弹
+POSITIVE	震荡  反弹
+NEGATIVE	震荡  反复
+NEGATIVE	震荡  反复
+NEGATIVE	震荡  反复
+NEGATIVE	震荡  反复
+NEGATIVE	震荡  反复
+POSITIVE	转 亏
+POSITIVE	转 亏
+POSITIVE	转 亏
+POSITIVE	转 亏
+POSITIVE	转 亏
+POSITIVE	不会 缺席
+POSITIVE	不会 缺席
+POSITIVE	不会 缺席
+POSITIVE	不会 缺席
+POSITIVE	不会 缺席
+POSITIVE	部门  批准
+POSITIVE	部门  批准
+POSITIVE	部门  批准
+POSITIVE	部门  批准
+POSITIVE	部门  批准
+POSITIVE	产业化  实践
+POSITIVE	产业化  实践
+POSITIVE	产业化  实践
+POSITIVE	产业化  实践
+POSITIVE	产业化  实践
+POSITIVE	持续发展  能力
+POSITIVE	持续发展  能力
+POSITIVE	持续发展  能力
+POSITIVE	持续发展  能力
+POSITIVE	持续发展  能力
+POSITIVE	创新  投入
+POSITIVE	创新  投入
+POSITIVE	创新  投入
+POSITIVE	创新  投入
+POSITIVE	创新  投入
+POSITIVE	促进  改革
+POSITIVE	促进  改革
+POSITIVE	促进  改革
+POSITIVE	促进  改革
+POSITIVE	促进  改革
+POSITIVE	促进  专业化
+POSITIVE	促进  专业化
+POSITIVE	促进  专业化
+POSITIVE	促进  专业化
+POSITIVE	促进  专业化
+POSITIVE	大大  加速
+POSITIVE	大大  加速
+POSITIVE	大大  加速
+POSITIVE	大大  加速
+POSITIVE	大大  加速
+POSITIVE	大力  发展
+POSITIVE	大力  发展
+POSITIVE	大力  发展
+POSITIVE	大力  发展
+POSITIVE	大力  发展
+POSITIVE	得到  改善
+POSITIVE	得到  改善
+POSITIVE	得到  改善
+POSITIVE	得到  改善
+POSITIVE	得到  改善
+POSITIVE	栋梁
+POSITIVE	栋梁
+POSITIVE	栋梁
+POSITIVE	栋梁
+POSITIVE	栋梁
+POSITIVE	独特  优势
+POSITIVE	独特  优势
+POSITIVE	独特  优势
+POSITIVE	独特  优势
+POSITIVE	独特  优势
+POSITIVE	丰富  产品线
+POSITIVE	丰富  产品线
+POSITIVE	丰富  产品线
+POSITIVE	丰富  产品线
+POSITIVE	丰富  产品线
+POSITIVE	工厂  动工
+POSITIVE	工厂  动工
+POSITIVE	工厂  动工
+POSITIVE	工厂  动工
+POSITIVE	工厂  动工
+POSITIVE	工厂  竣工
+POSITIVE	工厂  竣工
+POSITIVE	工厂  竣工
+POSITIVE	工厂  竣工
+POSITIVE	工厂  竣工
+POSITIVE	鼓励  创新
+POSITIVE	鼓励  创新
+POSITIVE	鼓励  创新
+POSITIVE	鼓励  创新
+POSITIVE	鼓励  创新
+POSITIVE	规范化  经营
+POSITIVE	规范化  经营
+POSITIVE	规范化  经营
+POSITIVE	规范化  经营
+POSITIVE	规范化  经营
+POSITIVE	规模化  重组
+POSITIVE	规模化  重组
+POSITIVE	规模化  重组
+POSITIVE	规模化  重组
+POSITIVE	规模化  重组
+POSITIVE	合作  意向
+POSITIVE	合作  意向
+POSITIVE	合作  意向
+POSITIVE	合作  意向
+POSITIVE	合作  意向
+POSITIVE	核心  竞争力
+POSITIVE	核心  竞争力
+POSITIVE	核心  竞争力
+POSITIVE	核心  竞争力
+POSITIVE	核心  竞争力
+POSITIVE	获  核准
+POSITIVE	获  核准
+POSITIVE	获  核准
+POSITIVE	获  核准
+POSITIVE	获  核准
+POSITIVE	技术  创新
+POSITIVE	技术  创新
+POSITIVE	技术  创新
+POSITIVE	技术  创新
+POSITIVE	技术  创新
+POSITIVE	金融办  批复
+POSITIVE	金融办  批复
+POSITIVE	金融办  批复
+POSITIVE	金融办  批复
+POSITIVE	金融办  批复
+POSITIVE	经营 收益
+POSITIVE	经营 收益
+POSITIVE	经营 收益
+POSITIVE	经营 收益
+POSITIVE	经营 收益
+POSITIVE	净利润  增幅
+POSITIVE	净利润  增幅
+POSITIVE	净利润  增幅
+POSITIVE	净利润  增幅
+POSITIVE	净利润  增幅
+POSITIVE	利润  提升
+POSITIVE	利润  提升
+POSITIVE	利润  提升
+POSITIVE	利润  提升
+POSITIVE	利润  提升
+POSITIVE	领涨  板块
+POSITIVE	领涨  板块
+POSITIVE	领涨  板块
+POSITIVE	领涨  板块
+POSITIVE	领涨  板块
+POSITIVE	留住  优秀
+POSITIVE	留住  优秀
+POSITIVE	留住  优秀
+POSITIVE	留住  优秀
+POSITIVE	留住  优秀
+POSITIVE	魄力
+POSITIVE	魄力
+POSITIVE	魄力
+POSITIVE	魄力
+POSITIVE	魄力
+POSITIVE	魄力  推进改革
+POSITIVE	魄力  推进改革
+POSITIVE	魄力  推进改革
+POSITIVE	魄力  推进改革
+POSITIVE	魄力  推进改革
+POSITIVE	确定性  高
+POSITIVE	确定性  高
+POSITIVE	确定性  高
+POSITIVE	确定性  高
+POSITIVE	确定性  高
+POSITIVE	人才  培育
+POSITIVE	人才  培育
+POSITIVE	人才  培育
+POSITIVE	人才  培育
+POSITIVE	人才  培育
+POSITIVE	韧性
+POSITIVE	韧性
+POSITIVE	韧性
+POSITIVE	韧性
+POSITIVE	韧性
+POSITIVE	尚未 减持
+POSITIVE	尚未 减持
+POSITIVE	尚未 减持
+POSITIVE	尚未 减持
+POSITIVE	尚未 减持
+POSITIVE	申请  备案
+POSITIVE	申请  备案
+POSITIVE	申请  备案
+POSITIVE	申请  备案
+POSITIVE	申请  备案
+POSITIVE	市场  竞争力
+POSITIVE	市场  竞争力
+POSITIVE	市场  竞争力
+POSITIVE	市场  竞争力
+POSITIVE	市场  竞争力
+POSITIVE	数字化  转型
+POSITIVE	数字化  转型
+POSITIVE	数字化  转型
+POSITIVE	数字化  转型
+POSITIVE	数字化  转型
+POSITIVE	提高  效率
+POSITIVE	提高  效率
+POSITIVE	提高  效率
+POSITIVE	提高  效率
+POSITIVE	提高  效率
+POSITIVE	提高  专业化
+POSITIVE	提高  专业化
+POSITIVE	提高  专业化
+POSITIVE	提高  专业化
+POSITIVE	提高  专业化
+POSITIVE	提供  担保
+POSITIVE	提供  担保
+POSITIVE	提供  担保
+POSITIVE	提供  担保
+POSITIVE	提供  担保
+POSITIVE	污染防治
+POSITIVE	污染防治
+POSITIVE	污染防治
+POSITIVE	污染防治
+POSITIVE	污染防治
+POSITIVE	新三板  挂牌
+POSITIVE	新三板  挂牌
+POSITIVE	新三板  挂牌
+POSITIVE	新三板  挂牌
+POSITIVE	新三板  挂牌
+POSITIVE	研发  成果
+POSITIVE	研发  成果
+POSITIVE	研发  成果
+POSITIVE	研发  成果
+POSITIVE	研发  成果
+POSITIVE	盈利  增长
+POSITIVE	盈利  增长
+POSITIVE	盈利  增长
+POSITIVE	盈利  增长
+POSITIVE	盈利  增长
+POSITIVE	优势  互补
+POSITIVE	优势  互补
+POSITIVE	优势  互补
+POSITIVE	优势  互补
+POSITIVE	优势  互补
+POSITIVE	优质  成长
+POSITIVE	优质  成长
+POSITIVE	优质  成长
+POSITIVE	优质  成长
+POSITIVE	优质  成长
+POSITIVE	优质  成长股
+POSITIVE	优质  成长股
+POSITIVE	优质  成长股
+POSITIVE	优质  成长股
+POSITIVE	优质  成长股
+POSITIVE	有所  缓和
+POSITIVE	有所  缓和
+POSITIVE	有所  缓和
+POSITIVE	有所  缓和
+POSITIVE	有所  缓和
+POSITIVE	有望  出现
+POSITIVE	有望  出现
+POSITIVE	有望  出现
+POSITIVE	有望  出现
+POSITIVE	有望  出现
+POSITIVE	有效  落实
+POSITIVE	有效  落实
+POSITIVE	有效  落实
+POSITIVE	有效  落实
+POSITIVE	有效  落实
+POSITIVE	员工  激励
+POSITIVE	员工  激励
+POSITIVE	员工  激励
+POSITIVE	员工  激励
+POSITIVE	员工  激励
+POSITIVE	增幅  达到
+POSITIVE	增幅  达到
+POSITIVE	增幅  达到
+POSITIVE	增幅  达到
+POSITIVE	增幅  达到
+POSITIVE	增长  达到
+POSITIVE	增长  达到
+POSITIVE	增长  达到
+POSITIVE	增长  达到
+POSITIVE	增长  达到
+POSITIVE	增长  加速
+POSITIVE	增长  加速
+POSITIVE	增长  加速
+POSITIVE	增长  加速
+POSITIVE	增长  加速
+POSITIVE	政府  鼓励
+POSITIVE	政府  鼓励
+POSITIVE	政府  鼓励
+POSITIVE	政府  鼓励
+POSITIVE	政府  鼓励
+POSITIVE	转型  升级
+POSITIVE	转型  升级
+POSITIVE	转型  升级
+POSITIVE	转型  升级
+POSITIVE	转型  升级
+POSITIVE	纵向  整合
+POSITIVE	纵向  整合
+POSITIVE	纵向  整合
+POSITIVE	纵向  整合
+POSITIVE	纵向  整合
+POSITIVE	做 投资
+POSITIVE	做 投资
+POSITIVE	做 投资
+POSITIVE	做 投资
+POSITIVE	做 投资
+POSITIVE	抱团  蓝筹
+POSITIVE	抱团  蓝筹
+POSITIVE	抱团  蓝筹
+POSITIVE	抱团  蓝筹
+POSITIVE	抱团  蓝筹
+POSITIVE	股权  收购
+POSITIVE	股权  收购
+POSITIVE	股权  收购
+POSITIVE	股权  收购
+POSITIVE	股权  收购
+POSITIVE	接盘
+POSITIVE	接盘
+POSITIVE	接盘
+POSITIVE	接盘
+POSITIVE	接盘
+NEUTRAL	上市公司
+NEUTRAL	上市公司
+NEUTRAL	上市公司
+NEUTRAL	上市公司
+NEUTRAL	上市公司
+NEGATIVE	案件  查处
+NEGATIVE	案件  查处
+NEGATIVE	案件  查处
+NEGATIVE	案件  查处
+NEGATIVE	案件  查处
+NEGATIVE	案件  法院
+NEGATIVE	案件  法院
+NEGATIVE	案件  法院
+NEGATIVE	案件  法院
+NEGATIVE	案件  法院
+NEGATIVE	悲观  情绪
+NEGATIVE	悲观  情绪
+NEGATIVE	悲观  情绪
+NEGATIVE	悲观  情绪
+NEGATIVE	悲观  情绪
+NEGATIVE	避险  情绪
+NEGATIVE	避险  情绪
+NEGATIVE	避险  情绪
+NEGATIVE	避险  情绪
+NEGATIVE	避险  情绪
+NEGATIVE	变相  举债
+NEGATIVE	变相  举债
+NEGATIVE	变相  举债
+NEGATIVE	变相  举债
+NEGATIVE	变相  举债
+NEGATIVE	表现  落后
+NEGATIVE	表现  落后
+NEGATIVE	表现  落后
+NEGATIVE	表现  落后
+NEGATIVE	表现  落后
+NEGATIVE	并不 稳定
+NEGATIVE	并不 稳定
+NEGATIVE	并不 稳定
+NEGATIVE	并不 稳定
+NEGATIVE	并不 稳定
+NEGATIVE	波动性
+NEGATIVE	波动性
+NEGATIVE	波动性
+NEGATIVE	波动性
+NEGATIVE	波动性
+NEGATIVE	不予 受理
+NEGATIVE	不予 受理
+NEGATIVE	不予 受理
+NEGATIVE	不予 受理
+NEGATIVE	不予 受理
+NEGATIVE	操纵  行为
+NEGATIVE	操纵  行为
+NEGATIVE	操纵  行为
+NEGATIVE	操纵  行为
+NEGATIVE	操纵  行为
+NEGATIVE	差距  扩大
+NEGATIVE	差距  扩大
+NEGATIVE	差距  扩大
+NEGATIVE	差距  扩大
+NEGATIVE	差距  扩大
+NEGATIVE	一毛不拔
+NEGATIVE	一毛不拔
+NEGATIVE	一毛不拔
+NEGATIVE	一毛不拔
+NEGATIVE	一毛不拔
+NEGATIVE	常态化  整治
+NEGATIVE	常态化  整治
+NEGATIVE	常态化  整治
+NEGATIVE	常态化  整治
+NEGATIVE	常态化  整治
+NEGATIVE	炒作  小盘股
+NEGATIVE	炒作  小盘股
+NEGATIVE	炒作  小盘股
+NEGATIVE	炒作  小盘股
+NEGATIVE	炒作  小盘股
+NEGATIVE	呈  放缓
+NEGATIVE	呈  放缓
+NEGATIVE	呈  放缓
+NEGATIVE	呈  放缓
+NEGATIVE	呈  放缓
+NEGATIVE	持续  亏损
+NEGATIVE	持续  亏损
+NEGATIVE	持续  亏损
+NEGATIVE	持续  亏损
+NEGATIVE	持续  亏损
+NEGATIVE	出现  放缓
+NEGATIVE	出现  放缓
+NEGATIVE	出现  放缓
+NEGATIVE	出现  放缓
+NEGATIVE	出现  放缓
+NEGATIVE	出现  下滑
+NEGATIVE	出现  下滑
+NEGATIVE	出现  下滑
+NEGATIVE	出现  下滑
+NEGATIVE	出现  下滑
+NEGATIVE	处罚  机制
+NEGATIVE	处罚  机制
+NEGATIVE	处罚  机制
+NEGATIVE	处罚  机制
+NEGATIVE	处罚  机制
+NEGATIVE	处以  警告
+NEGATIVE	处以  警告
+NEGATIVE	处以  警告
+NEGATIVE	处以  警告
+NEGATIVE	处以  警告
+NEGATIVE	次贷  危机
+NEGATIVE	次贷  危机
+NEGATIVE	次贷  危机
+NEGATIVE	次贷  危机
+NEGATIVE	次贷  危机
+NEGATIVE	次生  灾害
+NEGATIVE	次生  灾害
+NEGATIVE	次生  灾害
+NEGATIVE	次生  灾害
+NEGATIVE	次生  灾害
+NEGATIVE	存货  跌价
+NEGATIVE	存货  跌价
+NEGATIVE	存货  跌价
+NEGATIVE	存货  跌价
+NEGATIVE	存货  跌价
+NEGATIVE	存在  问题
+NEGATIVE	存在  问题
+NEGATIVE	存在  问题
+NEGATIVE	存在  问题
+NEGATIVE	存在  问题
+NEGATIVE	存在  虚假
+NEGATIVE	存在  虚假
+NEGATIVE	存在  虚假
+NEGATIVE	存在  虚假
+NEGATIVE	存在  虚假
+NEGATIVE	跌破  平仓线
+NEGATIVE	跌破  平仓线
+NEGATIVE	跌破  平仓线
+NEGATIVE	跌破  平仓线
+NEGATIVE	跌破  平仓线
+NEGATIVE	丢失
+NEGATIVE	丢失
+NEGATIVE	丢失
+NEGATIVE	丢失
+NEGATIVE	丢失
+NEGATIVE	督促  整改
+NEGATIVE	督促  整改
+NEGATIVE	督促  整改
+NEGATIVE	督促  整改
+NEGATIVE	督促  整改
+NEGATIVE	短期  遭到
+NEGATIVE	短期  遭到
+NEGATIVE	短期  遭到
+NEGATIVE	短期  遭到
+NEGATIVE	短期  遭到
+NEGATIVE	恶意  诋毁
+NEGATIVE	恶意  诋毁
+NEGATIVE	恶意  诋毁
+NEGATIVE	恶意  诋毁
+NEGATIVE	恶意  诋毁
+NEGATIVE	恶意  抹黑
+NEGATIVE	恶意  抹黑
+NEGATIVE	恶意  抹黑
+NEGATIVE	恶意  抹黑
+NEGATIVE	恶意  抹黑
+NEGATIVE	反垄断  执法
+NEGATIVE	反垄断  执法
+NEGATIVE	反垄断  执法
+NEGATIVE	反垄断  执法
+NEGATIVE	反垄断  执法
+NEGATIVE	犯罪  活动
+NEGATIVE	犯罪  活动
+NEGATIVE	犯罪  活动
+NEGATIVE	犯罪  活动
+NEGATIVE	犯罪  活动
+NEGATIVE	非法  催收
+NEGATIVE	非法  催收
+NEGATIVE	非法  催收
+NEGATIVE	非法  催收
+NEGATIVE	非法  催收
+NEGATIVE	非法  集资
+NEGATIVE	非法  集资
+NEGATIVE	非法  集资
+NEGATIVE	非法  集资
+NEGATIVE	非法  集资
+NEGATIVE	非法  交易
+NEGATIVE	非法  交易
+NEGATIVE	非法  交易
+NEGATIVE	非法  交易
+NEGATIVE	非法  交易
+NEGATIVE	风险  管控
+NEGATIVE	风险  管控
+NEGATIVE	风险  管控
+NEGATIVE	风险  管控
+NEGATIVE	风险  管控
+NEGATIVE	风险  因素
+NEGATIVE	风险  因素
+NEGATIVE	风险  因素
+NEGATIVE	风险  因素
+NEGATIVE	风险  因素
+NEGATIVE	感到  忧虑
+NEGATIVE	感到  忧虑
+NEGATIVE	感到  忧虑
+NEGATIVE	感到  忧虑
+NEGATIVE	感到  忧虑
+NEGATIVE	高  管理成本
+NEGATIVE	高  管理成本
+NEGATIVE	高  管理成本
+NEGATIVE	高  管理成本
+NEGATIVE	高  管理成本
+NEGATIVE	给予  警告
+NEGATIVE	给予  警告
+NEGATIVE	给予  警告
+NEGATIVE	给予  警告
+NEGATIVE	给予  警告
+NEGATIVE	估值  高
+NEGATIVE	估值  高
+NEGATIVE	估值  高
+NEGATIVE	估值  高
+NEGATIVE	估值  高
+POSITIVE	估值 较低
+POSITIVE	估值 较低
+POSITIVE	估值 较低
+POSITIVE	估值 较低
+POSITIVE	估值 较低
+POSITIVE	估值 相对 较低
+POSITIVE	估值 相对 较低
+POSITIVE	估值 相对 较低
+POSITIVE	估值 相对 较低
+POSITIVE	估值 相对 较低
+NEGATIVE	股份  解禁
+NEGATIVE	股份  解禁
+NEGATIVE	股份  解禁
+NEGATIVE	股份  解禁
+NEGATIVE	股份  解禁
+NEGATIVE	规范  整顿
+NEGATIVE	规范  整顿
+NEGATIVE	规范  整顿
+NEGATIVE	规范  整顿
+NEGATIVE	规范  整顿
+NEGATIVE	规模  小
+NEGATIVE	规模  小
+NEGATIVE	规模  小
+NEGATIVE	规模  小
+NEGATIVE	规模  小
+NEGATIVE	过度  投机
+NEGATIVE	过度  投机
+NEGATIVE	过度  投机
+NEGATIVE	过度  投机
+NEGATIVE	过度  投机
+NEGATIVE	行政  处罚
+NEGATIVE	行政  处罚
+NEGATIVE	行政  处罚
+NEGATIVE	行政  处罚
+NEGATIVE	行政  处罚
+NEGATIVE	行政  复议
+NEGATIVE	行政  复议
+NEGATIVE	行政  复议
+NEGATIVE	行政  复议
+NEGATIVE	行政  复议
+NEGATIVE	合规  管理
+NEGATIVE	合规  管理
+NEGATIVE	合规  管理
+NEGATIVE	合规  管理
+NEGATIVE	合规  管理
+NEGATIVE	环保  督查
+NEGATIVE	环保  督查
+NEGATIVE	环保  督查
+NEGATIVE	环保  督查
+NEGATIVE	环保  督查
+NEGATIVE	稽查  执法
+NEGATIVE	稽查  执法
+NEGATIVE	稽查  执法
+NEGATIVE	稽查  执法
+NEGATIVE	稽查  执法
+NEGATIVE	集中  整改
+NEGATIVE	集中  整改
+NEGATIVE	集中  整改
+NEGATIVE	集中  整改
+NEGATIVE	集中  整改
+NEGATIVE	监管层  关注
+NEGATIVE	监管层  关注
+NEGATIVE	监管层  关注
+NEGATIVE	监管层  关注
+NEGATIVE	监管层  关注
+NEGATIVE	检察  执法
+NEGATIVE	检察  执法
+NEGATIVE	检察  执法
+NEGATIVE	检察  执法
+NEGATIVE	检察  执法
+NEGATIVE	净利润  不足
+NEGATIVE	净利润  不足
+NEGATIVE	净利润  不足
+NEGATIVE	净利润  不足
+NEGATIVE	净利润  不足
+NEGATIVE	巨额 减持
+NEGATIVE	巨额 减持
+NEGATIVE	巨额 减持
+NEGATIVE	巨额 减持
+NEGATIVE	巨额 减持
+NEGATIVE	空间 不足
+NEGATIVE	空间 不足
+NEGATIVE	空间 不足
+NEGATIVE	空间 不足
+NEGATIVE	空间 不足
+NEGATIVE	恐怖  活动
+NEGATIVE	恐怖  活动
+NEGATIVE	恐怖  活动
+NEGATIVE	恐怖  活动
+NEGATIVE	恐怖  活动
+NEGATIVE	夸大  编造
+NEGATIVE	夸大  编造
+NEGATIVE	夸大  编造
+NEGATIVE	夸大  编造
+NEGATIVE	夸大  编造
+NEGATIVE	跨境  监管
+NEGATIVE	跨境  监管
+NEGATIVE	跨境  监管
+NEGATIVE	跨境  监管
+NEGATIVE	跨境  监管
+NEGATIVE	累计  跌幅
+NEGATIVE	累计  跌幅
+NEGATIVE	累计  跌幅
+NEGATIVE	累计  跌幅
+NEGATIVE	累计  跌幅
+NEGATIVE	立案  侦查
+NEGATIVE	立案  侦查
+NEGATIVE	立案  侦查
+NEGATIVE	立案  侦查
+NEGATIVE	立案  侦查
+NEGATIVE	利益 输送
+NEGATIVE	利益 输送
+NEGATIVE	利益 输送
+NEGATIVE	利益 输送
+NEGATIVE	利益 输送
+NEGATIVE	屡屡 不顺
+NEGATIVE	屡屡 不顺
+NEGATIVE	屡屡 不顺
+NEGATIVE	屡屡 不顺
+NEGATIVE	屡屡 不顺
+NEGATIVE	屡屡 受挫
+NEGATIVE	屡屡 受挫
+NEGATIVE	屡屡 受挫
+NEGATIVE	屡屡 受挫
+NEGATIVE	屡屡 受挫
+NEGATIVE	没有 增持
+NEGATIVE	没有 增持
+NEGATIVE	没有 增持
+NEGATIVE	没有 增持
+NEGATIVE	没有 增持
+NEGATIVE	无法  履行 增持
+NEGATIVE	无法  履行 增持
+NEGATIVE	无法  履行 增持
+NEGATIVE	无法  履行 增持
+NEGATIVE	无法  履行 增持
+NEGATIVE	每股  亏损
+NEGATIVE	每股  亏损
+NEGATIVE	每股  亏损
+NEGATIVE	每股  亏损
+NEGATIVE	每股  亏损
+NEGATIVE	面临  困难
+NEGATIVE	面临  困难
+NEGATIVE	面临  困难
+NEGATIVE	面临  困难
+NEGATIVE	面临  困难
+NEGATIVE	面临  平仓
+NEGATIVE	面临  平仓
+NEGATIVE	面临  平仓
+NEGATIVE	面临  平仓
+NEGATIVE	面临  平仓
+NEGATIVE	民事  索赔
+NEGATIVE	民事  索赔
+NEGATIVE	民事  索赔
+NEGATIVE	民事  索赔
+NEGATIVE	民事  索赔
+NEGATIVE	内幕  交易
+NEGATIVE	内幕  交易
+NEGATIVE	内幕  交易
+NEGATIVE	内幕  交易
+NEGATIVE	内幕  交易
+NEGATIVE	扭亏  无望
+NEGATIVE	扭亏  无望
+NEGATIVE	扭亏  无望
+NEGATIVE	扭亏  无望
+NEGATIVE	扭亏  无望
+NEGATIVE	破产  清算
+NEGATIVE	破产  清算
+NEGATIVE	破产  清算
+NEGATIVE	破产  清算
+NEGATIVE	破产  清算
+NEGATIVE	欺诈  行为
+NEGATIVE	欺诈  行为
+NEGATIVE	欺诈  行为
+NEGATIVE	欺诈  行为
+NEGATIVE	欺诈  行为
+NEGATIVE	启动  加息
+NEGATIVE	启动  加息
+NEGATIVE	启动  加息
+NEGATIVE	启动  加息
+NEGATIVE	启动  加息
+NEGATIVE	弃权
+NEGATIVE	弃权
+NEGATIVE	弃权
+NEGATIVE	弃权
+NEGATIVE	弃权
+NEGATIVE	潜在  纠纷
+NEGATIVE	潜在  纠纷
+NEGATIVE	潜在  纠纷
+NEGATIVE	潜在  纠纷
+NEGATIVE	潜在  纠纷
+NEGATIVE	强制  清算
+NEGATIVE	强制  清算
+NEGATIVE	强制  清算
+NEGATIVE	强制  清算
+NEGATIVE	强制  清算
+NEGATIVE	散布  虚假
+NEGATIVE	散布  虚假
+NEGATIVE	散布  虚假
+NEGATIVE	散布  虚假
+NEGATIVE	散布  虚假
+NEGATIVE	尚未 进行
+NEGATIVE	尚未 进行
+NEGATIVE	尚未 进行
+NEGATIVE	尚未 进行
+NEGATIVE	尚未 进行
+NEGATIVE	涉嫌  犯罪
+NEGATIVE	涉嫌  犯罪
+NEGATIVE	涉嫌  犯罪
+NEGATIVE	涉嫌  犯罪
+NEGATIVE	涉嫌  犯罪
+NEGATIVE	涉嫌  腐败
+NEGATIVE	涉嫌  腐败
+NEGATIVE	涉嫌  腐败
+NEGATIVE	涉嫌  腐败
+NEGATIVE	涉嫌  腐败
+NEGATIVE	深层次  矛盾
+NEGATIVE	深层次  矛盾
+NEGATIVE	深层次  矛盾
+NEGATIVE	深层次  矛盾
+NEGATIVE	深层次  矛盾
+NEGATIVE	损害  国家
+NEGATIVE	损害  国家
+NEGATIVE	损害  国家
+NEGATIVE	损害  国家
+NEGATIVE	损害  国家
+NEGATIVE	听证
+NEGATIVE	听证
+NEGATIVE	听证
+NEGATIVE	听证
+NEGATIVE	听证
+NEGATIVE	停止 上涨
+NEGATIVE	停止 上涨
+NEGATIVE	停止 上涨
+NEGATIVE	停止 上涨
+NEGATIVE	停止 上涨
+NEGATIVE	通过率  降低
+NEGATIVE	通过率  降低
+NEGATIVE	通过率  降低
+NEGATIVE	通过率  降低
+NEGATIVE	通过率  降低
+NEGATIVE	通胀  担忧
+NEGATIVE	通胀  担忧
+NEGATIVE	通胀  担忧
+NEGATIVE	通胀  担忧
+NEGATIVE	通胀  担忧
+NEGATIVE	通胀  高于
+NEGATIVE	通胀  高于
+NEGATIVE	通胀  高于
+NEGATIVE	通胀  高于
+NEGATIVE	通胀  高于
+NEGATIVE	同比 下降
+NEGATIVE	同比 下降
+NEGATIVE	同比 下降
+NEGATIVE	同比 下降
+NEGATIVE	同比 下降
+NEGATIVE	外界  批评
+NEGATIVE	外界  批评
+NEGATIVE	外界  批评
+NEGATIVE	外界  批评
+NEGATIVE	外界  批评
+NEGATIVE	违法  违规
+NEGATIVE	违法  违规
+NEGATIVE	违法  违规
+NEGATIVE	违法  违规
+NEGATIVE	违法  违规
+NEGATIVE	未完成
+NEGATIVE	未完成
+NEGATIVE	未完成
+NEGATIVE	未完成
+NEGATIVE	未完成
+NEGATIVE	陷入  清盘
+NEGATIVE	陷入  清盘
+NEGATIVE	陷入  清盘
+NEGATIVE	陷入  清盘
+NEGATIVE	陷入  清盘
+NEGATIVE	相对 平庸
+NEGATIVE	相对 平庸
+NEGATIVE	相对 平庸
+NEGATIVE	相对 平庸
+NEGATIVE	相对 平庸
+NEGATIVE	虚假  记载
+NEGATIVE	虚假  记载
+NEGATIVE	虚假  记载
+NEGATIVE	虚假  记载
+NEGATIVE	虚假  记载
+NEGATIVE	宣告  倒闭
+NEGATIVE	宣告  倒闭
+NEGATIVE	宣告  倒闭
+NEGATIVE	宣告  倒闭
+NEGATIVE	宣告  倒闭
+NEGATIVE	选择  减持
+NEGATIVE	选择  减持
+NEGATIVE	选择  减持
+NEGATIVE	选择  减持
+NEGATIVE	选择  减持
+NEGATIVE	严重  欺骗
+NEGATIVE	严重  欺骗
+NEGATIVE	严重  欺骗
+NEGATIVE	严重  欺骗
+NEGATIVE	严重  欺骗
+NEGATIVE	严重  违法
+NEGATIVE	严重  违法
+NEGATIVE	严重  违法
+NEGATIVE	严重  违法
+NEGATIVE	严重  违法
+NEGATIVE	严重  违反
+NEGATIVE	严重  违反
+NEGATIVE	严重  违反
+NEGATIVE	严重  违反
+NEGATIVE	严重  违反
+NEGATIVE	严重  误导
+NEGATIVE	严重  误导
+NEGATIVE	严重  误导
+NEGATIVE	严重  误导
+NEGATIVE	严重  误导
+NEGATIVE	意外  出局
+NEGATIVE	意外  出局
+NEGATIVE	意外  出局
+NEGATIVE	意外  出局
+NEGATIVE	意外  出局
+NEGATIVE	造谣  诽谤
+NEGATIVE	造谣  诽谤
+NEGATIVE	造谣  诽谤
+NEGATIVE	造谣  诽谤
+NEGATIVE	造谣  诽谤
+NEGATIVE	增速  放缓
+NEGATIVE	增速  放缓
+NEGATIVE	增速  放缓
+NEGATIVE	增速  放缓
+NEGATIVE	增速  放缓
+NEGATIVE	债权  纠纷
+NEGATIVE	债权  纠纷
+NEGATIVE	债权  纠纷
+NEGATIVE	债权  纠纷
+NEGATIVE	债权  纠纷
+NEGATIVE	涨幅  小于
+NEGATIVE	涨幅  小于
+NEGATIVE	涨幅  小于
+NEGATIVE	涨幅  小于
+NEGATIVE	涨幅  小于
+NEGATIVE	整治  重点
+NEGATIVE	整治  重点
+NEGATIVE	整治  重点
+NEGATIVE	整治  重点
+NEGATIVE	整治  重点
+NEGATIVE	证监会
+NEGATIVE	证监会
+NEGATIVE	证监会
+NEGATIVE	证监会
+NEGATIVE	证监会
+NEGATIVE	终止 上市
+NEGATIVE	终止 上市
+NEGATIVE	终止 上市
+NEGATIVE	终止 上市
+NEGATIVE	终止 上市
+NEGATIVE	重大 诉讼
+NEGATIVE	重大 诉讼
+NEGATIVE	重大 诉讼
+NEGATIVE	重大 诉讼
+NEGATIVE	重大 诉讼
+NEGATIVE	不足以 改变
+NEGATIVE	不足以 改变
+NEGATIVE	不足以 改变
+NEGATIVE	不足以 改变
+NEGATIVE	不足以 改变
+NEGATIVE	跌幅  超出
+NEGATIVE	跌幅  超出
+NEGATIVE	跌幅  超出
+NEGATIVE	跌幅  超出
+NEGATIVE	跌幅  超出
+NEGATIVE	放慢  扩张
+NEGATIVE	放慢  扩张
+NEGATIVE	放慢  扩张
+NEGATIVE	放慢  扩张
+NEGATIVE	放慢  扩张
+NEGATIVE	幅度  有限
+NEGATIVE	幅度  有限
+NEGATIVE	幅度  有限
+NEGATIVE	幅度  有限
+NEGATIVE	幅度  有限
+NEGATIVE	股东  减持
+NEGATIVE	股东  减持
+NEGATIVE	股东  减持
+NEGATIVE	股东  减持
+NEGATIVE	股东  减持
+NEGATIVE	股权  变动
+NEGATIVE	股权  变动
+NEGATIVE	股权  变动
+NEGATIVE	股权  变动
+NEGATIVE	股权  变动
+NEGATIVE	股权  变更
+NEGATIVE	股权  变更
+NEGATIVE	股权  变更
+NEGATIVE	股权  变更
+NEGATIVE	股权  变更
+NEGATIVE	降幅  达到
+NEGATIVE	降幅  达到
+NEGATIVE	降幅  达到
+NEGATIVE	降幅  达到
+NEGATIVE	降幅  达到
+NEGATIVE	十分 困难
+NEGATIVE	十分 困难
+NEGATIVE	十分 困难
+NEGATIVE	十分 困难
+NEGATIVE	十分 困难
+NEGATIVE	实现  减持
+NEGATIVE	实现  减持
+NEGATIVE	实现  减持
+NEGATIVE	实现  减持
+NEGATIVE	实现  减持
+NEGATIVE	收盘  跌停
+NEGATIVE	收盘  跌停
+NEGATIVE	收盘  跌停
+NEGATIVE	收盘  跌停
+NEGATIVE	收盘  跌停
+NEGATIVE	违规  融资
+NEGATIVE	违规  融资
+NEGATIVE	违规  融资
+NEGATIVE	违规  融资
+NEGATIVE	违规  融资
+NEGATIVE	下降 到
+NEGATIVE	下降 到
+NEGATIVE	下降 到
+NEGATIVE	下降 到
+NEGATIVE	下降 到
+NEGATIVE	向下  浮动
+NEGATIVE	向下  浮动
+NEGATIVE	向下  浮动
+NEGATIVE	向下  浮动
+NEGATIVE	向下  浮动
+NEGATIVE	迅速 降低
+NEGATIVE	迅速 降低
+NEGATIVE	迅速 降低
+NEGATIVE	迅速 降低
+NEGATIVE	迅速 降低
+NEGATIVE	要求  偿还
+NEGATIVE	要求  偿还
+NEGATIVE	要求  偿还
+NEGATIVE	要求  偿还
+NEGATIVE	要求  偿还
+NEGATIVE	脏 弹
+NEGATIVE	脏 弹
+NEGATIVE	脏 弹
+NEGATIVE	脏 弹
+NEGATIVE	脏 弹
+NEGATIVE	市场 投机
+NEGATIVE	市场 投机
+NEGATIVE	市场 投机
+NEGATIVE	市场 投机
+NEGATIVE	市场 投机
+
