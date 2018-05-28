@@ -1,1008 +1,1008 @@
-negative	回访 房价 四小龙 ： num 分钟 到 上海 的 苏州  房子 正在 特卖	
-positive	地产 板块 早盘 走强 金地集团 涨停  国内 num 房企 扩 至 num 家 了	
-positive	央企 全面 步入 公司制  铁路 军工 等 垄断 领域 将 成 混改 主线	
-positive	【 投资 早报 】 国 常会 部署 进一步 优化 营 商 环境  雄 安 发展 规划 将 出	
-positive	谁 在 博弈 地产股  下半场 将 会 如何 演绎 ？	
-positive	【 棱镜 】 自如 获 num 融资  资本 热捧 下 租房 市场 的 融资 真相	
-positive	万科 管理层 资管 计划 获利 num 倍  回报率 “ 秒杀 ” 姚 振华	
-positive	num 年会 是 现当代 艺术 市场 的 拐点 吗	
-positive	卓越 集团 以 num 报价 获得 广 物 地产 num % 股权  碧桂园 等 房企 惜败	
-positive	保利地产 发力 ： num 抢 广东 佛山 num 幅 地 ， num 年内 要 重返 前 num	
-positive	惠州 大亚湾 不 限购 背后 暗流 涌动  炒房 客 num 次 购 num 余 套	
-positive	龙湖 num 住宅 租赁 债 获批  num 家 房企 共 抛 num 长 租 公寓	
-positive	保利地产 股价 拉升 num %  股价 创 num 年 以来 新高	
-positive	房地产 板块 活跃 走强  泰禾集团 等 num 股 涨停	
-positive	num 家 房企 抛 num 长 租 公寓 融资 计划  保利 、 龙湖 等 介入	
-positive	沪指 震荡 上行 涨 近 num %  地产股 大涨	
-positive	房地产 行业 周报 : 国有 大 行 纷纷 抢滩 房屋 租赁 市场	
-positive	房地产 行业 num 年 第52周 地产 周报 : 地产 销售 火热 收官 , 把握 龙头 跨 年 行情	
-positive	房地产 行业 点评 : 为何 当前 时 点 下 地产 龙头 值得 配置 ?	
-positive	住房 租赁 金融 破冰  房地产 资产证券化 风行	
-positive	num 年 业绩 利好  num 年 地产股 迎 开门红	
-positive	房地产 板块 迎 配置 时 点  num 只 个 股 年报 业绩 有望 翻番	
-positive	信达 国际 ： 保利 置业 短线 目标价 num 元  num %  潜在 升幅	
-positive	房地产 num 月 销售 点评 : num 年 完美 收官 、 龙头 再次 暴增 , 重申 看多 龙头 、 重申 行业 推荐	
-positive	房企 生存 战 ：  num 家 龙头 销售 过 num  num 家 抛 num 计划	
-positive	房地产 行业 : 龙头 房企 销售 靓丽 , 行业 集中度 提升 将 提振 股价	
-positive	午 评 ： 沪指 小幅 震荡 创业板 重返 num 点  地产股 爆发	
-positive	保利地产 下 午盘 飙升 num %  股价 创 num 年 以来 新高	
-positive	地产股 持续 大涨  num 股 封 涨停板	
-positive	地产 板块 午后 持续 上攻  绿地 、 金地 等 龙头 房企 陆续 涨停	
-positive	收 评 ： 地产股 火力 全 开 ！ 沪指 num 连阳 一度 收复 num	
-positive	中证 收 评 ： 新年 首 个 交易 周 A股 实现 开门红  房地产 板块 表现 亮眼	
-positive	num 军团 扩容 至 num 家  龙头 房企 迈过 num 关口	
-positive	地产股 强势 上涨  沪指 走出 日线 num 连阳	
-positive	万科 num 年 涨 num %  可 他们 说 ： 地产股 的 机会 才刚 开始	
-positive	置业 指南 ： 盘点 重庆 江北区 在 售 商铺	
-positive	房企 销售 排名 新 特征 ： 明星 民企 扩大 优势	
-neutral	保利地产 ： 实控人 完成 改制 及 更名	
-neutral	保利地产 实际 控制 人 完成 改制 及 更名	
-neutral	( 公司 ) 保利地产 实控人 完成 改制 及 更名	
-positive	市场 迎来 开门红  机构 围绕 业绩 展开 布局	
-positive	年度 业绩 飘 等 红利 好 共振  地产 板块 迎来 配置 期	
-positive	A股 情报局 ： 用 全球 大牛市 角度 看 A股 开门红	
-positive	新年 num 连涨 后  大盘 短期 将 何去何从	
-positive	num 之后 ： 万科 寻求 “ 新 赛道 ” 增长	
-positive	两市 开盘 涨跌 互现  汽车 电子 板块 领涨	
-positive	房地产 行业 - 南京 落户 新政 点评 : 落户 新政 提振 二线 城市 住宅 销量	
-positive	房地产 行业 跟踪 周报 : 持续 看好 地产 板块 估值 修复	
-positive	史上 最强 地产股 排 座次 ， 第一 名 无可争议	
-positive	房企 num 军团 扩容  谁 是 下 num 匹 黑马 ？	
-positive	中煤 集团 有望 率先 进行 行业 大 整合  num 家 央企 或 成 重组 重点	
-positive	万科 创 历史 新高  姚 振华 闷声 发大财  “ 造车 ” 融资 来自 港股 公司	
-positive	房地产 股 暴涨 逻辑 揭秘  积极 配置 房产 股 众 券商 表 认可	
-positive	房企 土储 按 下 快进 键  前 num 强 去年 拿 地 num 平方米	
-neutral	五大 行 抢滩 住房 租赁  万亿 风口 存 回报率 痛 点	
-positive	政策 + 业绩 双 促动  房地产 板块 多 股 涨停	
-positive	房地产 行业 周报 : 板块 迎接 开门红 , 调控 政策 边际 放松 , 重申 看多 龙头 、 重申 行业 推荐	
-positive	大盘 权重 轮番 涨 过于 猛烈  后市 看重 绩优股 、 次 新	
-positive	房地产 行业 动态 点评 : 部分 城市 适度 放松 调控 , 预计 未来 因 城 施政 、 精细 化 管理 将 进一步 推广	
-positive	揭秘 涨停板 ： num 股 涨停 ！ 地产 行业 估值 将 系统性 提升	
-positive	策略 周报 : 龙头 逻辑 从 消费 蔓延 至 周期	
-positive	郭 施 亮 ： 房产 股 飙升 是因为 限购 “ 松绑 ” 预期 吗 ？	
-positive	房地产 行业 : 为什么 我们 从 去年底 率先 “ 全面 看多 ” 地产股 ?	
-positive	房地产 行业 长周期 专题 报告 之 num : 详解 房地产 资金 来源 与 开发 投资额 预测 方法论	
-neutral	置业 指南 ： 盘点 江北嘴 写字楼 楼盘	
-positive	地产 板块 成 新年 港股 市场 领头羊	
-positive	春季 行情 如期 而 至  机构 播种 “ 大小 ” 通吃	
-negative	中型 房企 “ 挖墙脚 ” 的 图谋	
-positive	房地产 行业 日报 : 珠三角 大力 发展 住房 租赁	
-negative	土地 市场 降温 ： 北京 、 太原 、 南京 以 土地 流拍 告别 num	
-positive	num 金 研究院 发布 num 投资 报告 ： 黄金 是 为数不多 被 低估 的 资产	
-positive	num 部委 力推  煤炭 业 兼并重组 大潮 将 起	
-positive	养老 地产 收费 有望 更 亲民	
-neutral	置业 指南 ： 盘点 重庆 华 岩 区域 在 售 楼盘	
-positive	保利地产 num 年度 净利 num 亿元  同比 增长 num %	
-positive	保利地产 股价 拉升 num %  股价 创 num 年 以来 新高	
-positive	保利地产 ( num SH ) 去年 多赚 num % 至 num 人 币	
-neutral	num 有 近 num 套 新货 推出 南沙 增城 是 供应 主力	
-positive	房地产 板块 午后 异动 拉升	
-positive	保利地产 : 盈利 超 预期 、 战略 积极 助力 发展 提速	
-positive	保利地产 num 年 业绩 快报 点评 : 业绩 超 预期 、 机制 升级 、 成长 提速	
-positive	保利地产 : 业绩 超出 预期 , 发展 持续 提速	
-positive	保利地产 num 销售额 超 num 居 行业 第 num  未来 num 年 欲 借 整合 重返 前 num	
-positive	厉害 了 ， num 指数 连涨 num 天 ！ 这些 白马股 再创新高 ( 附 名单 )	
-neutral	置业 指南 ： 盘点 重庆 北 滨 路 在 售 楼盘	
-positive	房企 市值 排行榜 ： 全球 前 num 大房 企  中国 占 num 席	
-neutral	蓝筹 迭 创新高  小票 大跌 ！ 揭 A股 分裂 num 诱因	
-positive	地产 行业 周报 : 成交 环比 回升 , 行情 仍 将 延续	
-positive	保利地产 大幅 拉升 num %  股价 创 num 年 以来 新高	
-positive	万科A 股价 午后 逼近 涨停  再 创 历史 新高	
-positive	收 评 ： 沪指 涨 num %  地产股 大涨 万科A 等 创新高	
-positive	房地产 开发 板块 持续 走强  num 股 涨停	
-positive	“ 招 保 万金 ” 齐 创新高  地产股 再现 批量 涨停	
-positive	万科A 等 num 只 地产股 创 历史 新高  揭秘 地产 龙头股 飙升 num 逻辑	
-positive	住房 租赁 资产证券化 迎风 口  REITs 要 挑大梁 ？	
-positive	num 逻辑 发酵  地产 龙头股 飙升	
-positive	快讯 : 租售 同 权 概念股 盘 中 异动  华鑫股份 涨幅 过 num %	
-positive	房地产 行业 周报 : 多 地 放宽 人才 引进 , 大型 房企 增幅 明显	
-positive	保利地产 尾盘 净流入 资金 超 亿元	
-positive	地产股 爆发  业内 称 系 房企 业绩 上涨 的 连锁 效应	
-positive	基金 去年 四季 度 大幅 加仓	
-positive	天风证券 ： 地产股 将迎 戴维斯 双击  现阶段 可 加配 二线 品种	
-positive	基金 去年 四季 度 大幅 加仓 金融地产 及 制造业 龙头股	
-positive	A股 “ 蹊跷 ” 冲击 num 点 ： 新高 背后 现 神秘 推手	
-positive	num 年 商品房 销售 量价 创新高  房地产 行业 整合 加速	
-negative	高档 养老 每月 至少 花 num ？  警惕 养老 项目 高档 化	
-positive	四季 度 基金 坚守 高仓位  调仓 换股 曝光 三大 新动向	
-positive	金融地产 板块 领跑  成长股 或 否极泰来	
-positive	信达 国际 ： 保利 置业 短线 目标价 num 元  num %  潜在 升幅	
-positive	num 家 基金公司 大幅 超 配 地 产业  num 只 基金 不 爱 万科 “ 捧 ” 保利	
-positive	龙头 战略 不变  “ 白马 ” 仍 是 基金 “ 心头肉 ”	
-positive	四季 报 揭示 公募 新 共识 ：  高位 加仓 蓝筹 再 狂欢	
-positive	四季 报 披露 基金 最新 持仓 动向  交通 运输 等 num 行业 受 青睐	
-positive	快讯 ： 房地产 板块 早盘 走强  阳光股份 涨停	
-positive	上证50 指数 早盘 发力 上攻  再 创 近期 新高	
-positive	金融 地产股 强势 拉升  上证50 涨 近 num %	
-positive	房地产 板块 估值 明显 修复  万科A 再 创 历史 新高	
-positive	房地产 板块 午后 再度 拉升  阳光城 等 num 股 涨停	
-positive	沪深300 红利指数 跑赢 A股 各 大 指数  机构 ： 高分红 板块 或 成 全年 行情 主线	
-positive	沪指 num 天 num 涨大 蓝筹股 站 风口  num 只 个 股 价格 创 历史 新高	
-neutral	基金 股票 配置  强化 风格 均衡	
-positive	年内 逾 num 北上资金 进场  num 只 成长 龙头股 或 迎 升 机	
-positive	num 爆破 “ 蛋糕 ” 待 分  久联发展 加速 并购	
-positive	大盘股 躁动 行情 正在 轰轰烈烈 地 演绎	
-positive	房地产 板块 走强  万科A 盘 中 再 创 历史 新高	
-positive	保利地产 创 历史 新高	
-negative	地产股 早盘 集体 大跌  万科A 跌 超 num %	
-negative	上证50 指数 跳水 跌 超 num %  地产股 跌幅 居前	
-negative	房地产 开发 板块 持续 走低  泰禾集团 跌停	
-neutral	趋势 造就 高手  下 num 批 黑马 板块 在 哪里 ？	
-negative	北京 丰台 共有 产权 住房 用地 流拍	
-positive	龙头 房企 冲击 万亿 销售  机构 ： 四大 逻辑 有望 支撑 行业 继续 上涨	
-positive	num 位 大咖 纵论 房产 走势 ： 改善 性 需求 正 成为 楼市 主流	
-positive	广州 轨道 交通 建设 提速  TOD 开发 模式 方兴未艾	
-negative	上证50 止步 num 连涨	
-neutral	北京 朝阳区 共有 产权 住房 用地 num 日 成交	
-positive	公募 重仓股 “ 底牌 ” 泄 秘 ：  坚定 持有 平安 、 茅台 、 伊利 ！	
-positive	建材 ： 建筑 央企 估值 偏低  荐 num 股	
-negative	上证50 指数 午后 跌逾 num %  权重股 纷纷 走弱	
-positive	保利地产 ： 与 合 富 辉煌 合作  发展 物业 代理 业务	
-negative	券商 策略 周报 ： 短期 震荡 反复  关注 num 大 要点	
-positive	新增 长周期 催生 新 “ 结构 牛 ”	
-positive	房地产 行业 地产股 num 年 春季 投资 策略 : 暖冬 兑现 , 暖春 可期	
-positive	明日 合肥 近 num 亩 土地 入市  多 家 房企 巨头 虎视眈眈	
-neutral	机构 调仓 大 揭秘 ： 卖 牛股 ， 买 滞涨 蓝筹	
-positive	两市 融资 余额 逆势 增长  蓝筹 白马 仍 是 首选 标的	
-positive	中 金 num 月 A股 地产 板块 策略 ： 个 股行情 分化  精选 优质 龙头	
-positive	房地产 行业 : ROE 是否 能 随着 房地产 集中度 提升 持续改善 ?	
-positive	保利 北京 举办 首届 “ 光 之 盛典 ”	
-positive	中国银行 全面 进军 住房 租赁 金融市场	
-neutral	num 月 地产股 左右 股 基 业绩  押宝 锂电 与 科技股 成 梦魇	
-positive	支持 租赁 住房 开发  中国银行 num 亿元 融资 助力 八大 地产商	
-negative	num 主力 资金 近 num 日 撤出 融资 融券 概念股	
-positive	沪股通 num 概念股 近 num 日 受 num 主力 资金 追捧	
-positive	全面 进军 住房 租赁 金融市场  中国银行 签约 num 家 地产 巨头	
-positive	炒股 不如 买 基金  num 年 首 月 基金 最 多赚 num %	
-positive	碧桂园 num 亿元 REITs 获批	
-positive	存量房 市场  成 开发商 角力 场	
-positive	国内 租赁 住房 市场 再 迎 里程碑  龙头 房企 试水 REITs	
-positive	碧桂园 num 租赁 住房 REITs 获批  龙头 房企 租赁 证券化 已 达 num	
-positive	首单 num REITs 获批  碧桂园 寻求 公寓 资产 变现 术	
-positive	手握 num 间 可 租 房源  我 爱 我家 发力 长 租 市场	
-neutral	长江证券 num 月份 荐 股 绝对 收益率 达 num %  券商 看 新春 行情 “ 意见 不合 ”	
-negative	保利地产 盘 中 异动  早盘 大跌 num %	
-negative	A股 三大 指数 齐齐 翻绿 ： 沪指 跌 超 num %  地产股 放量 下 杀	
-negative	三大 股指 高开 低 走  悉数 翻绿	
-negative	地产股 金融股 集体 回 撤  上证50 指数 早盘 跌逾 num %	
-negative	蓝筹 走弱 拖累 沪指 走低  上证50 指数 跌 近 num %	
-negative	保利地产 跌停  唱 多 的 中泰证券 中信建投 国泰君安 囧 了	
-neutral	市场 巨 震 这些 股票 竟然 走出 慢牛 行情 ( 名单 )	
-positive	A股 下行  num 天 num 家 上市公司 股东 增持	
-negative	市场 下跌 或 成 风格 转换 催化剂	
-neutral	调整 行情 中 个 股 受 “ 惊吓 ”  num 股 最 抗 跌	
-negative	权重股 大幅 补跌  创业板 走强	
-positive	周期 类 行业 成 避风港  “ 抗 跌 基金 ” 受 关注	
-negative	保利地产 下 午盘 大幅 跳水 num %  股价 创 num 月 新低	
-negative	大蓝筹 持续 降温 ？ 原来 资金面 早已 给 出 答案 ， num 股 主力 大幅 撤离	
-negative	金融 加速 去 杠杆 地产 流动性 承压  龙头 房企 新年 急 筹 num “ 过冬 ”	
-neutral	连续 大跌 之后  地产股 迎来 “ 黄金 背离 点 ” ？	
-negative	房地产 板块 走势 低迷  新城控股 等 num 股 跌停	
-negative	大蓝筹 集体 杀跌  沪指 盘 中 击穿 num 点	
-negative	保利地产 早盘 跳水 num %  股价 创 num 月 新低	
-negative	春节 广州 楼市 或 遇 冷  不少 盘 全年 无休	
-neutral	经历 “ 过山车 ” 后  机构 深挖 地产 区域 龙头股	
-positive	借 高价 地 南沙 盘 抓紧 出货	
-positive	中国 投资者 “ 爆 买 ” 英国 房产  去年 投资额 超 num 英镑	
-positive	央企 走 出去 发生 新 变化  将 提高 全球 市场 经营 质量	
-positive	上证50 指数 涨 超 num %  中国平安 ( num -CN ) 大涨 近 num %	
-positive	房地产 板块 走势 活跃  保利地产 万科A 等 涨 超 num %	
-positive	地产股 盘 中 崛起  阳光城 等 num 股 涨停	
-positive	白马股 集体 回暖  沪指 上涨 近 num %	
-positive	地产股 成 近 num 日 反弹 先锋  num 家 机构 看好 该 板块 投资 机会	
-positive	中国 投资 英国 房产  去年 投资额 超 num 英镑	
-positive	长 租 公寓 市场 有望 快速 崛起  补齐 住房 租赁 市场 短板	
-negative	安邦 概念股 多数 上扬  保监会 宣布 依法 接管 安邦 集团	
-positive	房企 年报 季 来临 龙头 业绩 爆发  春季 地产股 的 行情 与 机会	
-negative	银发 经济 市场 巨大  新三板 公司 大规模 盈利 尚 早	
-negative	保利地产 盘 中 异动  早盘 大跌 num %	
-positive	世联行 盘 中 异动  早盘 拉升 num %	
-negative	房地产 板块 持续 走弱  保利地产 跌逾 num %	
-negative	房地产 板块 大幅 下挫  新城控股 跌逾 num %	
-positive	预增 概念股 近 num 日 受 num 主力 资金 追捧	
-positive	房地产 板块 迎来 最佳 配置 时 点 ？	
-negative	上证50 指数 下跌 近 num %  权重股 表现 低迷	
-negative	越秀 num 租赁 住房 类 REITs 获批  公募 REITs 落地 渐近 ？	
-positive	同 百科 技 num 年 净利 实现 翻番	
-positive	大数据 解密 市场 节后 新 风向  逾 num 亿元 北上资金 加仓 num 只 蓝筹股	
-negative	泛 地产股 调整 的 根本 原因 是 什么 ？	
-positive	徐 念 沙 ： 在 num 个 “ 提升 ” 上 发力  推动 企业 高质量 发展	
-positive	徐 念 沙 ： 中 轻 中国 工艺 并入 保利  产业 分 几 大 类 调整	
-neutral	num 月  广州 一手 住宅 num 盘 推 num 套 单位	
-positive	徐 念 沙 ： 保利地产 和 保利 置业 正在 做 股权 调整	
-positive	租 购 并举 构建 住房 梯级 消费 体系	
-positive	保利 集团 指正 对 保利地产 ( num SH ) 和 保利 置业 ( num HK ) 进行 股权 性 调整	
-positive	风险 偏好 回暖  主力 资金 “ 换挡 ” 提速	
-positive	保利地产 num 年 num ~ num 月 销售 点评 : 淡月 销售 超 预期 , 重申 “ 确定性 ” num 重 击	
-neutral	num 位 女 董事长 手握 num 万亿 A 股市 值 ， 最 年轻 的 竟然 才 num 岁	
-neutral	num 位 女 董事长 掌管 上市公司 num 万亿 市值	
-neutral	num 位 女 董事长 手握 num 万亿 A 股市 值  最 年轻 的 才 num 岁	
-positive	致敬 “ 女神 节 ”  ： A股 大 女 主 终极 排行榜 曝光	
-neutral	人口 流动 启示 ： 房价 曲线图 正 发生 微妙 变化	
-positive	粤港澳 大 湾 区 规划 纲要 编制 基本 完成  地产 + 基建 行业 将 受益	
-positive	后 发 能否 先 至 ？ 保利地产 启动 产 城 融合 战略	
-positive	【 兴 证 地产 】 九龙仓 配置 地产股 点评 ： 增量 资金 将 持续 买入 地产股	
-negative	保利地产 盘 中 异动  股价 跳水 num %	
-negative	房地产 板块 跌幅 居前  新城控股 跌逾 num %	
-positive	两会 代表 建议 加快 REITs 公募 试点  扩 募 机制 + 税务 安排 成 关注 重点	
-positive	保利 完成 国内 首单 房企 租赁 住房 REITs 发行  首期 规模 num	
-positive	保利 租赁 住房 类 REITs 正式 发行  公开发行 比例 达 num %	
-positive	继 碧桂园 、 阳光城 后  保利 拟 加入 广 物 地产 股权 争夺战	
-positive	保利 完成 国内 首单 房企 租赁 住房 REITs 发行	
-neutral	首开 保利· 熙 悦 林 语 样板间 开放	
-positive	住宅 供应量 回升  洋房 库存 创新高	
-positive	保利地产 发行 首单 房企 租赁 REITs  租赁 证券化 进入 规模 爆发 期	
-positive	银行 大笔 资金 投向 住房 租赁 业务	
-positive	行业 集中度 提升  龙头 房企 优势 凸显	
-positive	重庆 房企 着眼 “ 租 购 并举 ”  加速 落地 长 租 公寓	
-positive	着眼 “ 租 购 并举 ”  重庆 房企 加速 落地 长 租 公寓	
-positive	成都 超 千亩 土地 num 月 集中 上市	
-neutral	走进 北京 “ 限 竞 房 ” ： num 个 项目 即将 入市  num 个 待字闺中	
-positive	房地产 行业 “ 大 小年 ” 之争 ： 今年 num 线 城市 还有 机会 吗 ？	
-positive	建议 大 地产商 重视 住房 租赁 市场	
-positive	最新 广州 置业 地图 出炉  旺季 将 至 你 打算 选 哪里 安家 ？	
-positive	“ 博彩 ” 开放 民间 热 议  海南 官方 “ 无 消息 ”	
-negative	【 西南 地产 】 中美 贸易摩擦 发酵 ， 板块 避险 价值 凸显	
-positive	房屋 租赁 概念股 近 num 日 最 受 主力 资金 青睐	
-negative	num 主力 资金 近 num 日 撤出 预增 概念股	
-positive	保利 资本 战略 入股 斯 维 登 ： 第一 步 合作 开发 田园 综合体	
-positive	途 家 分拆 斯 维 登 后 战略 升级 ， 携手 保利 打造 智慧 农家院 落	
-positive	上证50 指数 午后 持续 反弹  上涨 超 num %	
-positive	保利地产 下 午盘 拉升 num %  振幅 达 num %	
-positive	num 主力 资金 近 num 日 杀 入 新型 城镇化 概念股	
-positive	大盘 蓝筹股 集体 反弹  地产 板块 一马当先	
-positive	中国 房地产 行业 ： 筑梦 未来	
-positive	决战 至 凌晨  保利 num 夺 杭州 奥体 地 王	
-positive	又 num 央企 整合 方案 浮出水面  中粮地产 与 大悦城 地产 强强联合 优势 凸显	
-positive	上证50 指数 涨 近 num %  券商 、 地产 等 板块 表现 强势	
-positive	泰禾集团 拟 申请 长 租 公寓 资产证券化 专项 计划 ， 额度 num 亿元	
-negative	房企 年报 季 ： 那些 掉队 的 “ 前 num 强 ” 们	
-positive	保利 “ 汇 系 ” 商办 平台 创新  人工智能 应用 场景 渐 落地	
-positive	探索 城市 未来  保利 北京 商办 项目 的 科技 观	
-neutral	碧桂园 num 亿元 买下 伦敦 num 英亩 土地 ， 将 建 num 套 住宅	
-neutral	实地 探访 中 海 南京 高价 地块 ： 现场 已 打围 施工  楼面价 较 周边 新房 低 近 万元	
-positive	住房 租赁 花样 融资 术 ：  类 REITs ＋ 专项 债券 ＋ 并购 基金	
-positive	房企 num 强 一季度 销售 突破 num 亿元 行业 告别 规模 之争 尚需 时日	
-neutral	宜华生活 将 为 保利地产 提供 家居 软装 配套	
-positive	保利 置业 集团 ( num HK ) 与 中国 保利 就 num 美元 票据 签订 维 好 契约	
-positive	保利 置业 集团 ( num ) 与 中国 保利 集团 就 num 美元 票据 签订 维 好 契约	
-positive	一线 | 途 家 线下 斯 维 登 集团 完成 新 num 轮 独立 融资  保利 资本 战略 入股	
-positive	投融资 要闻 速 览  | 主打 共享 农庄 和 别墅 ， 这家 公司 获 保利 资本 入股	
-positive	前 央视 主持人 、 著名 投资人 张 泉 灵 受聘 成为 雅戈尔 智慧 营销 顾问	
-positive	房地产 板块 迎 配置 时 点  num 只 个 股 年报 业绩 有望 翻番	
-positive	【 新时代 新气象 新 作为 】 num 件 衣服 的 革命	
-positive	“ 新年 新衣 ” 开启 服装业 旺季	
-neutral	雅戈尔 重回 实业 现 成效  金融 资产 计提 拖累 业绩	
-neutral	雅戈尔 计提 资产 减值 准备 轻装 上阵	
-negative	雅戈尔 大幅 跳水 num %  股价 创 num 月 新低	
-positive	服装 纺织 ： 零售 端 持续 回暖  行业 向好 趋势 稳定	
-neutral	雅戈尔 ： 计提 资产 减值 准备  聚焦 主业 轻装 上阵	
-positive	雅戈尔 ： 控股 股东 提议 num 派 num	
-positive	雅戈尔 年报 拟 num 派 num 元	
-negative	“ 传奇 ” 万里 挑一  IPO 造 富 不易	
-negative	炒 别人 家 股票 亏损 num  雅戈尔 减值 背后 “ 财务 洗澡 ”	
-positive	雅戈尔 实控人 拟 增持 num %- num % 股份	
-positive	( 公司 ) 雅戈尔 实控人 拟 增持 num %- num % 股份	
-positive	宁波 海 曙 打造 num 级 纺织 服装 时尚 产业	
-positive	num 家 上市公司 实控人 增持 护盘  总 耗资 约 num 亿元	
-negative	雅戈尔 股东 昆仑 信托 拟 减持 不 超 num % 股份	
-negative	( 公司 ) 雅戈尔 股东 昆仑 信托 拟 减持 不 超 num % 股份	
-negative	雅戈尔 股东 减持 股价 创 num 年 新低  股神 李 如 成 折戟 中信 ？	
-positive	雅戈尔 实控人 增持 num % 股份	
-positive	( 公司 ) 雅戈尔 获 实控人 增持 num % 股份	
-positive	num 家 公司 公布 年报 分红 预案  机构 看好 num 只 高 送 转 股	
-positive	num 成 服装 上市公司 净利 增长  主营业务 持续 发力	
-positive	雅戈尔 ( num -CN ) 增持 中信 股份 ( num -HK )  持股 比例 升 至 num %	
-positive	雅戈尔 : 通过 司法 拍卖 num 亿元 获得 天津 num 豪 大厦 项目	
-positive	雅戈尔 ： 预计 一季度 净利 近 num 亿元  增幅 近 num 倍	
-positive	雅戈尔 num 季报 预增 num %	
-positive	雅戈尔 一季度 净利 预增 num %	
-negative	“ 炒股 ” 遇 市场 风浪  上市公司 业绩 险 翻船	
-positive	雅戈尔 盘 中 异动  早盘 拉升 num %	
-negative	一季度 净利润 预增 num % 源于 “ 炒股 ” ？ 雅戈尔 回归 服装 长 路漫漫	
-negative	这家 卖 衣服 的 上市公司 业绩 预增 num % ！ 原因 竟然 是	
-negative	部分 公司 会计 处理 有 招 术	
-positive	野村 升 兖州煤业 H股 目标价 至 num 元  评级 买入	
-positive	齐鲁 银行 定增 募资 num 亿元  兖州煤业 成功 卡位 第 三大 股东	
-positive	兖州煤业 下 午盘 飙升 num %  股价 创 num 年 以来 新高	
-positive	煤炭 板块 表现 强势  潞安环能 ( num -CN ) 超 num %	
-positive	煤炭 行业 周报 : num 年初 补 库 有望 继续 拉动 价格 上涨 , 推荐 焦煤 机会	
-positive	山西 焦煤 公布 混改 方案  煤炭 集团 有望 开启 混改 大幕	
-positive	【 num 融 数据 淘金 】 融资 余额 快速 回升  这 只 地产股 连续 num 日 融资 余额 增幅 居首	
-positive	煤炭 行业 周报 : 每周 观点 , 煤炭 需求 持续 向好 , 高 日 耗 低 库存 下 支撑 煤价 继续 上行	
-positive	煤炭 开采 行业 : 煤炭 价格 有望 维持 高位 , 看好 一季度 煤炭 行情	
-positive	煤炭 采选 板块 走势 活跃  大同煤业 涨 超 num %	
-positive	野村 ： 兖煤 ( num ) 估值 吸引  升 目标价 至 num 元	
-positive	【 num 融 数据 淘金 】 融资 余额 num 连阳 创 num 日 新高  这 只 煤炭 股 融资 余额 明显 增长	
-positive	兖州煤业 大幅 拉升 num %  股价 创 num 年 以来 新高	
-positive	上证 半日 扬 num % 上 破 num , num  煤炭 、 民航 及 地产股 强势	
-positive	煤炭 股 异动 拉升  分析师 ： num 年 有望 迎 兼并重组 的 高潮	
-positive	煤炭 板块 持续 走强  潞安环能 涨停	
-positive	煤炭 板块 为何 新年 首 度 暴涨 ？ 原来 是 摊上 了 这 几 件 大事	
-negative	指数 步入 压力 区  num 点 有望 成 拉锯 主战场	
-negative	逼 空行 情  选 不 对 票 一样 赔钱	
-positive	煤炭 板块 股市 燃起 “ num 把 火 ”  兼并重组 优化 布局 激活 煤炭 股	
-positive	沪指 收获 num 连阳  机构 num 条 线索 解码 春季 行情	
-positive	煤炭 行业 动态 点评 : 煤价 继续 上涨 和 政策 利好 , 顺势 而 为	
-positive	邓 普顿 基金 管理 减持 兖州煤业 num 股  套现 num 港币	
-neutral	剖析 港股 大数据 ： 港股通 num 大 成交 与 热门 板块 轮 动 的 关系	
-neutral	上证 收涨 num % num 连阳  区块链 概念 飙  海螺 A 跌逾 num %	
-positive	恒 指 半日 涨 num % 报 num 点  逼近 历史 最高点	
-positive	煤炭 石油 ： num 铁路 运力 偏紧  荐 num 股	
-negative	兖州煤业 盘 中 异动  早盘 跳水 num %	
-negative	煤炭 行业 : 政策 调节 煤电 利益 , 有望 平抑 价格 波动	
-negative	A股 情报局 ： 短期 市场 波动 率 有望 抬升	
-positive	煤炭 行业 : 各 大 煤企 高位 下调 煤价 彰显 表率 作用 , 继续 看好 煤炭 股 行情	
-positive	四季 报 披露 基金 最新 持仓 动向  交通 运输 等 num 行业 受 青睐	
-positive	陕西煤业 早盘 大涨 num %  股价 创 num 年 以来 新高	
-positive	兖州煤业 早盘 大幅 拉升 num %  量 比 达 num	
-positive	煤炭 采选 板块 走势 活跃  陕西煤业 涨 超 num %	
-negative	两市 双双 低开  黄金 板块 领涨	
-negative	大盘股 低迷 ： 沪指 走出 新年 以来 第二 根 阴线 ， 失守 num 点	
-positive	快讯 ： 煤炭 股 早盘 走高  兖州煤业 涨幅 过 num %	
-positive	煤炭 股 旺季 表现 强劲  兖州煤业 股份 涨逾 num %	
-positive	下游 需求 旺盛 + 年报 业绩 预告 向好  机构 ：  看好 煤炭 板块 后市 表现	
-positive	周期股 早盘 发力  煤炭 股 表现 抢眼	
-positive	煤炭 股 午后 持续 走强  兖州煤业 涨 超 num %	
-positive	两市 全天 震荡 收 跌  钢铁 煤炭 板块 携手 领涨	
-positive	兖州煤业 ： num 年 净利润 预增 num % 至 num %	
-neutral	煤企 业绩 回暖 股价 逆势 走强  下游 电 企 面临 压力	
-positive	周期 板块 再现 大涨 ， 低估值 业绩 暴增 股 还有 这些 ！	
-positive	兖州煤业 年报 预增 num %- num %	
-negative	A股 情报局 ： 强势股 开始 调整 ， 需要 担忧 吗 ？	
-positive	煤炭 ： 动力煤 高 确定性 带动 焦煤 市场	
-neutral	兖州煤业 ( num ) ： 控股 股东 发行 的 A股 可 交换 债 获 累计 换股 num %	
-positive	num 理由 助 煤炭 板块 估值 修复  num 只 年报 预计 翻番 股 吸金 近 num	
-positive	煤炭 采选 板块 活跃 走强  山西焦化 涨 超 num %	
-positive	煤炭 股 走强  阳泉煤业 涨 超 num %	
-positive	两市 探底 回升 ， 创业板指 涨 近 num %	
-positive	煤化工 板块 走势 活跃  山西焦化 涨 超 num %	
-positive	兖州煤业 下 午盘 拉升 num %  股价 创 num 年 以来 新高	
-positive	港股 回 吐 逾 num 点  煤炭 股 走高 手机 设备 股 企稳	
-positive	领跑 港股 大市  恒生 能源 业 指数 一枝独秀	
-positive	煤炭 开采 行业 : 煤炭 供给 偏紧 致 价格 冲高 , 继续 看好 一季度 行情	
-positive	业绩 推动  机构 看好 煤炭 股 春季 躁动 行情	
-positive	银行 + 券商 + 钢铁 + 煤炭  权重股 集体 异动 拉升 !	
-positive	煤炭 采选 板块 表现 抢眼  山西焦化 涨 超 num %	
-positive	num 日 午间 机构 看盘 ： 做空 动能 充分 宣泄  短期 极 具 投资 吸引力	
-negative	市场 下跌 或 成 风格 转换 催化剂	
-negative	兖州煤业 盘 中 异动  早盘 跳水 num %	
-negative	兖州煤业 ( num -HK ) 遭 邓 普顿 基金 减持 num 股	
-positive	num 只 煤炭 股 成 机构 眼中 “ 香饽饽 ”	
-positive	煤炭 行业 : 煤价 上涨 促 煤企 业绩 大增	
-positive	兖州煤业 ( num HK ) 煤炭 产量 增加 ， 股价 上涨 近 num %	
-positive	兖州煤业 股份 涨逾 num %  获 惠 誉 升 至 “ B + ” 评级	
-positive	兖州煤业 盘 中 异动  股价 大涨 num %	
-positive	恒 指 收涨 num % 日内 一度 涨 近 num 点	
-positive	这些 超跌 白马股 机构 看好  会 成为 狗年 的 反弹 先锋 吗 ？	
-neutral	兖州煤业 股份 ( num HK ) “ num 兖煤 num ” 及 “ num 兖煤 num ” 将 于 num 月 num 日 付息	
-negative	兖州煤业 盘 中 异动  股价 跳水 num %	
-negative	潞安环能 盘 中 异动  早盘 跳水 num %	
-neutral	兖州煤业 境外 控股 子公司 发布 num 年年 度 业绩	
-positive	( 港股 ) 兖州煤业 股份 澳洲 控股 子公司 num 年 税后 利润 同比 增 num %	
-positive	两市 双双 低开  工业 互联网 板块 领涨	
-negative	兖州煤业 股份 ( num HK ) 申请 延期 至 num 月 num 日前 回复 中国 证监会 《 反馈 意见 》	
-negative	兖州煤业 下 午盘 大跌 num %  股价 创 num 月 新低	
-positive	兖州煤业 盘 中 异动  股价 大涨 num %	
-negative	中车 金融 租赁 股东 格局 再生 变  天津 信托 拟 参股 num %	
-positive	兖州煤业 : 增 购 沃克沃斯 股权 , 年 增加 净利 num 亿元	
-positive	num 家 公司 年报 本 周 将 亮相  机构 看好 num 只 成长股  ( 附 名单 )	
-positive	num 家 公司 年报 本 周 将 亮相  机构 力荐 num 成长股	
-negative	煤炭 板块 集体 走弱 整体 跌逾 num %  阳泉煤业 等 跌幅 超 num %	
-negative	兖州煤业 早盘 大幅 跳水 num %  股价 创 num 月 新低	
-positive	兖州煤业 股份 ( num HK ) 拟 对 附属 提供 不 超 num 美元 融资 担保	
-positive	煤炭 企业 去年 业绩 亮眼  去 产能 促进 行业 布局 优化	
-positive	兖州煤业 股份 逆市 涨逾 num %  去年 营收 创 历史 新高	
-positive	煤炭 行业 周报 : 钢铁 需求 逐渐 打开 , 焦煤 价格 趋 稳	
-positive	兖州煤业 ( num ) ： 预计 num 年 煤炭 价格 将 保持 总体 平稳	
-positive	兖州煤业 ： 今年 煤炭 销量 目标 提高 到 num 亿吨	
-neutral	煤炭 巨头 意见 分歧  神华 拟 减产 兖煤 将 增产	
-positive	兖州煤业 股份 ( num HK ) 完成 发行 num 亿元 num 年 可 续期 公司债 券 ( 第 一期 )  票面 利率 num %	
-positive	兖州煤业 盘 中 异动  股价 拉升 num %	
-positive	钢铁 等 num 行业 国企 利润 大增 机构 力荐 num 只 潜力股	
-positive	三月 创业板指 创 num 年 最大 月 涨幅 四月 机构 扎堆 看好 银行 等 num 行业	
-positive	兖州煤业 股份 ( num HK ) 完成 发行 num 亿元 超短 融	
-positive	兖州煤业 股份 ( num HK ) 完成 发行 num 亿元 超短 融	
-positive	“ 压线 ” 增持 银行股  兖州煤业 ( num ) 低调 潜入 金融业	
-neutral	兖州煤业 股份 ( num HK ) 控股 股东 兖矿 集团 “ num 兖 num EB ” 已 赎回	
-positive	num 上市公司 汇兑 账本 ：  num 家 航空公司  “ 躺着 ” 赚 了 num	
-positive	东北 上市 公司 对 政府 “ 输血 ” 依赖 度 降低	
-positive	广汇汽车 盘 中 异动  临近 收盘 拉升 num %	
-negative	汽车 新零售 市场 “ 雷声大 雨点小 ”	
-positive	广汇汽车 ： 积极 转型  优化 业务 结构	
-negative	广汇汽车 盘 中 异动  股价 跳水 num %	
-positive	广汇汽车 拟 收购 上海 爱 卡 合伙 份额	
-neutral	广汇汽车 服务 股份公司 关于 控股 股东 股份 解除 质押 的 公  告	
-positive	复盘 基石 资本 汽车 投资 ：  深挖 产业链 核心 环节 + 控股 型 投资 运作	
-negative	广汇汽车 num 收购 股价 熊 势  股东 质押 凶猛 股价 跌 不 起	
-negative	汽车 经销商 渐显 寡头 格局  新 车 销售 进入 微利 时代	
-positive	广汇汽车 盘 中 异动  大幅 飙升 num %	
-neutral	汽车 行业 将 扩大 开放  车企 热 议 新机遇 新 挑战	
-negative	中青宝 num 大 股东 内讧 控股 股东 部分 股权 遭 冻结	
-positive	电子 制造 行业 研究 周报 : 电子元件 与 智能汽车 新 周期	
-positive	东阳光科 大幅 飙升 num %  股价 创 num 年 以来 新高	
-positive	东阳光科 股价 大涨 num %  股价 创 num 年 以来 新高	
-positive	上市 药企 抗 流感 药 销售 火爆	
-neutral	机器 小 强 ： num 月 num 日  大宗 交易	
-negative	东阳光科 早盘 大幅 跳水 num %  股价 创 num 月 新低	
-positive	东阳光科 盘 中 异动  股价 飙涨 num %	
-positive	鹏欣资源 盘 中 异动  股价 拉升 num %	
-negative	集团 母公司 拟 悉数 出售 所 持 权益  东 阳光 药 ( num HK ) 股价 跌逾 num %	
-positive	东阳光科 大幅 拉升 num %  股价 创 num 年 以来 新高	
-positive	电池 板块 预演 业绩 浪 行情  num 只 年报 预计 翻番 股 吸金 num 亿元	
-positive	小米 和 富士康 概念股 集体 高开  安彩高科 等 开盘 涨停	
-negative	东阳光科 重组 审核 被 暂停  num 日 复牌	
-negative	东阳光科 大幅 跳水 num %  量 比 达 num	
-negative	富士康 概念股 小幅 低开  东阳光科 开盘 跌停	
-positive	两市 小幅高开  电子 板块 走强	
-negative	东阳光科 重组 暂停 审核 股价 重挫  标的 废水 排放 白水 河	
-negative	东阳光科 并购案 遭 暂停 审核  深圳 游资 集体 出手 力避 跌停	
-positive	东阳光科 张 红 伟 ： num 年 奋斗 成就 梦想	
-negative	东阳光科 股价 跳水 num %  量 比 达 num	
-negative	东阳光科 盘 中 异动  大幅 跳水 num %	
-positive	东阳光科 盘 中 异动  下 午盘 拉升 num %	
-positive	业绩 + 估值 优势 激活 传媒 板块  num 只 龙头股 吸金 num 亿元	
-positive	业绩 + 估值 优势 激活 传媒 板块  num 股 吸金 num	
-negative	募 投 项目 历时 num 年 仍 不及 预期  长江传媒 拟 终止 num 项目	
-neutral	num 月 num 日 沪深两市 最新 交易 提示	
-positive	双重 优势 助 传媒 板块 右侧 交易 行情 开启	
-positive	长江传媒 盘 中 异动  临近 收盘 飙涨 num %	
-positive	长江传媒 股价 大涨 num %  股价 创 num 月 新高	
-positive	大 摩 升 内地 三大 航空 股评 级 至 增持 及 上调 目标价	
-neutral	飞机 上 可以 使用 手机 了  航空公司 ： 不能 使用 流量 和 通话	
-neutral	今日 起 国航 也 “ 欢迎 开机 ” !  还有 哪些 航空公司 即将 解禁 ？	
-positive	高 盛 ： 国泰 与 卡塔尔 航空 将 有 更多 营运 合作	
-negative	中 金 荐 国航 H股  股价 劬 逆市 跌	
-negative	大 摩 ： 国航 去年 盈利 逊 预期  评级 增持	
-positive	大和 升 国航 H股 目标价 至 num 元	
-neutral	航班 因 天气 取消 改签 差价 将 由 旅客 航 企 平摊 ？ 民航局 ： 在 考虑	
-negative	南方航空 盘 中 异动  股价 大跌 num %	
-positive	交通 运输 产业 行业 研究 : 交运 num 年 回顾 , 航空 机场 一枝独秀	
-negative	机场 航空 股 出现 调整	
-positive	交通 运输 行业 : 交通 运输 价格 改革 进入 密集 期 , 持续 推介 航空 和 铁路	
-neutral	( 公司 ) 中国国航 控股 股东 改制 更名	
-neutral	中国国航 控股 股东 完成 改制 及 更名	
-positive	东方航空 下 午盘 拉升 num %  股价 创 num 年 以来 新高	
-positive	民航 机场 板块 午后 持续 走强  东方航空 涨逾 num %	
-positive	交通 运输 行业 日报 : num 年 或 将 迎来 油船 市场 转折	
-positive	三大 国有 航空 相继 “ 改名 ” ， 混改 将 如何 提速	
-neutral	交通 运输 行业 深度 报告 : 航线 票价 放开 弹性 测算 深度 解析	
-positive	出海 记 ｜ 中国 企业 num 年 出海 报告 之 航空 ： 中国 航 司 扩大 “ 朋友圈 ”	
-positive	中国国航 早盘 大涨 num %  量 比 达 num	
-positive	东方航空 早盘 大涨 num %  股价 创 num 年 以来 新高	
-positive	航空 股 集体 造 好  中国国航 涨逾 num % 曾创 逾 num 年 新高	
-positive	航空 股 暴涨  南航 领涨 近 num %	
-positive	民航 机场 板块 走势 活跃  南方航空 涨 超 num %	
-negative	市场 缺乏 热点 持续性  需 谨慎	
-positive	花旗 ： 看好 内 航 股 行业 前景  首选 东航 ( num )	
-positive	上证 半日 扬 num % 上 破 num , num  煤炭 、 民航 及 地产股 强势	
-positive	航空 机场 板块 涨幅 居前  南方航空 涨逾 num %	
-positive	航空 运输 行业 : 航线 票价 放开 超 预期 , 持续 推荐 三大 航	
-positive	中国国航 : 票价 放开 超 预期 , 大幅 增 厚 业绩	
-positive	多重 利好 刺激 ， 航空 股 走强 ！ 南方航空 大涨	
-positive	交通 运输 行业 点评 : 票价 改革 新政 发布 , 利好 航 司	
-positive	交通 运输 行业 动态 报告 : 航线 票价 放开 超 预期 , 继续 推荐 三大 航	
-positive	机票 价格 市场化 改革 进一步 推进  民航 机场 概念股 集体 上涨	
-positive	新增 num 条 市场化 航线  北上广 深 互 飞 或 涨价	
-negative	航空 运输业 客运 价 改 点评 : 民航 客票 价 改 加速 推进 , 短期 油价 带来 的 成本 压力 不可 忽略	
-positive	航空 机场 行业 研究 : 复盘 航空 机场 num 年 , 景气度 推动 航空 , 票价 市场化 锦上添花	
-positive	中国国航 : 民航 国内 客运 价格 进一步 市场化 打开 远期 盈利 空间 , 上调 num ~ num 年 盈利 预测 , 强调 “ 强推 ” 评级	
-negative	航空 股 转 弱  国航 H股 ( num -HK ) H股	
-positive	航空 票价 改革 持续 推进 : 方向 和 空间	
-neutral	春运 乘飞机 出行 看 这里 ： 准点率 排行榜 来 了	
-positive	银河 国际 ： 重申 “ 买入 ” 深圳 国际 ( num )  关注 航空 业务 表现	
-positive	交通 运输 行业 日报 : num 年 京唐港 区 货物 吞吐量 达 num 亿吨	
-positive	恒 指 收涨 num % 报 num 点  航空 板块 表现 抢眼	
-positive	马克 龙 访华 获 num 美元 航空 大 “ 蛋糕 ”  空客 飞机 订单 未 敲定	
-positive	航空 股 持续 冲高  中国国航 涨逾 num % 创 逾 num 年 新高	
-positive	恒 指 收涨 num % 报 num 点  连涨 num 天 创纪录	
-negative	春秋航空 股价 跳水 num %  股价 创 num 月 新低	
-positive	机构 num 日 抢筹 num 股  主力 资金 num 流入	
-positive	交通 运输 ： 票 改 新政 发布  利好 航 司	
-positive	num 年度 数据 依次 出炉  年 载客量 过 num 航 企 增至 num 家	
-negative	中国国航 大幅 跳水 num %  股价 创 num 月 新低	
-positive	内地 放宽 三大 航空 国资 持股 要求  允许 国有 相对 控股	
-positive	“ 手机 解禁 ” 等 利好 纷 至  “ 三大 航 ” 或 盈利 股价 双 升	
-positive	戗 跑 “ 手机 解禁 ” 竞速 赛 ， 东航 股价 何时 起飞 ？	
-positive	今 起 国航 也 “ 欢迎 开机 ”  国内 num 家 航空公司 陆续 解禁	
-positive	国产 支线 客机 ARJ num 上 也 可用 手机	
-positive	num 家 国内 航空公司 解禁 手机  机载 WiFi 掘金 前景 广阔	
-positive	信达 国际 ： 中国 南方航空 短线 目标价 num 元  潜在 升幅	
-positive	三大 航 国资 持股 可 降至 num % 以下  民航 混改 卸下 “ 紧箍咒 ”	
-neutral	“ PE 国家队 ” 万亿 投资 账本 盘点	
-positive	四季 报 披露 基金 最新 持仓 动向  交通 运输 等 num 行业 受 青睐	
-positive	交通 运输 ： 油价 阶段性 见 顶  航空 基本面 向好 趋势 愈加 清晰	
-positive	三大 运营商 的 比拼 上天 了 ！ 哪家 更 强 ？	
-positive	去年 成都 外贸 进出口 总额 同比 增长 num %  增幅 居 副 省级 城市 首位	
-negative	信息 科技 ： 区块链 概念 退潮  荐 num 股	
-positive	四川 成都 自 贸 实验区 “ 怀胎 十月 ” 凸显 内 生 活力	
-positive	中国国航 盘 中 异动  股价 大涨 num %	
-positive	民航 机场 板块 午后 持续 走强  中国国航 涨逾 num %	
-positive	人民币 中间价 实现 五连 升  掘金 num 类 受益 股 上涨 潜力	
-positive	航空 股 集体 上涨  中国国航 涨 近 num % 领涨	
-positive	快讯 ： 机场 航运 板块 走强  中国国航 涨 近 num %	
-positive	两地 航空 股 齐涨  春运 旺季 助长 航空公司 利润	
-positive	num 大 内地 航空 股 起飞 了 ！  因为 麦格理 的 新 决定	
-positive	人民币 续 强势  航空 股 起飞	
-positive	航空 机场 板块 表现 抢眼  机构 : 人民币 汇率 攀升 利好 航空 股	
-positive	恒 指 半日 涨 num % 破 num 关口  建设银行 领涨 蓝筹	
-positive	汇率 持续 攀升 利好 航空 股  中国国航 ( num -CN ) 大涨 超 num %	
-positive	恒 指 收涨 num % 破 num 点 关口  再次 创造 历史 高 点 记录	
-positive	num 主力 资金 近 num 日 杀 入 大 央企 重组 概念 股	
-positive	信达 国际 ： 中国 南方航空 短线 目标价 num 元  潜在 升幅	
-positive	春运 航线 票价 猛涨  三亚 部分 涨 至 全价	
-positive	民航 机场 板块 活跃 走强  南方航空 涨 超 num %	
-positive	交通 运输 ： 继续 关注 航空 机场  荐 num 股	
-positive	交通 运输 ： 江苏 港口 吞吐量 连续 num 年 全国 第一  荐 num 股	
-negative	海航 资金链 令人 难以 捉摸  为何 “ 成 也 并购 败 也 并购 ”	
-neutral	机构 调仓 大 揭秘 ： 卖 牛股 ， 买 滞涨 蓝筹	
-positive	国航 华南 基地 加大 春运 运力 投入  广州 始发 增 飞 num 班	
-positive	中国国航 早盘 拉升 num %  股价 创 num 年 以来 新高	
-positive	交通 运输 ： 美元 贬值 利好 航空 航运 大宗 供应链 num 个 板块  荐 num 股	
-positive	两市 小幅 低开  钢铁 板块 开盘 较强	
-negative	收 评 ： 恐慌 情绪 蔓延  num 股 跌停 再现	
-neutral	杭州 机场 春运 预计 航班 起降 num 架次  运送 旅客 num 人次	
-positive	空客 总装 第8000架 A num 系列 飞机 交付 中国 国际 航空	
-positive	创新 监管 模式  北京 海关 助力 跨境电商 大 发展	
-positive	加大 航线 运力 投入  推出 便捷 智能 服务  国航 全力以赴 保障 春运 旅途 平 安顺 畅	
-positive	“ 中字头 ” 股 获 资金 逆市 抢筹  机构 看好 num 只 概念股 投资 潜力	
-positive	国航 春节 前 连续 num 天 加 开 重庆 至 台湾 航班  由 宽体 飞机 执 飞	
-positive	人民币 持续 走强  航空 板块 显著 受益	
-positive	三大 航空公司 同步 走高  南方航空 大涨 逾 num %	
-positive	恒 指 收 跌 num % 报 num 点  保险 银行 航空 逆势 上涨	
-neutral	长江证券 num 月份 荐 股 绝对 收益率 达 num %  券商 看 新春 行情 “ 意见 不合 ”	
-negative	中国国航 股价 跳水 num %  振幅 达 num %	
-positive	盈利 与 估值 有望 双 提升  航空 股 大涨	
-negative	东方航空 大幅 跳水 num %  股价 创 num 月 新低	
-negative	吉祥航空 大幅 跳水 num %  股价 创 num 月 新低	
-negative	上证50 指数 跌逾 num %  中字头 板块 集体 下挫	
-negative	春秋航空 早盘 跳水 num %  股价 创 num 月 新低	
-negative	中国国航 盘 中 异动  股价 大跌 num %	
-positive	空客 A num 受 航 企 追捧  川航 斥资 num 订 num 架 新机	
-positive	南方航空 盘 中 异动  股价 大涨 num %	
-positive	中国国航 盘 中 异动  股价 拉升 num %	
-positive	人民币 再 转 强  航空 股 又 起飞	
-positive	机场 航运 板块 走强  南方航空 ( num -CN ) 大涨 超 num %	
-positive	航空 股 全线 上涨  中国国航 ( num HK ) 领涨	
-positive	中 金 ： 中资 航空 股 外部 因素 现 好转  估值 已 存在 安全 边际	
-positive	国金证券 - 南方航空 ( num SH ) ： 或是 此 轮 航空 景气 向上 最大 受益者 ， 买入 “ 维持 ” 评级	
-positive	成都 密集 开通 国际 航线  出境游 成 过年 新风尚	
-positive	春运 航空 客运量 将 延续 高 增长  机构 扎堆 推荐 num 只 航空 股	
-positive	春运 航空 客运量 延续 高 增长  航空 股 受 青睐	
-positive	中国国航 盘 中 异动  早盘 大幅 拉升 num %	
-positive	东方航空 盘 中 异动  早盘 大幅 拉升 num %	
-positive	航空 股 集体 逆市 上涨  中国国航 涨 近 num %	
-positive	揭秘 涨停板 ： num 股 封板 ！ 有色 板块 掀涨停潮	
-positive	机构 博弈 中国国航  游资 封板 乐视网	
-positive	航空 板块 有望 “ 业绩 + 估值 ” 双 升	
-positive	客流量 攀升 叠加 机票 机制 改革  航 企 迎来 上行 周期	
-positive	北上资金 净 买入 翻倍  “ 喝酒 吃药 ” 风格 延续	
-positive	A股 情报局 ： 开门红 的 A股 长期 方向 在 哪里 ？	
-positive	num 日 龙虎榜 追踪  机构 抢筹 这 num 股	
-positive	中国 年 旺 了 消费 股  “ 吃喝玩乐 ” 投资 机会 要 抓住	
-positive	航空 板块 借 黄金周 腾飞	
-positive	龙虎榜 追踪 ： 机构 整体 谨慎  最 青睐 这些 个 股	
-positive	节后 num 个 交易日 曝 出 机构 新 口味	
-positive	航空 板 全线 走强  中国国航 ( num HK ) 涨 超 num % 领涨	
-positive	航空 服务 股 扩大 涨幅  中国国航 ( num -HK ) 涨 num %	
-positive	预增 概念股 近 num 日 受 num 主力 资金 追捧	
-positive	主题 基金 净值 回升  民航 机场 板块 后市 机会 可期	
-neutral	沪指 低位 震荡 跌逾 num %  军工 航天 板块 掀涨停潮	
-positive	国航 成都 — 拉萨 高原 航线 安全 飞行 num 年  载客 超 num	
-positive	中国 旅游 机构 积极 参加 布达佩斯 国际 旅游 展	
-positive	航空 行业 : 总量 调控 供需 持续改善 , 票价 改革 航空 迎风 而 起	
-positive	交通 运输 行业 ： 航空 机场 维持 高 景气度	
-positive	服务 新规 促 民航业 健康 发展  机构 看好 “ 三大 航 ” 业绩 空间	
-positive	春秋航空 多事之秋 ： 政府 补助 占 num 成 利润  实控人 拟 减持  是否 高估 ？	
-positive	华夏航空 股价 暴涨 num %  量 比 达 num	
-negative	下 周三 公司 限售股 上市 数量 超 num 股	
-negative	本 周 num 家 公司 解禁 num 亿元  中国国航 num 居首	
-positive	恒 指 半日 涨 num % 报 num 点  航空 服务 板块 领涨 蓝筹	
-positive	航空 股 全线 上涨  中国 南航 ( num HK ) 领涨 num %	
-neutral	基金 调仓 路径 曝光  去年末 增持 中小创	
-positive	国航 北京 － 迪拜 航线 将 增至 每天 num 班	
-positive	华夏航空 盘 中 异动  股价 拉升 num %	
-positive	国航 将 开通 北京 — 休斯顿 — 巴拿马城 航线	
-negative	东方航空 股价 跳水 num %  股价 创 num 月 新低	
-negative	中国国航 大幅 跳水 num %  股价 创 num 月 新低	
-positive	新 时刻表 结构 全面 优化  航空 行业 竞争 格局 改善	
-negative	人民币 强势 上涨 ， 航空 股 高开 低 走	
-positive	交通 运输 行业 : 不 惧 威 压 , 航空 迎来 加速 上升 的 新起点	
-positive	( 年报 ) 中国国航 num 年 净利 增 num %  证金 增持 至 num %	
-positive	中国国航 年报 净利 略 增 num %  证金 公司 有所 增持	
-positive	中国国航 上 年度 营收 逾 num  利润 再创新高	
-positive	中国国航 num 年 实现 净利 num 亿元  证金 公司 增持	
-positive	中国国航 去年 利润 总额 num 亿元  运输 旅客 num 人次	
-positive	国航 ： 已 制定 新 航 季 调价 计划 ， 只 待 批复	
-positive	中国国航 num 年 利润 总额 num 亿元  现金 分红 历史 最高	
-positive	出海 记 ｜ 台 媒 ： 国航 即将 开通 北京 — 休斯顿 — 巴拿马城 航线	
-positive	去年 国航 净利 num  今年 新 开 航线 多 在 亚太	
-positive	国航 调价 计划 待 批复 今年 将 加强 价值 管理	
-positive	上半年 航空 货运 料 持续 强劲 增长	
-positive	平安 证券 ： 市场 波动 率 中枢 抬升	
-positive	中国国航 盘 中 异动  股价 飙涨 num %	
-positive	三大 航 营收 超 num	
-positive	民航业 供需 旺盛 正当 时  三大 国有 航 企 num 年 营收 净利 双增长	
-positive	三大 航 净利润 创 近 num 年 来 新高	
-positive	国航 开足 运力 提升 旅客 满意度	
-positive	央企 控股 上市公司 去年 业绩 靓丽  降 杠杆 、 市值 管理 多维 发力	
-positive	巴拿马 华社 人士 改 票 搭乘 中巴 直航  称 中国 发展 令人 自豪	
-positive	三大 航 净利润  创 近 num 年 来 新高	
-positive	三大 航 净利润 创 近 num 年 新高  中国国航 ( num HK ) 领涨 航空 股	
-positive	业绩 创 num 年 新高  航空 股 受 基金 青睐	
-positive	三大 航空 股 午后 集体 攀升  中国国航 ( num -CN ) 涨逾 num %	
-positive	港股 涨幅 进一步 扩大  恒生指数 大涨 num %	
-positive	沪指 收盘 大涨 num %  航空 机场 板块 领涨	
-positive	num 上市公司 汇兑 账本 ：  num 家 航空公司  “ 躺着 ” 赚 了 num	
-positive	海航 、 东航 争夺 “ 手机 解禁 ” 第一 航班  海航 抢先	
-positive	深圳 航空 ： 从 num 月 num 日 起 放开 飞机 上 使用 手机	
-positive	num 余家 航空公司 解除 禁令  国航 num 日 起 也 将 松绑 “ 机上 开机 ”	
-negative	回访 房价 四小龙 ： num 分钟 到 上海 的 苏州  房子 正在 特卖	
-positive	地产 板块 早盘 走强 金地集团 涨停  国内 num 房企 扩 至 num 家 了	
-positive	房地产 板块 活跃 走强  泰禾集团 等 num 股 涨停	
-positive	去年 num 大牛股 业绩 骄人  主动 管理 基金 捕获 num 只	
-positive	num 只 个 股 新年 创 历史 新高  num 只 绩优股 num 年 潜力 凸显	
-positive	房地产 板块 迎 配置 时 点  num 只 个 股 年报 业绩 有望 翻番	
-positive	房地产 行业 日报 : num 家 房企 年 销售额 超 num	
-positive	资本市场 国际化 或 加速	
-positive	东方不亮西方亮  num 年 房企 如何 布局 城市 对冲 风险	
-positive	新城控股 临近 收盘 飙升 num %  股价 创 num 年 以来 新高	
-positive	房地产 板块 拉升 走强  泰禾集团 等 num 股 涨停	
-positive	房地产 行业 跟踪 周报 : 持续 看好 地产 板块 估值 修复	
-positive	公告 精选 ： 茅台 春节 前 增加 投放量  上市公司 陆续 披露 业绩 预告	
-positive	房地产 股 暴涨 逻辑 揭秘  积极 配置 房产 股 众 券商 表 认可	
-positive	新城 发展 ( num HK ) 去年 合同 销售 num , num 人民币  增 num %	
-positive	从 长三角 走向 全国  新城 发展 ( num ) 扩张 态势 前行	
-positive	房地产 行业 周报 : 板块 迎接 开门红 , 调控 政策 边际 放松 , 重申 看多 龙头 、 重申 行业 推荐	
-positive	新城控股 : 单 月 销售 创 年内 新高 , 全年 业绩 有望 超 预期	
-positive	新城控股 股价 拉升 num %  股价 创 历史 新高	
-positive	炒股 就要 乘势 而 上  均 线 多头 排列 个 股 最新 名单 全 曝光	
-positive	房地产 行业 num 年 第2周 地产 周报 : 政策 转 暖 , 紧抓 龙头 与 高 成长 标的	
-positive	房地产 板块 走强  泰禾集团 涨停	
-positive	新城控股 下 午盘 大幅 拉升 num %  股价 创 历史 新高	
-positive	万科A 等 num 只 地产股 创 历史 新高  揭秘 地产 龙头股 飙升 num 逻辑	
-positive	num 逻辑 发酵  地产 龙头股 飙升	
-positive	新城控股 盘 中 异动  股价 跳水 num %	
-positive	房地产 开发 板块 拉升  泰禾集团 涨 近 num %	
-positive	四季 报 披露 基金 最新 持仓 动向  交通 运输 等 num 行业 受 青睐	
-positive	快讯 ： 房地产 板块 早盘 走强  阳光股份 涨停	
-positive	房地产 板块 午后 再度 拉升  阳光城 等 num 股 涨停	
-positive	新城控股 临近 收盘 飙升 num %  股价 创 历史 新高	
-positive	新城控股 ： 地产 项目 结算 金额 大增  年度 业绩 预增 超 num 成	
-positive	新城控股 早盘 大幅 拉升 num %  股价 创 历史 新高	
-neutral	业内 探讨 新时代 房地产 行业 发展 走势	
-positive	房地产 板块 走强  万科A 盘 中 再 创 历史 新高	
-positive	新城控股 ： 业绩 超 预期  买入 评级	
-positive	新城控股 下 午盘 大涨 num %  振幅 达 num %	
-positive	“ 黑马 ” 跑赢 “ 白马 ” ！ 如何 捕捉 中小创 暴涨 黑马 ？ 这 三大 特征 要 牢记 ！	
-positive	龙头 房企 冲击 万亿 销售  机构 ： 四大 逻辑 有望 支撑 行业 继续 上涨	
-positive	房地产 开发 板块 拉升  世荣兆业 涨停	
-positive	新城控股 下 午盘 大幅 拉升 num %  股价 创 历史 新高	
-positive	两市 全天 震荡 收涨  水泥 板块 领涨 市场	
-positive	num 月 num 大牛股 涨逾 num 成  地产股 占据 半壁江山	
-positive	公募 重仓股 “ 底牌 ” 泄 秘 ：  坚定 持有 平安 、 茅台 、 伊利 ！	
-negative	新城控股 几近 跌停  融资 盘 金额 num	
-neutral	首届 华夏 地产 投融资 峰会 举办  搭建 业界 交流 新 平台	
-positive	房地产 开发 板块 拉升  万通地产 涨停	
-positive	地产 行业 num 年年 报 业绩 前瞻 : 业绩 普遍 向好 , 主流 房企 靓丽	
-positive	基金 仓位 稍 降  多数 机构 仍然 看好 未来 市场 表现	
-negative	新城控股 盘 中 异动  股价 大跌 num %	
-positive	num 年 业绩 亮眼 ： 超 num 家 房企 预计 净利润 增幅 超 num %	
-negative	新城控股 跌停 num 蒸发  打脸 中银 国际 天风证券 国信证券	
-negative	新城控股 盘 中 异动  股价 大跌 num %	
-negative	保利地产 下 午盘 大幅 跳水 num %  股价 创 num 月 新低	
-positive	天房发展 盘 中 异动  大幅 拉升 num %	
-positive	开门红 ！ 新城控股 num 月 销售 近 num  同比 增 num %	
-negative	*ST松江 股价 大跌 num %  股价 创 num 年 以来 新低	
-negative	房地产 板块 走势 低迷  新城控股 等 num 股 跌停	
-negative	新城控股 股价 跳水 num %  股价 创 num 月 新低	
-positive	经历 “ 过山车 ” 后  机构 深挖 地产 区域 龙头股	
-positive	云南城投 盘 中 异动  早盘 飙升 num %	
-positive	宋都股份 盘 中 异动  大幅 拉升 num %	
-positive	新城控股 盘 中 异动  下 午盘 拉升 num %	
-positive	新城控股 盘 中 异动  早盘 大幅 拉升 num %	
-positive	房地产 板块 走势 活跃  保利地产 万科A 等 涨 超 num %	
-positive	地产股 盘 中 崛起  阳光城 等 num 股 涨停	
-positive	沪指 午后 num 点 附近 震荡  房地产 板块 强势	
-positive	地产股 成 近 num 日 反弹 先锋  num 家 机构 看好 该 板块 投资 机会	
-positive	融资 收购 动作 频频  长 租 公寓 市场 或 迎 大 整合	
-positive	这些 超跌 白马股 机构 看好  会 成为 狗年 的 反弹 先锋 吗 ？	
-positive	新零售 成 商业 地产 主力 店  宁 空置 也 要 引进 盒马	
-negative	新城控股 盘 中 异动  早盘 跳水 num %	
-negative	房地产 板块 持续 走弱  保利地产 跌逾 num %	
-negative	房地产 板块 大幅 下挫  新城控股 跌逾 num %	
-neutral	房地产 板块 迎来 最佳 配置 时 点 ？	
-negative	新城控股 市值 一个 月 蒸发 num  负债 num 业绩 狂飙	
-negative	渐进 去 杠杆  房企 融资 门槛 升 利率 涨	
-positive	联手 盒马 布局 新零售  新城控股 开启 另类 扩张	
-positive	新城控股 二月 份 销售 近 num 亿元	
-positive	新城控股 num 月 新增 土储 num 亩  num 高陵 拿 地 再 落子 陕西	
-positive	新城控股 ： 拿 地 能力 优异  买入 评级	
-positive	新城控股 ： 二月 销售 维持 高 增速  买入 评级	
-negative	新城控股 盘 中 异动  大幅 跳水 num %	
-negative	房地产 板块 跌幅 居前  新城控股 跌逾 num %	
-positive	收 评 ： 沪指 震荡 向 上涨 num %  独角兽 概念股 涨幅 居前	
-positive	收 评 ： 科技 题材 全面 爆发  机构 ： 结构性 机会 为主	
-positive	A股 龙虎榜 揭秘 ： 机构 最 青睐 num 股 ( 名单 )	
-positive	num 机构 抢筹 当升科技  游资 抄底 达华智能	
-positive	( 年报 ) 新城控股 num 年 净利 同比 增 num 倍  拟 num 派 num 元	
-positive	新城控股 ： 毛利率 水平 大幅 提升  成长 再 提速	
-positive	num 年 净利 同比 翻番  新城控股 欲 num 年 冲进 num 阵营	
-positive	num 份 年报 揭示 社保 等 num 机构 投资 动向  新 进 与 增持 num 只 个 股  近 九成 业绩 增长	
-positive	房企 num 年报 解读 ：  抢占 龙头 地位  扩张 野心 不 减	
-positive	num 只 个 股 被 机构 推荐  汽车 等 num 行业 最 受 青睐	
-positive	新城控股 ： 毛利率 大幅 改善  业绩 再 超 预期	
-neutral	房企 业绩 高 增长 能否 持续	
-positive	碧桂园 预收款 倍增  房企 年报 数据 “ 强者恒强 ”	
-positive	新城控股 num 年 销售额 剑指 num 亿元	
-positive	num 年 “ 目标 ” 大战 开启  房企 吹响 冲击 “ num ” 的 号角	
-positive	雅居乐 买 买 买 成 了 危 废 处理 行业 第二 大 公司 ？	
-positive	【 西南 地产 】 中美 贸易摩擦 发酵 ， 板块 避险 价值 凸显	
-positive	新城控股 入 蓉 num 年 获 num 项目  拿 地 “ 不 挑食 ” 目标 num	
-negative	新城控股 早盘 跳水 num %  股价 创 num 月 新低	
-positive	新城控股 大幅 拉升 num %  振幅 达 num %	
-positive	房地产 板块 继续 走强  沙河股份 ( num -CN ) 等 num 股 涨停	
-positive	房地产 开发 板块 持续 走强  荣安地产 等 num 股 涨停	
-positive	地产股 集体 拉升  私募 ： num 年 房地产 股 值得 关注	
-positive	A股 龙虎榜 揭秘 ： 机构 最 青睐 num 股 ( 名单 )	
-positive	num 房企 销售 目标 继续 冲高 ( num )	
-positive	有色金属 板块 快速 走强  众源新材 涨停	
-positive	有色金属 板块 表现 抢眼  锡业股份 涨 超 num %	
-negative	西部矿业 股价 跳水 num %  股价 创 num 月 新低	
-negative	西部矿业 早盘 跳水 num %  股价 创 num 月 新低	
-negative	西部矿业 下 午盘 大跌 num %  股价 创 num 月 新低	
-positive	西部矿业 年报 净利 增 num %  拟 num 派 num 元	
-positive	西部矿业 年报 净利润 num  num  同比 增 num %	
-positive	西部矿业 num 年 净利 增 num 倍	
-positive	西部矿业 num 季报 净利 预增 num %	
-positive	西部矿业 股价 大涨 num %  量 比 达 num	
-positive	桐昆股份 股价 拉升 num %  股价 创 num 年 以来 新高	
-positive	石油 化工 行业 : 炼化 政策 趋于 明朗 , 利好 民营 大 炼化 和 两桶油	
-positive	石油 化工 行业 : num 年 化工 品 价差 普遍 扩大 , 关注 受益 公司 !	
-positive	日 赚 num % 长线 高手 爆料 其 详细 选股 逻辑	
-positive	化工 行业 周报 : 复 合肥 价格 上涨 , 氟化工 产品 整体 反弹	
-positive	桐昆股份 : PTA 成功 试运行 , 全 产业链 布局 构建 综合 竞争 优势	
-positive	石油 化工 行业 跟踪 报告 : 地缘 政治 引发 油价 上涨 预期 , 关注 num 年 石化 行业 投资 主线	
-positive	桐昆股份 股价 拉升 num %  股价 创 num 年 以来 新高	
-positive	国际 油价 中枢 有望 继续 上移  机构 解读 石化 行业 投资 逻辑	
-positive	桐昆股份 : 全 产业链 布局 完整 , 涤纶 长丝 龙头 起航	
-positive	石油 化工 行业 num 年 投资 策略 : 重视 石化 配置 价值	
-positive	化工 行业 : TDI 、 制冷剂 涨价 , 尿素 供给 紧张 仍 未 缓解	
-positive	石油 化工 行业 : 民营 大 炼油 系列 报告 之 PX 供需 格局 , 国内 产能 扩张 加速 , 一体化 提升 竞争力	
-positive	石油 化工 行业 原油 周 观点 : 伊朗 局势 动荡 , 油价 升 至 num 年 半 新高	
-neutral	石油 开采 行业 每周 油 记 : 油价 要冲 num ? 抑或 跌 回 num ?	
-positive	桐昆股份 股价 拉升 num %  股价 创 num 年 以来 新高	
-positive	化工 行业 周报 : 华东 区 己 num 酸 价格 上涨 , 国际 原油 价格 再创新高	
-positive	基础 化工 行业 周报 : 己 num 酸 、 维生素 依然 强势 , 关注 化肥 春耕 行情	
-positive	石油 化工 行业 num 年 投资 策略 之 num : 民营 炼化 巨头 的 崛起	
-positive	化工 行业 周报 : 油价 维持 高位 , 关注 PTA 、 PO 价格 上涨	
-positive	石油 化工 行业 跟踪 报告 : 规范 成品油 消费税 征收 管理 , 炼化 行业 有序化 进程 加快	
-positive	石油 化工 行业 周 美国 原油 产量 小幅 增加 , 库存 持续 波动 下降 报 : 板块 涨幅 居首 , 推荐 关注 中国石化 、 四大 民营 炼化	
-positive	石油 化工 行业 : EIA 月报 出炉 , 这次 超 预期 的 是 需求	
-positive	石化 行业 日报 : 上周 API 原油 库存 下降 num 桶	
-positive	蓝筹 白马股 仍 是 热点 之 王	
-negative	桐昆股份 盘 中 异动  股价 大跌 num %	
-positive	化工 ： 重点 关注 石油 炼化  荐 num 股	
-positive	肥料 价格 先后 上涨  关注 化肥 行业 的 春耕 行情	
-positive	化工 行业 周报 : 天然气 上涨 原油 高位 , 继续 关注 石化 煤化工 产业链 及 农 化 板块	
-positive	化工 行业 投资 周报 : 油价 继续 上涨 , num 油 具备 配置 价值	
-positive	桐昆股份 年报 预增 num %- num %	
-neutral	num 月 num 日 晚间 重要 公告 集锦	
-positive	桐昆股份 ： 需求 带动 长丝 超 预期  买入 评级	
-positive	桐昆股份 : num 年 业绩 大增 , 后续 内 生 高 增长 + 参股 浙 石化 , 盈利 有望 再 上台阶	
-positive	化肥 板块 午后 持续 走强  鲁西化工 涨 超 num %	
-positive	抱团 行业 龙头 成 配置 主流  逾 num 家 机构 扎堆 看好 num 只 个 股	
-positive	化工 ： 双氧水 、 制冷剂 价格 上涨 , PVC- 电石 、 草甘膦 - 甘氨酸 价差 扩大	
-negative	桐昆股份 盘 中 异动  早盘 跳水 num %	
-positive	桐昆股份 ： 新年 首 月 产销 均 实现 num 位数 增长	
-positive	基础 化工 行业 : 己 num 酸 再 探 新高 , 氟化工 持续 回暖	
-negative	桐昆股份 股价 大跌 num %  股价 创 num 月 新低	
-positive	化工 ： 持续 关注 高 污染 及 尿素 行业  荐 num 股	
-positive	桐昆股份 盘 中 异动  下 午盘 飙涨 num %	
-positive	num 只 股 短线 走 稳  站上 num 日均 线	
-positive	桐昆股份 拟 num 亿元 实施 技改 项目 与 智能化 项目	
-positive	公告 精选 ： 梅雁吉祥 举牌 方 有意 谋求 控制权 ； 贵州燃气 提示 风险	
-positive	石油 化工 行业 第五期 : 大 炼化 聚酯 产业链 周报	
-negative	桐昆股份 盘 中 异动  大幅 跳水 num %	
-positive	化工 ： PA num 及 烧碱 市场 明显 上行  荐 num 股	
-positive	桐昆股份 ： num 年 净利 增长 num %  拟 num 转 num 派 num	
-positive	桐昆股份 年报 净利 增 num %  拟 num 转 num 派 num 元	
-positive	num 公司 年报 净利 大增  社保 基金 新晋 num 大股东 榜	
-positive	桐昆股份 拟 发 num 亿元 可转债	
-positive	桐昆股份 ： 长丝 产能 快速 扩张  业绩 弹性 十足	
-positive	num 份 年报 揭示 社保 等 num 机构 投资 动向  新 进 与 增持 num 只 个 股  近 九成 业绩 增长	
-negative	桐昆股份 ： 受 供给侧 改革 影响  新项目 产能 释放 增速 下降	
-positive	num 只 个 股 被 机构 推荐  汽车 等 num 行业 最 受 青睐	
-positive	社保 基金 num 四季 度 新 进 num 家 公司  医药 制造 等 最 受 青睐	
-positive	num 指标 锁定 num 只 成长股  num 只 潜力股 获 多 家 机构 力荐	
-positive	num 指标 锁定 num 只 成长股  num 股 获 多 机构 力荐	
-negative	桐昆股份 股价 大跌 num %  股价 创 num 月 新低	
-negative	桐昆股份 股价 跳水 num %  股价 创 num 月 新低	
-positive	石油 化工 行业 原油 周报 第44期 : 原油 价格 攀升 至 num 美元 / 桶 新高	
-positive	化工 行业 周报 : 原油 和 磷 矿石 价格 上涨 , 涤纶 长丝 价差 持续 扩大	
-positive	石油 化工 行业 第九期 : 大 炼化 聚酯 产业链 周报	
-positive	基础 化工 行业 周报 : 原油 价格 强势 反弹 , 涤 丝 利润 上升 , 纯碱 市场 升温	
-positive	桐昆股份 股价 大涨 num %  振幅 达 num %	
-positive	桐昆股份 ： 一季度 净利 预增 num %- num %	
-positive	桐昆股份 一季度 预增 num %- num %  因 涤纶 长丝 需求 增加	
-positive	国家队 资金 最新 持仓 动向 曝光	
-positive	桐昆股份 股价 大涨 num %  量 比 达 num	
-positive	招商轮船 股价 大涨 num %  股价 创 num 月 新高	
-positive	低价股 异动  num 指标 圈定 马钢股份 等 num 只 num 元 以下 潜力股	
-positive	四季 报 披露 基金 最新 持仓 动向  交通 运输 等 num 行业 受 青睐	
-negative	招商轮船 ： 油轮 运输 市场 供需 失衡  净利 预 降 超 num 成	
-negative	招商轮船 年报 预 减 num %- num %	
-neutral	公告 精选 ： 乐视网 明日 复牌 ； 多 家 公司 推 高 送 转 方案	
-negative	招商轮船 股价 跳水 num %  股价 创 num 年 以来 新低	
-negative	海峡股份 盘 中 异动  早盘 大跌 num %	
-positive	“ 一带一路 ” 被 机构 点 赞  社保 QFII 同时 重仓 num 只 股	
-positive	房地产 行业 周报 : 龙头 销量 持续 超 预期	
-neutral	年初 北京 房贷 利率 调查 ： 首 套 普遍 上浮 num % 　 大 行 额度 较 宽松	
-positive	厉害 了 银行股  三大 行 齐 创新高 为 啥 就 这么 “ 红 ” ？	
-positive	高 盛 料 内 银 股 净息差 可 续 扩 阔  升 建行 及 招行 评级 至 买入	
-negative	浦发银行 num 大案 启示录 ： 金融 机构 第一 线 正在 溃退	
-positive	大和 升 内 银 股评 级 至 中性  首选 建行 等	
-positive	金融 高 管 密集 空降 京津 沪  地方 金 改 料 提速	
-positive	瑞银 ： 建行 估值 仍 低  升 目标价 至 num 元	
-neutral	【 一线 】 郁 亮 卸任 万科 总裁  接任 的 祝 num 胜 是 谁 ？	
-positive	【 棱镜 】 深圳 “ 地头蛇 ” 祝 num 胜 ： 万科 转型 拯救者  潮汕 老板 叫 num 哥	
-positive	楼市 变局 降临 ？ 这个 市场 已 火 你 租房 能 省 一大 笔 钱	
-negative	媒体 ： 房地产 金融 的 非 标 业务 正 受到 监管部门 的 严 监管	
-neutral	周 小 川 胡 怀 邦 等 金融 工作者 恭贺 新春  畅谈 新时代	
-negative	大华 继 显 降 建行 H股 目标价	
-negative	多 地 房贷 利率 出现 上扬  今年 调控 基调 或 仍 将 从严	
-positive	num 家 大型 银行 河北 雄 安 分行 今 开业 ： 工行 、 农行 、 中 行 、 建行	
-negative	改革者 郭 树 清 和 银行业 的 num 天 ： 严 监管 、 补短 板	
-neutral	周 小 川 与 央行 的 num 年 “ 情缘 ” ： num 年 突然 满头 白发	
-positive	建行 与 新派 公寓 发起 住房 租赁 资产证券化 专项 并购 基金	
-neutral	住建部 部长 ： 每天 上班 要 看 各地 房价  年轻时 也 租 过 房	
-positive	大国 行长 周 小 川 num ｜ 中国 技术 官僚 的 高峰	
-neutral	周 小 川 和 大国 央行 num 年	
-positive	棱镜  |  “ 改革派 ” 郭 树 清 ： 首任 银 保监会 主席 的 学术 范 与 破局 力	
-positive	银保 正式 合并 ！ 郭 树 清 任 首届 银 保监会 主席	
-positive	一线 | 建行 首份 住房 租赁 成绩 ： 半 年 上 线 num 套 ， 出租 num 套	
-negative	财经 读报 ： 美联储 加息  央行 公开 市场 操作 利率 上行	
-positive	全球 最大 的 num 家 银行 ： 中国 的 银行 包揽 前 num	
-positive	建设银行 ： num 净利润 num 亿元 ， 同比 增 num %	
-positive	瑞信 ： 建行 业绩 符 预期  目标价 num 元	
-positive	大 摩 ： 建行 盈利 增长 加速  重申 增持 评级	
-positive	越来越 多 银行 以 房屋 租赁 贷款 名义 放贷 ， num 次 甚至 能 贷 num	
-positive	建设银行 雄 安 分行 发放 首 笔 “ 雄 安 支持 贷 ” ： num 已 到账	
-positive	新华社 评 上市 银行 年 报 ： 盈利 能力 回升  资产 质量 趋 稳	
-neutral	财经 读报 | 北京 房租 年 后 小幅 上涨  非法 互联网 资管 num 月底 前清 num	
-positive	五大 行 去年 减员 num  平均 年薪 num	
-positive	租 购 并举 不是 房企 独角戏  专家 : 地产 金融 双 轮 并进	
-neutral	巴 曙 松 ： H股 全 流通 试点 对 香港 市场 影响 几何 ？	
-positive	多 个 行业 和 题材 走好  沪指 涨 近 num % 创 num 个 月 新高	
-positive	快讯 ： 银行 板块 盘 中 积极 做 多  平安银行 涨幅 过 num %	
-positive	银行 板块 表现 抢眼  平安银行 涨逾 num %	
-positive	银行 板块 快速 上涨  央行 建立 临时 准备金 动用 安排	
-positive	房地产 行业 周报 : 国有 大 行 纷纷 抢滩 房屋 租赁 市场	
-negative	建设银行 盐池 支行 违法 存贷 挂钩	
-positive	银保 “ 开门 ” 怎么 红 ？	
-positive	H股 全 流通 试点 提升 H股 价值  夯实 港股 “ 牛气 ”	
-positive	香港 智 远 ： 建设银行 延续 近日 强势  留意 建行 购 num	
-negative	建行 分 行 员工 挪用 num 买彩票  案发 前 还欠 num 未 还	
-positive	银行 行业 周报 : 应对 春节 流动性 需求 , 央行 建立 临时 准备金 动用 安排	
-positive	绿地控股 动态 点评 : 成立 雄 安 公司 , 享受 政策 红利 和 区域 升值	
-positive	花旗 料 内 银 股 续 获 重估  吁 吸纳 工行 、 建行 及 招行	
-positive	num 利 资源 集团 与 中国 建设银行 签署 全面 战略 合作 协议	
-positive	还 在 为 年 费 头疼 ？  莫 急 ！ 这些 银行 信用卡 有 优惠	
-positive	建行 位居 num 年 非 金 债券 承销 量 榜首	
-positive	香港 智 远 ： 中国平安 回 软  留意 平安 购 num	
-positive	净值 型 银行 理财 产品 年 收益 最高 超 num %	
-positive	云 从 科技 人脸识别 平台 获 发改委 人工智能 重大 工程 支持	
-positive	公告 精选 ： 茅台 春节 前 增加 投放量  上市公司 陆续 披露 业绩 预告	
-positive	联手 建行 num 布局 住房 租赁 业务  合肥城建 谋 “ 金融 + 地产 ” 转型	
-negative	聚焦 公募 基金 num 年 ： 铁打 的 公司  流水 的 总经理	
-positive	福耀玻璃 ( num HK ) 为 子公司 提供 连带 责任 保证 担保	
-positive	五大 行 抢滩 住房 租赁  万亿 风口 存 回报率 痛 点	
-positive	建行 ( num HK ) 成功 办理 业内 首 笔 区块链 国际 保理 业务	
-neutral	货币 银行 系列 之一 : LCR 不 影响 银行 资金 融 出 意愿	
-positive	银行股 表现 抢眼  兴业银行 涨 超 num %	
-positive	银行 板块 领涨  兴业银行 ( num -CN ) 涨 超 num %	
-positive	中 金 ： 中资 银行 将 迎来 系统性 重估  中小银行 业绩 迎来 反转	
-positive	联手 国开行 建行 等 国有 银行  上海 租赁 住房 市场 再 “ 加速  ”	
-positive	A股 公司 蹭 “ 区块链 ” 热点  num 只 概念股 封 涨停	
-positive	上海市 政府 与 国开行 和 建行 达成 合作 备忘录  共 推 住房 租赁 市场 发展	
-positive	银行 板块 走强  兴业银行 涨逾 num %	
-negative	资管 将 戴 紧箍咒 ： 短期 理财 或 将 消失  银行 不再 承诺 保本	
-positive	中资 银行 不良 率 或 已 见 顶  南下 资金 连日 大笔 买入 H股	
-positive	银行业 盈利 和 估值 双 轮 驱动  北上资金 抢筹 银行股	
-neutral	杭州银行 num 产品 收益率 不足 num %  建行 num 产品 现身 后 num	
-positive	野村 ： 上调 四大 内 银 净息差 及 盈 测  看好 工行 ( num ) 及 建行 ( num )	
-positive	num ， 哪些 楼市 政策 在 路上 ？	
-positive	德 银 ： 维持 建行 “ 买入 ” 评级  目标价 num 元	
-positive	银行 板块 发力 上涨  农业银行 涨逾 num %	
-positive	租房 也 能 贷款 了 ： “ 租房 族 ” 还 能 省 下 一大 笔 钱	
-positive	恒 指 收涨 num % 报 num 点  连涨 num 天 创纪录	
-negative	毛 振华 雪地 陈情 破局 背后 ： 亚布力 阳光 度假村 去年 已 转手 债权 方	
-negative	你 多久 没 去 银行 柜台 了 ？ 客户 喊 苦 ： 这里 已 是 VIP 们 的 银行	
-negative	银行业 ： 回归 本源  服务 实体	
-positive	银行 板块 拉升 走强  宁波银行 领涨	
-positive	保险 板块 领涨 两市  中国平安 涨 近 num %	
-positive	AH 股 联动  港股 内 险 股 和 内 银 股 走强	
-positive	银行股 午后 继续 强势  平安银行 涨 超 num %	
-positive	A股 情报局 ： 春季 躁动 关注 涨价 品种 的 机会	
-negative	谁 在 砸盘 连阳 ： 顺丰控股 负 贡献 居首 ， 新能源车 概念 组团 打压	
-negative	建设银行 晋中 违规 由 客户 承担 房产 抵押 评估费	
-positive	恒 指 收涨 num % 报 num 点  收盘 创 收盘 历史 新高	
-negative	建设银行 金华 信贷资金 违规 流入 股市	
-positive	地方 版 住房 租赁 配套 细则 加速 落地	
-neutral	中环 资产 ： 港股 既 非 泡沫  亦 暂 未 算 疯 牛	
-positive	住房 租赁 资产证券化 迎风 口  REITs 要 挑大梁 ？	
-positive	银行股 活跃 走强  张家港行 涨停	
-positive	沪指 震荡 涨 num %  土地 流转 板块 集体 拉升	
-positive	工农 建 三大 行 盘 中 股价 均 创 历史 新高	
-positive	香港 智 远 ： 香港 交易所 急升  留意 港 交 购 num	
-positive	杨 饭 ： 恒 指 创 历史 记录  该 撤退 还是 再 冲锋 ？	
-positive	港股 大时代 仍 在 进行  面对 新高 需 做好 num 准备	
-positive	沪指 盘 中 创 反弹 新高  机构 看好 行情 延续性	
-positive	金融 板块 上涨 有 迹 可 循  num 选手 押 中 num 牛股	
-positive	银行 板块 快速 走强  张家港行 涨 超 num %	
-positive	恒 指 涨 num % 报 num 点  中资 券商 股 集体 上涨	
-positive	次 新 银行股 集体 拉升  分析 人士 ： 最 便宜 的 品种	
-positive	沪指 中阳 逼近 num 点  建行 大涨 num %	
-positive	恒 指 半日 num %  中资 金融股 走强	
-positive	银行股 尾盘 小幅 拉升  两市 全天 震荡 收涨	
-positive	恒 指 收涨 num % 稳 守 num 关口  盘 中 续 创 历史 新高	
-positive	南下 资金 扫货 港股 金融股  港股通 净流入 工商银行 num 港元	
-positive	又 一家 大 行 推出 住房 租赁 贷款  农行 全面 进入 住房 租赁 市场	
-positive	恒 指 续 创 历史 新高 机构 看好 num 只 低价 A + H股	
-positive	银行股 基建 股 联袂 上涨  沪指 现 num 连阳	
-positive	工农 建 三大 行 齐 创新高  num 只 银行股 对 H股 全面 溢价	
-positive	银行股 大涨 背后 的 戴维斯 双击	
-positive	蓝筹股 行情 延续  num 只 低估值 大盘股 尚未 涨 起来 ( 附 股 )	
-positive	机构 最新 持仓 曝光 ！ 抛 什么 买 什么 ， 这里 全 有 ！	
-positive	利好 连连 新高 不断  超级 大盘股 涨 疯 了	
-positive	新 投资 主线 正在 形成	
-positive	午 评 ： 沪指 继续 刷新 num 年 新高  银行 板块 涨 超 num % 领涨 两市	
-negative	青岛 银监局 行政 处罚 信息 公开 表 ( 建设银行 青岛 中山路 支行 )	
-positive	最新 num 批 牛股 名单 出炉 ！ 最大 黑马 竟是 它 ？	
-negative	建设银行 青岛 办理 保理 业务 违法 违规  银监局 罚 num	
-negative	建设银行 青岛 办理 贸易 融资 业务 违法 违规  银监局 罚 num	
-neutral	几 家 欢乐 几 家 愁 ？ num 批 股 创新高 也 有 num 批 创出 新 低 ， 走势 分化 最大 原因 竟是 这个 ！	
-neutral	付 房租 ， 你 愿意 贷款 吗 ？	
-positive	四季 度 基金 坚守 高仓位  调仓 换股 曝光 三大 新动向	
-positive	香港 智 远 ： 中国平安 新高  留意 平安 购 num	
-neutral	付 房租 你 愿意 贷款 吗 ？  佛山 租 房贷 尚无 num 人 申请	
-neutral	深圳 首批 推出 num 套 长 租房 源 ， num 套 成交 ， 其中 num 位 租户 申请 租房 贷款	
-positive	银行 的 高潮 能否 延续	
-positive	大华 继 显 ： 银监会 制定 num 年 工作 重点  首选 建行 及 工行	
-positive	大 行 热捧 内 银 股  今日 新 上市 高杠杆 建行 牛 证 num	
-negative	建设银行 嘉兴 信贷资金 违规 进 房 市  向 未 竣工 房 发放 按揭	
-negative	信用卡 积分 回馈 成 羊毛 党 盛宴  普通 持卡人 难 享 到 优惠	
-positive	香港 智 远 ： 中国平安 破 顶  留意 平安 购 num	
-positive	银行 板块 活跃 走强  建行 ( num -CN ) 盘 中 涨 超 num %	
-positive	银行 板块 持续 走强  建设银行 涨逾 num %	
-positive	银行股 午后 延续 强势  吴江银行 涨逾 num %	
-negative	银行股 午后 冲高 回落  涨幅 缩窄	
-positive	工商银行 总市值 超 摩根 大通  成 全球 第一 大 行	
-positive	收 评 ： 沪指 大涨 num %  银行 地产 强势 拉升	
-positive	银行 和 地产股 持续 发力  沪指 大涨 逾 num % 刷新 num 年 新高	
-positive	恒 指 半日 涨 num % 再 刷新 新高  中资 银行股 走强	
-positive	多 路 蓝筹 集体 发力  沪指 再 创 num 年 新高	
-positive	利润 、 资产 质量 预期 稳定  银行股 集体 起舞	
-positive	沪深300 红利指数 跑赢 A股 各 大 指数  机构 ： 高分红 板块 或 成 全年 行情 主线	
-positive	工商银行 市值 登顶 全球 银行股 冠军 ！ 美股 银行股  Vs  A股 银行股 估值 大 PK	
-neutral	新年 布局 股 债 “ 一手 抓 ”  建信 智 享 添 鑫 定 开 混合 基金 num 月 num 日 起 发行	
-positive	沪指 num 天 num 涨大 蓝筹股 站 风口  num 只 个 股 价格 创 历史 新高	
-positive	银行 地产 强势 领涨  A股 港股 携手 创新高	
-positive	年报 预期 激发 银行股 走强  多 家 机构 称 是 num 年 标 配	
-positive	工行 成 全球 第一 大 行  num 万亿 市值 超越 摩根 大通	
-positive	金融 H股 年内 领涨  价值 重估 仍 将 延续	
-positive	A股 情报局 ： num 年 宏观 num 个 超 预期 的 方向	
-positive	年内 逾 num 北上资金 进场  num 只 成长 龙头股 或 迎 升 机	
-negative	张家港行 解禁 首日 跌停  这些 限售股 即将 大 比例 解禁	
-positive	内 银 整固 中行 逆市 升 ， 留意 建行 牛 num  /  工行 牛 num  /  中行 牛 num	
-positive	银行 行业 点评 报告 : 基金 num 季度 持仓 银行股 比例 num % ; 大 类 资金 会 加大 其 配置	
-positive	金融 ： 银行 仓位 继续 提升  荐 num 股	
-positive	野村 ： 南向 资金 num 月 以来 明显 流入 内 银 股  首选 工行 及 建行	
-positive	生猛 不过 港股 ！ 这些 AH 股 或 成 价值 洼地 ( 名单 )	
-positive	北京 金 博 会 开幕 金融 机构 秀 科技 “ 肌肉 ”	
-positive	三大 需求 助推 ABS 上 风口	
-positive	数据 控 在 解 盘 : 港股 牛市 在 急剧 分化  num 股 创新高 num 股 创 新低	
-positive	【 num 股 通 交易 追踪 】 num 股 通 净流入 num ， 电子 板块 获 青睐 ， 多 只 银行股 遭 抛售	
-positive	业绩 提升 券商 看好 机构 增配  银行股 仍 有 上升 空间	
-positive	金融 H股 年内 领涨  价值 重估 仍 将 延续	
-positive	银行 行业 : 定向降准 对 银行 影响 测算 , 提升 利润 num 个 百分点	
+negative	回访 房价 四小龙 ： num 分钟 到 上海 的 苏州  房子 正在 特卖
+positive	地产 板块 早盘 走强 金地集团 涨停  国内 num 房企 扩 至 num 家 了
+positive	央企 全面 步入 公司制  铁路 军工 等 垄断 领域 将 成 混改 主线
+positive	【 投资 早报 】 国 常会 部署 进一步 优化 营 商 环境  雄 安 发展 规划 将 出
+positive	谁 在 博弈 地产股  下半场 将 会 如何 演绎 ？
+positive	【 棱镜 】 自如 获 num 融资  资本 热捧 下 租房 市场 的 融资 真相
+positive	万科 管理层 资管 计划 获利 num 倍  回报率 “ 秒杀 ” 姚 振华
+positive	num 年会 是 现当代 艺术 市场 的 拐点 吗
+positive	卓越 集团 以 num 报价 获得 广 物 地产 num % 股权  碧桂园 等 房企 惜败
+positive	保利地产 发力 ： num 抢 广东 佛山 num 幅 地 ， num 年内 要 重返 前 num
+positive	惠州 大亚湾 不 限购 背后 暗流 涌动  炒房 客 num 次 购 num 余 套
+positive	龙湖 num 住宅 租赁 债 获批  num 家 房企 共 抛 num 长 租 公寓
+positive	保利地产 股价 拉升 num %  股价 创 num 年 以来 新高
+positive	房地产 板块 活跃 走强  泰禾集团 等 num 股 涨停
+positive	num 家 房企 抛 num 长 租 公寓 融资 计划  保利 、 龙湖 等 介入
+positive	沪指 震荡 上行 涨 近 num %  地产股 大涨
+positive	房地产 行业 周报 : 国有 大 行 纷纷 抢滩 房屋 租赁 市场
+positive	房地产 行业 num 年 第52周 地产 周报 : 地产 销售 火热 收官 , 把握 龙头 跨 年 行情
+positive	房地产 行业 点评 : 为何 当前 时 点 下 地产 龙头 值得 配置 ?
+positive	住房 租赁 金融 破冰  房地产 资产证券化 风行
+positive	num 年 业绩 利好  num 年 地产股 迎 开门红
+positive	房地产 板块 迎 配置 时 点  num 只 个 股 年报 业绩 有望 翻番
+positive	信达 国际 ： 保利 置业 短线 目标价 num 元  num %  潜在 升幅
+positive	房地产 num 月 销售 点评 : num 年 完美 收官 、 龙头 再次 暴增 , 重申 看多 龙头 、 重申 行业 推荐
+positive	房企 生存 战 ：  num 家 龙头 销售 过 num  num 家 抛 num 计划
+positive	房地产 行业 : 龙头 房企 销售 靓丽 , 行业 集中度 提升 将 提振 股价
+positive	午 评 ： 沪指 小幅 震荡 创业板 重返 num 点  地产股 爆发
+positive	保利地产 下 午盘 飙升 num %  股价 创 num 年 以来 新高
+positive	地产股 持续 大涨  num 股 封 涨停板
+positive	地产 板块 午后 持续 上攻  绿地 、 金地 等 龙头 房企 陆续 涨停
+positive	收 评 ： 地产股 火力 全 开 ！ 沪指 num 连阳 一度 收复 num
+positive	中证 收 评 ： 新年 首 个 交易 周 A股 实现 开门红  房地产 板块 表现 亮眼
+positive	num 军团 扩容 至 num 家  龙头 房企 迈过 num 关口
+positive	地产股 强势 上涨  沪指 走出 日线 num 连阳
+positive	万科 num 年 涨 num %  可 他们 说 ： 地产股 的 机会 才刚 开始
+positive	置业 指南 ： 盘点 重庆 江北区 在 售 商铺
+positive	房企 销售 排名 新 特征 ： 明星 民企 扩大 优势
+neutral	保利地产 ： 实控人 完成 改制 及 更名
+neutral	保利地产 实际 控制 人 完成 改制 及 更名
+neutral	( 公司 ) 保利地产 实控人 完成 改制 及 更名
+positive	市场 迎来 开门红  机构 围绕 业绩 展开 布局
+positive	年度 业绩 飘 等 红利 好 共振  地产 板块 迎来 配置 期
+positive	A股 情报局 ： 用 全球 大牛市 角度 看 A股 开门红
+positive	新年 num 连涨 后  大盘 短期 将 何去何从
+positive	num 之后 ： 万科 寻求 “ 新 赛道 ” 增长
+positive	两市 开盘 涨跌 互现  汽车 电子 板块 领涨
+positive	房地产 行业 - 南京 落户 新政 点评 : 落户 新政 提振 二线 城市 住宅 销量
+positive	房地产 行业 跟踪 周报 : 持续 看好 地产 板块 估值 修复
+positive	史上 最强 地产股 排 座次 ， 第一 名 无可争议
+positive	房企 num 军团 扩容  谁 是 下 num 匹 黑马 ？
+positive	中煤 集团 有望 率先 进行 行业 大 整合  num 家 央企 或 成 重组 重点
+positive	万科 创 历史 新高  姚 振华 闷声 发大财  “ 造车 ” 融资 来自 港股 公司
+positive	房地产 股 暴涨 逻辑 揭秘  积极 配置 房产 股 众 券商 表 认可
+positive	房企 土储 按 下 快进 键  前 num 强 去年 拿 地 num 平方米
+neutral	五大 行 抢滩 住房 租赁  万亿 风口 存 回报率 痛 点
+positive	政策 + 业绩 双 促动  房地产 板块 多 股 涨停
+positive	房地产 行业 周报 : 板块 迎接 开门红 , 调控 政策 边际 放松 , 重申 看多 龙头 、 重申 行业 推荐
+positive	大盘 权重 轮番 涨 过于 猛烈  后市 看重 绩优股 、 次 新
+positive	房地产 行业 动态 点评 : 部分 城市 适度 放松 调控 , 预计 未来 因 城 施政 、 精细 化 管理 将 进一步 推广
+positive	揭秘 涨停板 ： num 股 涨停 ！ 地产 行业 估值 将 系统性 提升
+positive	策略 周报 : 龙头 逻辑 从 消费 蔓延 至 周期
+positive	郭 施 亮 ： 房产 股 飙升 是因为 限购 “ 松绑 ” 预期 吗 ？
+positive	房地产 行业 : 为什么 我们 从 去年底 率先 “ 全面 看多 ” 地产股 ?
+positive	房地产 行业 长周期 专题 报告 之 num : 详解 房地产 资金 来源 与 开发 投资额 预测 方法论
+neutral	置业 指南 ： 盘点 江北嘴 写字楼 楼盘
+positive	地产 板块 成 新年 港股 市场 领头羊
+positive	春季 行情 如期 而 至  机构 播种 “ 大小 ” 通吃
+negative	中型 房企 “ 挖墙脚 ” 的 图谋
+positive	房地产 行业 日报 : 珠三角 大力 发展 住房 租赁
+negative	土地 市场 降温 ： 北京 、 太原 、 南京 以 土地 流拍 告别 num
+positive	num 金 研究院 发布 num 投资 报告 ： 黄金 是 为数不多 被 低估 的 资产
+positive	num 部委 力推  煤炭 业 兼并重组 大潮 将 起
+positive	养老 地产 收费 有望 更 亲民
+neutral	置业 指南 ： 盘点 重庆 华 岩 区域 在 售 楼盘
+positive	保利地产 num 年度 净利 num 亿元  同比 增长 num %
+positive	保利地产 股价 拉升 num %  股价 创 num 年 以来 新高
+positive	保利地产 ( num SH ) 去年 多赚 num % 至 num 人 币
+neutral	num 有 近 num 套 新货 推出 南沙 增城 是 供应 主力
+positive	房地产 板块 午后 异动 拉升
+positive	保利地产 : 盈利 超 预期 、 战略 积极 助力 发展 提速
+positive	保利地产 num 年 业绩 快报 点评 : 业绩 超 预期 、 机制 升级 、 成长 提速
+positive	保利地产 : 业绩 超出 预期 , 发展 持续 提速
+positive	保利地产 num 销售额 超 num 居 行业 第 num  未来 num 年 欲 借 整合 重返 前 num
+positive	厉害 了 ， num 指数 连涨 num 天 ！ 这些 白马股 再创新高 ( 附 名单 )
+neutral	置业 指南 ： 盘点 重庆 北 滨 路 在 售 楼盘
+positive	房企 市值 排行榜 ： 全球 前 num 大房 企  中国 占 num 席
+neutral	蓝筹 迭 创新高  小票 大跌 ！ 揭 A股 分裂 num 诱因
+positive	地产 行业 周报 : 成交 环比 回升 , 行情 仍 将 延续
+positive	保利地产 大幅 拉升 num %  股价 创 num 年 以来 新高
+positive	万科A 股价 午后 逼近 涨停  再 创 历史 新高
+positive	收 评 ： 沪指 涨 num %  地产股 大涨 万科A 等 创新高
+positive	房地产 开发 板块 持续 走强  num 股 涨停
+positive	“ 招 保 万金 ” 齐 创新高  地产股 再现 批量 涨停
+positive	万科A 等 num 只 地产股 创 历史 新高  揭秘 地产 龙头股 飙升 num 逻辑
+positive	住房 租赁 资产证券化 迎风 口  REITs 要 挑大梁 ？
+positive	num 逻辑 发酵  地产 龙头股 飙升
+positive	快讯 : 租售 同 权 概念股 盘 中 异动  华鑫股份 涨幅 过 num %
+positive	房地产 行业 周报 : 多 地 放宽 人才 引进 , 大型 房企 增幅 明显
+positive	保利地产 尾盘 净流入 资金 超 亿元
+positive	地产股 爆发  业内 称 系 房企 业绩 上涨 的 连锁 效应
+positive	基金 去年 四季 度 大幅 加仓
+positive	天风证券 ： 地产股 将迎 戴维斯 双击  现阶段 可 加配 二线 品种
+positive	基金 去年 四季 度 大幅 加仓 金融地产 及 制造业 龙头股
+positive	A股 “ 蹊跷 ” 冲击 num 点 ： 新高 背后 现 神秘 推手
+positive	num 年 商品房 销售 量价 创新高  房地产 行业 整合 加速
+negative	高档 养老 每月 至少 花 num ？  警惕 养老 项目 高档 化
+positive	四季 度 基金 坚守 高仓位  调仓 换股 曝光 三大 新动向
+positive	金融地产 板块 领跑  成长股 或 否极泰来
+positive	信达 国际 ： 保利 置业 短线 目标价 num 元  num %  潜在 升幅
+positive	num 家 基金公司 大幅 超 配 地 产业  num 只 基金 不 爱 万科 “ 捧 ” 保利
+positive	龙头 战略 不变  “ 白马 ” 仍 是 基金 “ 心头肉 ”
+positive	四季 报 揭示 公募 新 共识 ：  高位 加仓 蓝筹 再 狂欢
+positive	四季 报 披露 基金 最新 持仓 动向  交通 运输 等 num 行业 受 青睐
+positive	快讯 ： 房地产 板块 早盘 走强  阳光股份 涨停
+positive	上证50 指数 早盘 发力 上攻  再 创 近期 新高
+positive	金融 地产股 强势 拉升  上证50 涨 近 num %
+positive	房地产 板块 估值 明显 修复  万科A 再 创 历史 新高
+positive	房地产 板块 午后 再度 拉升  阳光城 等 num 股 涨停
+positive	沪深300 红利指数 跑赢 A股 各 大 指数  机构 ： 高分红 板块 或 成 全年 行情 主线
+positive	沪指 num 天 num 涨大 蓝筹股 站 风口  num 只 个 股 价格 创 历史 新高
+neutral	基金 股票 配置  强化 风格 均衡
+positive	年内 逾 num 北上资金 进场  num 只 成长 龙头股 或 迎 升 机
+positive	num 爆破 “ 蛋糕 ” 待 分  久联发展 加速 并购
+positive	大盘股 躁动 行情 正在 轰轰烈烈 地 演绎
+positive	房地产 板块 走强  万科A 盘 中 再 创 历史 新高
+positive	保利地产 创 历史 新高
+negative	地产股 早盘 集体 大跌  万科A 跌 超 num %
+negative	上证50 指数 跳水 跌 超 num %  地产股 跌幅 居前
+negative	房地产 开发 板块 持续 走低  泰禾集团 跌停
+neutral	趋势 造就 高手  下 num 批 黑马 板块 在 哪里 ？
+negative	北京 丰台 共有 产权 住房 用地 流拍
+positive	龙头 房企 冲击 万亿 销售  机构 ： 四大 逻辑 有望 支撑 行业 继续 上涨
+positive	num 位 大咖 纵论 房产 走势 ： 改善 性 需求 正 成为 楼市 主流
+positive	广州 轨道 交通 建设 提速  TOD 开发 模式 方兴未艾
+negative	上证50 止步 num 连涨
+neutral	北京 朝阳区 共有 产权 住房 用地 num 日 成交
+positive	公募 重仓股 “ 底牌 ” 泄 秘 ：  坚定 持有 平安 、 茅台 、 伊利 ！
+positive	建材 ： 建筑 央企 估值 偏低  荐 num 股
+negative	上证50 指数 午后 跌逾 num %  权重股 纷纷 走弱
+positive	保利地产 ： 与 合 富 辉煌 合作  发展 物业 代理 业务
+negative	券商 策略 周报 ： 短期 震荡 反复  关注 num 大 要点
+positive	新增 长周期 催生 新 “ 结构 牛 ”
+positive	房地产 行业 地产股 num 年 春季 投资 策略 : 暖冬 兑现 , 暖春 可期
+positive	明日 合肥 近 num 亩 土地 入市  多 家 房企 巨头 虎视眈眈
+neutral	机构 调仓 大 揭秘 ： 卖 牛股 ， 买 滞涨 蓝筹
+positive	两市 融资 余额 逆势 增长  蓝筹 白马 仍 是 首选 标的
+positive	中 金 num 月 A股 地产 板块 策略 ： 个 股行情 分化  精选 优质 龙头
+positive	房地产 行业 : ROE 是否 能 随着 房地产 集中度 提升 持续改善 ?
+positive	保利 北京 举办 首届 “ 光 之 盛典 ”
+positive	中国银行 全面 进军 住房 租赁 金融市场
+neutral	num 月 地产股 左右 股 基 业绩  押宝 锂电 与 科技股 成 梦魇
+positive	支持 租赁 住房 开发  中国银行 num 亿元 融资 助力 八大 地产商
+negative	num 主力 资金 近 num 日 撤出 融资 融券 概念股
+positive	沪股通 num 概念股 近 num 日 受 num 主力 资金 追捧
+positive	全面 进军 住房 租赁 金融市场  中国银行 签约 num 家 地产 巨头
+positive	炒股 不如 买 基金  num 年 首 月 基金 最 多赚 num %
+positive	碧桂园 num 亿元 REITs 获批
+positive	存量房 市场  成 开发商 角力 场
+positive	国内 租赁 住房 市场 再 迎 里程碑  龙头 房企 试水 REITs
+positive	碧桂园 num 租赁 住房 REITs 获批  龙头 房企 租赁 证券化 已 达 num
+positive	首单 num REITs 获批  碧桂园 寻求 公寓 资产 变现 术
+positive	手握 num 间 可 租 房源  我 爱 我家 发力 长 租 市场
+neutral	长江证券 num 月份 荐 股 绝对 收益率 达 num %  券商 看 新春 行情 “ 意见 不合 ”
+negative	保利地产 盘 中 异动  早盘 大跌 num %
+negative	A股 三大 指数 齐齐 翻绿 ： 沪指 跌 超 num %  地产股 放量 下 杀
+negative	三大 股指 高开 低 走  悉数 翻绿
+negative	地产股 金融股 集体 回 撤  上证50 指数 早盘 跌逾 num %
+negative	蓝筹 走弱 拖累 沪指 走低  上证50 指数 跌 近 num %
+negative	保利地产 跌停  唱 多 的 中泰证券 中信建投 国泰君安 囧 了
+neutral	市场 巨 震 这些 股票 竟然 走出 慢牛 行情 ( 名单 )
+positive	A股 下行  num 天 num 家 上市公司 股东 增持
+negative	市场 下跌 或 成 风格 转换 催化剂
+neutral	调整 行情 中 个 股 受 “ 惊吓 ”  num 股 最 抗 跌
+negative	权重股 大幅 补跌  创业板 走强
+positive	周期 类 行业 成 避风港  “ 抗 跌 基金 ” 受 关注
+negative	保利地产 下 午盘 大幅 跳水 num %  股价 创 num 月 新低
+negative	大蓝筹 持续 降温 ？ 原来 资金面 早已 给 出 答案 ， num 股 主力 大幅 撤离
+negative	金融 加速 去 杠杆 地产 流动性 承压  龙头 房企 新年 急 筹 num “ 过冬 ”
+neutral	连续 大跌 之后  地产股 迎来 “ 黄金 背离 点 ” ？
+negative	房地产 板块 走势 低迷  新城控股 等 num 股 跌停
+negative	大蓝筹 集体 杀跌  沪指 盘 中 击穿 num 点
+negative	保利地产 早盘 跳水 num %  股价 创 num 月 新低
+negative	春节 广州 楼市 或 遇 冷  不少 盘 全年 无休
+neutral	经历 “ 过山车 ” 后  机构 深挖 地产 区域 龙头股
+positive	借 高价 地 南沙 盘 抓紧 出货
+positive	中国 投资者 “ 爆 买 ” 英国 房产  去年 投资额 超 num 英镑
+positive	央企 走 出去 发生 新 变化  将 提高 全球 市场 经营 质量
+positive	上证50 指数 涨 超 num %  中国平安 ( num -CN ) 大涨 近 num %
+positive	房地产 板块 走势 活跃  保利地产 万科A 等 涨 超 num %
+positive	地产股 盘 中 崛起  阳光城 等 num 股 涨停
+positive	白马股 集体 回暖  沪指 上涨 近 num %
+positive	地产股 成 近 num 日 反弹 先锋  num 家 机构 看好 该 板块 投资 机会
+positive	中国 投资 英国 房产  去年 投资额 超 num 英镑
+positive	长 租 公寓 市场 有望 快速 崛起  补齐 住房 租赁 市场 短板
+negative	安邦 概念股 多数 上扬  保监会 宣布 依法 接管 安邦 集团
+positive	房企 年报 季 来临 龙头 业绩 爆发  春季 地产股 的 行情 与 机会
+negative	银发 经济 市场 巨大  新三板 公司 大规模 盈利 尚 早
+negative	保利地产 盘 中 异动  早盘 大跌 num %
+positive	世联行 盘 中 异动  早盘 拉升 num %
+negative	房地产 板块 持续 走弱  保利地产 跌逾 num %
+negative	房地产 板块 大幅 下挫  新城控股 跌逾 num %
+positive	预增 概念股 近 num 日 受 num 主力 资金 追捧
+positive	房地产 板块 迎来 最佳 配置 时 点 ？
+negative	上证50 指数 下跌 近 num %  权重股 表现 低迷
+negative	越秀 num 租赁 住房 类 REITs 获批  公募 REITs 落地 渐近 ？
+positive	同 百科 技 num 年 净利 实现 翻番
+positive	大数据 解密 市场 节后 新 风向  逾 num 亿元 北上资金 加仓 num 只 蓝筹股
+negative	泛 地产股 调整 的 根本 原因 是 什么 ？
+positive	徐 念 沙 ： 在 num 个 “ 提升 ” 上 发力  推动 企业 高质量 发展
+positive	徐 念 沙 ： 中 轻 中国 工艺 并入 保利  产业 分 几 大 类 调整
+neutral	num 月  广州 一手 住宅 num 盘 推 num 套 单位
+positive	徐 念 沙 ： 保利地产 和 保利 置业 正在 做 股权 调整
+positive	租 购 并举 构建 住房 梯级 消费 体系
+positive	保利 集团 指正 对 保利地产 ( num SH ) 和 保利 置业 ( num HK ) 进行 股权 性 调整
+positive	风险 偏好 回暖  主力 资金 “ 换挡 ” 提速
+positive	保利地产 num 年 num ~ num 月 销售 点评 : 淡月 销售 超 预期 , 重申 “ 确定性 ” num 重 击
+neutral	num 位 女 董事长 手握 num 万亿 A 股市 值 ， 最 年轻 的 竟然 才 num 岁
+neutral	num 位 女 董事长 掌管 上市公司 num 万亿 市值
+neutral	num 位 女 董事长 手握 num 万亿 A 股市 值  最 年轻 的 才 num 岁
+positive	致敬 “ 女神 节 ”  ： A股 大 女 主 终极 排行榜 曝光
+neutral	人口 流动 启示 ： 房价 曲线图 正 发生 微妙 变化
+positive	粤港澳 大 湾 区 规划 纲要 编制 基本 完成  地产 + 基建 行业 将 受益
+positive	后 发 能否 先 至 ？ 保利地产 启动 产 城 融合 战略
+positive	【 兴 证 地产 】 九龙仓 配置 地产股 点评 ： 增量 资金 将 持续 买入 地产股
+negative	保利地产 盘 中 异动  股价 跳水 num %
+negative	房地产 板块 跌幅 居前  新城控股 跌逾 num %
+positive	两会 代表 建议 加快 REITs 公募 试点  扩 募 机制 + 税务 安排 成 关注 重点
+positive	保利 完成 国内 首单 房企 租赁 住房 REITs 发行  首期 规模 num
+positive	保利 租赁 住房 类 REITs 正式 发行  公开发行 比例 达 num %
+positive	继 碧桂园 、 阳光城 后  保利 拟 加入 广 物 地产 股权 争夺战
+positive	保利 完成 国内 首单 房企 租赁 住房 REITs 发行
+neutral	首开 保利· 熙 悦 林 语 样板间 开放
+positive	住宅 供应量 回升  洋房 库存 创新高
+positive	保利地产 发行 首单 房企 租赁 REITs  租赁 证券化 进入 规模 爆发 期
+positive	银行 大笔 资金 投向 住房 租赁 业务
+positive	行业 集中度 提升  龙头 房企 优势 凸显
+positive	重庆 房企 着眼 “ 租 购 并举 ”  加速 落地 长 租 公寓
+positive	着眼 “ 租 购 并举 ”  重庆 房企 加速 落地 长 租 公寓
+positive	成都 超 千亩 土地 num 月 集中 上市
+neutral	走进 北京 “ 限 竞 房 ” ： num 个 项目 即将 入市  num 个 待字闺中
+positive	房地产 行业 “ 大 小年 ” 之争 ： 今年 num 线 城市 还有 机会 吗 ？
+positive	建议 大 地产商 重视 住房 租赁 市场
+positive	最新 广州 置业 地图 出炉  旺季 将 至 你 打算 选 哪里 安家 ？
+positive	“ 博彩 ” 开放 民间 热 议  海南 官方 “ 无 消息 ”
+negative	【 西南 地产 】 中美 贸易摩擦 发酵 ， 板块 避险 价值 凸显
+positive	房屋 租赁 概念股 近 num 日 最 受 主力 资金 青睐
+negative	num 主力 资金 近 num 日 撤出 预增 概念股
+positive	保利 资本 战略 入股 斯 维 登 ： 第一 步 合作 开发 田园 综合体
+positive	途 家 分拆 斯 维 登 后 战略 升级 ， 携手 保利 打造 智慧 农家院 落
+positive	上证50 指数 午后 持续 反弹  上涨 超 num %
+positive	保利地产 下 午盘 拉升 num %  振幅 达 num %
+positive	num 主力 资金 近 num 日 杀 入 新型 城镇化 概念股
+positive	大盘 蓝筹股 集体 反弹  地产 板块 一马当先
+positive	中国 房地产 行业 ： 筑梦 未来
+positive	决战 至 凌晨  保利 num 夺 杭州 奥体 地 王
+positive	又 num 央企 整合 方案 浮出水面  中粮地产 与 大悦城 地产 强强联合 优势 凸显
+positive	上证50 指数 涨 近 num %  券商 、 地产 等 板块 表现 强势
+positive	泰禾集团 拟 申请 长 租 公寓 资产证券化 专项 计划 ， 额度 num 亿元
+negative	房企 年报 季 ： 那些 掉队 的 “ 前 num 强 ” 们
+positive	保利 “ 汇 系 ” 商办 平台 创新  人工智能 应用 场景 渐 落地
+positive	探索 城市 未来  保利 北京 商办 项目 的 科技 观
+neutral	碧桂园 num 亿元 买下 伦敦 num 英亩 土地 ， 将 建 num 套 住宅
+neutral	实地 探访 中 海 南京 高价 地块 ： 现场 已 打围 施工  楼面价 较 周边 新房 低 近 万元
+positive	住房 租赁 花样 融资 术 ：  类 REITs ＋ 专项 债券 ＋ 并购 基金
+positive	房企 num 强 一季度 销售 突破 num 亿元 行业 告别 规模 之争 尚需 时日
+neutral	宜华生活 将 为 保利地产 提供 家居 软装 配套
+positive	保利 置业 集团 ( num HK ) 与 中国 保利 就 num 美元 票据 签订 维 好 契约
+positive	保利 置业 集团 ( num ) 与 中国 保利 集团 就 num 美元 票据 签订 维 好 契约
+positive	一线 | 途 家 线下 斯 维 登 集团 完成 新 num 轮 独立 融资  保利 资本 战略 入股
+positive	投融资 要闻 速 览  | 主打 共享 农庄 和 别墅 ， 这家 公司 获 保利 资本 入股
+positive	前 央视 主持人 、 著名 投资人 张 泉 灵 受聘 成为 雅戈尔 智慧 营销 顾问
+positive	房地产 板块 迎 配置 时 点  num 只 个 股 年报 业绩 有望 翻番
+positive	【 新时代 新气象 新 作为 】 num 件 衣服 的 革命
+positive	“ 新年 新衣 ” 开启 服装业 旺季
+neutral	雅戈尔 重回 实业 现 成效  金融 资产 计提 拖累 业绩
+neutral	雅戈尔 计提 资产 减值 准备 轻装 上阵
+negative	雅戈尔 大幅 跳水 num %  股价 创 num 月 新低
+positive	服装 纺织 ： 零售 端 持续 回暖  行业 向好 趋势 稳定
+neutral	雅戈尔 ： 计提 资产 减值 准备  聚焦 主业 轻装 上阵
+positive	雅戈尔 ： 控股 股东 提议 num 派 num
+positive	雅戈尔 年报 拟 num 派 num 元
+negative	“ 传奇 ” 万里 挑一  IPO 造 富 不易
+negative	炒 别人 家 股票 亏损 num  雅戈尔 减值 背后 “ 财务 洗澡 ”
+positive	雅戈尔 实控人 拟 增持 num %- num % 股份
+positive	( 公司 ) 雅戈尔 实控人 拟 增持 num %- num % 股份
+positive	宁波 海 曙 打造 num 级 纺织 服装 时尚 产业
+positive	num 家 上市公司 实控人 增持 护盘  总 耗资 约 num 亿元
+negative	雅戈尔 股东 昆仑 信托 拟 减持 不 超 num % 股份
+negative	( 公司 ) 雅戈尔 股东 昆仑 信托 拟 减持 不 超 num % 股份
+negative	雅戈尔 股东 减持 股价 创 num 年 新低  股神 李 如 成 折戟 中信 ？
+positive	雅戈尔 实控人 增持 num % 股份
+positive	( 公司 ) 雅戈尔 获 实控人 增持 num % 股份
+positive	num 家 公司 公布 年报 分红 预案  机构 看好 num 只 高 送 转 股
+positive	num 成 服装 上市公司 净利 增长  主营业务 持续 发力
+positive	雅戈尔 ( num -CN ) 增持 中信 股份 ( num -HK )  持股 比例 升 至 num %
+positive	雅戈尔 : 通过 司法 拍卖 num 亿元 获得 天津 num 豪 大厦 项目
+positive	雅戈尔 ： 预计 一季度 净利 近 num 亿元  增幅 近 num 倍
+positive	雅戈尔 num 季报 预增 num %
+positive	雅戈尔 一季度 净利 预增 num %
+negative	“ 炒股 ” 遇 市场 风浪  上市公司 业绩 险 翻船
+positive	雅戈尔 盘 中 异动  早盘 拉升 num %
+negative	一季度 净利润 预增 num % 源于 “ 炒股 ” ？ 雅戈尔 回归 服装 长 路漫漫
+negative	这家 卖 衣服 的 上市公司 业绩 预增 num % ！ 原因 竟然 是
+negative	部分 公司 会计 处理 有 招 术
+positive	野村 升 兖州煤业 H股 目标价 至 num 元  评级 买入
+positive	齐鲁 银行 定增 募资 num 亿元  兖州煤业 成功 卡位 第 三大 股东
+positive	兖州煤业 下 午盘 飙升 num %  股价 创 num 年 以来 新高
+positive	煤炭 板块 表现 强势  潞安环能 ( num -CN ) 超 num %
+positive	煤炭 行业 周报 : num 年初 补 库 有望 继续 拉动 价格 上涨 , 推荐 焦煤 机会
+positive	山西 焦煤 公布 混改 方案  煤炭 集团 有望 开启 混改 大幕
+positive	【 num 融 数据 淘金 】 融资 余额 快速 回升  这 只 地产股 连续 num 日 融资 余额 增幅 居首
+positive	煤炭 行业 周报 : 每周 观点 , 煤炭 需求 持续 向好 , 高 日 耗 低 库存 下 支撑 煤价 继续 上行
+positive	煤炭 开采 行业 : 煤炭 价格 有望 维持 高位 , 看好 一季度 煤炭 行情
+positive	煤炭 采选 板块 走势 活跃  大同煤业 涨 超 num %
+positive	野村 ： 兖煤 ( num ) 估值 吸引  升 目标价 至 num 元
+positive	【 num 融 数据 淘金 】 融资 余额 num 连阳 创 num 日 新高  这 只 煤炭 股 融资 余额 明显 增长
+positive	兖州煤业 大幅 拉升 num %  股价 创 num 年 以来 新高
+positive	上证 半日 扬 num % 上 破 num , num  煤炭 、 民航 及 地产股 强势
+positive	煤炭 股 异动 拉升  分析师 ： num 年 有望 迎 兼并重组 的 高潮
+positive	煤炭 板块 持续 走强  潞安环能 涨停
+positive	煤炭 板块 为何 新年 首 度 暴涨 ？ 原来 是 摊上 了 这 几 件 大事
+negative	指数 步入 压力 区  num 点 有望 成 拉锯 主战场
+negative	逼 空行 情  选 不 对 票 一样 赔钱
+positive	煤炭 板块 股市 燃起 “ num 把 火 ”  兼并重组 优化 布局 激活 煤炭 股
+positive	沪指 收获 num 连阳  机构 num 条 线索 解码 春季 行情
+positive	煤炭 行业 动态 点评 : 煤价 继续 上涨 和 政策 利好 , 顺势 而 为
+positive	邓 普顿 基金 管理 减持 兖州煤业 num 股  套现 num 港币
+neutral	剖析 港股 大数据 ： 港股通 num 大 成交 与 热门 板块 轮 动 的 关系
+neutral	上证 收涨 num % num 连阳  区块链 概念 飙  海螺 A 跌逾 num %
+positive	恒 指 半日 涨 num % 报 num 点  逼近 历史 最高点
+positive	煤炭 石油 ： num 铁路 运力 偏紧  荐 num 股
+negative	兖州煤业 盘 中 异动  早盘 跳水 num %
+negative	煤炭 行业 : 政策 调节 煤电 利益 , 有望 平抑 价格 波动
+negative	A股 情报局 ： 短期 市场 波动 率 有望 抬升
+positive	煤炭 行业 : 各 大 煤企 高位 下调 煤价 彰显 表率 作用 , 继续 看好 煤炭 股 行情
+positive	四季 报 披露 基金 最新 持仓 动向  交通 运输 等 num 行业 受 青睐
+positive	陕西煤业 早盘 大涨 num %  股价 创 num 年 以来 新高
+positive	兖州煤业 早盘 大幅 拉升 num %  量 比 达 num
+positive	煤炭 采选 板块 走势 活跃  陕西煤业 涨 超 num %
+negative	两市 双双 低开  黄金 板块 领涨
+negative	大盘股 低迷 ： 沪指 走出 新年 以来 第二 根 阴线 ， 失守 num 点
+positive	快讯 ： 煤炭 股 早盘 走高  兖州煤业 涨幅 过 num %
+positive	煤炭 股 旺季 表现 强劲  兖州煤业 股份 涨逾 num %
+positive	下游 需求 旺盛 + 年报 业绩 预告 向好  机构 ：  看好 煤炭 板块 后市 表现
+positive	周期股 早盘 发力  煤炭 股 表现 抢眼
+positive	煤炭 股 午后 持续 走强  兖州煤业 涨 超 num %
+positive	两市 全天 震荡 收 跌  钢铁 煤炭 板块 携手 领涨
+positive	兖州煤业 ： num 年 净利润 预增 num % 至 num %
+neutral	煤企 业绩 回暖 股价 逆势 走强  下游 电 企 面临 压力
+positive	周期 板块 再现 大涨 ， 低估值 业绩 暴增 股 还有 这些 ！
+positive	兖州煤业 年报 预增 num %- num %
+negative	A股 情报局 ： 强势股 开始 调整 ， 需要 担忧 吗 ？
+positive	煤炭 ： 动力煤 高 确定性 带动 焦煤 市场
+neutral	兖州煤业 ( num ) ： 控股 股东 发行 的 A股 可 交换 债 获 累计 换股 num %
+positive	num 理由 助 煤炭 板块 估值 修复  num 只 年报 预计 翻番 股 吸金 近 num
+positive	煤炭 采选 板块 活跃 走强  山西焦化 涨 超 num %
+positive	煤炭 股 走强  阳泉煤业 涨 超 num %
+positive	两市 探底 回升 ， 创业板指 涨 近 num %
+positive	煤化工 板块 走势 活跃  山西焦化 涨 超 num %
+positive	兖州煤业 下 午盘 拉升 num %  股价 创 num 年 以来 新高
+positive	港股 回 吐 逾 num 点  煤炭 股 走高 手机 设备 股 企稳
+positive	领跑 港股 大市  恒生 能源 业 指数 一枝独秀
+positive	煤炭 开采 行业 : 煤炭 供给 偏紧 致 价格 冲高 , 继续 看好 一季度 行情
+positive	业绩 推动  机构 看好 煤炭 股 春季 躁动 行情
+positive	银行 + 券商 + 钢铁 + 煤炭  权重股 集体 异动 拉升 !
+positive	煤炭 采选 板块 表现 抢眼  山西焦化 涨 超 num %
+positive	num 日 午间 机构 看盘 ： 做空 动能 充分 宣泄  短期 极 具 投资 吸引力
+negative	市场 下跌 或 成 风格 转换 催化剂
+negative	兖州煤业 盘 中 异动  早盘 跳水 num %
+negative	兖州煤业 ( num -HK ) 遭 邓 普顿 基金 减持 num 股
+positive	num 只 煤炭 股 成 机构 眼中 “ 香饽饽 ”
+positive	煤炭 行业 : 煤价 上涨 促 煤企 业绩 大增
+positive	兖州煤业 ( num HK ) 煤炭 产量 增加 ， 股价 上涨 近 num %
+positive	兖州煤业 股份 涨逾 num %  获 惠 誉 升 至 “ B + ” 评级
+positive	兖州煤业 盘 中 异动  股价 大涨 num %
+positive	恒 指 收涨 num % 日内 一度 涨 近 num 点
+positive	这些 超跌 白马股 机构 看好  会 成为 狗年 的 反弹 先锋 吗 ？
+neutral	兖州煤业 股份 ( num HK ) “ num 兖煤 num ” 及 “ num 兖煤 num ” 将 于 num 月 num 日 付息
+negative	兖州煤业 盘 中 异动  股价 跳水 num %
+negative	潞安环能 盘 中 异动  早盘 跳水 num %
+neutral	兖州煤业 境外 控股 子公司 发布 num 年年 度 业绩
+positive	( 港股 ) 兖州煤业 股份 澳洲 控股 子公司 num 年 税后 利润 同比 增 num %
+positive	两市 双双 低开  工业 互联网 板块 领涨
+negative	兖州煤业 股份 ( num HK ) 申请 延期 至 num 月 num 日前 回复 中国 证监会 《 反馈 意见 》
+negative	兖州煤业 下 午盘 大跌 num %  股价 创 num 月 新低
+positive	兖州煤业 盘 中 异动  股价 大涨 num %
+negative	中车 金融 租赁 股东 格局 再生 变  天津 信托 拟 参股 num %
+positive	兖州煤业 : 增 购 沃克沃斯 股权 , 年 增加 净利 num 亿元
+positive	num 家 公司 年报 本 周 将 亮相  机构 看好 num 只 成长股  ( 附 名单 )
+positive	num 家 公司 年报 本 周 将 亮相  机构 力荐 num 成长股
+negative	煤炭 板块 集体 走弱 整体 跌逾 num %  阳泉煤业 等 跌幅 超 num %
+negative	兖州煤业 早盘 大幅 跳水 num %  股价 创 num 月 新低
+positive	兖州煤业 股份 ( num HK ) 拟 对 附属 提供 不 超 num 美元 融资 担保
+positive	煤炭 企业 去年 业绩 亮眼  去 产能 促进 行业 布局 优化
+positive	兖州煤业 股份 逆市 涨逾 num %  去年 营收 创 历史 新高
+positive	煤炭 行业 周报 : 钢铁 需求 逐渐 打开 , 焦煤 价格 趋 稳
+positive	兖州煤业 ( num ) ： 预计 num 年 煤炭 价格 将 保持 总体 平稳
+positive	兖州煤业 ： 今年 煤炭 销量 目标 提高 到 num 亿吨
+neutral	煤炭 巨头 意见 分歧  神华 拟 减产 兖煤 将 增产
+positive	兖州煤业 股份 ( num HK ) 完成 发行 num 亿元 num 年 可 续期 公司债 券 ( 第 一期 )  票面 利率 num %
+positive	兖州煤业 盘 中 异动  股价 拉升 num %
+positive	钢铁 等 num 行业 国企 利润 大增 机构 力荐 num 只 潜力股
+positive	三月 创业板指 创 num 年 最大 月 涨幅 四月 机构 扎堆 看好 银行 等 num 行业
+positive	兖州煤业 股份 ( num HK ) 完成 发行 num 亿元 超短 融
+positive	兖州煤业 股份 ( num HK ) 完成 发行 num 亿元 超短 融
+positive	“ 压线 ” 增持 银行股  兖州煤业 ( num ) 低调 潜入 金融业
+neutral	兖州煤业 股份 ( num HK ) 控股 股东 兖矿 集团 “ num 兖 num EB ” 已 赎回
+positive	num 上市公司 汇兑 账本 ：  num 家 航空公司  “ 躺着 ” 赚 了 num
+positive	东北 上市 公司 对 政府 “ 输血 ” 依赖 度 降低
+positive	广汇汽车 盘 中 异动  临近 收盘 拉升 num %
+negative	汽车 新零售 市场 “ 雷声大 雨点小 ”
+positive	广汇汽车 ： 积极 转型  优化 业务 结构
+negative	广汇汽车 盘 中 异动  股价 跳水 num %
+positive	广汇汽车 拟 收购 上海 爱 卡 合伙 份额
+neutral	广汇汽车 服务 股份公司 关于 控股 股东 股份 解除 质押 的 公  告
+positive	复盘 基石 资本 汽车 投资 ：  深挖 产业链 核心 环节 + 控股 型 投资 运作
+negative	广汇汽车 num 收购 股价 熊 势  股东 质押 凶猛 股价 跌 不 起
+negative	汽车 经销商 渐显 寡头 格局  新 车 销售 进入 微利 时代
+positive	广汇汽车 盘 中 异动  大幅 飙升 num %
+neutral	汽车 行业 将 扩大 开放  车企 热 议 新机遇 新 挑战
+negative	中青宝 num 大 股东 内讧 控股 股东 部分 股权 遭 冻结
+positive	电子 制造 行业 研究 周报 : 电子元件 与 智能汽车 新 周期
+positive	东阳光科 大幅 飙升 num %  股价 创 num 年 以来 新高
+positive	东阳光科 股价 大涨 num %  股价 创 num 年 以来 新高
+positive	上市 药企 抗 流感 药 销售 火爆
+neutral	机器 小 强 ： num 月 num 日  大宗 交易
+negative	东阳光科 早盘 大幅 跳水 num %  股价 创 num 月 新低
+positive	东阳光科 盘 中 异动  股价 飙涨 num %
+positive	鹏欣资源 盘 中 异动  股价 拉升 num %
+negative	集团 母公司 拟 悉数 出售 所 持 权益  东 阳光 药 ( num HK ) 股价 跌逾 num %
+positive	东阳光科 大幅 拉升 num %  股价 创 num 年 以来 新高
+positive	电池 板块 预演 业绩 浪 行情  num 只 年报 预计 翻番 股 吸金 num 亿元
+positive	小米 和 富士康 概念股 集体 高开  安彩高科 等 开盘 涨停
+negative	东阳光科 重组 审核 被 暂停  num 日 复牌
+negative	东阳光科 大幅 跳水 num %  量 比 达 num
+negative	富士康 概念股 小幅 低开  东阳光科 开盘 跌停
+positive	两市 小幅高开  电子 板块 走强
+negative	东阳光科 重组 暂停 审核 股价 重挫  标的 废水 排放 白水 河
+negative	东阳光科 并购案 遭 暂停 审核  深圳 游资 集体 出手 力避 跌停
+positive	东阳光科 张 红 伟 ： num 年 奋斗 成就 梦想
+negative	东阳光科 股价 跳水 num %  量 比 达 num
+negative	东阳光科 盘 中 异动  大幅 跳水 num %
+positive	东阳光科 盘 中 异动  下 午盘 拉升 num %
+positive	业绩 + 估值 优势 激活 传媒 板块  num 只 龙头股 吸金 num 亿元
+positive	业绩 + 估值 优势 激活 传媒 板块  num 股 吸金 num
+negative	募 投 项目 历时 num 年 仍 不及 预期  长江传媒 拟 终止 num 项目
+neutral	num 月 num 日 沪深两市 最新 交易 提示
+positive	双重 优势 助 传媒 板块 右侧 交易 行情 开启
+positive	长江传媒 盘 中 异动  临近 收盘 飙涨 num %
+positive	长江传媒 股价 大涨 num %  股价 创 num 月 新高
+positive	大 摩 升 内地 三大 航空 股评 级 至 增持 及 上调 目标价
+neutral	飞机 上 可以 使用 手机 了  航空公司 ： 不能 使用 流量 和 通话
+neutral	今日 起 国航 也 “ 欢迎 开机 ” !  还有 哪些 航空公司 即将 解禁 ？
+positive	高 盛 ： 国泰 与 卡塔尔 航空 将 有 更多 营运 合作
+negative	中 金 荐 国航 H股  股价 劬 逆市 跌
+negative	大 摩 ： 国航 去年 盈利 逊 预期  评级 增持
+positive	大和 升 国航 H股 目标价 至 num 元
+neutral	航班 因 天气 取消 改签 差价 将 由 旅客 航 企 平摊 ？ 民航局 ： 在 考虑
+negative	南方航空 盘 中 异动  股价 大跌 num %
+positive	交通 运输 产业 行业 研究 : 交运 num 年 回顾 , 航空 机场 一枝独秀
+negative	机场 航空 股 出现 调整
+positive	交通 运输 行业 : 交通 运输 价格 改革 进入 密集 期 , 持续 推介 航空 和 铁路
+neutral	( 公司 ) 中国国航 控股 股东 改制 更名
+neutral	中国国航 控股 股东 完成 改制 及 更名
+positive	东方航空 下 午盘 拉升 num %  股价 创 num 年 以来 新高
+positive	民航 机场 板块 午后 持续 走强  东方航空 涨逾 num %
+positive	交通 运输 行业 日报 : num 年 或 将 迎来 油船 市场 转折
+positive	三大 国有 航空 相继 “ 改名 ” ， 混改 将 如何 提速
+neutral	交通 运输 行业 深度 报告 : 航线 票价 放开 弹性 测算 深度 解析
+positive	出海 记 ｜ 中国 企业 num 年 出海 报告 之 航空 ： 中国 航 司 扩大 “ 朋友圈 ”
+positive	中国国航 早盘 大涨 num %  量 比 达 num
+positive	东方航空 早盘 大涨 num %  股价 创 num 年 以来 新高
+positive	航空 股 集体 造 好  中国国航 涨逾 num % 曾创 逾 num 年 新高
+positive	航空 股 暴涨  南航 领涨 近 num %
+positive	民航 机场 板块 走势 活跃  南方航空 涨 超 num %
+negative	市场 缺乏 热点 持续性  需 谨慎
+positive	花旗 ： 看好 内 航 股 行业 前景  首选 东航 ( num )
+positive	上证 半日 扬 num % 上 破 num , num  煤炭 、 民航 及 地产股 强势
+positive	航空 机场 板块 涨幅 居前  南方航空 涨逾 num %
+positive	航空 运输 行业 : 航线 票价 放开 超 预期 , 持续 推荐 三大 航
+positive	中国国航 : 票价 放开 超 预期 , 大幅 增 厚 业绩
+positive	多重 利好 刺激 ， 航空 股 走强 ！ 南方航空 大涨
+positive	交通 运输 行业 点评 : 票价 改革 新政 发布 , 利好 航 司
+positive	交通 运输 行业 动态 报告 : 航线 票价 放开 超 预期 , 继续 推荐 三大 航
+positive	机票 价格 市场化 改革 进一步 推进  民航 机场 概念股 集体 上涨
+positive	新增 num 条 市场化 航线  北上广 深 互 飞 或 涨价
+negative	航空 运输业 客运 价 改 点评 : 民航 客票 价 改 加速 推进 , 短期 油价 带来 的 成本 压力 不可 忽略
+positive	航空 机场 行业 研究 : 复盘 航空 机场 num 年 , 景气度 推动 航空 , 票价 市场化 锦上添花
+positive	中国国航 : 民航 国内 客运 价格 进一步 市场化 打开 远期 盈利 空间 , 上调 num ~ num 年 盈利 预测 , 强调 “ 强推 ” 评级
+negative	航空 股 转 弱  国航 H股 ( num -HK ) H股
+positive	航空 票价 改革 持续 推进 : 方向 和 空间
+neutral	春运 乘飞机 出行 看 这里 ： 准点率 排行榜 来 了
+positive	银河 国际 ： 重申 “ 买入 ” 深圳 国际 ( num )  关注 航空 业务 表现
+positive	交通 运输 行业 日报 : num 年 京唐港 区 货物 吞吐量 达 num 亿吨
+positive	恒 指 收涨 num % 报 num 点  航空 板块 表现 抢眼
+positive	马克 龙 访华 获 num 美元 航空 大 “ 蛋糕 ”  空客 飞机 订单 未 敲定
+positive	航空 股 持续 冲高  中国国航 涨逾 num % 创 逾 num 年 新高
+positive	恒 指 收涨 num % 报 num 点  连涨 num 天 创纪录
+negative	春秋航空 股价 跳水 num %  股价 创 num 月 新低
+positive	机构 num 日 抢筹 num 股  主力 资金 num 流入
+positive	交通 运输 ： 票 改 新政 发布  利好 航 司
+positive	num 年度 数据 依次 出炉  年 载客量 过 num 航 企 增至 num 家
+negative	中国国航 大幅 跳水 num %  股价 创 num 月 新低
+positive	内地 放宽 三大 航空 国资 持股 要求  允许 国有 相对 控股
+positive	“ 手机 解禁 ” 等 利好 纷 至  “ 三大 航 ” 或 盈利 股价 双 升
+positive	戗 跑 “ 手机 解禁 ” 竞速 赛 ， 东航 股价 何时 起飞 ？
+positive	今 起 国航 也 “ 欢迎 开机 ”  国内 num 家 航空公司 陆续 解禁
+positive	国产 支线 客机 ARJ num 上 也 可用 手机
+positive	num 家 国内 航空公司 解禁 手机  机载 WiFi 掘金 前景 广阔
+positive	信达 国际 ： 中国 南方航空 短线 目标价 num 元  潜在 升幅
+positive	三大 航 国资 持股 可 降至 num % 以下  民航 混改 卸下 “ 紧箍咒 ”
+neutral	“ PE 国家队 ” 万亿 投资 账本 盘点
+positive	四季 报 披露 基金 最新 持仓 动向  交通 运输 等 num 行业 受 青睐
+positive	交通 运输 ： 油价 阶段性 见 顶  航空 基本面 向好 趋势 愈加 清晰
+positive	三大 运营商 的 比拼 上天 了 ！ 哪家 更 强 ？
+positive	去年 成都 外贸 进出口 总额 同比 增长 num %  增幅 居 副 省级 城市 首位
+negative	信息 科技 ： 区块链 概念 退潮  荐 num 股
+positive	四川 成都 自 贸 实验区 “ 怀胎 十月 ” 凸显 内 生 活力
+positive	中国国航 盘 中 异动  股价 大涨 num %
+positive	民航 机场 板块 午后 持续 走强  中国国航 涨逾 num %
+positive	人民币 中间价 实现 五连 升  掘金 num 类 受益 股 上涨 潜力
+positive	航空 股 集体 上涨  中国国航 涨 近 num % 领涨
+positive	快讯 ： 机场 航运 板块 走强  中国国航 涨 近 num %
+positive	两地 航空 股 齐涨  春运 旺季 助长 航空公司 利润
+positive	num 大 内地 航空 股 起飞 了 ！  因为 麦格理 的 新 决定
+positive	人民币 续 强势  航空 股 起飞
+positive	航空 机场 板块 表现 抢眼  机构 : 人民币 汇率 攀升 利好 航空 股
+positive	恒 指 半日 涨 num % 破 num 关口  建设银行 领涨 蓝筹
+positive	汇率 持续 攀升 利好 航空 股  中国国航 ( num -CN ) 大涨 超 num %
+positive	恒 指 收涨 num % 破 num 点 关口  再次 创造 历史 高 点 记录
+positive	num 主力 资金 近 num 日 杀 入 大 央企 重组 概念 股
+positive	信达 国际 ： 中国 南方航空 短线 目标价 num 元  潜在 升幅
+positive	春运 航线 票价 猛涨  三亚 部分 涨 至 全价
+positive	民航 机场 板块 活跃 走强  南方航空 涨 超 num %
+positive	交通 运输 ： 继续 关注 航空 机场  荐 num 股
+positive	交通 运输 ： 江苏 港口 吞吐量 连续 num 年 全国 第一  荐 num 股
+negative	海航 资金链 令人 难以 捉摸  为何 “ 成 也 并购 败 也 并购 ”
+neutral	机构 调仓 大 揭秘 ： 卖 牛股 ， 买 滞涨 蓝筹
+positive	国航 华南 基地 加大 春运 运力 投入  广州 始发 增 飞 num 班
+positive	中国国航 早盘 拉升 num %  股价 创 num 年 以来 新高
+positive	交通 运输 ： 美元 贬值 利好 航空 航运 大宗 供应链 num 个 板块  荐 num 股
+positive	两市 小幅 低开  钢铁 板块 开盘 较强
+negative	收 评 ： 恐慌 情绪 蔓延  num 股 跌停 再现
+neutral	杭州 机场 春运 预计 航班 起降 num 架次  运送 旅客 num 人次
+positive	空客 总装 第8000架 A num 系列 飞机 交付 中国 国际 航空
+positive	创新 监管 模式  北京 海关 助力 跨境电商 大 发展
+positive	加大 航线 运力 投入  推出 便捷 智能 服务  国航 全力以赴 保障 春运 旅途 平 安顺 畅
+positive	“ 中字头 ” 股 获 资金 逆市 抢筹  机构 看好 num 只 概念股 投资 潜力
+positive	国航 春节 前 连续 num 天 加 开 重庆 至 台湾 航班  由 宽体 飞机 执 飞
+positive	人民币 持续 走强  航空 板块 显著 受益
+positive	三大 航空公司 同步 走高  南方航空 大涨 逾 num %
+positive	恒 指 收 跌 num % 报 num 点  保险 银行 航空 逆势 上涨
+neutral	长江证券 num 月份 荐 股 绝对 收益率 达 num %  券商 看 新春 行情 “ 意见 不合 ”
+negative	中国国航 股价 跳水 num %  振幅 达 num %
+positive	盈利 与 估值 有望 双 提升  航空 股 大涨
+negative	东方航空 大幅 跳水 num %  股价 创 num 月 新低
+negative	吉祥航空 大幅 跳水 num %  股价 创 num 月 新低
+negative	上证50 指数 跌逾 num %  中字头 板块 集体 下挫
+negative	春秋航空 早盘 跳水 num %  股价 创 num 月 新低
+negative	中国国航 盘 中 异动  股价 大跌 num %
+positive	空客 A num 受 航 企 追捧  川航 斥资 num 订 num 架 新机
+positive	南方航空 盘 中 异动  股价 大涨 num %
+positive	中国国航 盘 中 异动  股价 拉升 num %
+positive	人民币 再 转 强  航空 股 又 起飞
+positive	机场 航运 板块 走强  南方航空 ( num -CN ) 大涨 超 num %
+positive	航空 股 全线 上涨  中国国航 ( num HK ) 领涨
+positive	中 金 ： 中资 航空 股 外部 因素 现 好转  估值 已 存在 安全 边际
+positive	国金证券 - 南方航空 ( num SH ) ： 或是 此 轮 航空 景气 向上 最大 受益者 ， 买入 “ 维持 ” 评级
+positive	成都 密集 开通 国际 航线  出境游 成 过年 新风尚
+positive	春运 航空 客运量 将 延续 高 增长  机构 扎堆 推荐 num 只 航空 股
+positive	春运 航空 客运量 延续 高 增长  航空 股 受 青睐
+positive	中国国航 盘 中 异动  早盘 大幅 拉升 num %
+positive	东方航空 盘 中 异动  早盘 大幅 拉升 num %
+positive	航空 股 集体 逆市 上涨  中国国航 涨 近 num %
+positive	揭秘 涨停板 ： num 股 封板 ！ 有色 板块 掀涨停潮
+positive	机构 博弈 中国国航  游资 封板 乐视网
+positive	航空 板块 有望 “ 业绩 + 估值 ” 双 升
+positive	客流量 攀升 叠加 机票 机制 改革  航 企 迎来 上行 周期
+positive	北上资金 净 买入 翻倍  “ 喝酒 吃药 ” 风格 延续
+positive	A股 情报局 ： 开门红 的 A股 长期 方向 在 哪里 ？
+positive	num 日 龙虎榜 追踪  机构 抢筹 这 num 股
+positive	中国 年 旺 了 消费 股  “ 吃喝玩乐 ” 投资 机会 要 抓住
+positive	航空 板块 借 黄金周 腾飞
+positive	龙虎榜 追踪 ： 机构 整体 谨慎  最 青睐 这些 个 股
+positive	节后 num 个 交易日 曝 出 机构 新 口味
+positive	航空 板 全线 走强  中国国航 ( num HK ) 涨 超 num % 领涨
+positive	航空 服务 股 扩大 涨幅  中国国航 ( num -HK ) 涨 num %
+positive	预增 概念股 近 num 日 受 num 主力 资金 追捧
+positive	主题 基金 净值 回升  民航 机场 板块 后市 机会 可期
+neutral	沪指 低位 震荡 跌逾 num %  军工 航天 板块 掀涨停潮
+positive	国航 成都 — 拉萨 高原 航线 安全 飞行 num 年  载客 超 num
+positive	中国 旅游 机构 积极 参加 布达佩斯 国际 旅游 展
+positive	航空 行业 : 总量 调控 供需 持续改善 , 票价 改革 航空 迎风 而 起
+positive	交通 运输 行业 ： 航空 机场 维持 高 景气度
+positive	服务 新规 促 民航业 健康 发展  机构 看好 “ 三大 航 ” 业绩 空间
+positive	春秋航空 多事之秋 ： 政府 补助 占 num 成 利润  实控人 拟 减持  是否 高估 ？
+positive	华夏航空 股价 暴涨 num %  量 比 达 num
+negative	下 周三 公司 限售股 上市 数量 超 num 股
+negative	本 周 num 家 公司 解禁 num 亿元  中国国航 num 居首
+positive	恒 指 半日 涨 num % 报 num 点  航空 服务 板块 领涨 蓝筹
+positive	航空 股 全线 上涨  中国 南航 ( num HK ) 领涨 num %
+neutral	基金 调仓 路径 曝光  去年末 增持 中小创
+positive	国航 北京 － 迪拜 航线 将 增至 每天 num 班
+positive	华夏航空 盘 中 异动  股价 拉升 num %
+positive	国航 将 开通 北京 — 休斯顿 — 巴拿马城 航线
+negative	东方航空 股价 跳水 num %  股价 创 num 月 新低
+negative	中国国航 大幅 跳水 num %  股价 创 num 月 新低
+positive	新 时刻表 结构 全面 优化  航空 行业 竞争 格局 改善
+negative	人民币 强势 上涨 ， 航空 股 高开 低 走
+positive	交通 运输 行业 : 不 惧 威 压 , 航空 迎来 加速 上升 的 新起点
+positive	( 年报 ) 中国国航 num 年 净利 增 num %  证金 增持 至 num %
+positive	中国国航 年报 净利 略 增 num %  证金 公司 有所 增持
+positive	中国国航 上 年度 营收 逾 num  利润 再创新高
+positive	中国国航 num 年 实现 净利 num 亿元  证金 公司 增持
+positive	中国国航 去年 利润 总额 num 亿元  运输 旅客 num 人次
+positive	国航 ： 已 制定 新 航 季 调价 计划 ， 只 待 批复
+positive	中国国航 num 年 利润 总额 num 亿元  现金 分红 历史 最高
+positive	出海 记 ｜ 台 媒 ： 国航 即将 开通 北京 — 休斯顿 — 巴拿马城 航线
+positive	去年 国航 净利 num  今年 新 开 航线 多 在 亚太
+positive	国航 调价 计划 待 批复 今年 将 加强 价值 管理
+positive	上半年 航空 货运 料 持续 强劲 增长
+positive	平安 证券 ： 市场 波动 率 中枢 抬升
+positive	中国国航 盘 中 异动  股价 飙涨 num %
+positive	三大 航 营收 超 num
+positive	民航业 供需 旺盛 正当 时  三大 国有 航 企 num 年 营收 净利 双增长
+positive	三大 航 净利润 创 近 num 年 来 新高
+positive	国航 开足 运力 提升 旅客 满意度
+positive	央企 控股 上市公司 去年 业绩 靓丽  降 杠杆 、 市值 管理 多维 发力
+positive	巴拿马 华社 人士 改 票 搭乘 中巴 直航  称 中国 发展 令人 自豪
+positive	三大 航 净利润  创 近 num 年 来 新高
+positive	三大 航 净利润 创 近 num 年 新高  中国国航 ( num HK ) 领涨 航空 股
+positive	业绩 创 num 年 新高  航空 股 受 基金 青睐
+positive	三大 航空 股 午后 集体 攀升  中国国航 ( num -CN ) 涨逾 num %
+positive	港股 涨幅 进一步 扩大  恒生指数 大涨 num %
+positive	沪指 收盘 大涨 num %  航空 机场 板块 领涨
+positive	num 上市公司 汇兑 账本 ：  num 家 航空公司  “ 躺着 ” 赚 了 num
+positive	海航 、 东航 争夺 “ 手机 解禁 ” 第一 航班  海航 抢先
+positive	深圳 航空 ： 从 num 月 num 日 起 放开 飞机 上 使用 手机
+positive	num 余家 航空公司 解除 禁令  国航 num 日 起 也 将 松绑 “ 机上 开机 ”
+negative	回访 房价 四小龙 ： num 分钟 到 上海 的 苏州  房子 正在 特卖
+positive	地产 板块 早盘 走强 金地集团 涨停  国内 num 房企 扩 至 num 家 了
+positive	房地产 板块 活跃 走强  泰禾集团 等 num 股 涨停
+positive	去年 num 大牛股 业绩 骄人  主动 管理 基金 捕获 num 只
+positive	num 只 个 股 新年 创 历史 新高  num 只 绩优股 num 年 潜力 凸显
+positive	房地产 板块 迎 配置 时 点  num 只 个 股 年报 业绩 有望 翻番
+positive	房地产 行业 日报 : num 家 房企 年 销售额 超 num
+positive	资本市场 国际化 或 加速
+positive	东方不亮西方亮  num 年 房企 如何 布局 城市 对冲 风险
+positive	新城控股 临近 收盘 飙升 num %  股价 创 num 年 以来 新高
+positive	房地产 板块 拉升 走强  泰禾集团 等 num 股 涨停
+positive	房地产 行业 跟踪 周报 : 持续 看好 地产 板块 估值 修复
+positive	公告 精选 ： 茅台 春节 前 增加 投放量  上市公司 陆续 披露 业绩 预告
+positive	房地产 股 暴涨 逻辑 揭秘  积极 配置 房产 股 众 券商 表 认可
+positive	新城 发展 ( num HK ) 去年 合同 销售 num , num 人民币  增 num %
+positive	从 长三角 走向 全国  新城 发展 ( num ) 扩张 态势 前行
+positive	房地产 行业 周报 : 板块 迎接 开门红 , 调控 政策 边际 放松 , 重申 看多 龙头 、 重申 行业 推荐
+positive	新城控股 : 单 月 销售 创 年内 新高 , 全年 业绩 有望 超 预期
+positive	新城控股 股价 拉升 num %  股价 创 历史 新高
+positive	炒股 就要 乘势 而 上  均 线 多头 排列 个 股 最新 名单 全 曝光
+positive	房地产 行业 num 年 第2周 地产 周报 : 政策 转 暖 , 紧抓 龙头 与 高 成长 标的
+positive	房地产 板块 走强  泰禾集团 涨停
+positive	新城控股 下 午盘 大幅 拉升 num %  股价 创 历史 新高
+positive	万科A 等 num 只 地产股 创 历史 新高  揭秘 地产 龙头股 飙升 num 逻辑
+positive	num 逻辑 发酵  地产 龙头股 飙升
+positive	新城控股 盘 中 异动  股价 跳水 num %
+positive	房地产 开发 板块 拉升  泰禾集团 涨 近 num %
+positive	四季 报 披露 基金 最新 持仓 动向  交通 运输 等 num 行业 受 青睐
+positive	快讯 ： 房地产 板块 早盘 走强  阳光股份 涨停
+positive	房地产 板块 午后 再度 拉升  阳光城 等 num 股 涨停
+positive	新城控股 临近 收盘 飙升 num %  股价 创 历史 新高
+positive	新城控股 ： 地产 项目 结算 金额 大增  年度 业绩 预增 超 num 成
+positive	新城控股 早盘 大幅 拉升 num %  股价 创 历史 新高
+neutral	业内 探讨 新时代 房地产 行业 发展 走势
+positive	房地产 板块 走强  万科A 盘 中 再 创 历史 新高
+positive	新城控股 ： 业绩 超 预期  买入 评级
+positive	新城控股 下 午盘 大涨 num %  振幅 达 num %
+positive	“ 黑马 ” 跑赢 “ 白马 ” ！ 如何 捕捉 中小创 暴涨 黑马 ？ 这 三大 特征 要 牢记 ！
+positive	龙头 房企 冲击 万亿 销售  机构 ： 四大 逻辑 有望 支撑 行业 继续 上涨
+positive	房地产 开发 板块 拉升  世荣兆业 涨停
+positive	新城控股 下 午盘 大幅 拉升 num %  股价 创 历史 新高
+positive	两市 全天 震荡 收涨  水泥 板块 领涨 市场
+positive	num 月 num 大牛股 涨逾 num 成  地产股 占据 半壁江山
+positive	公募 重仓股 “ 底牌 ” 泄 秘 ：  坚定 持有 平安 、 茅台 、 伊利 ！
+negative	新城控股 几近 跌停  融资 盘 金额 num
+neutral	首届 华夏 地产 投融资 峰会 举办  搭建 业界 交流 新 平台
+positive	房地产 开发 板块 拉升  万通地产 涨停
+positive	地产 行业 num 年年 报 业绩 前瞻 : 业绩 普遍 向好 , 主流 房企 靓丽
+positive	基金 仓位 稍 降  多数 机构 仍然 看好 未来 市场 表现
+negative	新城控股 盘 中 异动  股价 大跌 num %
+positive	num 年 业绩 亮眼 ： 超 num 家 房企 预计 净利润 增幅 超 num %
+negative	新城控股 跌停 num 蒸发  打脸 中银 国际 天风证券 国信证券
+negative	新城控股 盘 中 异动  股价 大跌 num %
+negative	保利地产 下 午盘 大幅 跳水 num %  股价 创 num 月 新低
+positive	天房发展 盘 中 异动  大幅 拉升 num %
+positive	开门红 ！ 新城控股 num 月 销售 近 num  同比 增 num %
+negative	*ST松江 股价 大跌 num %  股价 创 num 年 以来 新低
+negative	房地产 板块 走势 低迷  新城控股 等 num 股 跌停
+negative	新城控股 股价 跳水 num %  股价 创 num 月 新低
+positive	经历 “ 过山车 ” 后  机构 深挖 地产 区域 龙头股
+positive	云南城投 盘 中 异动  早盘 飙升 num %
+positive	宋都股份 盘 中 异动  大幅 拉升 num %
+positive	新城控股 盘 中 异动  下 午盘 拉升 num %
+positive	新城控股 盘 中 异动  早盘 大幅 拉升 num %
+positive	房地产 板块 走势 活跃  保利地产 万科A 等 涨 超 num %
+positive	地产股 盘 中 崛起  阳光城 等 num 股 涨停
+positive	沪指 午后 num 点 附近 震荡  房地产 板块 强势
+positive	地产股 成 近 num 日 反弹 先锋  num 家 机构 看好 该 板块 投资 机会
+positive	融资 收购 动作 频频  长 租 公寓 市场 或 迎 大 整合
+positive	这些 超跌 白马股 机构 看好  会 成为 狗年 的 反弹 先锋 吗 ？
+positive	新零售 成 商业 地产 主力 店  宁 空置 也 要 引进 盒马
+negative	新城控股 盘 中 异动  早盘 跳水 num %
+negative	房地产 板块 持续 走弱  保利地产 跌逾 num %
+negative	房地产 板块 大幅 下挫  新城控股 跌逾 num %
+neutral	房地产 板块 迎来 最佳 配置 时 点 ？
+negative	新城控股 市值 一个 月 蒸发 num  负债 num 业绩 狂飙
+negative	渐进 去 杠杆  房企 融资 门槛 升 利率 涨
+positive	联手 盒马 布局 新零售  新城控股 开启 另类 扩张
+positive	新城控股 二月 份 销售 近 num 亿元
+positive	新城控股 num 月 新增 土储 num 亩  num 高陵 拿 地 再 落子 陕西
+positive	新城控股 ： 拿 地 能力 优异  买入 评级
+positive	新城控股 ： 二月 销售 维持 高 增速  买入 评级
+negative	新城控股 盘 中 异动  大幅 跳水 num %
+negative	房地产 板块 跌幅 居前  新城控股 跌逾 num %
+positive	收 评 ： 沪指 震荡 向 上涨 num %  独角兽 概念股 涨幅 居前
+positive	收 评 ： 科技 题材 全面 爆发  机构 ： 结构性 机会 为主
+positive	A股 龙虎榜 揭秘 ： 机构 最 青睐 num 股 ( 名单 )
+positive	num 机构 抢筹 当升科技  游资 抄底 达华智能
+positive	( 年报 ) 新城控股 num 年 净利 同比 增 num 倍  拟 num 派 num 元
+positive	新城控股 ： 毛利率 水平 大幅 提升  成长 再 提速
+positive	num 年 净利 同比 翻番  新城控股 欲 num 年 冲进 num 阵营
+positive	num 份 年报 揭示 社保 等 num 机构 投资 动向  新 进 与 增持 num 只 个 股  近 九成 业绩 增长
+positive	房企 num 年报 解读 ：  抢占 龙头 地位  扩张 野心 不 减
+positive	num 只 个 股 被 机构 推荐  汽车 等 num 行业 最 受 青睐
+positive	新城控股 ： 毛利率 大幅 改善  业绩 再 超 预期
+neutral	房企 业绩 高 增长 能否 持续
+positive	碧桂园 预收款 倍增  房企 年报 数据 “ 强者恒强 ”
+positive	新城控股 num 年 销售额 剑指 num 亿元
+positive	num 年 “ 目标 ” 大战 开启  房企 吹响 冲击 “ num ” 的 号角
+positive	雅居乐 买 买 买 成 了 危 废 处理 行业 第二 大 公司 ？
+positive	【 西南 地产 】 中美 贸易摩擦 发酵 ， 板块 避险 价值 凸显
+positive	新城控股 入 蓉 num 年 获 num 项目  拿 地 “ 不 挑食 ” 目标 num
+negative	新城控股 早盘 跳水 num %  股价 创 num 月 新低
+positive	新城控股 大幅 拉升 num %  振幅 达 num %
+positive	房地产 板块 继续 走强  沙河股份 ( num -CN ) 等 num 股 涨停
+positive	房地产 开发 板块 持续 走强  荣安地产 等 num 股 涨停
+positive	地产股 集体 拉升  私募 ： num 年 房地产 股 值得 关注
+positive	A股 龙虎榜 揭秘 ： 机构 最 青睐 num 股 ( 名单 )
+positive	num 房企 销售 目标 继续 冲高 ( num )
+positive	有色金属 板块 快速 走强  众源新材 涨停
+positive	有色金属 板块 表现 抢眼  锡业股份 涨 超 num %
+negative	西部矿业 股价 跳水 num %  股价 创 num 月 新低
+negative	西部矿业 早盘 跳水 num %  股价 创 num 月 新低
+negative	西部矿业 下 午盘 大跌 num %  股价 创 num 月 新低
+positive	西部矿业 年报 净利 增 num %  拟 num 派 num 元
+positive	西部矿业 年报 净利润 num  num  同比 增 num %
+positive	西部矿业 num 年 净利 增 num 倍
+positive	西部矿业 num 季报 净利 预增 num %
+positive	西部矿业 股价 大涨 num %  量 比 达 num
+positive	桐昆股份 股价 拉升 num %  股价 创 num 年 以来 新高
+positive	石油 化工 行业 : 炼化 政策 趋于 明朗 , 利好 民营 大 炼化 和 两桶油
+positive	石油 化工 行业 : num 年 化工 品 价差 普遍 扩大 , 关注 受益 公司 !
+positive	日 赚 num % 长线 高手 爆料 其 详细 选股 逻辑
+positive	化工 行业 周报 : 复 合肥 价格 上涨 , 氟化工 产品 整体 反弹
+positive	桐昆股份 : PTA 成功 试运行 , 全 产业链 布局 构建 综合 竞争 优势
+positive	石油 化工 行业 跟踪 报告 : 地缘 政治 引发 油价 上涨 预期 , 关注 num 年 石化 行业 投资 主线
+positive	桐昆股份 股价 拉升 num %  股价 创 num 年 以来 新高
+positive	国际 油价 中枢 有望 继续 上移  机构 解读 石化 行业 投资 逻辑
+positive	桐昆股份 : 全 产业链 布局 完整 , 涤纶 长丝 龙头 起航
+positive	石油 化工 行业 num 年 投资 策略 : 重视 石化 配置 价值
+positive	化工 行业 : TDI 、 制冷剂 涨价 , 尿素 供给 紧张 仍 未 缓解
+positive	石油 化工 行业 : 民营 大 炼油 系列 报告 之 PX 供需 格局 , 国内 产能 扩张 加速 , 一体化 提升 竞争力
+positive	石油 化工 行业 原油 周 观点 : 伊朗 局势 动荡 , 油价 升 至 num 年 半 新高
+neutral	石油 开采 行业 每周 油 记 : 油价 要冲 num ? 抑或 跌 回 num ?
+positive	桐昆股份 股价 拉升 num %  股价 创 num 年 以来 新高
+positive	化工 行业 周报 : 华东 区 己 num 酸 价格 上涨 , 国际 原油 价格 再创新高
+positive	基础 化工 行业 周报 : 己 num 酸 、 维生素 依然 强势 , 关注 化肥 春耕 行情
+positive	石油 化工 行业 num 年 投资 策略 之 num : 民营 炼化 巨头 的 崛起
+positive	化工 行业 周报 : 油价 维持 高位 , 关注 PTA 、 PO 价格 上涨
+positive	石油 化工 行业 跟踪 报告 : 规范 成品油 消费税 征收 管理 , 炼化 行业 有序化 进程 加快
+positive	石油 化工 行业 周 美国 原油 产量 小幅 增加 , 库存 持续 波动 下降 报 : 板块 涨幅 居首 , 推荐 关注 中国石化 、 四大 民营 炼化
+positive	石油 化工 行业 : EIA 月报 出炉 , 这次 超 预期 的 是 需求
+positive	石化 行业 日报 : 上周 API 原油 库存 下降 num 桶
+positive	蓝筹 白马股 仍 是 热点 之 王
+negative	桐昆股份 盘 中 异动  股价 大跌 num %
+positive	化工 ： 重点 关注 石油 炼化  荐 num 股
+positive	肥料 价格 先后 上涨  关注 化肥 行业 的 春耕 行情
+positive	化工 行业 周报 : 天然气 上涨 原油 高位 , 继续 关注 石化 煤化工 产业链 及 农 化 板块
+positive	化工 行业 投资 周报 : 油价 继续 上涨 , num 油 具备 配置 价值
+positive	桐昆股份 年报 预增 num %- num %
+neutral	num 月 num 日 晚间 重要 公告 集锦
+positive	桐昆股份 ： 需求 带动 长丝 超 预期  买入 评级
+positive	桐昆股份 : num 年 业绩 大增 , 后续 内 生 高 增长 + 参股 浙 石化 , 盈利 有望 再 上台阶
+positive	化肥 板块 午后 持续 走强  鲁西化工 涨 超 num %
+positive	抱团 行业 龙头 成 配置 主流  逾 num 家 机构 扎堆 看好 num 只 个 股
+positive	化工 ： 双氧水 、 制冷剂 价格 上涨 , PVC- 电石 、 草甘膦 - 甘氨酸 价差 扩大
+negative	桐昆股份 盘 中 异动  早盘 跳水 num %
+positive	桐昆股份 ： 新年 首 月 产销 均 实现 num 位数 增长
+positive	基础 化工 行业 : 己 num 酸 再 探 新高 , 氟化工 持续 回暖
+negative	桐昆股份 股价 大跌 num %  股价 创 num 月 新低
+positive	化工 ： 持续 关注 高 污染 及 尿素 行业  荐 num 股
+positive	桐昆股份 盘 中 异动  下 午盘 飙涨 num %
+positive	num 只 股 短线 走 稳  站上 num 日均 线
+positive	桐昆股份 拟 num 亿元 实施 技改 项目 与 智能化 项目
+positive	公告 精选 ： 梅雁吉祥 举牌 方 有意 谋求 控制权 ； 贵州燃气 提示 风险
+positive	石油 化工 行业 第五期 : 大 炼化 聚酯 产业链 周报
+negative	桐昆股份 盘 中 异动  大幅 跳水 num %
+positive	化工 ： PA num 及 烧碱 市场 明显 上行  荐 num 股
+positive	桐昆股份 ： num 年 净利 增长 num %  拟 num 转 num 派 num
+positive	桐昆股份 年报 净利 增 num %  拟 num 转 num 派 num 元
+positive	num 公司 年报 净利 大增  社保 基金 新晋 num 大股东 榜
+positive	桐昆股份 拟 发 num 亿元 可转债
+positive	桐昆股份 ： 长丝 产能 快速 扩张  业绩 弹性 十足
+positive	num 份 年报 揭示 社保 等 num 机构 投资 动向  新 进 与 增持 num 只 个 股  近 九成 业绩 增长
+negative	桐昆股份 ： 受 供给侧 改革 影响  新项目 产能 释放 增速 下降
+positive	num 只 个 股 被 机构 推荐  汽车 等 num 行业 最 受 青睐
+positive	社保 基金 num 四季 度 新 进 num 家 公司  医药 制造 等 最 受 青睐
+positive	num 指标 锁定 num 只 成长股  num 只 潜力股 获 多 家 机构 力荐
+positive	num 指标 锁定 num 只 成长股  num 股 获 多 机构 力荐
+negative	桐昆股份 股价 大跌 num %  股价 创 num 月 新低
+negative	桐昆股份 股价 跳水 num %  股价 创 num 月 新低
+positive	石油 化工 行业 原油 周报 第44期 : 原油 价格 攀升 至 num 美元 / 桶 新高
+positive	化工 行业 周报 : 原油 和 磷 矿石 价格 上涨 , 涤纶 长丝 价差 持续 扩大
+positive	石油 化工 行业 第九期 : 大 炼化 聚酯 产业链 周报
+positive	基础 化工 行业 周报 : 原油 价格 强势 反弹 , 涤 丝 利润 上升 , 纯碱 市场 升温
+positive	桐昆股份 股价 大涨 num %  振幅 达 num %
+positive	桐昆股份 ： 一季度 净利 预增 num %- num %
+positive	桐昆股份 一季度 预增 num %- num %  因 涤纶 长丝 需求 增加
+positive	国家队 资金 最新 持仓 动向 曝光
+positive	桐昆股份 股价 大涨 num %  量 比 达 num
+positive	招商轮船 股价 大涨 num %  股价 创 num 月 新高
+positive	低价股 异动  num 指标 圈定 马钢股份 等 num 只 num 元 以下 潜力股
+positive	四季 报 披露 基金 最新 持仓 动向  交通 运输 等 num 行业 受 青睐
+negative	招商轮船 ： 油轮 运输 市场 供需 失衡  净利 预 降 超 num 成
+negative	招商轮船 年报 预 减 num %- num %
+neutral	公告 精选 ： 乐视网 明日 复牌 ； 多 家 公司 推 高 送 转 方案
+negative	招商轮船 股价 跳水 num %  股价 创 num 年 以来 新低
+negative	海峡股份 盘 中 异动  早盘 大跌 num %
+positive	“ 一带一路 ” 被 机构 点 赞  社保 QFII 同时 重仓 num 只 股
+positive	房地产 行业 周报 : 龙头 销量 持续 超 预期
+neutral	年初 北京 房贷 利率 调查 ： 首 套 普遍 上浮 num % 　 大 行 额度 较 宽松
+positive	厉害 了 银行股  三大 行 齐 创新高 为 啥 就 这么 “ 红 ” ？
+positive	高 盛 料 内 银 股 净息差 可 续 扩 阔  升 建行 及 招行 评级 至 买入
+negative	浦发银行 num 大案 启示录 ： 金融 机构 第一 线 正在 溃退
+positive	大和 升 内 银 股评 级 至 中性  首选 建行 等
+positive	金融 高 管 密集 空降 京津 沪  地方 金 改 料 提速
+positive	瑞银 ： 建行 估值 仍 低  升 目标价 至 num 元
+neutral	【 一线 】 郁 亮 卸任 万科 总裁  接任 的 祝 num 胜 是 谁 ？
+positive	【 棱镜 】 深圳 “ 地头蛇 ” 祝 num 胜 ： 万科 转型 拯救者  潮汕 老板 叫 num 哥
+positive	楼市 变局 降临 ？ 这个 市场 已 火 你 租房 能 省 一大 笔 钱
+negative	媒体 ： 房地产 金融 的 非 标 业务 正 受到 监管部门 的 严 监管
+neutral	周 小 川 胡 怀 邦 等 金融 工作者 恭贺 新春  畅谈 新时代
+negative	大华 继 显 降 建行 H股 目标价
+negative	多 地 房贷 利率 出现 上扬  今年 调控 基调 或 仍 将 从严
+positive	num 家 大型 银行 河北 雄 安 分行 今 开业 ： 工行 、 农行 、 中 行 、 建行
+negative	改革者 郭 树 清 和 银行业 的 num 天 ： 严 监管 、 补短 板
+neutral	周 小 川 与 央行 的 num 年 “ 情缘 ” ： num 年 突然 满头 白发
+positive	建行 与 新派 公寓 发起 住房 租赁 资产证券化 专项 并购 基金
+neutral	住建部 部长 ： 每天 上班 要 看 各地 房价  年轻时 也 租 过 房
+positive	大国 行长 周 小 川 num ｜ 中国 技术 官僚 的 高峰
+neutral	周 小 川 和 大国 央行 num 年
+positive	棱镜  |  “ 改革派 ” 郭 树 清 ： 首任 银 保监会 主席 的 学术 范 与 破局 力
+positive	银保 正式 合并 ！ 郭 树 清 任 首届 银 保监会 主席
+positive	一线 | 建行 首份 住房 租赁 成绩 ： 半 年 上 线 num 套 ， 出租 num 套
+negative	财经 读报 ： 美联储 加息  央行 公开 市场 操作 利率 上行
+positive	全球 最大 的 num 家 银行 ： 中国 的 银行 包揽 前 num
+positive	建设银行 ： num 净利润 num 亿元 ， 同比 增 num %
+positive	瑞信 ： 建行 业绩 符 预期  目标价 num 元
+positive	大 摩 ： 建行 盈利 增长 加速  重申 增持 评级
+positive	越来越 多 银行 以 房屋 租赁 贷款 名义 放贷 ， num 次 甚至 能 贷 num
+positive	建设银行 雄 安 分行 发放 首 笔 “ 雄 安 支持 贷 ” ： num 已 到账
+positive	新华社 评 上市 银行 年 报 ： 盈利 能力 回升  资产 质量 趋 稳
+neutral	财经 读报 | 北京 房租 年 后 小幅 上涨  非法 互联网 资管 num 月底 前清 num
+positive	五大 行 去年 减员 num  平均 年薪 num
+positive	租 购 并举 不是 房企 独角戏  专家 : 地产 金融 双 轮 并进
+neutral	巴 曙 松 ： H股 全 流通 试点 对 香港 市场 影响 几何 ？
+positive	多 个 行业 和 题材 走好  沪指 涨 近 num % 创 num 个 月 新高
+positive	快讯 ： 银行 板块 盘 中 积极 做 多  平安银行 涨幅 过 num %
+positive	银行 板块 表现 抢眼  平安银行 涨逾 num %
+positive	银行 板块 快速 上涨  央行 建立 临时 准备金 动用 安排
+positive	房地产 行业 周报 : 国有 大 行 纷纷 抢滩 房屋 租赁 市场
+negative	建设银行 盐池 支行 违法 存贷 挂钩
+positive	银保 “ 开门 ” 怎么 红 ？
+positive	H股 全 流通 试点 提升 H股 价值  夯实 港股 “ 牛气 ”
+positive	香港 智 远 ： 建设银行 延续 近日 强势  留意 建行 购 num
+negative	建行 分 行 员工 挪用 num 买彩票  案发 前 还欠 num 未 还
+positive	银行 行业 周报 : 应对 春节 流动性 需求 , 央行 建立 临时 准备金 动用 安排
+positive	绿地控股 动态 点评 : 成立 雄 安 公司 , 享受 政策 红利 和 区域 升值
+positive	花旗 料 内 银 股 续 获 重估  吁 吸纳 工行 、 建行 及 招行
+positive	num 利 资源 集团 与 中国 建设银行 签署 全面 战略 合作 协议
+positive	还 在 为 年 费 头疼 ？  莫 急 ！ 这些 银行 信用卡 有 优惠
+positive	建行 位居 num 年 非 金 债券 承销 量 榜首
+positive	香港 智 远 ： 中国平安 回 软  留意 平安 购 num
+positive	净值 型 银行 理财 产品 年 收益 最高 超 num %
+positive	云 从 科技 人脸识别 平台 获 发改委 人工智能 重大 工程 支持
+positive	公告 精选 ： 茅台 春节 前 增加 投放量  上市公司 陆续 披露 业绩 预告
+positive	联手 建行 num 布局 住房 租赁 业务  合肥城建 谋 “ 金融 + 地产 ” 转型
+negative	聚焦 公募 基金 num 年 ： 铁打 的 公司  流水 的 总经理
+positive	福耀玻璃 ( num HK ) 为 子公司 提供 连带 责任 保证 担保
+positive	五大 行 抢滩 住房 租赁  万亿 风口 存 回报率 痛 点
+positive	建行 ( num HK ) 成功 办理 业内 首 笔 区块链 国际 保理 业务
+neutral	货币 银行 系列 之一 : LCR 不 影响 银行 资金 融 出 意愿
+positive	银行股 表现 抢眼  兴业银行 涨 超 num %
+positive	银行 板块 领涨  兴业银行 ( num -CN ) 涨 超 num %
+positive	中 金 ： 中资 银行 将 迎来 系统性 重估  中小银行 业绩 迎来 反转
+positive	联手 国开行 建行 等 国有 银行  上海 租赁 住房 市场 再 “ 加速  ”
+positive	A股 公司 蹭 “ 区块链 ” 热点  num 只 概念股 封 涨停
+positive	上海市 政府 与 国开行 和 建行 达成 合作 备忘录  共 推 住房 租赁 市场 发展
+positive	银行 板块 走强  兴业银行 涨逾 num %
+negative	资管 将 戴 紧箍咒 ： 短期 理财 或 将 消失  银行 不再 承诺 保本
+positive	中资 银行 不良 率 或 已 见 顶  南下 资金 连日 大笔 买入 H股
+positive	银行业 盈利 和 估值 双 轮 驱动  北上资金 抢筹 银行股
+neutral	杭州银行 num 产品 收益率 不足 num %  建行 num 产品 现身 后 num
+positive	野村 ： 上调 四大 内 银 净息差 及 盈 测  看好 工行 ( num ) 及 建行 ( num )
+positive	num ， 哪些 楼市 政策 在 路上 ？
+positive	德 银 ： 维持 建行 “ 买入 ” 评级  目标价 num 元
+positive	银行 板块 发力 上涨  农业银行 涨逾 num %
+positive	租房 也 能 贷款 了 ： “ 租房 族 ” 还 能 省 下 一大 笔 钱
+positive	恒 指 收涨 num % 报 num 点  连涨 num 天 创纪录
+negative	毛 振华 雪地 陈情 破局 背后 ： 亚布力 阳光 度假村 去年 已 转手 债权 方
+negative	你 多久 没 去 银行 柜台 了 ？ 客户 喊 苦 ： 这里 已 是 VIP 们 的 银行
+negative	银行业 ： 回归 本源  服务 实体
+positive	银行 板块 拉升 走强  宁波银行 领涨
+positive	保险 板块 领涨 两市  中国平安 涨 近 num %
+positive	AH 股 联动  港股 内 险 股 和 内 银 股 走强
+positive	银行股 午后 继续 强势  平安银行 涨 超 num %
+positive	A股 情报局 ： 春季 躁动 关注 涨价 品种 的 机会
+negative	谁 在 砸盘 连阳 ： 顺丰控股 负 贡献 居首 ， 新能源车 概念 组团 打压
+negative	建设银行 晋中 违规 由 客户 承担 房产 抵押 评估费
+positive	恒 指 收涨 num % 报 num 点  收盘 创 收盘 历史 新高
+negative	建设银行 金华 信贷资金 违规 流入 股市
+positive	地方 版 住房 租赁 配套 细则 加速 落地
+neutral	中环 资产 ： 港股 既 非 泡沫  亦 暂 未 算 疯 牛
+positive	住房 租赁 资产证券化 迎风 口  REITs 要 挑大梁 ？
+positive	银行股 活跃 走强  张家港行 涨停
+positive	沪指 震荡 涨 num %  土地 流转 板块 集体 拉升
+positive	工农 建 三大 行 盘 中 股价 均 创 历史 新高
+positive	香港 智 远 ： 香港 交易所 急升  留意 港 交 购 num
+positive	杨 饭 ： 恒 指 创 历史 记录  该 撤退 还是 再 冲锋 ？
+positive	港股 大时代 仍 在 进行  面对 新高 需 做好 num 准备
+positive	沪指 盘 中 创 反弹 新高  机构 看好 行情 延续性
+positive	金融 板块 上涨 有 迹 可 循  num 选手 押 中 num 牛股
+positive	银行 板块 快速 走强  张家港行 涨 超 num %
+positive	恒 指 涨 num % 报 num 点  中资 券商 股 集体 上涨
+positive	次 新 银行股 集体 拉升  分析 人士 ： 最 便宜 的 品种
+positive	沪指 中阳 逼近 num 点  建行 大涨 num %
+positive	恒 指 半日 num %  中资 金融股 走强
+positive	银行股 尾盘 小幅 拉升  两市 全天 震荡 收涨
+positive	恒 指 收涨 num % 稳 守 num 关口  盘 中 续 创 历史 新高
+positive	南下 资金 扫货 港股 金融股  港股通 净流入 工商银行 num 港元
+positive	又 一家 大 行 推出 住房 租赁 贷款  农行 全面 进入 住房 租赁 市场
+positive	恒 指 续 创 历史 新高 机构 看好 num 只 低价 A + H股
+positive	银行股 基建 股 联袂 上涨  沪指 现 num 连阳
+positive	工农 建 三大 行 齐 创新高  num 只 银行股 对 H股 全面 溢价
+positive	银行股 大涨 背后 的 戴维斯 双击
+positive	蓝筹股 行情 延续  num 只 低估值 大盘股 尚未 涨 起来 ( 附 股 )
+positive	机构 最新 持仓 曝光 ！ 抛 什么 买 什么 ， 这里 全 有 ！
+positive	利好 连连 新高 不断  超级 大盘股 涨 疯 了
+positive	新 投资 主线 正在 形成
+positive	午 评 ： 沪指 继续 刷新 num 年 新高  银行 板块 涨 超 num % 领涨 两市
+negative	青岛 银监局 行政 处罚 信息 公开 表 ( 建设银行 青岛 中山路 支行 )
+positive	最新 num 批 牛股 名单 出炉 ！ 最大 黑马 竟是 它 ？
+negative	建设银行 青岛 办理 保理 业务 违法 违规  银监局 罚 num
+negative	建设银行 青岛 办理 贸易 融资 业务 违法 违规  银监局 罚 num
+neutral	几 家 欢乐 几 家 愁 ？ num 批 股 创新高 也 有 num 批 创出 新 低 ， 走势 分化 最大 原因 竟是 这个 ！
+neutral	付 房租 ， 你 愿意 贷款 吗 ？
+positive	四季 度 基金 坚守 高仓位  调仓 换股 曝光 三大 新动向
+positive	香港 智 远 ： 中国平安 新高  留意 平安 购 num
+neutral	付 房租 你 愿意 贷款 吗 ？  佛山 租 房贷 尚无 num 人 申请
+neutral	深圳 首批 推出 num 套 长 租房 源 ， num 套 成交 ， 其中 num 位 租户 申请 租房 贷款
+positive	银行 的 高潮 能否 延续
+positive	大华 继 显 ： 银监会 制定 num 年 工作 重点  首选 建行 及 工行
+positive	大 行 热捧 内 银 股  今日 新 上市 高杠杆 建行 牛 证 num
+negative	建设银行 嘉兴 信贷资金 违规 进 房 市  向 未 竣工 房 发放 按揭
+negative	信用卡 积分 回馈 成 羊毛 党 盛宴  普通 持卡人 难 享 到 优惠
+positive	香港 智 远 ： 中国平安 破 顶  留意 平安 购 num
+positive	银行 板块 活跃 走强  建行 ( num -CN ) 盘 中 涨 超 num %
+positive	银行 板块 持续 走强  建设银行 涨逾 num %
+positive	银行股 午后 延续 强势  吴江银行 涨逾 num %
+negative	银行股 午后 冲高 回落  涨幅 缩窄
+positive	工商银行 总市值 超 摩根 大通  成 全球 第一 大 行
+positive	收 评 ： 沪指 大涨 num %  银行 地产 强势 拉升
+positive	银行 和 地产股 持续 发力  沪指 大涨 逾 num % 刷新 num 年 新高
+positive	恒 指 半日 涨 num % 再 刷新 新高  中资 银行股 走强
+positive	多 路 蓝筹 集体 发力  沪指 再 创 num 年 新高
+positive	利润 、 资产 质量 预期 稳定  银行股 集体 起舞
+positive	沪深300 红利指数 跑赢 A股 各 大 指数  机构 ： 高分红 板块 或 成 全年 行情 主线
+positive	工商银行 市值 登顶 全球 银行股 冠军 ！ 美股 银行股  Vs  A股 银行股 估值 大 PK
+neutral	新年 布局 股 债 “ 一手 抓 ”  建信 智 享 添 鑫 定 开 混合 基金 num 月 num 日 起 发行
+positive	沪指 num 天 num 涨大 蓝筹股 站 风口  num 只 个 股 价格 创 历史 新高
+positive	银行 地产 强势 领涨  A股 港股 携手 创新高
+positive	年报 预期 激发 银行股 走强  多 家 机构 称 是 num 年 标 配
+positive	工行 成 全球 第一 大 行  num 万亿 市值 超越 摩根 大通
+positive	金融 H股 年内 领涨  价值 重估 仍 将 延续
+positive	A股 情报局 ： num 年 宏观 num 个 超 预期 的 方向
+positive	年内 逾 num 北上资金 进场  num 只 成长 龙头股 或 迎 升 机
+negative	张家港行 解禁 首日 跌停  这些 限售股 即将 大 比例 解禁
+positive	内 银 整固 中行 逆市 升 ， 留意 建行 牛 num  /  工行 牛 num  /  中行 牛 num
+positive	银行 行业 点评 报告 : 基金 num 季度 持仓 银行股 比例 num % ; 大 类 资金 会 加大 其 配置
+positive	金融 ： 银行 仓位 继续 提升  荐 num 股
+positive	野村 ： 南向 资金 num 月 以来 明显 流入 内 银 股  首选 工行 及 建行
+positive	生猛 不过 港股 ！ 这些 AH 股 或 成 价值 洼地 ( 名单 )
+positive	北京 金 博 会 开幕 金融 机构 秀 科技 “ 肌肉 ”
+positive	三大 需求 助推 ABS 上 风口
+positive	数据 控 在 解 盘 : 港股 牛市 在 急剧 分化  num 股 创新高 num 股 创 新低
+positive	【 num 股 通 交易 追踪 】 num 股 通 净流入 num ， 电子 板块 获 青睐 ， 多 只 银行股 遭 抛售
+positive	业绩 提升 券商 看好 机构 增配  银行股 仍 有 上升 空间
+positive	金融 H股 年内 领涨  价值 重估 仍 将 延续
+positive	银行 行业 : 定向降准 对 银行 影响 测算 , 提升 利润 num 个 百分点
