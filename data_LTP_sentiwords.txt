@@ -198,11 +198,11 @@ POSITIVE	并购案	并购案
 POSITIVE	并购案	并购案
 POSITIVE	并购案	并购案
 POSITIVE	并购案	并购案
-POSITIVE	遣 将 布阵	遣 将 布阵	遣 布阵 遣 将 将 布阵	遣 将 布阵
-POSITIVE	遣 将 布阵	遣 将 布阵	遣 布阵 遣 将 将 布阵	遣 将 布阵
-POSITIVE	遣 将 布阵	遣 将 布阵	遣 布阵 遣 将 将 布阵	遣 将 布阵
-POSITIVE	遣 将 布阵	遣 将 布阵	遣 布阵 遣 将 将 布阵	遣 将 布阵
-POSITIVE	遣 将 布阵	遣 将 布阵	遣 布阵 遣 将 将 布阵	遣 将 布阵
+POSITIVE	遣 将 布阵	遣 将 布阵	遣 布阵 布阵 将	遣 布阵 将
+POSITIVE	遣 将 布阵	遣 将 布阵	遣 布阵 布阵 将	遣 布阵 将
+POSITIVE	遣 将 布阵	遣 将 布阵	遣 布阵 布阵 将	遣 布阵 将
+POSITIVE	遣 将 布阵	遣 将 布阵	遣 布阵 布阵 将	遣 布阵 将
+POSITIVE	遣 将 布阵	遣 将 布阵	遣 布阵 布阵 将	遣 布阵 将
 POSITIVE	并购 重组	重组 并购	并购 重组
 POSITIVE	并购 重组	重组 并购	并购 重组
 POSITIVE	并购 重组	重组 并购	并购 重组
@@ -623,11 +623,11 @@ POSITIVE	称王	称王
 POSITIVE	称王	称王
 POSITIVE	称王	称王
 POSITIVE	称王	称王
-NEGATIVE	撑 不 起	撑 起 不	不 起 撑 起 撑 不	撑 不 起
-NEGATIVE	撑 不 起	撑 起 不	不 起 撑 起 撑 不	撑 不 起
-NEGATIVE	撑 不 起	撑 起 不	不 起 撑 起 撑 不	撑 不 起
-NEGATIVE	撑 不 起	撑 起 不	不 起 撑 起 撑 不	撑 不 起
-NEGATIVE	撑 不 起	撑 起 不	不 起 撑 起 撑 不	撑 不 起
+NEGATIVE	撑 不 起	撑 起 不	撑 起 起 不	撑 起 不
+NEGATIVE	撑 不 起	撑 起 不	撑 起 起 不	撑 起 不
+NEGATIVE	撑 不 起	撑 起 不	撑 起 起 不	撑 起 不
+NEGATIVE	撑 不 起	撑 起 不	撑 起 起 不	撑 起 不
+NEGATIVE	撑 不 起	撑 起 不	撑 起 起 不	撑 起 不
 POSITIVE	成功	成功
 POSITIVE	成功	成功
 POSITIVE	成功	成功
@@ -648,11 +648,11 @@ POSITIVE	成果 显著	成果 显著	显著 成果
 POSITIVE	成果 显著	成果 显著	显著 成果
 POSITIVE	成果 显著	成果 显著	显著 成果
 POSITIVE	成果 显著	成果 显著	显著 成果
-NEGATIVE	成交 密集 区	成交 区 密集	成交 密集 密集 区 成交 区	成交 密集 区
-NEGATIVE	成交 密集 区	成交 区 密集	成交 密集 密集 区 成交 区	成交 密集 区
-NEGATIVE	成交 密集 区	成交 区 密集	成交 密集 密集 区 成交 区	成交 密集 区
-NEGATIVE	成交 密集 区	成交 区 密集	成交 密集 密集 区 成交 区	成交 密集 区
-NEGATIVE	成交 密集 区	成交 区 密集	成交 密集 密集 区 成交 区	成交 密集 区
+NEGATIVE	成交 密集 区	成交 区 密集	成交 区 区 密集	成交 区 密集
+NEGATIVE	成交 密集 区	成交 区 密集	成交 区 区 密集	成交 区 密集
+NEGATIVE	成交 密集 区	成交 区 密集	成交 区 区 密集	成交 区 密集
+NEGATIVE	成交 密集 区	成交 区 密集	成交 区 区 密集	成交 区 密集
+NEGATIVE	成交 密集 区	成交 区 密集	成交 区 区 密集	成交 区 密集
 POSITIVE	成就	成就
 POSITIVE	成就	成就
 POSITIVE	成就	成就
@@ -1378,11 +1378,11 @@ POSITIVE	动能 转换	转换 动能	转换 动能
 POSITIVE	动能 转换	转换 动能	转换 动能
 POSITIVE	动能 转换	转换 动能	转换 动能
 POSITIVE	动能 转换	转换 动能	转换 动能
-NEGATIVE	逗 我 的	我 的 逗	逗 我 逗 的 的 我	逗 的 我
-NEGATIVE	逗 我 的	我 的 逗	逗 我 逗 的 的 我	逗 的 我
-NEGATIVE	逗 我 的	我 的 逗	逗 我 逗 的 的 我	逗 的 我
-NEGATIVE	逗 我 的	我 的 逗	逗 我 逗 的 的 我	逗 的 我
-NEGATIVE	逗 我 的	我 的 逗	逗 我 逗 的 的 我	逗 的 我
+NEGATIVE	逗 我 的	我 的 逗	逗 我 我 的	逗 我 的
+NEGATIVE	逗 我 的	我 的 逗	逗 我 我 的	逗 我 的
+NEGATIVE	逗 我 的	我 的 逗	逗 我 我 的	逗 我 的
+NEGATIVE	逗 我 的	我 的 逗	逗 我 我 的	逗 我 的
+NEGATIVE	逗 我 的	我 的 逗	逗 我 我 的	逗 我 的
 POSITIVE	独领风骚	独领风骚
 POSITIVE	独领风骚	独领风骚
 POSITIVE	独领风骚	独领风骚
@@ -1393,11 +1393,11 @@ POSITIVE	短期 低点	低点 短期	低点 短期
 POSITIVE	短期 低点	低点 短期	低点 短期
 POSITIVE	短期 低点	低点 短期	低点 短期
 POSITIVE	短期 低点	低点 短期	低点 短期
-NEGATIVE	短期 高 点	高 点 短期	点 短期 点 高 短期 高	点 短期 高
-NEGATIVE	短期 高 点	高 点 短期	点 短期 点 高 短期 高	点 短期 高
-NEGATIVE	短期 高 点	高 点 短期	点 短期 点 高 短期 高	点 短期 高
-NEGATIVE	短期 高 点	高 点 短期	点 短期 点 高 短期 高	点 短期 高
-NEGATIVE	短期 高 点	高 点 短期	点 短期 点 高 短期 高	点 短期 高
+NEGATIVE	短期 高 点	高 点 短期	点 高 高 短期	点 高 短期
+NEGATIVE	短期 高 点	高 点 短期	点 高 高 短期	点 高 短期
+NEGATIVE	短期 高 点	高 点 短期	点 高 高 短期	点 高 短期
+NEGATIVE	短期 高 点	高 点 短期	点 高 高 短期	点 高 短期
+NEGATIVE	短期 高 点	高 点 短期	点 高 高 短期	点 高 短期
 NEGATIVE	断崖	断崖
 NEGATIVE	断崖	断崖
 NEGATIVE	断崖	断崖
@@ -1598,11 +1598,11 @@ NEGATIVE	妨碍	妨碍
 NEGATIVE	妨碍	妨碍
 NEGATIVE	妨碍	妨碍
 NEGATIVE	妨碍	妨碍
-NEGATIVE	放 狠 话	狠 话 放	放 狠 狠 话 放 话	放 狠 话
-NEGATIVE	放 狠 话	狠 话 放	放 狠 狠 话 放 话	放 狠 话
-NEGATIVE	放 狠 话	狠 话 放	放 狠 狠 话 放 话	放 狠 话
-NEGATIVE	放 狠 话	狠 话 放	放 狠 狠 话 放 话	放 狠 话
-NEGATIVE	放 狠 话	狠 话 放	放 狠 狠 话 放 话	放 狠 话
+NEGATIVE	放 狠 话	狠 话 放	话 狠 放 话	放 话 狠
+NEGATIVE	放 狠 话	狠 话 放	话 狠 放 话	放 话 狠
+NEGATIVE	放 狠 话	狠 话 放	话 狠 放 话	放 话 狠
+NEGATIVE	放 狠 话	狠 话 放	话 狠 放 话	放 话 狠
+NEGATIVE	放 狠 话	狠 话 放	话 狠 放 话	放 话 狠
 NEGATIVE	放缓	放缓
 NEGATIVE	放缓	放缓
 NEGATIVE	放缓	放缓
@@ -1853,11 +1853,11 @@ NEGATIVE	尴尬	尴尬
 NEGATIVE	尴尬	尴尬
 NEGATIVE	尴尬	尴尬
 NEGATIVE	尴尬	尴尬
-NEGATIVE	干 你 妈	你 干 妈	干 你 你 妈 干 妈	干 你 妈
-NEGATIVE	干 你 妈	你 干 妈	干 你 你 妈 干 妈	干 你 妈
-NEGATIVE	干 你 妈	你 干 妈	干 你 你 妈 干 妈	干 你 妈
-NEGATIVE	干 你 妈	你 干 妈	干 你 你 妈 干 妈	干 你 妈
-NEGATIVE	干 你 妈	你 干 妈	干 你 你 妈 干 妈	干 你 妈
+NEGATIVE	干 你 妈	你 干 妈	干 妈 妈 你	干 妈 你
+NEGATIVE	干 你 妈	你 干 妈	干 妈 妈 你	干 妈 你
+NEGATIVE	干 你 妈	你 干 妈	干 妈 妈 你	干 妈 你
+NEGATIVE	干 你 妈	你 干 妈	干 妈 妈 你	干 妈 你
+NEGATIVE	干 你 妈	你 干 妈	干 妈 妈 你	干 妈 你
 NEGATIVE	刚性 约束	约束 刚性	约束 刚性
 NEGATIVE	刚性 约束	约束 刚性	约束 刚性
 NEGATIVE	刚性 约束	约束 刚性	约束 刚性
@@ -1933,11 +1933,11 @@ NEGATIVE	割肉	割肉
 NEGATIVE	割肉	割肉
 NEGATIVE	割肉	割肉
 NEGATIVE	割肉	割肉
-NEGATIVE	给 老子 滚	老子 给 滚	滚 老子 滚 给 老子 给	滚 老子 给
-NEGATIVE	给 老子 滚	老子 给 滚	滚 老子 滚 给 老子 给	滚 老子 给
-NEGATIVE	给 老子 滚	老子 给 滚	滚 老子 滚 给 老子 给	滚 老子 给
-NEGATIVE	给 老子 滚	老子 给 滚	滚 老子 滚 给 老子 给	滚 老子 给
-NEGATIVE	给 老子 滚	老子 给 滚	滚 老子 滚 给 老子 给	滚 老子 给
+NEGATIVE	给 老子 滚	老子 给 滚	滚 给 给 老子	滚 给 老子
+NEGATIVE	给 老子 滚	老子 给 滚	滚 给 给 老子	滚 给 老子
+NEGATIVE	给 老子 滚	老子 给 滚	滚 给 给 老子	滚 给 老子
+NEGATIVE	给 老子 滚	老子 给 滚	滚 给 给 老子	滚 给 老子
+NEGATIVE	给 老子 滚	老子 给 滚	滚 给 给 老子	滚 给 老子
 POSITIVE	给力	给力
 POSITIVE	给力	给力
 POSITIVE	给力	给力
@@ -2103,11 +2103,11 @@ NEGATIVE	滚蛋	滚蛋
 NEGATIVE	滚蛋	滚蛋
 NEGATIVE	滚蛋	滚蛋
 NEGATIVE	滚蛋	滚蛋
-NEGATIVE	滚 你 妈	你 妈 滚	你 妈 滚 妈 滚 你	滚 你 妈
-NEGATIVE	滚 你 妈	你 妈 滚	你 妈 滚 妈 滚 你	滚 你 妈
-NEGATIVE	滚 你 妈	你 妈 滚	你 妈 滚 妈 滚 你	滚 你 妈
-NEGATIVE	滚 你 妈	你 妈 滚	你 妈 滚 妈 滚 你	滚 你 妈
-NEGATIVE	滚 你 妈	你 妈 滚	你 妈 滚 妈 滚 你	滚 你 妈
+NEGATIVE	滚 你 妈	你 妈 滚	滚 妈 妈 你	滚 妈 你
+NEGATIVE	滚 你 妈	你 妈 滚	滚 妈 妈 你	滚 妈 你
+NEGATIVE	滚 你 妈	你 妈 滚	滚 妈 妈 你	滚 妈 你
+NEGATIVE	滚 你 妈	你 妈 滚	滚 妈 妈 你	滚 妈 你
+NEGATIVE	滚 你 妈	你 妈 滚	滚 妈 妈 你	滚 妈 你
 NEGATIVE	滚 求	求 滚	滚 求
 NEGATIVE	滚 求	求 滚	滚 求
 NEGATIVE	滚 求	求 滚	滚 求
@@ -2193,11 +2193,11 @@ NEGATIVE	好 烂	烂 好	烂 好
 NEGATIVE	好 烂	烂 好	烂 好
 NEGATIVE	好 烂	烂 好	烂 好
 NEGATIVE	好 烂	烂 好	烂 好
-NEGATIVE	好 桑 心	桑 心 好	心 桑 心 好 好 桑	心 好 桑
-NEGATIVE	好 桑 心	桑 心 好	心 桑 心 好 好 桑	心 好 桑
-NEGATIVE	好 桑 心	桑 心 好	心 桑 心 好 好 桑	心 好 桑
-NEGATIVE	好 桑 心	桑 心 好	心 桑 心 好 好 桑	心 好 桑
-NEGATIVE	好 桑 心	桑 心 好	心 桑 心 好 好 桑	心 好 桑
+NEGATIVE	好 桑 心	桑 心 好	心 桑 桑 好	心 桑 好
+NEGATIVE	好 桑 心	桑 心 好	心 桑 桑 好	心 桑 好
+NEGATIVE	好 桑 心	桑 心 好	心 桑 桑 好	心 桑 好
+NEGATIVE	好 桑 心	桑 心 好	心 桑 桑 好	心 桑 好
+NEGATIVE	好 桑 心	桑 心 好	心 桑 桑 好	心 桑 好
 NEGATIVE	好 伤心	伤心 好	伤心 好
 NEGATIVE	好 伤心	伤心 好	伤心 好
 NEGATIVE	好 伤心	伤心 好	伤心 好
@@ -3218,11 +3218,11 @@ NEGATIVE	扛不住	扛不住
 NEGATIVE	扛不住	扛不住
 NEGATIVE	扛不住	扛不住
 NEGATIVE	扛不住	扛不住
-NEGATIVE	靠 你 妈	靠 你 妈	靠 妈 你 妈 靠 你	靠 你 妈
-NEGATIVE	靠 你 妈	靠 你 妈	靠 妈 你 妈 靠 你	靠 你 妈
-NEGATIVE	靠 你 妈	靠 你 妈	靠 妈 你 妈 靠 你	靠 你 妈
-NEGATIVE	靠 你 妈	靠 你 妈	靠 妈 你 妈 靠 你	靠 你 妈
-NEGATIVE	靠 你 妈	靠 你 妈	靠 妈 你 妈 靠 你	靠 你 妈
+NEGATIVE	靠 你 妈	靠 你 妈	靠 妈 妈 你	靠 妈 你
+NEGATIVE	靠 你 妈	靠 你 妈	靠 妈 妈 你	靠 妈 你
+NEGATIVE	靠 你 妈	靠 你 妈	靠 妈 妈 你	靠 妈 你
+NEGATIVE	靠 你 妈	靠 你 妈	靠 妈 妈 你	靠 妈 你
+NEGATIVE	靠 你 妈	靠 你 妈	靠 妈 妈 你	靠 妈 你
 POSITIVE	可 关注	关注 可	关注 可
 POSITIVE	可 关注	关注 可	关注 可
 POSITIVE	可 关注	关注 可	关注 可
@@ -3378,11 +3378,11 @@ NEGATIVE	拉高出货	拉高出货
 NEGATIVE	拉高出货	拉高出货
 NEGATIVE	拉高出货	拉高出货
 NEGATIVE	拉高出货	拉高出货
-POSITIVE	拉 几 下	num 拉 下	num 下 拉 下 拉 num	拉 num 下
-POSITIVE	拉 几 下	num 拉 下	num 下 拉 下 拉 num	拉 num 下
-POSITIVE	拉 几 下	num 拉 下	num 下 拉 下 拉 num	拉 num 下
-POSITIVE	拉 几 下	num 拉 下	num 下 拉 下 拉 num	拉 num 下
-POSITIVE	拉 几 下	num 拉 下	num 下 拉 下 拉 num	拉 num 下
+POSITIVE	拉 几 下	num 拉 下	下 num 拉 下	拉 下 num
+POSITIVE	拉 几 下	num 拉 下	下 num 拉 下	拉 下 num
+POSITIVE	拉 几 下	num 拉 下	下 num 拉 下	拉 下 num
+POSITIVE	拉 几 下	num 拉 下	下 num 拉 下	拉 下 num
+POSITIVE	拉 几 下	num 拉 下	下 num 拉 下	拉 下 num
 NEGATIVE	拉锯战	拉锯战
 NEGATIVE	拉锯战	拉锯战
 NEGATIVE	拉锯战	拉锯战
@@ -3688,11 +3688,11 @@ POSITIVE	落实	落实
 POSITIVE	落实	落实
 POSITIVE	落实	落实
 POSITIVE	落实	落实
-NEGATIVE	屡 犯 不 改	屡 改 不 犯	犯 不 不 改 犯 改 犯 屡	犯 不 改
-NEGATIVE	屡 犯 不 改	屡 改 不 犯	犯 不 不 改 犯 改 犯 屡	犯 不 改
-NEGATIVE	屡 犯 不 改	屡 改 不 犯	犯 不 不 改 犯 改 犯 屡	犯 不 改
-NEGATIVE	屡 犯 不 改	屡 改 不 犯	犯 不 不 改 犯 改 犯 屡	犯 不 改
-NEGATIVE	屡 犯 不 改	屡 改 不 犯	犯 不 不 改 犯 改 犯 屡	犯 不 改
+NEGATIVE	屡 犯 不 改	屡 改 不 犯	犯 改 改 不 犯 屡	犯 改 不
+NEGATIVE	屡 犯 不 改	屡 改 不 犯	犯 改 改 不 犯 屡	犯 改 不
+NEGATIVE	屡 犯 不 改	屡 改 不 犯	犯 改 改 不 犯 屡	犯 改 不
+NEGATIVE	屡 犯 不 改	屡 改 不 犯	犯 改 改 不 犯 屡	犯 改 不
+NEGATIVE	屡 犯 不 改	屡 改 不 犯	犯 改 改 不 犯 屡	犯 改 不
 POSITIVE	率先	率先
 POSITIVE	率先	率先
 POSITIVE	率先	率先
@@ -3873,11 +3873,11 @@ POSITIVE	秒 板	秒 板	板 秒
 POSITIVE	秒 板	秒 板	板 秒
 POSITIVE	秒 板	秒 板	板 秒
 POSITIVE	秒 板	秒 板	板 秒
-NEGATIVE	桌 底 协议	协议 底 桌	协议 桌 桌 底 协议 底	协议 桌 底
-NEGATIVE	桌 底 协议	协议 底 桌	协议 桌 桌 底 协议 底	协议 桌 底
-NEGATIVE	桌 底 协议	协议 底 桌	协议 桌 桌 底 协议 底	协议 桌 底
-NEGATIVE	桌 底 协议	协议 底 桌	协议 桌 桌 底 协议 底	协议 桌 底
-NEGATIVE	桌 底 协议	协议 底 桌	协议 桌 桌 底 协议 底	协议 桌 底
+NEGATIVE	桌 底 协议	协议 底 桌	底 桌 协议 底	协议 底 桌
+NEGATIVE	桌 底 协议	协议 底 桌	底 桌 协议 底	协议 底 桌
+NEGATIVE	桌 底 协议	协议 底 桌	底 桌 协议 底	协议 底 桌
+NEGATIVE	桌 底 协议	协议 底 桌	底 桌 协议 底	协议 底 桌
+NEGATIVE	桌 底 协议	协议 底 桌	底 桌 协议 底	协议 底 桌
 NEGATIVE	抽屉 合同	抽屉 合同	合同 抽屉
 NEGATIVE	抽屉 合同	抽屉 合同	合同 抽屉
 NEGATIVE	抽屉 合同	抽屉 合同	合同 抽屉
@@ -3913,11 +3913,11 @@ POSITIVE	拿稳	拿稳
 POSITIVE	拿稳	拿稳
 POSITIVE	拿稳	拿稳
 POSITIVE	拿稳	拿稳
-POSITIVE	纳入 重要 指数	指数 重要 纳入	重要 指数 纳入 重要 纳入 指数	纳入 重要 指数
-POSITIVE	纳入 重要 指数	指数 重要 纳入	重要 指数 纳入 重要 纳入 指数	纳入 重要 指数
-POSITIVE	纳入 重要 指数	指数 重要 纳入	重要 指数 纳入 重要 纳入 指数	纳入 重要 指数
-POSITIVE	纳入 重要 指数	指数 重要 纳入	重要 指数 纳入 重要 纳入 指数	纳入 重要 指数
-POSITIVE	纳入 重要 指数	指数 重要 纳入	重要 指数 纳入 重要 纳入 指数	纳入 重要 指数
+POSITIVE	纳入 重要 指数	指数 重要 纳入	指数 重要 纳入 指数	纳入 指数 重要
+POSITIVE	纳入 重要 指数	指数 重要 纳入	指数 重要 纳入 指数	纳入 指数 重要
+POSITIVE	纳入 重要 指数	指数 重要 纳入	指数 重要 纳入 指数	纳入 指数 重要
+POSITIVE	纳入 重要 指数	指数 重要 纳入	指数 重要 纳入 指数	纳入 指数 重要
+POSITIVE	纳入 重要 指数	指数 重要 纳入	指数 重要 纳入 指数	纳入 指数 重要
 NEGATIVE	难 定	定 难	定 难
 NEGATIVE	难 定	定 难	定 难
 NEGATIVE	难 定	定 难	定 难
@@ -4558,16 +4558,16 @@ POSITIVE	去化	去化
 POSITIVE	去化	去化
 POSITIVE	去化	去化
 POSITIVE	去化	去化
-NEGATIVE	去 你 	你 去 M	去 你 去 M 你 M	去 你 M
-NEGATIVE	去 你 	你 去 M	去 你 去 M 你 M	去 你 M
-NEGATIVE	去 你 	你 去 M	去 你 去 M 你 M	去 你 M
-NEGATIVE	去 你 	你 去 M	去 你 去 M 你 M	去 你 M
-NEGATIVE	去 你 	你 去 M	去 你 去 M 你 M	去 你 M
-NEGATIVE	去 你 妹	你 妹 去	去 你 你 妹 去 妹	去 你 妹
-NEGATIVE	去 你 妹	你 妹 去	去 你 你 妹 去 妹	去 你 妹
-NEGATIVE	去 你 妹	你 妹 去	去 你 你 妹 去 妹	去 你 妹
-NEGATIVE	去 你 妹	你 妹 去	去 你 你 妹 去 妹	去 你 妹
-NEGATIVE	去 你 妹	你 妹 去	去 你 你 妹 去 妹	去 你 妹
+NEGATIVE	去 你 	你 去 M	去 M M 你	去 M 你
+NEGATIVE	去 你 	你 去 M	去 M M 你	去 M 你
+NEGATIVE	去 你 	你 去 M	去 M M 你	去 M 你
+NEGATIVE	去 你 	你 去 M	去 M M 你	去 M 你
+NEGATIVE	去 你 	你 去 M	去 M M 你	去 M 你
+NEGATIVE	去 你 妹	你 妹 去	妹 你 去 妹	去 妹 你
+NEGATIVE	去 你 妹	你 妹 去	妹 你 去 妹	去 妹 你
+NEGATIVE	去 你 妹	你 妹 去	妹 你 去 妹	去 妹 你
+NEGATIVE	去 你 妹	你 妹 去	妹 你 去 妹	去 妹 你
+NEGATIVE	去 你 妹	你 妹 去	妹 你 去 妹	去 妹 你
 NEGATIVE	去 死	去 死	去 死
 NEGATIVE	去 死	去 死	去 死
 NEGATIVE	去 死	去 死	去 死
@@ -4903,11 +4903,11 @@ POSITIVE	上扬	上扬
 POSITIVE	上扬	上扬
 POSITIVE	上扬	上扬
 POSITIVE	上扬	上扬
-NEGATIVE	上 num 课	num 上 课	num 课 上 num 上 课	上 num 课
-NEGATIVE	上 num 课	num 上 课	num 课 上 num 上 课	上 num 课
-NEGATIVE	上 num 课	num 上 课	num 课 上 num 上 课	上 num 课
-NEGATIVE	上 num 课	num 上 课	num 课 上 num 上 课	上 num 课
-NEGATIVE	上 num 课	num 上 课	num 课 上 num 上 课	上 num 课
+NEGATIVE	上 num 课	num 上 课	课 num 上 课	上 课 num
+NEGATIVE	上 num 课	num 上 课	课 num 上 课	上 课 num
+NEGATIVE	上 num 课	num 上 课	课 num 上 课	上 课 num
+NEGATIVE	上 num 课	num 上 课	课 num 上 课	上 课 num
+NEGATIVE	上 num 课	num 上 课	课 num 上 课	上 课 num
 POSITIVE	上移	上移
 POSITIVE	上移	上移
 POSITIVE	上移	上移
@@ -5568,11 +5568,11 @@ NEUTRAL	需 投入	需 投入	投入 需
 NEUTRAL	需 投入	需 投入	投入 需
 NEUTRAL	需 投入	需 投入	投入 需
 NEUTRAL	需 投入	需 投入	投入 需
-NEUTRAL	还 得 投入	得 还 投入	还 得 投入 得 投入 还	投入 还 得
-NEUTRAL	还 得 投入	得 还 投入	还 得 投入 得 投入 还	投入 还 得
-NEUTRAL	还 得 投入	得 还 投入	还 得 投入 得 投入 还	投入 还 得
-NEUTRAL	还 得 投入	得 还 投入	还 得 投入 得 投入 还	投入 还 得
-NEUTRAL	还 得 投入	得 还 投入	还 得 投入 得 投入 还	投入 还 得
+NEUTRAL	还 得 投入	得 还 投入	投入 得 得 还	投入 得 还
+NEUTRAL	还 得 投入	得 还 投入	投入 得 得 还	投入 得 还
+NEUTRAL	还 得 投入	得 还 投入	投入 得 得 还	投入 得 还
+NEUTRAL	还 得 投入	得 还 投入	投入 得 得 还	投入 得 还
+NEUTRAL	还 得 投入	得 还 投入	投入 得 得 还	投入 得 还
 NEGATIVE	投诉	投诉
 NEGATIVE	投诉	投诉
 NEGATIVE	投诉	投诉
@@ -5593,11 +5593,11 @@ POSITIVE	投资 价值	投资 价值	价值 投资
 POSITIVE	投资 价值	投资 价值	价值 投资
 POSITIVE	投资 价值	投资 价值	价值 投资
 POSITIVE	投资 价值	投资 价值	价值 投资
-NEGATIVE	透 你 妈	你 妈 透	透 你 你 妈 透 妈	透 你 妈
-NEGATIVE	透 你 妈	你 妈 透	透 你 你 妈 透 妈	透 你 妈
-NEGATIVE	透 你 妈	你 妈 透	透 你 你 妈 透 妈	透 你 妈
-NEGATIVE	透 你 妈	你 妈 透	透 你 你 妈 透 妈	透 你 妈
-NEGATIVE	透 你 妈	你 妈 透	透 你 你 妈 透 妈	透 你 妈
+NEGATIVE	透 你 妈	你 妈 透	妈 你 透 妈	透 妈 你
+NEGATIVE	透 你 妈	你 妈 透	妈 你 透 妈	透 妈 你
+NEGATIVE	透 你 妈	你 妈 透	妈 你 透 妈	透 妈 你
+NEGATIVE	透 你 妈	你 妈 透	妈 你 透 妈	透 妈 你
+NEGATIVE	透 你 妈	你 妈 透	妈 你 透 妈	透 妈 你
 POSITIVE	凸显	凸显
 POSITIVE	凸显	凸显
 POSITIVE	凸显	凸显
@@ -5648,11 +5648,11 @@ NEGATIVE	退市	退市
 NEGATIVE	退市	退市
 NEGATIVE	退市	退市
 NEGATIVE	退市	退市
-NEGATIVE	退 我 钱	退 我 钱	我 钱 退 钱 退 我	退 我 钱
-NEGATIVE	退 我 钱	退 我 钱	我 钱 退 钱 退 我	退 我 钱
-NEGATIVE	退 我 钱	退 我 钱	我 钱 退 钱 退 我	退 我 钱
-NEGATIVE	退 我 钱	退 我 钱	我 钱 退 钱 退 我	退 我 钱
-NEGATIVE	退 我 钱	退 我 钱	我 钱 退 钱 退 我	退 我 钱
+NEGATIVE	退 我 钱	退 钱 我	退 钱 钱 我	退 钱 我
+NEGATIVE	退 我 钱	退 钱 我	退 钱 钱 我	退 钱 我
+NEGATIVE	退 我 钱	退 钱 我	退 钱 钱 我	退 钱 我
+NEGATIVE	退 我 钱	退 钱 我	退 钱 钱 我	退 钱 我
+NEGATIVE	退 我 钱	退 钱 我	退 钱 钱 我	退 钱 我
 NEGATIVE	拖累	拖累
 NEGATIVE	拖累	拖累
 NEGATIVE	拖累	拖累
@@ -5783,11 +5783,11 @@ POSITIVE	伟大	伟大
 POSITIVE	伟大	伟大
 POSITIVE	伟大	伟大
 POSITIVE	伟大	伟大
-NEGATIVE	伪 市值 管理	市值 管理 伪	管理 市值 伪 市值 管理 伪	管理 伪 市值
-NEGATIVE	伪 市值 管理	市值 管理 伪	管理 市值 伪 市值 管理 伪	管理 伪 市值
-NEGATIVE	伪 市值 管理	市值 管理 伪	管理 市值 伪 市值 管理 伪	管理 伪 市值
-NEGATIVE	伪 市值 管理	市值 管理 伪	管理 市值 伪 市值 管理 伪	管理 伪 市值
-NEGATIVE	伪 市值 管理	市值 管理 伪	管理 市值 伪 市值 管理 伪	管理 伪 市值
+NEGATIVE	伪 市值 管理	市值 管理 伪	管理 市值 市值 伪	管理 市值 伪
+NEGATIVE	伪 市值 管理	市值 管理 伪	管理 市值 市值 伪	管理 市值 伪
+NEGATIVE	伪 市值 管理	市值 管理 伪	管理 市值 市值 伪	管理 市值 伪
+NEGATIVE	伪 市值 管理	市值 管理 伪	管理 市值 市值 伪	管理 市值 伪
+NEGATIVE	伪 市值 管理	市值 管理 伪	管理 市值 市值 伪	管理 市值 伪
 NEGATIVE	萎缩	萎缩
 NEGATIVE	萎缩	萎缩
 NEGATIVE	萎缩	萎缩
@@ -6118,16 +6118,16 @@ POSITIVE	享受	享受
 POSITIVE	享受	享受
 POSITIVE	享受	享受
 POSITIVE	享受	享受
-NEGATIVE	想 打 人	想 打 人	想 人 想 打 人 打	想 人 打
-NEGATIVE	想 打 人	想 打 人	想 人 想 打 人 打	想 人 打
-NEGATIVE	想 打 人	想 打 人	想 人 想 打 人 打	想 人 打
-NEGATIVE	想 打 人	想 打 人	想 人 想 打 人 打	想 人 打
-NEGATIVE	想 打 人	想 打 人	想 人 想 打 人 打	想 人 打
-NEGATIVE	想 骂 人	骂 想 人	想 人 人 骂 想 骂	想 人 骂
-NEGATIVE	想 骂 人	骂 想 人	想 人 人 骂 想 骂	想 人 骂
-NEGATIVE	想 骂 人	骂 想 人	想 人 人 骂 想 骂	想 人 骂
-NEGATIVE	想 骂 人	骂 想 人	想 人 人 骂 想 骂	想 人 骂
-NEGATIVE	想 骂 人	骂 想 人	想 人 人 骂 想 骂	想 人 骂
+NEGATIVE	想 打 人	想 打 人	想 打 打 人	想 打 人
+NEGATIVE	想 打 人	想 打 人	想 打 打 人	想 打 人
+NEGATIVE	想 打 人	想 打 人	想 打 打 人	想 打 人
+NEGATIVE	想 打 人	想 打 人	想 打 打 人	想 打 人
+NEGATIVE	想 打 人	想 打 人	想 打 打 人	想 打 人
+NEGATIVE	想 骂 人	骂 想 人	骂 人 想 骂	想 骂 人
+NEGATIVE	想 骂 人	骂 想 人	骂 人 想 骂	想 骂 人
+NEGATIVE	想 骂 人	骂 想 人	骂 人 想 骂	想 骂 人
+NEGATIVE	想 骂 人	骂 想 人	骂 人 想 骂	想 骂 人
+NEGATIVE	想 骂 人	骂 想 人	骂 人 想 骂	想 骂 人
 POSITIVE	向好	向好
 POSITIVE	向好	向好
 POSITIVE	向好	向好
@@ -6753,11 +6753,11 @@ POSITIVE	有效	有效
 POSITIVE	有效	有效
 POSITIVE	有效	有效
 POSITIVE	有效	有效
-POSITIVE	有序 轮 动	动 有序 轮	动 轮 有序 轮 动 有序	动 有序 轮
-POSITIVE	有序 轮 动	动 有序 轮	动 轮 有序 轮 动 有序	动 有序 轮
-POSITIVE	有序 轮 动	动 有序 轮	动 轮 有序 轮 动 有序	动 有序 轮
-POSITIVE	有序 轮 动	动 有序 轮	动 轮 有序 轮 动 有序	动 有序 轮
-POSITIVE	有序 轮 动	动 有序 轮	动 轮 有序 轮 动 有序	动 有序 轮
+POSITIVE	有序 轮 动	动 有序 轮	动 轮 轮 有序	动 轮 有序
+POSITIVE	有序 轮 动	动 有序 轮	动 轮 轮 有序	动 轮 有序
+POSITIVE	有序 轮 动	动 有序 轮	动 轮 轮 有序	动 轮 有序
+POSITIVE	有序 轮 动	动 有序 轮	动 轮 轮 有序	动 轮 有序
+POSITIVE	有序 轮 动	动 有序 轮	动 轮 轮 有序	动 轮 有序
 POSITIVE	有 优势	有 优势	有 优势
 POSITIVE	有 优势	有 优势	有 优势
 POSITIVE	有 优势	有 优势	有 优势
@@ -8138,11 +8138,11 @@ NEGATIVE	被 坑	坑 被	坑 被
 NEGATIVE	被 坑	坑 被	坑 被
 NEGATIVE	被 坑	坑 被	坑 被
 NEGATIVE	被 坑	坑 被	坑 被
-NEGATIVE	“ 雷 ” 股	股 雷 “ ”	“ 雷 股 雷 股 ” ” 雷 股 “	股 “ 雷 股 ” 雷
-NEGATIVE	“ 雷 ” 股	股 雷 “ ”	“ 雷 股 雷 股 ” ” 雷 股 “	股 “ 雷 股 ” 雷
-NEGATIVE	“ 雷 ” 股	股 雷 “ ”	“ 雷 股 雷 股 ” ” 雷 股 “	股 “ 雷 股 ” 雷
-NEGATIVE	“ 雷 ” 股	股 雷 “ ”	“ 雷 股 雷 股 ” ” 雷 股 “	股 “ 雷 股 ” 雷
-NEGATIVE	“ 雷 ” 股	股 雷 “ ”	“ 雷 股 雷 股 ” ” 雷 股 “	股 “ 雷 股 ” 雷
+NEGATIVE	“ 雷 ” 股	股 雷 “ ”	雷 ” 雷 “ 股 雷	股 雷 “ 股 雷 ”
+NEGATIVE	“ 雷 ” 股	股 雷 “ ”	雷 ” 雷 “ 股 雷	股 雷 “ 股 雷 ”
+NEGATIVE	“ 雷 ” 股	股 雷 “ ”	雷 ” 雷 “ 股 雷	股 雷 “ 股 雷 ”
+NEGATIVE	“ 雷 ” 股	股 雷 “ ”	雷 ” 雷 “ 股 雷	股 雷 “ 股 雷 ”
+NEGATIVE	“ 雷 ” 股	股 雷 “ ”	雷 ” 雷 “ 股 雷	股 雷 “ 股 雷 ”
 NEGATIVE	雷 股	股 雷	股 雷
 NEGATIVE	雷 股	股 雷	股 雷
 NEGATIVE	雷 股	股 雷	股 雷
@@ -8163,11 +8163,11 @@ NEGATIVE	反 降	反 降	反 降
 NEGATIVE	反 降	反 降	反 降
 NEGATIVE	反 降	反 降	反 降
 NEGATIVE	反 降	反 降	反 降
-NEGATIVE	得 自 医	得 自 医	得 医 得 自 自 医	得 自 医
-NEGATIVE	得 自 医	得 自 医	得 医 得 自 自 医	得 自 医
-NEGATIVE	得 自 医	得 自 医	得 医 得 自 自 医	得 自 医
-NEGATIVE	得 自 医	得 自 医	得 医 得 自 自 医	得 自 医
-NEGATIVE	得 自 医	得 自 医	得 医 得 自 自 医	得 自 医
+NEGATIVE	得 自 医	得 自 医	得 医 医 自	得 医 自
+NEGATIVE	得 自 医	得 自 医	得 医 医 自	得 医 自
+NEGATIVE	得 自 医	得 自 医	得 医 医 自	得 医 自
+NEGATIVE	得 自 医	得 自 医	得 医 医 自	得 医 自
+NEGATIVE	得 自 医	得 自 医	得 医 医 自	得 医 自
 NEGATIVE	非常规	非常规
 NEGATIVE	非常规	非常规
 NEGATIVE	非常规	非常规
@@ -9093,11 +9093,11 @@ POSITIVE	对外 投资	投资 对外	投资 对外
 POSITIVE	对外 投资	投资 对外	投资 对外
 POSITIVE	对外 投资	投资 对外	投资 对外
 POSITIVE	对外 投资	投资 对外	投资 对外
-POSITIVE	 轮 融资	A 融资 轮	融资 轮 融资 A A 轮	融资 A 轮
-POSITIVE	 轮 融资	A 融资 轮	融资 轮 融资 A A 轮	融资 A 轮
-POSITIVE	 轮 融资	A 融资 轮	融资 轮 融资 A A 轮	融资 A 轮
-POSITIVE	 轮 融资	A 融资 轮	融资 轮 融资 A A 轮	融资 A 轮
-POSITIVE	 轮 融资	A 融资 轮	融资 轮 融资 A A 轮	融资 A 轮
+POSITIVE	 轮 融资	A 融资 轮	融资 轮 轮 A	融资 轮 A
+POSITIVE	 轮 融资	A 融资 轮	融资 轮 轮 A	融资 轮 A
+POSITIVE	 轮 融资	A 融资 轮	融资 轮 轮 A	融资 轮 A
+POSITIVE	 轮 融资	A 融资 轮	融资 轮 轮 A	融资 轮 A
+POSITIVE	 轮 融资	A 融资 轮	融资 轮 轮 A	融资 轮 A
 POSITIVE	战略 调整	调整 战略	调整 战略
 POSITIVE	战略 调整	调整 战略	调整 战略
 POSITIVE	战略 调整	调整 战略	调整 战略
@@ -9108,11 +9108,11 @@ POSITIVE	比较 好	比较 好	好 比较
 POSITIVE	比较 好	比较 好	好 比较
 POSITIVE	比较 好	比较 好	好 比较
 POSITIVE	比较 好	比较 好	好 比较
-POSITIVE	 轮 融资	B 融资 轮	B 轮 融资 轮 融资 B	融资 B 轮
-POSITIVE	 轮 融资	B 融资 轮	B 轮 融资 轮 融资 B	融资 B 轮
-POSITIVE	 轮 融资	B 融资 轮	B 轮 融资 轮 融资 B	融资 B 轮
-POSITIVE	 轮 融资	B 融资 轮	B 轮 融资 轮 融资 B	融资 B 轮
-POSITIVE	 轮 融资	B 融资 轮	B 轮 融资 轮 融资 B	融资 B 轮
+POSITIVE	 轮 融资	B 融资 轮	融资 轮 轮 B	融资 轮 B
+POSITIVE	 轮 融资	B 融资 轮	融资 轮 轮 B	融资 轮 B
+POSITIVE	 轮 融资	B 融资 轮	融资 轮 轮 B	融资 轮 B
+POSITIVE	 轮 融资	B 融资 轮	融资 轮 轮 B	融资 轮 B
+POSITIVE	 轮 融资	B 融资 轮	融资 轮 轮 B	融资 轮 B
 POSITIVE	大幅 增长	大幅 增长	增长 大幅
 POSITIVE	大幅 增长	大幅 增长	增长 大幅
 POSITIVE	大幅 增长	大幅 增长	增长 大幅
@@ -9178,11 +9178,11 @@ POSITIVE	转型 升级	升级 转型	转型 升级
 POSITIVE	转型 升级	升级 转型	转型 升级
 POSITIVE	转型 升级	升级 转型	转型 升级
 POSITIVE	转型 升级	升级 转型	转型 升级
-POSITIVE	重大 资产 重组	资产 重组 重大	重组 资产 重组 重大 重大 资产	重组 重大 资产
-POSITIVE	重大 资产 重组	资产 重组 重大	重组 资产 重组 重大 重大 资产	重组 重大 资产
-POSITIVE	重大 资产 重组	资产 重组 重大	重组 资产 重组 重大 重大 资产	重组 重大 资产
-POSITIVE	重大 资产 重组	资产 重组 重大	重组 资产 重组 重大 重大 资产	重组 重大 资产
-POSITIVE	重大 资产 重组	资产 重组 重大	重组 资产 重组 重大 重大 资产	重组 重大 资产
+POSITIVE	重大 资产 重组	资产 重组 重大	资产 重大 重组 资产	重组 资产 重大
+POSITIVE	重大 资产 重组	资产 重组 重大	资产 重大 重组 资产	重组 资产 重大
+POSITIVE	重大 资产 重组	资产 重组 重大	资产 重大 重组 资产	重组 资产 重大
+POSITIVE	重大 资产 重组	资产 重组 重大	资产 重大 重组 资产	重组 资产 重大
+POSITIVE	重大 资产 重组	资产 重组 重大	资产 重大 重组 资产	重组 资产 重大
 POSITIVE	科技 创新	科技 创新	创新 科技
 POSITIVE	科技 创新	科技 创新	创新 科技
 POSITIVE	科技 创新	科技 创新	创新 科技
@@ -9433,11 +9433,11 @@ POSITIVE	继续 增持	增持 继续	继续 增持
 POSITIVE	继续 增持	增持 继续	继续 增持
 POSITIVE	继续 增持	增持 继续	继续 增持
 POSITIVE	继续 增持	增持 继续	继续 增持
-POSITIVE	合作 伙伴 关系	伙伴 关系 合作	伙伴 关系 合作 关系 合作 伙伴	合作 伙伴 关系
-POSITIVE	合作 伙伴 关系	伙伴 关系 合作	伙伴 关系 合作 关系 合作 伙伴	合作 伙伴 关系
-POSITIVE	合作 伙伴 关系	伙伴 关系 合作	伙伴 关系 合作 关系 合作 伙伴	合作 伙伴 关系
-POSITIVE	合作 伙伴 关系	伙伴 关系 合作	伙伴 关系 合作 关系 合作 伙伴	合作 伙伴 关系
-POSITIVE	合作 伙伴 关系	伙伴 关系 合作	伙伴 关系 合作 关系 合作 伙伴	合作 伙伴 关系
+POSITIVE	合作 伙伴 关系	关系 伙伴 合作	合作 关系 关系 伙伴	合作 关系 伙伴
+POSITIVE	合作 伙伴 关系	关系 伙伴 合作	合作 关系 关系 伙伴	合作 关系 伙伴
+POSITIVE	合作 伙伴 关系	关系 伙伴 合作	合作 关系 关系 伙伴	合作 关系 伙伴
+POSITIVE	合作 伙伴 关系	关系 伙伴 合作	合作 关系 关系 伙伴	合作 关系 伙伴
+POSITIVE	合作 伙伴 关系	关系 伙伴 合作	合作 关系 关系 伙伴	合作 关系 伙伴
 POSITIVE	共同 努力	共同 努力	努力 共同
 POSITIVE	共同 努力	共同 努力	努力 共同
 POSITIVE	共同 努力	共同 努力	努力 共同
@@ -9558,11 +9558,11 @@ POSITIVE	吞并	吞并
 POSITIVE	吞并	吞并
 POSITIVE	吞并	吞并
 POSITIVE	吞并	吞并
-POSITIVE	是 全球 最大	全球 最大 是	是 全球 是 最大 全球 最大	是 全球 最大
-POSITIVE	是 全球 最大	全球 最大 是	是 全球 是 最大 全球 最大	是 全球 最大
-POSITIVE	是 全球 最大	全球 最大 是	是 全球 是 最大 全球 最大	是 全球 最大
-POSITIVE	是 全球 最大	全球 最大 是	是 全球 是 最大 全球 最大	是 全球 最大
-POSITIVE	是 全球 最大	全球 最大 是	是 全球 是 最大 全球 最大	是 全球 最大
+POSITIVE	是 全球 最大	全球 最大 是	最大 全球 是 最大	是 最大 全球
+POSITIVE	是 全球 最大	全球 最大 是	最大 全球 是 最大	是 最大 全球
+POSITIVE	是 全球 最大	全球 最大 是	最大 全球 是 最大	是 最大 全球
+POSITIVE	是 全球 最大	全球 最大 是	最大 全球 是 最大	是 最大 全球
+POSITIVE	是 全球 最大	全球 最大 是	最大 全球 是 最大	是 最大 全球
 POSITIVE	高 利润	利润 高	利润 高
 POSITIVE	高 利润	利润 高	利润 高
 POSITIVE	高 利润	利润 高	利润 高
@@ -9618,21 +9618,21 @@ POSITIVE	高 性价比	性价比 高	性价比 高
 POSITIVE	高 性价比	性价比 高	性价比 高
 POSITIVE	高 性价比	性价比 高	性价比 高
 POSITIVE	高 性价比	性价比 高	性价比 高
-POSITIVE	成 中国 最大	成 中国 最大	成 最大 中国 最大 成 中国	成 中国 最大
-POSITIVE	成 中国 最大	成 中国 最大	成 最大 中国 最大 成 中国	成 中国 最大
-POSITIVE	成 中国 最大	成 中国 最大	成 最大 中国 最大 成 中国	成 中国 最大
-POSITIVE	成 中国 最大	成 中国 最大	成 最大 中国 最大 成 中国	成 中国 最大
-POSITIVE	成 中国 最大	成 中国 最大	成 最大 中国 最大 成 中国	成 中国 最大
+POSITIVE	成 中国 最大	成 中国 最大	成 最大 最大 中国	成 最大 中国
+POSITIVE	成 中国 最大	成 中国 最大	成 最大 最大 中国	成 最大 中国
+POSITIVE	成 中国 最大	成 中国 最大	成 最大 最大 中国	成 最大 中国
+POSITIVE	成 中国 最大	成 中国 最大	成 最大 最大 中国	成 最大 中国
+POSITIVE	成 中国 最大	成 中国 最大	成 最大 最大 中国	成 最大 中国
 POSITIVE	具 吸引力	具 吸引力	具 吸引力
 POSITIVE	具 吸引力	具 吸引力	具 吸引力
 POSITIVE	具 吸引力	具 吸引力	具 吸引力
 POSITIVE	具 吸引力	具 吸引力	具 吸引力
 POSITIVE	具 吸引力	具 吸引力	具 吸引力
-POSITIVE	是 代表 未来	未来 是 代表	未来 代表 是 代表 是 未来	是 未来 代表
-POSITIVE	是 代表 未来	未来 是 代表	未来 代表 是 代表 是 未来	是 未来 代表
-POSITIVE	是 代表 未来	未来 是 代表	未来 代表 是 代表 是 未来	是 未来 代表
-POSITIVE	是 代表 未来	未来 是 代表	未来 代表 是 代表 是 未来	是 未来 代表
-POSITIVE	是 代表 未来	未来 是 代表	未来 代表 是 代表 是 未来	是 未来 代表
+POSITIVE	是 代表 未来	未来 是 代表	代表 未来 是 代表	是 代表 未来
+POSITIVE	是 代表 未来	未来 是 代表	代表 未来 是 代表	是 代表 未来
+POSITIVE	是 代表 未来	未来 是 代表	代表 未来 是 代表	是 代表 未来
+POSITIVE	是 代表 未来	未来 是 代表	代表 未来 是 代表	是 代表 未来
+POSITIVE	是 代表 未来	未来 是 代表	代表 未来 是 代表	是 代表 未来
 POSITIVE	快 涨	涨 快	涨 快
 POSITIVE	快 涨	涨 快	涨 快
 POSITIVE	快 涨	涨 快	涨 快
@@ -9678,11 +9678,11 @@ POSITIVE	纳入 MSCI	MSCI 纳入	纳入 MSCI
 POSITIVE	纳入 MSCI	MSCI 纳入	纳入 MSCI
 POSITIVE	纳入 MSCI	MSCI 纳入	纳入 MSCI
 POSITIVE	纳入 MSCI	MSCI 纳入	纳入 MSCI
-POSITIVE	套 期 保值	保值 套 期	保值 期 套 期 保值 套	保值 套 期
-POSITIVE	套 期 保值	保值 套 期	保值 期 套 期 保值 套	保值 套 期
-POSITIVE	套 期 保值	保值 套 期	保值 期 套 期 保值 套	保值 套 期
-POSITIVE	套 期 保值	保值 套 期	保值 期 套 期 保值 套	保值 套 期
-POSITIVE	套 期 保值	保值 套 期	保值 期 套 期 保值 套	保值 套 期
+POSITIVE	套 期 保值	保值 套 期	保值 期 期 套	保值 期 套
+POSITIVE	套 期 保值	保值 套 期	保值 期 期 套	保值 期 套
+POSITIVE	套 期 保值	保值 套 期	保值 期 期 套	保值 期 套
+POSITIVE	套 期 保值	保值 套 期	保值 期 期 套	保值 期 套
+POSITIVE	套 期 保值	保值 套 期	保值 期 期 套	保值 期 套
 POSITIVE	股权 收购	收购 股权	收购 股权
 POSITIVE	股权 收购	收购 股权	收购 股权
 POSITIVE	股权 收购	收购 股权	收购 股权
@@ -9953,11 +9953,11 @@ NEGATIVE	跌 去	去 跌	跌 去
 NEGATIVE	跌 去	去 跌	跌 去
 NEGATIVE	跌 去	去 跌	跌 去
 NEGATIVE	跌 去	去 跌	跌 去
-NEGATIVE	轮 候 冻结	冻结 候 轮	冻结 候 轮 冻结 轮 候	轮 冻结 候
-NEGATIVE	轮 候 冻结	冻结 候 轮	冻结 候 轮 冻结 轮 候	轮 冻结 候
-NEGATIVE	轮 候 冻结	冻结 候 轮	冻结 候 轮 冻结 轮 候	轮 冻结 候
-NEGATIVE	轮 候 冻结	冻结 候 轮	冻结 候 轮 冻结 轮 候	轮 冻结 候
-NEGATIVE	轮 候 冻结	冻结 候 轮	冻结 候 轮 冻结 轮 候	轮 冻结 候
+NEGATIVE	轮 候 冻结	冻结 候 轮	候 冻结 轮 候	轮 候 冻结
+NEGATIVE	轮 候 冻结	冻结 候 轮	候 冻结 轮 候	轮 候 冻结
+NEGATIVE	轮 候 冻结	冻结 候 轮	候 冻结 轮 候	轮 候 冻结
+NEGATIVE	轮 候 冻结	冻结 候 轮	候 冻结 轮 候	轮 候 冻结
+NEGATIVE	轮 候 冻结	冻结 候 轮	候 冻结 轮 候	轮 候 冻结
 NEGATIVE	资金 紧缺	紧缺 资金	紧缺 资金
 NEGATIVE	资金 紧缺	紧缺 资金	紧缺 资金
 NEGATIVE	资金 紧缺	紧缺 资金	紧缺 资金
@@ -9968,11 +9968,11 @@ NEGATIVE	值得 玩味	值得 玩味	值得 玩味
 NEGATIVE	值得 玩味	值得 玩味	值得 玩味
 NEGATIVE	值得 玩味	值得 玩味	值得 玩味
 NEGATIVE	值得 玩味	值得 玩味	值得 玩味
-NEGATIVE	被 司法 冻结	冻结 司法 被	冻结 被 冻结 司法 司法 被	冻结 司法 被
-NEGATIVE	被 司法 冻结	冻结 司法 被	冻结 被 冻结 司法 司法 被	冻结 司法 被
-NEGATIVE	被 司法 冻结	冻结 司法 被	冻结 被 冻结 司法 司法 被	冻结 司法 被
-NEGATIVE	被 司法 冻结	冻结 司法 被	冻结 被 冻结 司法 司法 被	冻结 司法 被
-NEGATIVE	被 司法 冻结	冻结 司法 被	冻结 被 冻结 司法 司法 被	冻结 司法 被
+NEGATIVE	被 司法 冻结	冻结 司法 被	冻结 被 被 司法	冻结 被 司法
+NEGATIVE	被 司法 冻结	冻结 司法 被	冻结 被 被 司法	冻结 被 司法
+NEGATIVE	被 司法 冻结	冻结 司法 被	冻结 被 被 司法	冻结 被 司法
+NEGATIVE	被 司法 冻结	冻结 司法 被	冻结 被 被 司法	冻结 被 司法
+NEGATIVE	被 司法 冻结	冻结 司法 被	冻结 被 被 司法	冻结 被 司法
 NEGATIVE	下调 估值	下调 估值	下调 估值
 NEGATIVE	下调 估值	下调 估值	下调 估值
 NEGATIVE	下调 估值	下调 估值	下调 估值
@@ -10028,11 +10028,11 @@ NEGATIVE	同业 竞争	竞争 同业	竞争 同业
 NEGATIVE	同业 竞争	竞争 同业	竞争 同业
 NEGATIVE	同业 竞争	竞争 同业	竞争 同业
 NEGATIVE	同业 竞争	竞争 同业	竞争 同业
-NEGATIVE	股权 质押 平仓	质押 平仓 股权	平仓 质押 平仓 股权 股权 质押	平仓 股权 质押
-NEGATIVE	股权 质押 平仓	质押 平仓 股权	平仓 质押 平仓 股权 股权 质押	平仓 股权 质押
-NEGATIVE	股权 质押 平仓	质押 平仓 股权	平仓 质押 平仓 股权 股权 质押	平仓 股权 质押
-NEGATIVE	股权 质押 平仓	质押 平仓 股权	平仓 质押 平仓 股权 股权 质押	平仓 股权 质押
-NEGATIVE	股权 质押 平仓	质押 平仓 股权	平仓 质押 平仓 股权 股权 质押	平仓 股权 质押
+NEGATIVE	股权 质押 平仓	质押 平仓 股权	平仓 质押 质押 股权	平仓 质押 股权
+NEGATIVE	股权 质押 平仓	质押 平仓 股权	平仓 质押 质押 股权	平仓 质押 股权
+NEGATIVE	股权 质押 平仓	质押 平仓 股权	平仓 质押 质押 股权	平仓 质押 股权
+NEGATIVE	股权 质押 平仓	质押 平仓 股权	平仓 质押 质押 股权	平仓 质押 股权
+NEGATIVE	股权 质押 平仓	质押 平仓 股权	平仓 质押 质押 股权	平仓 质押 股权
 NEGATIVE	应付 未付	未付 应付	应付 未付
 NEGATIVE	应付 未付	未付 应付	应付 未付
 NEGATIVE	应付 未付	未付 应付	应付 未付
