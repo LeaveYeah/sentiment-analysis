@@ -9,7 +9,7 @@ NEUTRAL	“ 产业革命 ” 成 A股 投资 主线 ！ 你 跟上 了 哪个 �
 POSITIVE	“ 炒房 炒股  不如 炒 纸 ”
 POSITIVE	“ 吃药 进补 ” 行情 再现  基金 多 主线 掘金 结构性 机会
 NEGATIVE	“ 代客 理财 ” 莫 轻信  证券 投资 走 正途
-NEUTRAL	“ 冬季 保 供 ” 战 已 打响 ： 天然气 需求 超 预期  会 成 新的 投资 爆点 吗 ？
+NEUTRAL	“ 冬季 保 供 ” 战 已 打响 ： 天然气 需求 超 预期  会 成为 新的 投资 爆点 吗 ？
 POSITIVE	“ 踱 ” 出 实验室 ： num 打印 从 原型 设计 走向 批量 生产
 NEGATIVE	“ 富豪 学者 ” 史 正 富 欲 num 度 减持 华菱星马
 NEUTRAL	“ 国家队 ” 基金 新 进 电子 股  减仓 金融 家电 消费 股
@@ -26,8 +26,8 @@ POSITIVE	“ 苹果 魔咒 ” 无碍 机构 热情  技术 升级 引领 长线
 NEUTRAL	“ 气荒 ” 如何 破 专家 献计 策
 NEGATIVE	“ 侨兴 债 ” 震波 击中 廊坊 银行  同业 业务 激进 惹祸
 POSITIVE	“ 入 篮 ” num 周年  人民币 国际化 更上层楼
-NEGATIVE	“ 三类 股东 ” 清理 路径 曝光 ： “ 摘牌 清理 ” “ 内部 转让 ”  探路 发审委
-NEGATIVE	“ 三类 股东 ” 清理 路径 曝光 ： “ 摘牌 清理 ” 等  探路 发审委
+NEGATIVE	“ 三类 股东 ” 清理 路径 曝光 ： “ 摘牌 清理 ” “ 内部 转让 ”  探路 发审会
+NEGATIVE	“ 三类 股东 ” 清理 路径 曝光 ： “ 摘牌 清理 ” 等  探路 发审会
 POSITIVE	“ 上海 自贸区 供应链 第一股 ” 畅联股份 登陆 沪市
 POSITIVE	“ 双 num ” 成 商业 奥林匹克  智能 物流 撑起 num 成交
 NEUTRAL	“ num 板 ” 挂牌 企业 走进 上市公司 活动 启动
@@ -38,7 +38,7 @@ NEGATIVE	“ 投资者 保护 · 明 规则 、 识 风险 ” 专项 活动 进
 NEUTRAL	“ 我 是 股东 ” 活动 走进 福耀玻璃 和 永辉超市
 POSITIVE	“ 熙攘 ” 上市 潮 ： 教育 企业 如何 选择 ？
 NEUTRAL	“ 新 发审委 ” 亮相 第三周 ： IPO 审 num 过 num
-NEGATIVE	“ 央视 老 标王 ” 翼龙 贷 风波 不断  规模 居前 利润 单薄
+NEGATIVE	“ 央视 老 标王 ” 翼龙 贷 风波 不断  规模 靠 前 利润 单薄
 POSITIVE	“ 一带一路 ” 引领 中国 东盟 合作 提 质 升级
 NEUTRAL	“ num 委 一行 两会 ”  金融 监管 架构 形成
 NEUTRAL	“ num 委 一行 两会 ” 金融 监管 架构 形成 ： 从 机构 监管 到 功能 监管
@@ -156,7 +156,7 @@ NEGATIVE	num 天 回调 num 点  人民币 汇率 “ 弹性 十足 ”
 POSITIVE	num 月末 资金面 或 将 苦尽甘来  央行 投放 精准 成竹在胸
 POSITIVE	num 月 收官 之 战 落幕  三季度 周期 板块 牛股 辈出
 POSITIVE	ABS 成 银行 资管 配置 新的 兴趣点
-NEGATIVE	AIRBNB 频繁 换帅  外资 共享 民宿 遭遇 “ 本土化 魔咒 ”
+NEGATIVE	Airbnb 频繁 换帅  外资 共享 民宿 遭遇 “ 本土化 魔咒 ”
 NEGATIVE	A股 “ 举牌 ” 风 再 起  谁 在 围猎 股权 分散 公司
 NEUTRAL	A股 “ 配股 ” 与 港股 “ 供 股 ” 知 多少 ？
 POSITIVE	A股 “ 入 摩 ” 迎 实质 进展  公募 “ 跑马 圈地 ” 提早 布局
@@ -205,9 +205,9 @@ POSITIVE	IDG 资本 全球 董事长 ： 智能汽车 将 成 中国 发展 一�
 POSITIVE	IDG 资本 全球 董事长 熊 晓 鸽 认为  智能汽车 将 成 中国 发展 一大 驱动力
 POSITIVE	IEA 预计 全球 原油 需求 创 num 年 新高  油价 应声 反弹
 POSITIVE	IF 远期 合约 贴水 明显 收敛  机构 看好 蓝筹股 长期 表现
-POSITIVE	IPHONE  num 问世 前 的 最后 几 小时 ： 与其 等待 ， 不如 看看 如何 借势 大赚 num 笔
-NEGATIVE	IPHONE  num 预订 不 佳  新 手表 风 评 差  苹果 收 跌 num 
-NEGATIVE	IPHONE 的 大麻烦 ： 中国 买家 嫌 太贵 、 产量 严重 短缺
+POSITIVE	iPhone  num 问世 前 的 最后 几 小时 ： 与其 等待 ， 不如 看看 如何 借势 大赚 num 笔
+NEGATIVE	iPhone  num 预订 不 佳  新 手表 风 评 差  苹果 收 跌 num 
+NEGATIVE	iPhone 的 大麻烦 ： 中国 买家 嫌 太贵 、 产量 严重 短缺
 NEGATIVE	IPO “ 高压 ” 审核  涉 房地产 业务 等 num 类 行业 过 审 不易
 NEGATIVE	IPO 当 口 会计师 离职  美 瑞 新材 创业板 梦 暂 难 圆
 NEGATIVE	IPO num 家 上 会 num 家 被 否  新 发审委 严 在 哪儿
@@ -215,7 +215,7 @@ NEGATIVE	IPO 审核 从严 把关  发行 市场 生态 或 现 三大 变化
 POSITIVE	OLED 产业 前景 广阔  上市公司 纷纷 布局
 POSITIVE	OPEC 称 将 采取 手段 确保 油 市 再 平衡  全球 油价 扩大 涨幅
 POSITIVE	PPN 新规 改善 市场 流动性  催生 业内 新 “ 玩法 ”
-NEUTRAL	PREMIA 中证 财 新 num 只 ETF 昨 挂牌 港交所
+NEUTRAL	Premia 中证 财 新 num 只 ETF 昨 挂牌 港交所
 NEGATIVE	PVC 价格 垄断 事件 幕后
 POSITIVE	QDII 基金 年内 最高 收益率 超 num  华夏 全球 净值 终 回 num 元
 POSITIVE	QDII 基金 强势 归来  今年 来 最高 收益率 超 num 
@@ -234,21 +234,21 @@ NEGATIVE	ST生化 要约 收购 “ 暗战 ” : 贴身 肉搏  攻守 正酣
 NEGATIVE	ST生化 要约 收购 暗战
 POSITIVE	ST生化 要约 收购 窗口 开启
 NEGATIVE	ST生化 要约 收购 窗口 开启  市场 博弈 决定 控股权 归属
-NEGATIVE	S佳通 股改 方案 又 没 获 股东大会 通过
+NEGATIVE	S佳通 股改 方案 又 没 获得 股东大会 通过
 POSITIVE	TCL集团 拟购 华星光电 少数 股权  员工 持股 浮盈 num 倍
 POSITIVE	TCL集团 拟购 华星光电 少数 股权  员工 持股 平台 浮盈 num 倍
 POSITIVE	TCL 拟购 华星光电 股权  员工 持股 平台 浮盈 num 倍
 NEGATIVE	TDI 下游 企业 忍无可忍  梦百合 举报 num 厂家 涉嫌 价格 垄断
 NEUTRAL	阿里 巴巴 文化 娱乐 集团 成立 现场 娱乐 事业群
 POSITIVE	阿里 入股 新华都  增持 菜鸟 股权  “ 新零售 ” 战略 布局 加速
-POSITIVE	阿里 首 个 海外 EWTP 试验区 运营
+POSITIVE	阿里 首 个 海外 eWTP 试验区 运营
 NEGATIVE	爱默生 中国 宏桥 再 “ 掰手腕 ” “ 沽 空战 ” 第二 轮 股价 波澜不惊
 NEGATIVE	爱默生 中国 宏桥 再 掰手腕  “ 沽 空战 ” 第二 轮 股价 不 惊
 NEGATIVE	安徽 召开 上市公司 董 监事 培训 会 详解 并购 重组 新 特点 新 要求
 POSITIVE	安 谱 实验 ： 要 做 实验 耗材 界 的 “ 京东 ”
 POSITIVE	安信证券 ： A股 站 在 新的 历史 起点 上  新 蓝筹 有望 深入
 NEUTRAL	暗战 二维码 扫 码 市场  银联 力推 聚合 码 支付
-POSITIVE	巴菲特 num 帝国 后继 何人 ？ 小 摩 看好 能源 业务 新星 ABEL
+POSITIVE	巴菲特 num 帝国 后继 何人 ？ 小 摩 看好 能源 业务 新星 Abel
 NEUTRAL	巴菲特 投资 成功 的 背景
 POSITIVE	巴 曙 松 ： 小城 市 的 房子 就是 房子 ， 核心 城市 的 房子 才 叫 资产
 POSITIVE	巴 曙 松 ： 小城 市 的 房子 就是 房子 ， 核心 城市 的 房子 才 叫 资产
@@ -302,7 +302,7 @@ NEGATIVE	保监会 num 日 亮 出 num 张 “ 黄牌 ”  部分 违规 股权 
 NEGATIVE	保监会 num 日 亮 出 num 张 “ 黄牌 ” 部分 违规 股权 将 被 逐出
 NEGATIVE	保监会 num 日 亮 出 num 张 黄牌  部分 违规 股权 将 被 逐出
 NEGATIVE	保监会 重典 治 市 ： 顶格 处罚 个别 屡 犯 不 改 机构
-POSITIVE	保利 租赁 住房 REITS  储 架 扩 募 打开 资产证券化 想象
+POSITIVE	保利 租赁 住房 REITs  储 架 扩 募 打开 资产证券化 想象
 NEGATIVE	保千里 原 实控人 “ 埋 雷 ”  上交所 督促 尽快 制定 对策
 POSITIVE	保险 “ 航母 ” 人保 集团 将 登陆 A股
 NEUTRAL	保险 股 何以 征服 各路 资金
@@ -406,7 +406,7 @@ POSITIVE	陈 刚接 掌 电广传媒  湖南 文化 国资 “ 遣 将 布阵 �
 NEUTRAL	陈 小 虎 ： 爱 吟诗 作 赋 的 商人
 POSITIVE	晨 之 科 打造 头部 产品  中文在线 二次元 板块 发力
 POSITIVE	成本 攀升 供不应求  白电 行业 酝酿 涨价
-NEGATIVE	成交 清淡  融资 资金 成 部分 个 股 交易 主力
+NEGATIVE	成交 清淡  融资 资金 成为 部分 个 股 交易 主力
 POSITIVE	成品 油价 或 迎 上调
 POSITIVE	成长股 回归 强势  创业板 指数 大涨 近 num ％
 POSITIVE	成长股 做 多 热情 被 激活  A股 做 多 力量 悄然 增加
@@ -422,8 +422,8 @@ POSITIVE	出海 收购 停 不 下来 ！ 中国 num 大 电力 巨头 考虑 �
 POSITIVE	储能 行业 发展 指导 意见 将 印发  规模化 应用 望 获 推进
 POSITIVE	传导 效应 凸显  A股 随 海外 热点 舞动
 NEGATIVE	传奇 老虎 基金 创始人 ： 低利率 正在 制造 股市 泡沫
-POSITIVE	传统 行业 “ 大逆转 ”  上市公司 盈利 显 着 提升
-NEUTRAL	传统 能源 车 将 成 历史 吗 ？
+POSITIVE	传统 行业 “ 大逆转 ”  上市公司 盈利 显著 提升
+NEUTRAL	传统 能源 车 将 成为 历史 吗 ？
 NEUTRAL	传 中资 斥 num 美元 竞购 智利 SQM  多 家中 企 否定
 POSITIVE	创维 董事局 主席 赖 伟 德 ： num 策略 助力 创维 转型  创新 才 有 出路
 POSITIVE	创业板 ： 着力 打造 创业创新 的 强劲 引擎
@@ -491,7 +491,7 @@ NEUTRAL	第八届 “ 金 理财 ” 奖 票选 正式 上 线
 POSITIVE	第二 例 信用 申购 可转债 亮相  正 股 抢权 迹象 明显
 POSITIVE	第三代 半导体 前景 广阔  多 家 上市公司 积极 布局
 POSITIVE	第三代 半导体 前景 广阔  上市公司 积极 布局
-POSITIVE	第三届 军民融合 发展 高 技术装备 成果 展 成果 显 着
+POSITIVE	第三届 军民融合 发展 高 技术装备 成果 展 成果 显著
 NEUTRAL	第三批 光伏 领跑 基地 名单 敲定  基地 建设 明年 num 月底 前 启动
 POSITIVE	第三批 混改 试点 不久 将 推出
 NEUTRAL	第 十一届 指数 与 指数化 投资 论坛 昨 在 上海 举行  指数化 投资 面临 新的 发展 契机
@@ -501,7 +501,7 @@ POSITIVE	电力 市场化 改革 方向 渐明  现货 市场 建设 不 争论 
 POSITIVE	电力 市场化 改革 细化 方向 渐趋 明朗
 POSITIVE	电商 “ 赶 时尚 ”  上市公司 忙 布局
 POSITIVE	电商 “ 赶 时尚 ” 上市公司 忙 布局
-POSITIVE	电视 会 答题 ！ 暴风 REAL  num  AI 服务 新增 问答 功能  成 首 台 会 答题 智能 无 屏 电视
+POSITIVE	电视 会 答题 ！ 暴风 Real  num  AI 服务 新增 问答 功能  成 首 台 会 答题 智能 无 屏 电视
 NEGATIVE	跌破 num 万亿 ！ 券商 资管 规模 三季度 剧烈 缩水
 NEGATIVE	迭 创新高 之后  机构 担忧 美股 或 迎 “ 多事之秋 ”
 NEGATIVE	定 开 债 基 生于 牛市 “ 好 发 不好 做 ”  收益 分化 机构 提前 降 杠杆
@@ -517,7 +517,7 @@ POSITIVE	东软载波 ： 从 “ 芯 ” 开始 打破 海外 垄断
 NEGATIVE	东吴 基金 num 产品 无 num 越过 平均线  华泰 柏 瑞 平均 收益 垫底
 POSITIVE	东旭光电 推出 “ 超 极 灯 ”
 POSITIVE	东旭光电 推出 石墨烯 “ 超 极 灯 ”  市场 规模 或 破 万亿
-POSITIVE	东旭光电 与 与 日本 经济 产业 省 电力 系统 合同 会 、 大 仓 株式会社 签订 《 共建 智慧 城市 合作 合同 》
+POSITIVE	东旭光电 与 与 日本 经济 产业 省 电力 系统 协议 会 、 大 仓 株式会社 签署 《 共建 智慧 城市 合作 协议 》
 NEUTRAL	董秘 需要 懂 什么 ？ 上交所 培训 强调 “ num 个 要 ”
 POSITIVE	董明珠 ： 智能家居 是 格力 的 一个 重要 发展 方向
 POSITIVE	都 在 挖掘 人工智能 芯片  哪个 领域 望 率先 爆发
@@ -576,7 +576,7 @@ POSITIVE	方 星海 ： 积极 推动 农产品 期货 市场 对外开放
 NEGATIVE	方 星海 ： 交易所 要 筑 牢 期 市 第一 道 风险 防线
 NEGATIVE	方 星海 ： 期货 全 行业 要 把 防 控 风险 放在 更加 重要 位置
 POSITIVE	方正 富邦 沈 毅 ： 长期 投资 是 王道 四季 度 看好 num 类 股
-NEGATIVE	房地产 调控 成效 显 着  库存量 回落 num 
+NEGATIVE	房地产 调控 成效 显著  库存量 回落 num 
 POSITIVE	房地产 投资 保持 平稳  开发商 拿 地 踊跃
 NEGATIVE	房地产 信托 不甘寂寞 ， 规模 持续 大幅 增加  暗藏 风险 需 警惕
 NEGATIVE	房地产 信托 规模 大增  暗藏 风险 需 警惕
@@ -614,7 +614,7 @@ POSITIVE	钢价 涨 、 环保 严  钢铁 “ 小伙伴 ” 捷报频传
 POSITIVE	钢铁 沙皇 如愿 入主 抚顺特钢  沈 家 num 公子 或 各 执 门庭
 POSITIVE	钢铁 沙皇 如愿 入主 抚顺特钢  沈 家 num 公子 或 各 执 门庭
 POSITIVE	钢铁业 num 季报 继续 飘红  宝钢 成 A股 最 赚钱 钢企
-POSITIVE	钢铁 有色 等 传统 行业 大逆转  上市公司 盈利 显 着 提升
+POSITIVE	钢铁 有色 等 传统 行业 大逆转  上市公司 盈利 显著 提升
 POSITIVE	港股通 “ 新秀 ” 民 银 资本 拟 发力 投行 业务
 NEGATIVE	港交所 加码 打击 老千 股
 POSITIVE	港口 企业 “ 舞动 ” 长江 经济带
@@ -642,7 +642,7 @@ POSITIVE	工信部 发布 高端 智能 再制造 行动 计划  产业 扶持 �
 POSITIVE	工信部 高端 智能 再制造 计划 ： num 年 产业 规模 达 num
 POSITIVE	工信部 将 建设 车联网 产业 标准 体系  车联网 时代 将 全面 到来
 POSITIVE	工信部 要求 做好 稀土 行业 秩序 整顿  价格 短期 或 稳定 上扬
-NEGATIVE	工信部 与 证监会 签订 战略 合作 合同
+NEGATIVE	工信部 与 证监会 签署 战略 合作 协议
 POSITIVE	工业 互联网 将 我国 制造业 导入 智能化 时代
 NEGATIVE	公开 透明  精准 出击  深交所 严惩 num 类 违规 行为
 NEUTRAL	公募 FOF 能 带来 什么 ？
@@ -674,7 +674,7 @@ POSITIVE	固定资产 投资 “ num 升 num 降 ” ： 政府 稳 增长 淡�
 NEGATIVE	固 收 类 基金 遭遇 债市 调整 考验  中海 可 转换 债券 num 年 跌 num 
 NEGATIVE	管理层 对 中 概 股 回归 作 了 严格 区分
 POSITIVE	光大证券 董事长 ： 发挥 党建 工作 优势  助力 实体 经济 发展
-POSITIVE	光大证券 与 中 民 投 集团 签订 全面 战略 合作 合同
+POSITIVE	光大证券 与 中 民 投 集团 签署 全面 战略 合作 协议
 POSITIVE	光电 龙头 竞技 武汉 光 博 会  京东方 华工科技 新品 亮相
 POSITIVE	光伏 板块 风口 再现  装机 超 预期 叠加 政策 利好
 NEGATIVE	光明乳业 难 掩 业绩 增长 背后 尴尬  长寿村 秘密 不再 神奇
@@ -742,7 +742,7 @@ POSITIVE	国美通讯 拟定 增 募资 num  控股 股东 认购 不 低于 num
 POSITIVE	国内 车企 加速 布局 新能源车
 POSITIVE	国内 车企 奏响 智能 驾驶 进行曲
 NEGATIVE	国内 钢价 延续 跌势  进口 铁矿石 价格 震荡 波动
-NEUTRAL	国内 首单 租赁 住房 REITS 获批 通过  意味着 什么 ？
+NEUTRAL	国内 首单 租赁 住房 REITs 获批 通过  意味着 什么 ？
 POSITIVE	国内 首家 专业 传感 技术 检测 公共 服务 平台 落户 常州
 POSITIVE	国企改革 红利 逐渐 释放  未来 num 年 央企 改革 看 什么
 NEUTRAL	国庆节 前 油价 再 迎 上调
@@ -854,8 +854,8 @@ NEUTRAL	沪指 失守 num 点  白酒 板块 迭 创新高
 POSITIVE	沪指 碎步慢走 再度 冲击 num 点
 POSITIVE	花 嫁 丽 舍 ： 婚庆 一站式 服务 行业 翘楚
 POSITIVE	花 嫁 丽 舍 ： 未来 成长 逻辑 清晰可见
-POSITIVE	花样 年 与 万达 物业 签定 意向 收购 合同
-POSITIVE	花样 年 与 万达 物业 签定 意向 收购 合同
+POSITIVE	花样 年 与 万达 物业 签定 意向 收购 协议
+POSITIVE	花样 年 与 万达 物业 签定 意向 收购 协议
 NEUTRAL	华宝 基金 陈 建华 ： 价值 投资 回归  布局 蓝筹 指 基 正当 时
 NEGATIVE	华尔街 迷恋 造 楼 之后 就 迎来 了 金融危机  如今 这 股 风潮 蔓延 到 了 硅谷
 NEGATIVE	华尔街 迷恋 造 楼 之后 就 迎来 了 金融危机  如今 这 股 风潮 蔓延 到 了 硅谷
@@ -867,10 +867,10 @@ NEGATIVE	华泰 柏 瑞 垫底  海 富通 固 收 产品 倒数 第 num
 NEUTRAL	华泰证券 num 挺 ： 解决 发展 不 平衡 不 充分 问题 孕育 投资 机会
 POSITIVE	华天科技 董事长 长子 上位 实控人
 POSITIVE	华为 AI 芯片 落地  三大 领域 开启 “ 芯 ” 旅程
-POSITIVE	华为 副总裁 楚 庆 ：  NB-IOT 将 催生 num 市值 科技 巨头
-POSITIVE	华为 副总裁 楚 庆 ： NB-IOT 将 催生 num 市值 科技 巨头
+POSITIVE	华为 副总裁 楚 庆 ：  NB-IoT 将 催生 num 市值 科技 巨头
+POSITIVE	华为 副总裁 楚 庆 ： NB-IoT 将 催生 num 市值 科技 巨头
 POSITIVE	华夏 人寿 增持 民生银行 num 股
-NEUTRAL	华中 科技 大学 自贸区 研究中心 执行 主任 陈 波 ： 上海 拟 自由 贸易 港区 建设 核心 应 是 做好 离岸 贸易
+NEUTRAL	华中 科技 大学 自贸区 研究中心 执行 主任 陈 波 ： 上海 筹划 自由 贸易 港区 建设 核心 应 是 做好 离岸 贸易
 POSITIVE	化工 有色 产业 供给端 “ 紧平衡 ” 格局 将 持续
 POSITIVE	化工 有色 产业 供给端 “ 紧平衡 ” 格局 将 持续  价格 或 持续 坚挺
 POSITIVE	环保 板块 崛起  预计 行业 增速 超 num ％
@@ -895,7 +895,7 @@ NEGATIVE	机构 互 博 正 股  林 洋 转债 连续 临 停 “ 高开 低 �
 POSITIVE	机构 集中 调研 num 季报 绩优股
 POSITIVE	机构 加速 布局  医疗 主题 基金 密集 发行
 POSITIVE	机构 看 市 ： 中国股市 迎来 新时代  中长期 向上 通道 已 打开
-POSITIVE	机构 密集 调研 布局 年末 市场  消费 电子 行业 成 QFII 新宠
+POSITIVE	机构 密集 调研 布局 年末 市场  消费 电子 行业 成为 QFII 新宠
 POSITIVE	机构 密集 调研 科技类 公司
 POSITIVE	机构 密集 调研 新能源 汽车 板块
 POSITIVE	机构 派 探寻 长效 增长 逻辑  数据 响应 最 牛股 翻倍 动因
@@ -956,7 +956,7 @@ POSITIVE	加强 协同 监管  上市 保险 企业 强者恒强
 POSITIVE	加强 协同 监管  上市 险 企 强者恒强
 POSITIVE	佳沃 集团 投资 num 橙 食品  联想 控股 大农业 布局 浮现
 POSITIVE	嘉实 基金 ： num 年 五大 猜想  A股 有望 震荡 上行
-NEGATIVE	贾 全 臣 出让 表决权  青岛 国资委 成 恒顺众昇 实控人
+NEGATIVE	贾 全 臣 出让 表决权  青岛 国资委 成为 恒顺众昇 实控人
 NEGATIVE	假 举报 真 做空  证监会 查处 “ 中国 蛋品 流通 协会 ”
 POSITIVE	价值 投资 “ 下 一程 ”
 NEUTRAL	价值 投资 “ 下 一程 ”  行业 改善 环境 任重道远
@@ -989,8 +989,8 @@ NEUTRAL	江西省 num 亿元 地方债 将 在 上交所 发行
 POSITIVE	姜 洋 ： 发挥 直接 融资 功能  推动 增长 动能 转换
 NEGATIVE	姜 洋 ： 上市公司 监管 要 守住 不 发生 系统性 区域性 风险 底线
 POSITIVE	姜 洋 ： 提升 资本市场 服务  助力 西部 地区 发展
-NEUTRAL	降低 技术 标准  苹果 力保 IPHONE  产量
-NEUTRAL	降低 技术 标准  苹果 力保 IPHONE  产量
+NEUTRAL	降低 技术 标准  苹果 力保 iPhone  产量
+NEUTRAL	降低 技术 标准  苹果 力保 iPhone  产量
 POSITIVE	交通部 ： 两步走 实现 交通 强国 战略 目标
 NEGATIVE	交易 对手 主动 放弃  群兴玩具 第三次 重组 失利
 NEUTRAL	交 银 施 罗德 谢 卫 ： 加强 金融 精细 化 监管  建设 资本市场 强国
@@ -1001,8 +1001,8 @@ POSITIVE	焦作万方 第一 大股东 换人  和 泰安 成 增持 上位
 NEUTRAL	揭秘 A股 三大 流派 最新 布局  战术 、 持股 大 不同
 NEUTRAL	揭秘 A股 三大 流派 最新 布局  战术 、 持股 大 不同 ( 股 )
 POSITIVE	揭秘 num 私募 调研 图谱  牛股 就 在 这里 ！
-POSITIVE	揭秘 保利 租赁 住房 REITS  储 架 扩 募 打开 房企 资产证券化 想象 空间
-NEUTRAL	揭秘 保利 租赁 住房 REITS ： 公募 REITS 落地 有待 政策 支持
+POSITIVE	揭秘 保利 租赁 住房 REITs  储 架 扩 募 打开 房企 资产证券化 想象 空间
+NEUTRAL	揭秘 保利 租赁 住房 REITs ： 公募 REITs 落地 有待 政策 支持
 NEGATIVE	揭秘 恒力股份 重组 标的 巨 亏 真 因
 NEGATIVE	揭秘 恒力股份 重组 标的 巨 亏 真 因  num 大 成本 捆绑 连 亏 魔咒
 POSITIVE	揭秘 举牌 者 新动向 : 有的 已 踩 刹车  它们 被 不断 增持
@@ -1049,7 +1049,7 @@ NEUTRAL	金融 监管 新 局 蜕变  从 机构 监管 到 功能 监管
 NEUTRAL	金融危机 中 他 狂 赚 num  如今 被迫 关掉 旗下 基金  最后 依然 认为 “ 市场 错 了 ”
 POSITIVE	金融业 开放 ： 持股 比例 、 业务 范围 扩大 可期
 POSITIVE	金融业 深度 开放 拟定 时间表  外资 持股 比例 大幅 提高
-POSITIVE	金域医学 与 全球 基因测序 巨头 ILLUMINA 合作  共同 为 中国 患者 开发 肿瘤 及 遗传病 检测 系统
+POSITIVE	金域医学 与 全球 基因测序 巨头 Illumina 合作  共同 为 中国 患者 开发 肿瘤 及 遗传病 检测 系统
 POSITIVE	金证股份 积极 备战 网联 时代
 NEGATIVE	津劝业 蹊跷 卖 资产  上交所 问询 交易 动机
 POSITIVE	紧跟 热点  信托 密集 调研 中小创
@@ -1129,7 +1129,7 @@ POSITIVE	科大讯飞 联手 北京 汽车 探索 智能 车载 技术 应用
 POSITIVE	科大智能 并购案 出炉  刘 强 东 借机 潜入 A股
 POSITIVE	科 致电 气 ： 智能 制造 标杆 的 打造 者
 POSITIVE	科 致电 气 ： 智能 制造 解决方案 领头羊
-NEUTRAL	可燃 冰 成 我国 第173个 矿种
+NEUTRAL	可燃 冰 成为 我国 第173个 矿种
 POSITIVE	可转债 发行 提速  金 禾 转债 周三 申购
 NEUTRAL	可转债 发行 提速 金 禾 转债 周三 申购
 NEGATIVE	可转债 基金 集体 回调  东吴 中证 可 转换 债券 受伤 最 深
@@ -1143,10 +1143,10 @@ POSITIVE	恐慌 散 去 ： 全球 股市 创 历史 新高 ， 欧 股 全线 �
 NEGATIVE	控股 子公司 “ 失控 ”  华测检测 遭遇 并购 后遗症
 NEGATIVE	扣非 净利 大 降 num 成  哈药股份 连续 num 年 疲软 急需 补钙
 NEGATIVE	扣非 净利 大 降 num 成  哈药股份 连续 num 年 疲软 急需 补钙
-POSITIVE	跨境 并购 num 季 报 ： “ 一带一路 ” 沿线 显 着 增长
-POSITIVE	跨境 并购 num 季 报 ： “ 一带一路 ” 沿线 显 着 增长
-POSITIVE	跨境 并购 num 季 报 ： 一带一路 沿线 显 着 增长
-POSITIVE	跨境 并购 num 季 报 ： 一带一路 沿线 显 着 增长
+POSITIVE	跨境 并购 num 季 报 ： “ 一带一路 ” 沿线 显著 增长
+POSITIVE	跨境 并购 num 季 报 ： “ 一带一路 ” 沿线 显著 增长
+POSITIVE	跨境 并购 num 季 报 ： 一带一路 沿线 显著 增长
+POSITIVE	跨境 并购 num 季 报 ： 一带一路 沿线 显著 增长
 POSITIVE	跨境电商 告别 野蛮 生长  洋 码头 进入 结构性 盈利
 POSITIVE	跨境电商 告别 野蛮 生长  洋 码头 进入 结构性 盈利
 POSITIVE	跨境电商 将 添 西部 “ 小伙伴 ”
@@ -1350,8 +1350,8 @@ POSITIVE	美尚生态 发布 num 款 新产品
 POSITIVE	美尚生态 发布 num 款 新产品
 POSITIVE	美尚生态 发布 num 款 新产品
 POSITIVE	棉纱 期货 即将 挂牌  多 家 上市公司 欲 参与
-NEGATIVE	面对 亚马逊 竞争  TARGET 宣布 大规模 降价  零售 股 集体 下跌
-NEGATIVE	面对 亚马逊 竞争  TARGET 宣布 大规模 降价  零售 股 集体 下跌
+NEGATIVE	面对 亚马逊 竞争  Target 宣布 大规模 降价  零售 股 集体 下跌
+NEGATIVE	面对 亚马逊 竞争  Target 宣布 大规模 降价  零售 股 集体 下跌
 POSITIVE	瞄准 六大 专科 领域  华润双鹤 加速 转型
 POSITIVE	民资 “ 掌舵 ” 杭 绍 台 项目  铁路 投融资 体制改革 再 迈一步
 POSITIVE	民资 掌舵 杭 绍 台 项目  铁路 投融资 体制改革 再 迈一步
@@ -1419,8 +1419,8 @@ POSITIVE	拟 num 收购 瑞 福 锂业  美都能源 详解 交易 缘由
 POSITIVE	拟 num 亿元 收购 天 盛 港务  东华能源 瞄准 西南 市场
 POSITIVE	拟购 num 公司 股权  方大化工 开拓 军工 业务
 NEUTRAL	逆周期 管理 措施 回归 中性  人民币 升势 “ 歇脚 ”
-POSITIVE	年产 num 吨 num 氟 磷酸 锂 产能 投产  天际股份 将 成 num 氟 磷酸 锂 细分 领域 龙头
-POSITIVE	年产 num 吨 num 氟 磷酸 锂 产能 投产  天际股份 将 成 num 氟 磷酸 锂 细分 领域 龙头
+POSITIVE	年产 num 吨 num 氟 磷酸 锂 产能 投产  天际股份 将 成为 num 氟 磷酸 锂 细分 领域 龙头
+POSITIVE	年产 num 吨 num 氟 磷酸 锂 产能 投产  天际股份 将 成为 num 氟 磷酸 锂 细分 领域 龙头
 POSITIVE	年底 流动性 趋紧 ？ 信托 产品 年 化 收益率 频频 超过 num ！
 POSITIVE	年底 流动性 趋紧 ？ 信托 产品 年 化 收益率 频频 超过 num ％ ！
 NEGATIVE	年关 将 至  资金面 寒意 阵阵  房企 “ 捂 紧 棉被 ” 过冬
@@ -1514,8 +1514,8 @@ POSITIVE	汽车 贷款 管理 新 办法 发布  新能源 汽车 最低 首付 
 POSITIVE	汽车 贷款 管理 新 办法 发布  新能源 汽车 最低 首付 num ％
 POSITIVE	汽车 贷款 管理 新 办法 发布  新能源 汽车 最低 首付 num ％
 POSITIVE	汽车 电子 ： 集成电路 产业 下 一个 “ 蓝海 ”
-NEGATIVE	千张 罚单 不断 敲打 银行  房贷 竟然 成 一大 重灾区
-NEGATIVE	千张 罚单 不断 敲打 银行  房贷 竟然 成 一大 重灾区
+NEGATIVE	千张 罚单 不断 敲打 银行  房贷 竟然 成为 一大 重灾区
+NEGATIVE	千张 罚单 不断 敲打 银行  房贷 竟然 成为 一大 重灾区
 NEGATIVE	千张 罚单 不断 敲打 银行  房贷 竟是 一大 重灾区
 NEGATIVE	千张 罚单 不断 敲打 银行  房贷 竟是 一大 重灾区
 NEGATIVE	千张 罚单 不断 敲打 银行  房贷 竟是 一大 重灾区
@@ -1571,15 +1571,15 @@ POSITIVE	全柴动力 拟 投资 设立 氢 能源 研究 公司
 POSITIVE	全国 两会 代表 委员 建议 ： 调整 医药 产业 结构  支持 中药 大 品种 发展
 POSITIVE	全国 两会 代表 委员 建议 ： 调整 医药 产业 结构  支持 中药 大 品种 发展
 POSITIVE	全国 首次 管道 天然气 竞价 交易 启动
-POSITIVE	全国 首单 住房 租赁 类 REITS  在 深交所 成功 发行
-POSITIVE	全国 首单 住房 租赁 类 REITS  在 深交所 成功 发行
-POSITIVE	全国 首单 住房 租赁 类 REITS  在 深交所 成功 发行
-POSITIVE	全国 首单 住房 租赁 类 REITS 在 深交所 成功 发行
-POSITIVE	全国 首单 住房 租赁 类 REITS 在 深交所 成功 发行
-POSITIVE	全国 首单 住房 租赁 类 REITS 在 深交所 成功 发行
-POSITIVE	全国 首单 住房 租赁 类 REITS 在 深交所 发行
-POSITIVE	全国 首单 住房 租赁 类 REITS 在 深交所 发行
-POSITIVE	全国 首单 住房 租赁 类 REITS 在 深交所 发行
+POSITIVE	全国 首单 住房 租赁 类 REITs  在 深交所 成功 发行
+POSITIVE	全国 首单 住房 租赁 类 REITs  在 深交所 成功 发行
+POSITIVE	全国 首单 住房 租赁 类 REITs  在 深交所 成功 发行
+POSITIVE	全国 首单 住房 租赁 类 REITs 在 深交所 成功 发行
+POSITIVE	全国 首单 住房 租赁 类 REITs 在 深交所 成功 发行
+POSITIVE	全国 首单 住房 租赁 类 REITs 在 深交所 成功 发行
+POSITIVE	全国 首单 住房 租赁 类 REITs 在 深交所 发行
+POSITIVE	全国 首单 住房 租赁 类 REITs 在 深交所 发行
+POSITIVE	全国 首单 住房 租赁 类 REITs 在 深交所 发行
 NEGATIVE	全国 首例 私募 债券 欺诈 发行  刑事 判决 落槌
 NEGATIVE	全国 首例 私募 债券 欺诈 发行  刑事 判决 落槌
 NEGATIVE	全国 首例 私募 债券 欺诈 发行  刑事 判决 落槌
@@ -1702,7 +1702,7 @@ POSITIVE	三季度 股份 行 压力 或 见 底  “ 对公 银行 ” 概念 �
 POSITIVE	三季度 股份 行 压力 或 见 底  “ 对公 银行 ” 概念 逐步 回暖
 NEGATIVE	三季度 基金 波段 操作 可转债  保险 、 券商 现 分歧
 NEGATIVE	三季度 基金 波段 操作 可转债  保险 券商 现 分歧
-POSITIVE	三季度 基金 仓位 显 着 提升  继续 “ 抱团 ” 大 金融 大消费
+POSITIVE	三季度 基金 仓位 显著 提升  继续 “ 抱团 ” 大 金融 大消费
 POSITIVE	三季度 加仓  信托 紧盯 num 大板块
 POSITIVE	三季度 加仓  信托 紧盯 num 大板块
 POSITIVE	三季度 加仓  信托 紧盯 num 大板块
@@ -1719,8 +1719,8 @@ POSITIVE	三六零 借壳 江南嘉捷  num 无先例 “ 回 ” 方案 出炉
 POSITIVE	三六零 借壳 江南嘉捷  num 无先例 “ 回 ” 方案 出炉
 POSITIVE	三六零 借壳 江南嘉捷  num 无先例 “ 回 ” 方案 出炉
 NEUTRAL	num 年 num 易 其 主  步森股份 拟 转型 金融科技
-POSITIVE	三元 联手 复星 对 法国 num 健康 食品 品牌 ST  HUBERT 的 收购 通过 审批
-POSITIVE	三元 联手 复星 对 法国 num 健康 食品 品牌 ST  HUBERT 的 收购 通过 审批
+POSITIVE	三元 联手 复星 对 法国 num 健康 食品 品牌 St  Hubert 的 收购 通过 审批
+POSITIVE	三元 联手 复星 对 法国 num 健康 食品 品牌 St  Hubert 的 收购 通过 审批
 POSITIVE	num 重 拐点 到来  网络安全 行业 集中度 提升 可期
 POSITIVE	森特股份 ： 紧盯 雄 安 建设 带来 的 商机
 POSITIVE	森特股份 ： 紧盯 雄 安 建设 带来 的 商机
@@ -1823,7 +1823,7 @@ NEUTRAL	上交所 首单 收费 公路 专项 债券 成功 发行
 NEUTRAL	上交所 首单 收费 公路 专项 债券 成功 发行  规范 地方 举债
 NEGATIVE	上交所 问询 交易 动机  津劝业 蹊跷 卖 资产 引 质疑
 NEGATIVE	上交所 问询 秋林集团 股东 增持 事项
-NEGATIVE	上交所 细究 “ 虚假 合同 ”  保千里 起诉 实控人
+NEGATIVE	上交所 细究 “ 虚假 协议 ”  保千里 起诉 实控人
 POSITIVE	上交所 细究 罗顿发展 资产 并购  是否 构成 重组 上市 仍 是 焦点
 POSITIVE	上交所 细究 罗顿发展 资产 并购  是否 构成 重组 上市 仍 是 焦点
 POSITIVE	上交所 细究 罗顿发展 资产 并购  是否 构成 重组 上市 仍 是 焦点
@@ -1841,7 +1841,7 @@ POSITIVE	上市 保险公司 前 三季度 业绩 先声夺人 ： 平安 股价
 POSITIVE	上市 保险公司 前 三季度 业绩 先声夺人 ： 平安 股价 涨幅 近 num ％
 POSITIVE	上市 保险公司 前 三季度 业绩 先声夺人 ： 平安 股价 涨幅 近 num ％ 国寿 预计 净利 同比 增长 num ％
 POSITIVE	上市 保险公司 前 三季度 业绩 先声夺人 ： 平安 股价 涨幅 近 num ％ 国寿 预计 净利 同比 增长 num ％
-POSITIVE	上市 房企 价值 雄起 “ 新 逻辑 ”  土地 储备 成 重要 竞争力
+POSITIVE	上市 房企 价值 雄起 “ 新 逻辑 ”  土地 储备 成为 重要 竞争力
 POSITIVE	上市 房企 价值 雄起 有 “ 新 逻辑 ”
 NEUTRAL	上市公司 “ 斗智 ” 工 博 会
 POSITIVE	上市公司 “ 斗智 ” 工 博 会  多 家 券商 看好 智能 制造
@@ -1915,9 +1915,9 @@ NEUTRAL	神秘 金 主 助力 如意集团 奢侈品 版图 急速 膨胀  这 �
 POSITIVE	神州 控股 联袂 广州 城投  在 深 网 层面 建设 智慧 城市
 POSITIVE	神州 控股 联袂 广州 城投  在 深 网 层面 建设 智慧 城市
 NEUTRAL	神州数码 num 并购 启 行 教育  交易所 追问 是否 刻意 规避 借壳
-NEGATIVE	失 “ 珍爱 ” 连续 跌停  德奥通航 急 签 对赌 式 投资 合同
-NEGATIVE	失 “ 珍爱 ” 连续 跌停  德奥通航 急 签 对赌 式 投资 合同
-NEGATIVE	失 “ 珍爱 ” 连续 跌停  德奥通航 急 签 对赌 式 投资 合同
+NEGATIVE	失 “ 珍爱 ” 连续 跌停  德奥通航 急 签 对赌 式 投资 协议
+NEGATIVE	失 “ 珍爱 ” 连续 跌停  德奥通航 急 签 对赌 式 投资 协议
+NEGATIVE	失 “ 珍爱 ” 连续 跌停  德奥通航 急 签 对赌 式 投资 协议
 NEGATIVE	失去 货 基 加持 天 弘 基金 排名 暴跌  主动 权益 规模 不足 num
 NEGATIVE	失去 货 基 加持 天 弘 基金 排名 暴跌  主动 权益 规模 不足 num
 POSITIVE	狮头股份 确认 已有 控股 方  外籍 东家 低调 入主
@@ -2016,9 +2016,9 @@ POSITIVE	税 延 养老险 已 做好 准备  或 将 输送 资本市场 num �
 POSITIVE	税 延 养老险 准备就绪  望 为 A股 输送 num 弹药
 POSITIVE	顺 大势  四川双马 终止 出售 水泥 资产  显 信心  和谐 恒源 限期 实施 亿元 增持
 POSITIVE	顺丰 牵手 中集  快递 柜 整合 潮起
-POSITIVE	顺势 扩张 获 新 动能  数字 营销 板块 业绩 稳 增
-POSITIVE	顺势 扩张 获 新 动能  数字 营销 板块 业绩 稳 增
-POSITIVE	顺势 扩张 获 新 动能  数字 营销 板块 业绩 稳 增
+POSITIVE	顺势 扩张 获取 新 动能  数字 营销 板块 业绩 稳 增
+POSITIVE	顺势 扩张 获取 新 动能  数字 营销 板块 业绩 稳 增
+POSITIVE	顺势 扩张 获取 新 动能  数字 营销 板块 业绩 稳 增
 POSITIVE	私行 客户 招行 力 压 建行  理财 规模 num 万亿 工行 称王
 POSITIVE	私行 客户 招行 力 压 建行  理财 规模 num 万亿 工行 称王
 NEGATIVE	私募 FOF 业绩 提升  三大 行业 痛 点 仍 待 解决
@@ -2045,9 +2045,9 @@ POSITIVE	四季 度 开启 逆袭 窗口期  基金 “ 后进生 ” 或 发力
 POSITIVE	四季 度 开启 逆袭 窗口期  基金 “ 后进生 ” 或 发力 三板 块
 POSITIVE	搜狗 纽交所 敲钟  腾讯 与 搜狐 实现 双赢
 POSITIVE	苏宁 金 服 增资 扩股  云峰 新 创 等 踊跃 参 投
-POSITIVE	苏宁 智慧 零售 模式 成效 显 着  郭 台 铭 与 张 近东 拍 板 num 大单
-POSITIVE	苏宁 智慧 零售 模式 成效 显 着  郭 台 铭 与 张 近东 拍 板 num 大单
-POSITIVE	苏宁 智慧 零售 模式 成效 显 着  郭 台 铭 与 张 近东 拍 板 num 大单
+POSITIVE	苏宁 智慧 零售 模式 成效 显著  郭 台 铭 与 张 近东 拍 板 num 大单
+POSITIVE	苏宁 智慧 零售 模式 成效 显著  郭 台 铭 与 张 近东 拍 板 num 大单
+POSITIVE	苏宁 智慧 零售 模式 成效 显著  郭 台 铭 与 张 近东 拍 板 num 大单
 POSITIVE	孙 树 明 ： 新时代 证券业 要 有 新 作为
 POSITIVE	孙 文 靖 ： 走 在 产业 升级 的 最 前沿
 POSITIVE	孙 文 靖 ： 走 在 产业 升级 的 最 前沿
@@ -2071,9 +2071,9 @@ POSITIVE	套保 需求 催生 供给  场 外 衍生品 市场 渐趋 活跃
 POSITIVE	特斯拉 中国 建厂 计划 确认  揭开 上海 与 特斯拉 的 故事
 NEGATIVE	特 停 次新股 陆续 复牌  股价 表现 严重 分化
 POSITIVE	腾讯 AI 雄心 初 显  主攻 医疗 零售 自动 驾驶
-POSITIVE	腾讯 耗资 num 港元  成 中金公司 第 三大 股东
+POSITIVE	腾讯 耗资 num 港元  成为 中金公司 第 三大 股东
 POSITIVE	腾讯 耗资 num 港元  成 中 金 第 三大 股东
-POSITIVE	腾讯 耗资 num 港元 成 中金公司 第 三大 股东
+POSITIVE	腾讯 耗资 num 港元 成为 中金公司 第 三大 股东
 POSITIVE	腾讯 控股 “ 开 枝 散 叶 ”  阅文集团 港股 IPO 受 追捧
 POSITIVE	腾讯 旗下 阅文 赴 港 IPO  拟 募资 num 港元
 POSITIVE	腾讯 旗下 阅文 赴 港 IPO  拟 募资 num 港元
@@ -2119,9 +2119,9 @@ NEUTRAL	投服中心 的 角色 定位 与 散户 维权 路径
 NEUTRAL	投服中心 启动 “ 投资者 服务 西部行 ” 活动
 NEUTRAL	投服中心 启动 “ 投资者 服务 西部行 ” 活动
 NEUTRAL	投服中心 启动 “ 投资者 服务 西部行 ” 活动
-NEGATIVE	投服中心 协助 投资者 起诉 勐 犸 资产
-NEGATIVE	投服中心 协助 投资者 起诉 勐 犸 资产
-NEGATIVE	投服中心 协助 投资者 起诉 勐 犸 资产
+NEGATIVE	投服中心 协助 投资者 起诉 猛犸 资产
+NEGATIVE	投服中心 协助 投资者 起诉 猛犸 资产
+NEGATIVE	投服中心 协助 投资者 起诉 猛犸 资产
 NEUTRAL	投服中心 与 北京 仲裁委 合作  首次 建立 仲 调 对接 机制
 NEUTRAL	投服中心 与 广发证券 战略 合作
 NEUTRAL	投服中心 与 广发证券 战略 合作
@@ -2140,8 +2140,8 @@ POSITIVE	投资者 信心 提升  八成 投顾 看涨 后市
 NEGATIVE	投资者 选择 落袋为安  多 只 绩优 基金 遭 净赎回
 POSITIVE	推进 技术 突破 和 产业化  津膜科技 拥抱 雄 安 机遇
 NEGATIVE	推进 先行 赔付  深交所 开辟 市场化 投资者 权益 保护 新途径
-NEUTRAL	脱发 正在 勐 袭 num 后 ！ 背后 是 一个千亿级 的 市场
-NEUTRAL	脱发 正在 勐 袭 num 后 ！ 背后 是 一个千亿级 的 市场
+NEUTRAL	脱发 正在 猛 袭 num 后 ！ 背后 是 一个千亿级 的 市场
+NEUTRAL	脱发 正在 猛 袭 num 后 ！ 背后 是 一个千亿级 的 市场
 NEGATIVE	脱贫 生 瑞华 股份 急 上市  募资 拟 收购 企业 成立 num 年 就 亏损
 NEGATIVE	脱贫 生 瑞华 股份 急 上市  募资 拟 收购 企业 成立 num 年 就 亏损
 POSITIVE	外汇 储备 “ 九连 升 ”  增幅 收窄 规模 稳定
@@ -2354,9 +2354,9 @@ POSITIVE	新希望 num 收购 澳洲 本土 最大 宠物 食品公司  全 产�
 POSITIVE	新兴 产业 大格局 浮出水面  机构 加快 布局 抢占 “ 新 风口 ”
 POSITIVE	新兴 产业 大格局 浮出水面  机构 加快 布局 抢占 新 风口
 POSITIVE	新兴 成长 行业 公司 受到 基金公司 青睐
-POSITIVE	新兴 领域 服务 贸易 高歌勐进
-POSITIVE	新兴 领域 服务 贸易 高歌勐进
-POSITIVE	新兴 领域 服务 贸易 高歌勐进
+POSITIVE	新兴 领域 服务 贸易 高歌猛进
+POSITIVE	新兴 领域 服务 贸易 高歌猛进
+POSITIVE	新兴 领域 服务 贸易 高歌猛进
 POSITIVE	新 需求 主导 有色金属 价格 走向
 POSITIVE	新一代 人工智能 发展 规划 全面 启动 实施
 NEGATIVE	新 宇 药业 上 会 频 踩 IPO 禁区  产品 单一 客户 集中
@@ -2559,9 +2559,9 @@ POSITIVE	英特尔 领 投 、 嘉实 投资 共同 投资  布局 自动 驾驶
 POSITIVE	英特尔 领 投 、 嘉实 投资 共同 投资  布局 自动 驾驶 “ 最强 大脑 ”
 POSITIVE	英特尔 领 投 、 嘉实 投资 共同 投资 地平线 ， 布局 自动 驾驶 “ 最强 大脑 ”
 POSITIVE	英特尔 领 投 、 嘉实 投资 共同 投资 地平线 ， 布局 自动 驾驶 “ 最强 大脑 ”
-POSITIVE	英雄 互 娱 完成 num 亿元 PRE-IPO 系列 融资
-POSITIVE	英雄 互 娱 完成 num 亿元 PRE-IPO 系列 融资
-POSITIVE	英雄 互 娱 完成 num 亿元 PRE-IPO 系列 融资
+POSITIVE	英雄 互 娱 完成 num 亿元 Pre-IPO 系列 融资
+POSITIVE	英雄 互 娱 完成 num 亿元 Pre-IPO 系列 融资
+POSITIVE	英雄 互 娱 完成 num 亿元 Pre-IPO 系列 融资
 NEGATIVE	英 央行 加息 呼声 高涨  英镑 迎接 多空 之 战
 NEGATIVE	英 央行 加息 呼声 高涨  英镑 迎接 多空 之 战
 NEGATIVE	英 央行 加息 呼声 高涨  英镑 迎接 多空 之 战
@@ -2748,8 +2748,8 @@ NEUTRAL	证券 研究 排名 出炉  请 点击 查看 各项 排名 ！
 POSITIVE	证券 研究 排名 出炉  num 券商 成 买方 机构 最爱
 POSITIVE	证券 研究 排名 出炉  num 券商 成 买方 机构 最爱
 POSITIVE	证券 研究 排名 出炉  num 券商 成 买方 机构 最爱
-NEUTRAL	郑州 造 出 全球 一半 IPHONE  为何 苹果 无法 回 美国 生产
-NEUTRAL	郑州 造 出 全球 一半 IPHONE  为何 苹果 无法 回 美国 生产
+NEUTRAL	郑州 造 出 全球 一半 iPhone  为何 苹果 无法 回 美国 生产
+NEUTRAL	郑州 造 出 全球 一半 iPhone  为何 苹果 无法 回 美国 生产
 POSITIVE	职业 年金 首单 将 落槌  A股 迎新 资金 达 万亿
 POSITIVE	制度 监管 护航  金融科技 赋能 实体 经济
 POSITIVE	制造业 动能 持续 释放  num 月 PMI 回落 难阻 经济 回暖
@@ -2816,7 +2816,7 @@ POSITIVE	中国 将 降 汽车 关税  明年 num 月 放开 新能源车 外资
 NEUTRAL	中国 金融 监管 步入 “ 双峰 ” 模式 过渡带
 NEUTRAL	中国 金融 监管 步入 “ 双峰 ” 模式 过渡带
 NEUTRAL	中国铝业 ： 披露 子公司 num 亿元 混改 意图
-POSITIVE	中国铝业 拟 发行 股份 购买 资产  num 月 社保 大幅 加仓
+POSITIVE	中国铝业 筹划 发行 股份 购买 资产  num 月 社保 大幅 加仓
 NEUTRAL	中国铝业 披露 子公司 num 亿元 混改 意图
 NEUTRAL	中国铝业 停牌 前 证金 减持 num 股  社保 大幅 加仓
 POSITIVE	中国平安 今年 来 涨幅 超 num ！ 究竟哪些 资金 在 撬动 保险 股 ？
@@ -3038,8 +3038,8 @@ POSITIVE	自由贸易港 打造 中国 对外开放 新 地标
 POSITIVE	自由贸易港 打造 中国 对外开放 新 地标
 POSITIVE	自由贸易港 打造 中国 对外开放 新 地标
 POSITIVE	总 供给 与 总需求 良性 互动 增强 经济 复苏 稳健 性
-POSITIVE	租赁 住房 金融 化 破冰  中国 版 REITS 进阶
-POSITIVE	租赁 住房 金融 化 破冰  中国 版 REITS 进阶
+POSITIVE	租赁 住房 金融 化 破冰  中国 版 REITs 进阶
+POSITIVE	租赁 住房 金融 化 破冰  中国 版 REITs 进阶
 POSITIVE	组建 自然资源 部 和 生态 环境 部 ： 推动 美丽中国 建设
 POSITIVE	组建 自然资源 部 和 生态 环境 部 ： 推动 美丽中国 建设
 NEGATIVE	最 “ 惨 ” 举牌 ： 西藏 巨浪 遭 强 平 危机  浪莎 股价 被 腰斩
@@ -3119,7 +3119,7 @@ NEUTRAL	如果 马 化 腾 把 腾讯 交给 你 ， num 天后 收回 ， 你 �
 NEUTRAL	巴菲特  num  岁 时 的 研究报告  : 《 我 最 看好 的 股票 》
 NEUTRAL	一线 | 投资人 ： 股东会 上 最 有趣 的 问题 是 巴菲特 对 小 标的 束手无策
 NEGATIVE	腾讯 证券 研究院 | 中国式 投资 国情 ： 为什么 “ 巴菲特 ” 水土不服 ？
-POSITIVE	巴菲特 股东大会 点评 num 家 公司 ， 谁 会 成 股神 的 下 一个 猎物 ？
+POSITIVE	巴菲特 股东大会 点评 num 家 公司 ， 谁 会 成为 股神 的 下 一个 猎物 ？
 NEUTRAL	制造业 增值税 从 num ％ 降 到 num ％ 的 烦恼 ！
 POSITIVE	巴菲特 公布 选股 标准 ， num 多 家 A股 公司 竟 只有 num 家 “ 入围 ”
 POSITIVE	腾讯 证券 研究院 | A股 即将 被 纳入 MSCI 将 在 这 num 方面 利好 投资者
@@ -3149,7 +3149,7 @@ NEGATIVE	非 标 年报 引发 监管层 调查  * ST 天业 及 大股东 num �
 NEGATIVE	腾讯 证券 研究院 | 资管 新规 对 信用 债 市场 是 重大 考验
 NEUTRAL	以前 股票 赔 了 只要 不 割肉 放 里面 几 年 后 还 能 回 本 ， 有可能 还 能 挣点 钱 ， 为什么 现在 不 一样 了 ？
 NEUTRAL	汗颜 ！ 巴菲特 被 女孩 问 倒 还给 她 发 OFFER  质疑 偏离 早期 轻资产 投资 理念
-POSITIVE	马云 阿里 营收 超过 腾讯 ？ 阿里 或 成 最 具 国际 影响力 的 中国 互联网 公司
+POSITIVE	马云 阿里 营收 超过 腾讯 ？ 阿里 或 成为 最 具 国际 影响力 的 中国 互联网 公司
 NEUTRAL	股市 中 一共 就 num 部分 钱 可 赚 ！ num 人 的 关注 点 都 错 了
 POSITIVE	重磅 ！ 阿里 巴巴 居然 开始 迈向 全新 领域 ， 科学家 助阵 ！
 NEUTRAL	主力 到底 能不能 看 我们 散户 的 账户 ， 主力 是 根据 什么 来 判断 选股 的 ？
@@ -3241,7 +3241,7 @@ POSITIVE	为什么 今年 难 有 大行情 ， 却 还 鼓励 大家 积极 布
 POSITIVE	孙 本 伟 ： 行情 如期 打破 区间 ， 多 单 已然 大赚 ！
 POSITIVE	估值 最高 的 自 媒体 达 num ， 不是 咪蒙 、 num 条 ， 也 不是 逻辑思维 ， 而是 他
 POSITIVE	瑞银 、 野村 之后 ， 摩根 大通 也 来 了 ！ 外资 控股 券商 " 接二连三 "
-POSITIVE	兵贵神速 ！ OPPO 成 全球 首 个 演示 num 结构 光 num 视频 通话 的 品牌
+POSITIVE	兵贵神速 ！ OPPO 成为 全球 首 个 演示 num 结构 光 num 视频 通话 的 品牌
 NEGATIVE	美国 国会 公布 了 num 多 则 俄罗斯 购买 的 FACEBOOK 广告
 NEGATIVE	彭 桦 ： 阿根廷 比索 大跌 是否 会 诱发 拉美 货币 危机
 POSITIVE	UDE 亮点 以及 造血 功能
@@ -3283,7 +3283,7 @@ NEGATIVE	“ 空姐 被害 案 ” 司机 弃 车 跳河 滴滴 num 追凶 ； �
 POSITIVE	黄 章 林 工作 室 ： 知识 共享 营销 ， num 种 合作 方式  num 春夏 版
 NEUTRAL	每日 必读 的 几 个 优秀 微信 公众 号
 NEUTRAL	专访 BKFUND 黄 峤 濛 ： 仓位 管理 是 控制 价格 和 流动性 风险 的 关键
-NEUTRAL	新闻 网络 直播 会 成 下 一个 新闻 风口 吗 ？
+NEUTRAL	新闻 网络 直播 会 成为 下 一个 新闻 风口 吗 ？
 NEUTRAL	老 米 CPS ： 水滴 攻击
 POSITIVE	团战 亚马逊 ！ ALPHABET 欲 携手 沃尔玛 投资 FLIPKART
 NEGATIVE	闲 鱼 可 得 小心 了 ？ 球鞋 倒卖 ， 不再 是 你 一家 独 大 的 生意 了
@@ -3380,7 +3380,7 @@ POSITIVE	南方 电网 首 台 自主 研发 变电站 巡检 机器人 即将 �
 POSITIVE	num 月 下旬 黄金 再次 冲刺 num ， 您 准备好 了 吗 ？
 NEGATIVE	寒心 ！ 凶手 尚未 归案 ， 滴滴 却 忙着 指责 竞争 对手 抹黑 ？
 POSITIVE	人本 照明 是 什么 ？ 阿里 巴巴 和 雷 士 跨界 牵手 ， 要 重新 定义 照明 ？
-NEUTRAL	中国 最 励志 num 后 ： 靠 销售 起家 ， num 岁 就 成 最 具 影响力 的 商业 领袖 ！
+NEUTRAL	中国 最 励志 num 后 ： 靠 销售 起家 ， num 岁 就 成为 最 具 影响力 的 商业 领袖 ！
 NEGATIVE	无人 货架 的 四大 烦恼
 POSITIVE	智 业 科技 的 过去 、 现在 及 未来 ！
 NEGATIVE	估值 下调 到 num ， 是 投资者 期望 高 ， 还是 小米 的 “ 故事 ” 不够 好 ？
@@ -3395,7 +3395,7 @@ POSITIVE	民族 日化 品牌 打造 者 葛 文 耀 来 了
 NEGATIVE	num 岁 空姐 乘 顺风车 遇害 ， 滴滴 至少 犯 了 这 num 大 错误 ！
 NEUTRAL	杭州 、 宁波 和 温州 是 浙江 经济 最 发达 的 num 个 城市 ， 哪 座 城市 更 发达 ？
 POSITIVE	次新股 万兴科技 被 低估 ， num 月 或 超 永和智控
-POSITIVE	他 将 花费 超过 num 美元 ， 英国 成 全球 AI 的 领导者 吗 ？
+POSITIVE	他 将 花费 超过 num 美元 ， 英国 成为 全球 AI 的 领导者 吗 ？
 NEGATIVE	警惕 ！ 短信 中 这些 词 会 被判 垃圾 短信 让 手机 封号 ， 支付宝 都 包含 在 内
 NEUTRAL	我 在 百度 看 湖北 推举 湖北 家装 行业 “ 闪亮 劳动者 ”
 POSITIVE	错过 万兴科技 ， 又 num 高 送 转 龙头 觉醒 ， 机构 增持 ， 将 升 成 妖
@@ -3467,7 +3467,7 @@ POSITIVE	游戏 显卡 和 数据中心 业务 强劲 增长 ， 英伟达 num �
 POSITIVE	UBER 计划 推 “ 空中 的 士 ” 业务  价格 与 高端 打车 服务 相当
 POSITIVE	中 公 教育 借壳 亚夏汽车  num 交易 仅 提升 每股 收益 num 分钱
 NEGATIVE	“ 资管 新规 ” 还 真 跟 你 有 关系 ！
-POSITIVE	num 分销 成 热门 ， 店铺 转型 个人 创业 新 选择
+POSITIVE	num 分销 成为 热门 ， 店铺 转型 个人 创业 新 选择
 NEUTRAL	国内 油价 年内 第6次 上调  机构 预测 下 轮 仍 涨
 NEUTRAL	品 书 嗅 香 —— 巴菲特 和 索 罗斯 的 num 条 投资 习惯 —— num 种 抄底 必备 战法 图解  建议 收藏 ！
 POSITIVE	曾 让 李 彦 宏 兴奋 的 天才 崔 珊珊 ， 回来 了 ！
@@ -3593,7 +3593,7 @@ POSITIVE	黄金 多头 莫 沮丧 ！ 这 几 大 信号 或 暗示 金价 正 �
 NEUTRAL	上海 财经 教授 讲述 num 种 涨停板 法宝
 NEUTRAL	距离 AI 取缔 人脑 ， 还要 多久 ？
 NEUTRAL	资深 操盘手 教 你 实用 的 选股 技巧 ， 远 超 十字星 高效 ！
-NEGATIVE	债券 地雷 频 爆 ， 注意 成 num 根 行走 的 避雷针
+NEGATIVE	债券 地雷 频 爆 ， 注意 成为 num 根 行走 的 避雷针
 NEGATIVE	中国 通信 领域 路上 又 出现 新的 “ 绊脚石 ” ， 联想 “ 出卖 ” 自己人 ！
 POSITIVE	北京大学 粤港澳 大 湾 区 知识产权 发展 研究院 落户 知识 城
 POSITIVE	虎牙 直播 上市  斗鱼 也 不会 远  直播 行业 真的 不再 烧钱  进入 盈利 期 了 吗 ？
@@ -3617,7 +3617,7 @@ NEGATIVE	以 太 坊 管理 遭 诟病 ， VITALIK  BUTERIN 发 推 回应
 POSITIVE	白宫 首次 召开 专题 会  特朗普 ： 发展 人工智能  只 加油 不 设限
 NEGATIVE	空姐 遇害 案 终于 告破 ， 这个 时代 信息 有 多 不 对称
 NEGATIVE	租车 跑 滴滴 ， 盈利 被 租车公司 割 走 大部分 ， 收入 不如 打工
-POSITIVE	白宫 成立 人工智能 特别 委员会 ， 英特尔 CEO ： AI 应 成 美国 的 国家 战略
+POSITIVE	白宫 成立 人工智能 特别 委员会 ， 英特尔 CEO ： AI 应 成为 美国 的 国家 战略
 POSITIVE	区块链 技术 会 应用 到 这些 行业 ， 看看 会 影响 到 你 的 生活 吗 ？
 NEGATIVE	A股 医药 、 医疗 保健 、 软件 服务 、 证券 等 板块 大跌 ， 散户 如何 是 好 ！
 NEGATIVE	num 岁 空姐 滴滴 打车 遭受 杀害 ， 滴滴 打车 平台 应 承担 什么 责任 ？
@@ -3753,7 +3753,7 @@ NEUTRAL	报告 也 出 了 ， 豆油 可否 给 个 面子 ？
 NEGATIVE	顺风车 ， 滴滴 、 真的 应该 禁止 吗 ？ 作为 社交 工具 num 开始 就是 错误 的 吗
 POSITIVE	宁强县 在 第三届 丝 博 会 签约 项目 num 个  总投资 num 亿元
 POSITIVE	智博 会 最 炫 黑科技 —— 艾 吉 威 无 反光板 激光 叉车 AGV
-POSITIVE	共享 纸巾 ： 设备 的 稳定性 成 代理商 签约 的 首选 条件
+POSITIVE	共享 纸巾 ： 设备 的 稳定性 成为 代理商 签约 的 首选 条件
 POSITIVE	仓库 巡检 、 清洁 环卫 不 需要 人 ， 高 仙 机器人 获 num 美元 轮 融资
 NEUTRAL	互联网 ＋ 最新 商业 模式  让 创业者 轻松 创业
 POSITIVE	华为 发布 比特币 钱包  或 提前 布局 加密 货币 市场
@@ -3767,7 +3767,7 @@ NEGATIVE	通过 空姐 遇害 num 案 ， 滴滴 对 运营 做出 改变 ， �
 NEUTRAL	平安银行 大 放水 ， 有 平安 信用卡 的 可以 提领 num 备用金 了 ！
 POSITIVE	引领 写字楼 新模式 ， 东莞 信 安 科技 大厦 独创 花园式 智慧 型 商务 平台
 POSITIVE	证监会 半夜 发文 ！ 富士康 获 IPO 批文 ！
-POSITIVE	迅雷 成 中国 投资 协会 常务 理事 单位
+POSITIVE	迅雷 成为 中国 投资 协会 常务 理事 单位
 NEGATIVE	业绩 不够 房子 凑 ！ 张家界 旅游 集团 利润 大 降 ， 要 卖 长沙 num 套房
 NEGATIVE	京东 又 甩 锅 了 ！ 官方 回应 假 茅台酒 事件 系 调包
 NEGATIVE	天 喔 国际 证实 南浦 创始人 林 建华 被 调查 ！ 复牌 后 股价 暴跌 num ％
@@ -3810,7 +3810,7 @@ POSITIVE	地方 金控 平台 发展 的 七大 主要 特征
 POSITIVE	昌吉州 启动 全 域 智慧 旅游 平台 建设
 POSITIVE	中国 游戏 直播 第一股 迎来 开门红  虎牙 上市 首日 涨逾 num ％
 NEGATIVE	爱奇艺 HR 高校 招聘 优先 过滤 掉 河南 人 ， 或 将 损失 上 num 用户 ， 网友 直呼 ： 已经 卸载 爱奇艺
-POSITIVE	新零售 成 阿里 腾讯 京东 的 焦点 ， 都 在 抢占 市场 ， 谁 能 笑 到 最后 ？
+POSITIVE	新零售 成为 阿里 腾讯 京东 的 焦点 ， 都 在 抢占 市场 ， 谁 能 笑 到 最后 ？
 POSITIVE	科大讯飞 ： 第一 龙头 横空出世 ， num 月 将 赶超 万兴科技
 POSITIVE	还 在 用 网盘 ？ 会 赚钱 的 家庭 NAS 云盘 了解 num
 POSITIVE	松江 泖 亭 ： 立足 实际 做 精 做 细 ， 发挥 优势 做 大 做 强
@@ -3919,7 +3919,7 @@ POSITIVE	富士康 互联网 获 证监会 IPO 批文  最快 本月底 挂牌
 POSITIVE	STEAM 教育 企业 小 码 王 获 num 亿元 轮 融资
 NEGATIVE	你 为什么 会 卸载 “ 抖 音 ” ？
 POSITIVE	GRIDRASTER 和 SAGUNA 通过 EDGE 电脑 改善 移动 AR 和 VR 体验
-POSITIVE	TOP num ： 虎牙 美国 上市 ， 成 中国 游戏 直播 第一股 ； 贾跃亭 旗下 FF 在 广州 成立 销售 公司 ， 称 将 全面 登陆 中国
+POSITIVE	TOP num ： 虎牙 美国 上市 ， 成为 中国 游戏 直播 第一股 ； 贾跃亭 旗下 FF 在 广州 成立 销售 公司 ， 称 将 全面 登陆 中国
 NEGATIVE	关于 企鹅 号 “ 达人 计划 “ 对 违规 达人 的 处罚 公告
 POSITIVE	高 通 宣布 num 提前 商用 ， 用 num 要 换 手机 ， 首批 num 手机 年底 上市 ！
 POSITIVE	阿里 还是 京东 ？ YOOX  NET-A-PORTER 透露 找到 中国 合作 伙伴
@@ -4060,7 +4060,7 @@ POSITIVE	富士康 落地 ， 真正 的 工业 互联网 龙头 来 了
 POSITIVE	地方 央企 改革 股 能 长线 持有 吗 ？
 POSITIVE	深夜 批文 ！ 富士康 来 了 ， 这 几 股 的 策略 必须 收好 ！
 NEGATIVE	董事长 借 num 高利贷 ， 躲避 债务 玩 失联 ， 股票 复牌 连续 num 个 跌停
-POSITIVE	猫 超 会 成天 猫 新零售 的 新 标杆 吗 ？ 对话 天猫 大 快 消 总经理 古 迈
+POSITIVE	猫 超 会 成为 天猫 新零售 的 新 标杆 吗 ？ 对话 天猫 大 快 消 总经理 古 迈
 NEUTRAL	下 周 方向 与 策略
 POSITIVE	世界 上 最 具 影响力 的 公司 ， 我国 也 占据 一席之地
 POSITIVE	中国 机器人 峰会 召开  num 大 金 股 或 将 爆发
@@ -4206,7 +4206,7 @@ NEGATIVE	本 周 大盘 会 更 复杂 ， 关注 三大 板块 低 吸 机会
 NEGATIVE	特斯拉 MODEL  num 前 生产 负责人 离岗 休假 ： 要 走人 了 ？
 NEGATIVE	ST 众和 num 月 num 日 起 暂停 上市  这些 公司 也 有 风险
 NEGATIVE	华为 出 声 以 视 正 听 ， 做空 联想 别 有 深意 ！
-POSITIVE	招商证券 ： 中兴 事件 罚款 成 最大 可能 解决方案  num 有望 迎来 反弹
+POSITIVE	招商证券 ： 中兴 事件 罚款 成为 最大 可能 解决方案  num 有望 迎来 反弹
 POSITIVE	盘 前 ： 指数 回踩 中期 向好  成长股 修复 行情 有望 展开
 POSITIVE	num 家 公司 开启 回购 计划  大手笔 回购 频现
 POSITIVE	东方证券 资管 推出 风格 稳健 新产品
@@ -4345,7 +4345,7 @@ POSITIVE	num 世 店 加 num 年 num 收入 为 num 亿元  同比 翻倍
 NEGATIVE	商务部 ： 融资 租赁 公司 经营 和 监管 规则 职责 已 num 划 至 银 保监会
 POSITIVE	冯 矿 伟 ： 突破 num 分钟 顶 信号
 POSITIVE	东华软件 与 腾讯 云 洽谈 重大 事项  拟 在 多 领域 展开 深度 合作
-NEUTRAL	怎么样 成 小 娇 的 优质 客户 ， 将 信用卡 额度 提升 num 倍 ？
+NEUTRAL	怎么样 成为 小 娇 的 优质 客户 ， 将 信用卡 额度 提升 num 倍 ？
 POSITIVE	沪 强 创业 弱 在线 ， 个 股 没有 激情
 POSITIVE	DEF  CON 首次 来华 圆满 收官  百度 引领 中国 极客 迎接 AI 时代
 POSITIVE	富士康 提交 招股书 ： 拟 发行 约 num 股  公开 发行 新股
@@ -4405,7 +4405,7 @@ POSITIVE	第三届 文旅 产业 巅峰 大会 举办  共 筑 文旅 产业 新
 NEUTRAL	小 变化 大趋势 ： 纸质 菜单 会 被 手机 点 餐 取代 吗 ？
 NEGATIVE	乐视网 ： 现金流 极度 紧张  正在 积极 寻求 一切 可能 的 方案
 NEGATIVE	网 传 代驾 与 首汽 约 车 双方 高层 接触 频繁  “ 卖身 ” 传闻 疑 已 实 锤
-NEGATIVE	这 num 个 被 忽略 的 错误  会 让 你 成 “ 死 ” 在 明天 晚上 的 创业者
+NEGATIVE	这 num 个 被 忽略 的 错误  会 让 你 成为 “ 死 ” 在 明天 晚上 的 创业者
 POSITIVE	云集 品 TPS 社交 电商 如何 打破 传统
 NEGATIVE	乐视网 ： 存在 被 暂停 上市 的 风险
 NEUTRAL	唯有 股指 期货 才 是 MSCI 最 稳定 的 暴利 存在 ！
@@ -4508,7 +4508,7 @@ POSITIVE	这 num 只 个 股 强势 站 上年 线 ， 长期 或 走 牛 ！ �
 NEGATIVE	乐视网 回应 “ 能否 重回 num 市值 ” ： 无法 判断  存在 被 暂停 上市 风险
 POSITIVE	百瑞 赢 收 评 ： 上证指数 翻红 收盘 富士康 概念股 领涨 两市
 NEGATIVE	一线  |  乐视网 称 会 继续 向 贾跃亭 追债
-NEGATIVE	特朗普 扰乱 中东 局势 ， 将 取代 中国 成 世界 第一 大石 油 进口国 ！
+NEGATIVE	特朗普 扰乱 中东 局势 ， 将 取代 中国 成为 世界 第一 大石 油 进口国 ！
 POSITIVE	紫光国芯 更名 紫光 国 微  聚焦 微 电子 、 从 芯片 到 云端 完整 布局
 NEGATIVE	欧 市 盘 前 ： 非 美 货币 现 普涨 格局 ， 关注 OPEC 原油 月报
 POSITIVE	比特币 及 主流 货币 价格 普遍 微涨 ， 瑞郎 币 FRCOIN 立志 成 避险 第一 货币
@@ -4699,7 +4699,7 @@ NEGATIVE	皇氏集团 董事 持股 被 强 平  监管层 问询 牵 出 更多
 NEGATIVE	【 一线 】 红黄蓝 市值 蒸发 num 亿元  美 律 所 开启 集体 诉讼 调查
 POSITIVE	幸福蓝海 谈 并购 对象 ： 笛 女 传媒 有 三大 优势
 POSITIVE	决策 分析 ： 强劲 数据 支撑 欧元  黑色 星期五 美元 处于 守势
-POSITIVE	别 让 股市 “ 黑嘴 ” 成 市场 健康 发展 的 绊脚石
+POSITIVE	别 让 股市 “ 黑嘴 ” 成为 市场 健康 发展 的 绊脚石
 NEGATIVE	京东方 再 遭 国资 减持  num 股东 拟 抛 num 股
 POSITIVE	宗 庆 后 扔出 王 炸  娃哈哈 要 上市 了 ？
 POSITIVE	广发证券 勇夺 新财富 本土 最佳 研究 团队 第一 名
@@ -4779,7 +4779,7 @@ POSITIVE	“ 乐 视 致 新 ” 更名 为 “ 新乐视 智 家 ”
 NEGATIVE	东方金钰 忽悠 员工 上船 大股东 悄悄 开 熘 ， 定增 num 连败 恐 没钱 过年
 NEGATIVE	贵州茅台 股价 num 天 跌 去 近 num 元  海外 资金 继续 减持
 POSITIVE	乐 视 体系 更名 潮 最新 进展 ： 乐 视 致 新 正式 更名 “ 新乐视 智 家 ”
-NEGATIVE	年底 突击 创利 成 监管 重点  多 公司 收到 问询 函
+NEGATIVE	年底 突击 创利 成为 监管 重点  多 公司 收到 问询 函
 POSITIVE	num 份 最佳 新财富 分析师 推荐 的 股票 名单
 POSITIVE	拼抢 num 市场 ， 行业 大亨 不甘落后 ！ 这些 上市公司 正 抓紧 布局 ！
 POSITIVE	什么 信号 ？ 市场 低迷 ， “ 东方红 ” 却 遭 num 资金 疯 抢 ！
@@ -4849,7 +4849,7 @@ NEGATIVE	茅台 市值 num 天 缩水 上 num  泡沫 破 了 ？
 NEGATIVE	今年 港股 基金 平均 收益 num  审批 或 面临 收紧
 NEGATIVE	内地 香港 互 认 基金 num 月 销量 增速 趋缓
 NEUTRAL	人民日报 ： num 增速 降低 不会 对 经济 产生 较大 负面 影响
-POSITIVE	A股 将 成 亚太 股市 上涨 领头羊 ！ 看 外资 机构 的 逻辑
+POSITIVE	A股 将 成为 亚太 股市 上涨 领头羊 ！ 看 外资 机构 的 逻辑
 POSITIVE	“ 弃 投 ” 吸引力 增  H股 全 流通 利 港交所 中资 券商
 POSITIVE	恒 指 再 创 num 年 新高  未来 增长 仍 可期
 POSITIVE	无人驾驶 汽车 渐行 渐近 ： 百度 宣布 将 于 明年 num 月 实现 量产
@@ -4886,7 +4886,7 @@ NEGATIVE	茅台 市值 num 天 缩水 上 num  泡沫 破灭 了 ？
 NEGATIVE	大趋势 下 的 结构性 调整  是 继续 下跌 还是 横向 整理 ？
 NEGATIVE	多 个 城市 房价 跌 回 一年前  楼市 资金 会 转战 股市 吗 ？
 NEUTRAL	该怎样 解读 证监会 num 天 谈 了 num 次 提高 直接 融资
-POSITIVE	A股 将 成 亚太 股市 上涨 的 领头羊 看 外资 机构 给 出 的 逻辑
+POSITIVE	A股 将 成为 亚太 股市 上涨 的 领头羊 看 外资 机构 给 出 的 逻辑
 NEUTRAL	是 “ 面板 大王 ” 也 是 “ 烧钱 大王 ” ， 京东方 到底 是 怎样 一家 公司 ？
 POSITIVE	num 月 num 日 你 要 知道 的 num 个 股市 消息
 POSITIVE	一线 游资 参与 的 这 几 只 股 ， 谁 后劲 更大 ？
@@ -5173,7 +5173,7 @@ POSITIVE	特朗普 暗示 对 修改 共和党 税改 法案 持 开放 立场
 POSITIVE	大众 或 与 江淮汽车 组建 合资企业 以 生产 轻型 商用车
 POSITIVE	联合 利华 收购 美国 发肤 护理 产品 生产商 SUNDIAL
 POSITIVE	三维 度 筛选 结构性 行情 确定性 机会  num 只 个 股 逆市 吸金 显 峥嵘
-POSITIVE	为 航运业 提供 管理 协作 工具 ， “ 龙船 科技 ” 希望 成 航运业 基础设施
+POSITIVE	为 航运业 提供 管理 协作 工具 ， “ 龙船 科技 ” 希望 成为 航运业 基础设施
 NEGATIVE	闻泰科技 乱 局 ： 大股东 要 清仓 减持 ， num 市值 韭菜 抗 ？
 NEGATIVE	大 摩 num 份 研报 引发 巨 震 ， 行业 龙头 三星 暴跌 ， 这 几 家 A股 公司 也 哭 了 …
 POSITIVE	准 美联储 主席 鲍 威 将 在 一定 程度 上 进一步 加息
@@ -5365,7 +5365,7 @@ POSITIVE	兴业银行 荣获 “ num 中国 区 优秀 投行 君 鼎 奖 ” nu
 POSITIVE	兴业银行 ： 网络 金融 业务 持续增长  金融科技 服务 向 外 输出
 POSITIVE	一季度 报告 陆续 出炉 ， 白云山 “ 创新 效益 ” 助力 领跑
 POSITIVE	科大讯飞 携手 国家 档案局 科研所 打造 “ 档案 超 脑 ” 新 业态
-POSITIVE	中兴 表示 将 持续 加大 核心 芯片 等 研发 投入 ， 争取 成 num 先锋
+POSITIVE	中兴 表示 将 持续 加大 核心 芯片 等 研发 投入 ， 争取 成为 num 先锋
 POSITIVE	联美控股 num 季报 出炉 ： 净赚 近 num 亿元  同比 增长 num ％
 POSITIVE	中国太保 首发 税 延 养老 保险 综合 解决方案 ， 让 保险 惠及 更多 百姓
 POSITIVE	中国联通 补贴 num 用户 换 机 ！ 投资 num 亿元 ， 加快 num 网络 建设
@@ -5846,7 +5846,7 @@ POSITIVE	人人乐 num 年 有望 强势 反弹
 POSITIVE	安妮股份 盘 中 异动  早盘 拉升 num ％
 POSITIVE	国恩股份 拟 投资 num 万元 设立 控股 子公司
 POSITIVE	num 紫光国芯 ： 芯片 强势 概念 ， 调整 后 短线 有 再次 上升 机会 ， 择机 关注 潜伏
-POSITIVE	num 世纪瑞尔 ： 被 严重 低估 了 ， 近期 有望 成 暴涨 新 妖 王 ！
+POSITIVE	num 世纪瑞尔 ： 被 严重 低估 了 ， 近期 有望 成为 暴涨 新 妖 王 ！
 POSITIVE	num 众合科技 ： 全球 首 套 高铁 自动 驾驶 系统 现场 试验  num ％ 中国 研发
 POSITIVE	num 南大光电 ： 主力 连续 num 度 加仓 ， num 月 将 暴涨 成 新 妖 王
 POSITIVE	num 赢时胜 ： 一季度 基金 持仓 渐 清晰  多 只 创业板 权重股 被 明显 加仓
@@ -5902,7 +5902,7 @@ POSITIVE	民和股份 股价 拉升 num ％  股价 创 num 月 新高
 POSITIVE	中行 与 国家 卫 健 委 统计 信息 中心 签订 战略 合作 合同
 POSITIVE	从 “ 大水 漫灌 ”  到 “ 物联网 干预 ” 陕西 杨凌 农业 示范区 金融 支持 现代 农业 见闻
 POSITIVE	紫金矿业 ： “ 一带一路 ” 倡议 为 公司 国际化 发展 提供 重大 机遇
-POSITIVE	新 生态  大 合作  共 精彩  恭喜 爱 保 科技 成 中国联通 众 筹 num 全国 合作 伙伴
+POSITIVE	新 生态  大 合作  共 精彩  恭喜 爱 保 科技 成为 中国联通 众 筹 num 全国 合作 伙伴
 NEGATIVE	丹邦科技 盘 中 异动  早盘 大幅 跳水 num ％
 POSITIVE	大和 ： 上调 长城汽车 ( num -HK ) 评级 至 跑赢 大市  目标价 num 元
 NEGATIVE	科大国创 盘 中 异动  早盘 大跌 num ％
@@ -6096,7 +6096,7 @@ POSITIVE	自如 完成 num 亿元 融资  腾讯 等 num 家 机构 领 投
 POSITIVE	乐高 与 腾讯 达成 战略 合作  推出 首 个 儿童 数字 体验 系统性 解决方案
 POSITIVE	【 一线 】 中国联通 与 腾讯 签订 合作  组建 大数据 实验室
 POSITIVE	构建 网络安全 共同体  腾讯 全面 深化 企业 社会 责任
-POSITIVE	腾讯 王 兰 ： 腾讯 众 创 空间 致力于 成 全球 创业 生态 的 连接器
+POSITIVE	腾讯 王 兰 ： 腾讯 众 创 空间 致力于 成为 全球 创业 生态 的 连接器
 POSITIVE	腾讯 智能 助手 叮当 在 CES 发布 生态 伙伴 计划  全面 开放 AI 能力
 POSITIVE	腾讯 开盘价 num 港元  再创新高
 POSITIVE	微信 公众 平台 公告 ： 规范 “ 非 固定 收益 类 投资 产品 ” 类 信息 发布
@@ -6390,7 +6390,7 @@ NEUTRAL	林 松涛 ： 未来 ， 腾讯 将 和 合作 伙伴 一起 打造 上
 POSITIVE	num 年 成就 num 家 上市公司  腾讯 开放 战略 再 升级
 POSITIVE	腾讯 首席 运营 官 任 宇 昕 ： 小 程序 会 进一步 降低 开发 门槛  不久 将 推 VR 开放 平台
 NEUTRAL	应用 号 终于 来 了  它 到底 长 什么样 ？ 看 这 篇 就 知道 了
-NEUTRAL	腾讯 取代 搜狐 成 搜狗 最大 单一 股东
+NEUTRAL	腾讯 取代 搜狐 成为 搜狗 最大 单一 股东
 NEUTRAL	腾讯 、 num 发布 “ 腾 城 计划 ”  为 O2O 下半场 打造 社交 生活 服务 综合体
 NEUTRAL	马 化 腾 致 合作 伙伴 公开信 ： 开放 生态 “ 大树 ” 变 “ 森林 ”
 POSITIVE	腾讯 市值 超 num 万亿 港元  涨 近 num 再 创 上市 新高
@@ -6404,7 +6404,7 @@ POSITIVE	港股通 资金 加速 流入  num 只 标的 股 创新高
 POSITIVE	为 发展 插 上 互联网 的 翅膀  江西 与 腾讯 签订 战略 合作 合同
 POSITIVE	腾讯 增持 京东 股票  CLASS  持股 比例 升 至 num 
 POSITIVE	安信 国际 ： 予 腾讯 “ 买入 ” 评级  看 num 港元
-POSITIVE	腾讯 超过 阿里 ， 成 中国 市值 最高 的 互联网 公司
+POSITIVE	腾讯 超过 阿里 ， 成为 中国 市值 最高 的 互联网 公司
 POSITIVE	中 金 ： 维持 腾讯 “ 推荐 ” 评级  上调 目标价 至 num 港元
 POSITIVE	腾讯 上半年 业绩 胜 预期  获 大 行 唱好 股价 创新高
 POSITIVE	腾讯 业绩 靓丽  投行 升 目标价 最高 至 num 港元
@@ -7214,7 +7214,7 @@ POSITIVE	董明珠 斥资 num 万元 再度 增持 格力电器
 POSITIVE	再 出手 ！ 董明珠 增持 格力电器 num 股  耗资 逾 num
 POSITIVE	董明珠 昨日 增持 格力电器 num 股  耗资 逾 num 万元
 NEGATIVE	num 格力电器 换届 董明珠 存 变数  珠海 银隆 或是 其 退路
-NEUTRAL	家电 行业 num 年度 策略 报告 : “ 智能化 + 嵌入式 ” 将 成 后 家电 时代 的 下 一个 风口
+NEUTRAL	家电 行业 num 年度 策略 报告 : “ 智能化 + 嵌入式 ” 将 成为 后 家电 时代 的 下 一个 风口
 POSITIVE	家用电器 行业 周报 : 国产 家电 品牌 竞争力 提升
 POSITIVE	格力 工资 涨 了 num 元 之后  员工 被 要求 必须 买 格力 手机
 NEUTRAL	董明珠 ： 中国 的 税 不是 高 和 低 的 问题  而是 费 太 乱
@@ -7298,7 +7298,7 @@ NEUTRAL	证监会 主席 刘 士 余 对 杠杆 收购 的 表态 该 如何 解
 NEUTRAL	格力 与 “ 野蛮人 ” 进退 间 关系 微妙  宝能 系 称 短期内 不会 参与 公司 经营
 POSITIVE	广东 外汇 新政 降低 融资 成本  境外 融资 便利 性 提升
 NEUTRAL	前海人寿 ： 持股 格力电器 未 达 num  尚无 参与 公司 经营管理 计划
-NEUTRAL	董明珠 谈资 本 敲门 格力电器 ： 如果 他们 破坏 中国 制造 会 成 罪人
+NEUTRAL	董明珠 谈资 本 敲门 格力电器 ： 如果 他们 破坏 中国 制造 会 成为 罪人
 NEGATIVE	刘 士 余 批评 险资 后  前海人寿 火速 回复 深交所 格力电器 相关 情况
 NEUTRAL	举牌 逻辑 调查 ：  险资 爱 白马 、 私募 喜 捡 “ 壳 ”
 NEUTRAL	格力电器 估值 迎 重构  市值 陡增 num 诱因 探秘
@@ -7546,7 +7546,7 @@ POSITIVE	家用电器 行业 周报 : 厨 电 受益 地产 改善
 NEGATIVE	乐 视 财报 大 剖析  或 巨 亏 num 亿元
 NEUTRAL	谁 中标 了 里 约 奥运会 ： 格力 美的 吵翻  真相 在 这
 NEUTRAL	董明珠 ： 格力 收购 新 能源 企业 ， 真的 要 开始 造 汽车 了
-POSITIVE	家用电器 行业 : 国际化 和 新领域 将 成 下 num 轮 增长 动力
+POSITIVE	家用电器 行业 : 国际化 和 新领域 将 成为 下 num 轮 增长 动力
 NEGATIVE	产业 在线 num 月 空调 数据 简评 : 内销 跌幅 有所 加剧
 NEUTRAL	刘 强 东 ： 我 与 董明珠 彼此 非常 欣赏
 NEUTRAL	变身 “ 网 红 ”  董明珠 意在 格力 转型 还是 玩转 营销 套路 ？
@@ -7709,7 +7709,7 @@ NEGATIVE	一线 │ 乐 视 体育 香港 遭 num 间 公司 申请 清盘  案�
 POSITIVE	乐视网 股价 大涨 num  股价 创 num 月 新高
 POSITIVE	乐视网 num 手 封 单 封死 涨停板  成交 超 num 亿元
 POSITIVE	又是 孙宏斌 ！ 海航 num 出售 海南 num 个 地产 项目 ， 融创 接盘
-POSITIVE	题材股 持续 受 追捧  机构 ： 创业板 有望 成 近期 市场 风口
+POSITIVE	题材股 持续 受 追捧  机构 ： 创业板 有望 成为 近期 市场 风口
 NEGATIVE	乐视网 股权 质押 至少 牵涉 num 家 上市 券商
 POSITIVE	中小创 赚钱效应 凸显  成长 风格 基金 大出风头
 NEGATIVE	去年 至今 超 num 家 上市公司 收 罚单  投资者 索赔 难
@@ -8137,7 +8137,7 @@ POSITIVE	乐视网 回应 num 年 电视 业绩 低迷 ： 未 被 传统 电视
 NEGATIVE	中国 有 嘻哈 引 纠纷 ： 爱奇艺 斥 乐 视 故意 诋毁  索赔 num
 NEUTRAL	乐视网 推动 贾跃亭 凭 汽车 股权 抵债  孙宏斌 称 与 老 贾 没有 任何 矛盾
 NEUTRAL	贾跃亭 仍 为 乐视网 第一 大股东  无法 判断 复牌 后 股价 走势
-NEGATIVE	num 大 风险 之下  乐 视 将 成 孙宏斌 的 遗憾 吗 ？
+NEGATIVE	num 大 风险 之下  乐 视 将 成为 孙宏斌 的 遗憾 吗 ？
 NEGATIVE	乐视网 ： 公司 现存 num 欠款 、 债务 违约 和 诉讼
 NEGATIVE	( 路演 ) 乐视网 ： 受 现金流 紧张 等 因素 影响  电视 销量 出现 波动
 NEGATIVE	( 路演 ) 乐视网 ： 贾跃亭 控制 关联方 应收账款 仍 存 回收 风险
@@ -8326,7 +8326,7 @@ POSITIVE	贾跃亭 FF 引入 泰国 国家 石油 为 投资方  或 为 牛 根
 NEGATIVE	【 棱镜 】 起诉 管理层 、 重组 焦灼 ， 乐 视 体育 “ 清场 ” 开始
 NEGATIVE	num 月份 num 家 公司 违规 多 与 信披 有 关  贾跃亭 失 诺 遭 责令 改正
 POSITIVE	题材股 回暖  创业板指 大涨 超 num  你 认为 和 乐视网 有关 吗 ？
-NEGATIVE	中邮 基金 或 成 年内 最 悲情 基金  踩雷 乐视网 、 宣亚国际
+NEGATIVE	中邮 基金 或 成为 年内 最 悲情 基金  踩雷 乐视网 、 宣亚国际
 POSITIVE	多 家 央企 控股 股东 改制 更名  兜底 式 增持 再现
 NEUTRAL	num 年 科技 行业 num 大 交易 盘点 ： 东芝 出售 芯片 业务 排 第一
 NEGATIVE	【 晚间 要闻 速 览 】 中国 计划 停止 发放 新能源 汽车 地方 补贴
@@ -8763,7 +8763,7 @@ NEGATIVE	乐 视 及 贾跃亭 num 资产 遭 冻结  最长 达 num 年
 POSITIVE	财富 中国 num 强 上榜 门槛 首 破 num  房企 数量 最多
 NEGATIVE	继 招商银行 之后  建行 申请 冻结 乐 视 num 财产
 POSITIVE	《 战 狼 num 》 送 北京文化 num 涨停  传媒 主题 基金 却 集体 踏空
-NEGATIVE	乐视网 首 度 成 资金 风波 “ 主角 ”  被 建行 申请 财产 保全
+NEGATIVE	乐视网 首 度 成为 资金 风波 “ 主角 ”  被 建行 申请 财产 保全
 NEGATIVE	建行 向 法院 申请 冻结 乐 视 及 贾跃亭 等 num 财产
 NEGATIVE	建行 向 法院 申请 冻结 乐 视 及 贾跃亭 num 财产
 NEUTRAL	乐 视 体育 寻 接盘 人  宁波 生态园 以 地 换股 未 交割
@@ -8775,7 +8775,7 @@ NEGATIVE	乐视网 num 私募债 本 周 面临 回 售  机构 博弈 能否 �
 NEGATIVE	乐视网 CEO 梁 军 ： 三大 方案 清理 关联 交易
 NEUTRAL	乐视网 CEO 梁 军 ： 乐 视 致 新的 目标 是 尽快 不再 烧钱 把 报表 变成 盈利
 NEUTRAL	乐 视 员工 “ num 元 卡 ” 解密 银行 “ 人群 画像 ” 授信 逻辑
-NEUTRAL	创业板 如何 改革 才能 成 中国 版纳 斯 达 克
+NEUTRAL	创业板 如何 改革 才能 成为 中国 版纳 斯 达 克
 NEGATIVE	乐 视 手机 线下 体验店 num 关停  殃及 迪信通
 NEGATIVE	网 酒 网 摘牌  乐 视 继续 “ 清盘 ” 边缘 业务
 NEGATIVE	乐 视 债务 拖累 机构  海通 创世 涉 num 违约 纠纷
@@ -8841,7 +8841,7 @@ NEGATIVE	乐 视 致 新 被 指 拖欠 部分 员工 薪水  强制 转 签 乐
 NEGATIVE	贾跃亭 价值 num 乐视网 股票 被 冻结
 NEGATIVE	以史为鉴 ： 暴跌 中的 创业板 能否 “ 接 飞刀 ” ？
 NEGATIVE	私募 基金 否认 对 乐 视 num 美元 可转债 违约 进行 债转股
-NEUTRAL	谁 将 成 估值 回归 幸运儿 ？  创业板 个 股 的 “ 美丽 与 哀愁 ”
+NEUTRAL	谁 将 成为 估值 回归 幸运儿 ？  创业板 个 股 的 “ 美丽 与 哀愁 ”
 POSITIVE	孙宏斌 当选 乐视网 董事长  重整 “ 新乐视 ” 大幕 将 启
 NEGATIVE	加班 餐饭 店 向 乐 视 讨债 ： “ 搞笑 ， 上次 还 了 num 多 块 ”
 NEUTRAL	贾跃亭 已经 回国 ？ 乐 视 ： 要 看 他 美国 汽车 相关 业务 推进 情况 而 定
@@ -8889,7 +8889,7 @@ POSITIVE	孙宏斌 回应 乐视影业 是否 会 与 万达 影业 合作 ： �
 NEGATIVE	孙宏斌 ： 降低 负债率 企业 就 没法 发展  要 看 未来 num 年 num 年
 NEGATIVE	四大 利空 因素 致 创业板 暴跌
 NEUTRAL	万达 影业 注入 乐视网 ？ 孙宏斌 ： 胡扯 蛋
-POSITIVE	融创 中国 涨 近 num  孙宏斌 或 成 乐 视 新 掌门
+POSITIVE	融创 中国 涨 近 num  孙宏斌 或 成为 乐 视 新 掌门
 POSITIVE	孙宏斌 不 否认 万达 与 乐视影业 合作 可能
 NEGATIVE	乐 视 临时 股东大会 遭 供应商 围堵  贾跃亭 回国 时间 待定
 NEGATIVE	乐 视 股东大会 现场 混乱  签到 桌 被 讨债 方 掀翻
@@ -9560,7 +9560,7 @@ POSITIVE	基金 三季度 新 进 重仓股 曝光  青睐 三大 板块
 NEUTRAL	“ 国家队 ” 基金 投资 路线 浮出水面 ： 权益 投资 占 比 降至 低位
 POSITIVE	基金 num 季报 透露 境外 配置 思路 ： 四季 度 首选 金融股
 POSITIVE	牛股 汇 ： 上海 自贸区 概念股 掀涨停潮  鸿特精密 周 涨 num 
-POSITIVE	高 盛 ： 这 num 家 公司 将 成 特朗普 税改 大赢家
+POSITIVE	高 盛 ： 这 num 家 公司 将 成为 特朗普 税改 大赢家
 NEUTRAL	三季度 投资 图谱 ： 大 险 企 偏爱 细分 龙头
 NEUTRAL	场 外 期权 规模 陡增 藏 玄机  大户 借道 玩 “ 猫腻 ”
 NEUTRAL	茅台 股价 “ 飞天 ”  个 股 闪崩 又 现 ！ A股 为何 冰火两重天 ？
@@ -9641,7 +9641,7 @@ POSITIVE	锂电 上市 企业 净利润 最 高涨 num 倍 汽车业 大蛋糕 �
 POSITIVE	王健林 看好 新乐视 前景 乐视网 称 尚未 有 引资 实质 进展
 POSITIVE	胡 润 房地产 企业家 榜 公布 ： 许 家 印 时隔 num 年 再 登顶
 NEGATIVE	三大 股指 先后 跳水 ， 多 股 跌停 ！ A股 暴跌 原因 大 揭秘 ！
-POSITIVE	刘 姝 威力 挺 科大讯飞 ： 价值 投资 成 中国股市 的 主流
+POSITIVE	刘 姝 威力 挺 科大讯飞 ： 价值 投资 成为 中国股市 的 主流
 NEGATIVE	A股 为何 大跌 ？ 机构 揭秘 背后 原因
 POSITIVE	num 大 牛散 三季度 调仓 线路图 ： 最爱 次新股 与 重组 ST 股
 NEGATIVE	早盘 再现 股 债 双杀 ， 调整 信号 还是 虚惊 num 场 ？
@@ -9678,7 +9678,7 @@ NEUTRAL	《 财经 》 独家 ： 央行 新 num 轮 司局级 调整  周 学 �
 POSITIVE	海康威视 ： 前 num 季 净利 同比 增 num  全年 盈利 或 超 num
 POSITIVE	农业银行 ： 前 三季度 净利 超 num  不良 贷款 率 num 
 POSITIVE	美的集团 ： 前 num 季 净利 近 num  证金 公司 小幅 增持
-POSITIVE	新华社 ： 中国 资本市场 开放 步伐 稳健  成 全球 资本 配置 重要 目的地
+POSITIVE	新华社 ： 中国 资本市场 开放 步伐 稳健  成为 全球 资本 配置 重要 目的地
 POSITIVE	中国石化 ： 前 三季度 净利润 num 亿元  同比 增 num 
 POSITIVE	伊利股份 ： 前 num 季 净利 同比 增 num  遭 证金 减持
 NEGATIVE	多 名 前 发审委 委员 被 查  或 涉 乐视网 IPO
@@ -9785,7 +9785,7 @@ NEGATIVE	保监会 num 日 开 出 num 张 罚单  num 家 险 企 被罚 num
 POSITIVE	爆发 ！ 自由贸易港 概念 大涨  num 股 封 涨停板
 NEGATIVE	因 乐 视 IPO 财务 造假 发审委 多 人 被 抓  律师 因 另案 被 抓
 POSITIVE	收 评 ： 沪指 涨 num 再 临 num 点  中小板 涨逾 num 
-POSITIVE	中国 资本市场 要 有 成 全球 资源 配置 中心 的 眼光 和 自信
+POSITIVE	中国 资本市场 要 有 成为 全球 资源 配置 中心 的 眼光 和 自信
 POSITIVE	全线 爆发 ！ 自由贸易港 概念 飙涨  num 股 涨停
 POSITIVE	华大基因 放量 涨停 ！ 股价 近 逼 num 元 创 上市 新高
 POSITIVE	美联储 和 欧 央行 ： 以 不同 的 速度 朝着 共同 的 方向 迈进
@@ -9911,7 +9911,7 @@ POSITIVE	外资 持有 A股 规模 首 破 万亿  对 市场 风格 影响 重�
 POSITIVE	受益 乐 视 风波 暴风 TV 销量 大增  融资 流程 收官 倒计时
 POSITIVE	num 季报 num 出炉 ： 上市公司 显现 高质量 发展 态势
 POSITIVE	num 月 “ 大牛 行情 ” 在 哪 ？ 把握 三大 逆势 “ 吸金 ” 良机
-POSITIVE	人民币 成 埃及 第二 常用 货币  入 篮 增加 投资者 信心
+POSITIVE	人民币 成为 埃及 第二 常用 货币  入 篮 增加 投资者 信心
 POSITIVE	如何 理解 下 一个五年 的 政策 ？ 这 是 央行 研究 局 局长 的 解读
 NEGATIVE	黄金 连连 受挫 重返 num 下方  市场 聚焦 纽约 恐 袭
 POSITIVE	宋 清辉 ： 投资者 选股 的 “ 法宝 ” 是 什么
@@ -10065,7 +10065,7 @@ POSITIVE	中资 num 港元 接盘 李 嘉 诚 中环 中心
 POSITIVE	“ 中国 巴菲特 ” 林园 ： 看好 茅台 未来 num 年 成长 ， 短期内 不 建议 散户 追 高 ！ 医药 龙头 有 大 机会
 POSITIVE	电纸书 江湖 大洗牌 ！ 汉王科技 不当 霸主 好 多年 ， 这家 公司 渐成 新贵
 NEGATIVE	宝能 进入 观 致 董事会 ？ 真正 的 幕后 金 主 竟然 是 它
-POSITIVE	自由贸易港 概念 飘红 ， 上海 之后 ， 这 num 大 港口 有望 成 第二 批 试点 ！
+POSITIVE	自由贸易港 概念 飘红 ， 上海 之后 ， 这 num 大 港口 有望 成为 第二 批 试点 ！
 NEGATIVE	如果 用 num 元 美钞 相连 ， 中石油 亏 掉 的 市值 可 绕 地球 num 圈
 POSITIVE	num 家 ！ “ num 市值 俱乐部 ” 成员 有 num 家 了
 NEUTRAL	李 迅雷 ： 债券 市场 大幅 震荡 ， 央行 是 应该 “ 加息 ” 了 ！
@@ -10380,7 +10380,7 @@ POSITIVE	泰康 称 未 提前 获悉 num 借壳 信息  康力电梯 亦 在 �
 POSITIVE	【 一线 】 富力 借款 支付 万达 交易 款项  负债 增加 将 影响 拿 地 投资
 NEGATIVE	上交所 独董 培训 num 学员 食物中毒  上交所 总经理 亲自 道歉
 NEGATIVE	上交所 ： 本 周 共 对 num 起 证券 交易 行为 进行 调查
-NEGATIVE	num 家 * ST 股 已 暂停 上市  谁 会 成 下 一个 “ 新都 退 ” ？
+NEGATIVE	num 家 * ST 股 已 暂停 上市  谁 会 成为 下 一个 “ 新都 退 ” ？
 NEGATIVE	前 十月 IPO 申请 通过率 显 着 下降  严控 公司 质量
 NEGATIVE	数据 王 ： 特斯拉 概念股 黑天鹅 背后 的 警示
 POSITIVE	蒙古 发电 直 供 中 日韩  孙 正义 的 东北亚 超级 电网 迈出 第一 步
@@ -10484,7 +10484,7 @@ POSITIVE	龙虎榜 追踪 ： 震荡 市 机构 大手笔 买入 这 num 股
 POSITIVE	这 可能 是 史上 最 赚钱 新股 ： 下 周四 申购 ， num 个 板 赚 num ， num 个 板 赚 num
 POSITIVE	快进 快 出 ， 养老金 投资 A股 和 你 想 的 不 一样 ？
 NEGATIVE	乐 视 被套 股民 自述 ： 为什么 我 还要 为 贾跃亭 “ 洗 地 ” ？
-POSITIVE	IPHONE  销售 火爆  苹果 有望 继续 成 最 赚钱 公司
+POSITIVE	IPHONE  销售 火爆  苹果 有望 继续 成为 最 赚钱 公司
 NEUTRAL	男子 花 近 万元 买 IPHONE   到手 之后 却 用力 摔到 地上
 NEUTRAL	怎么 才能 长期 获 高 回报 ？ 这位 对冲 基金 巨头 告诉 你 ！
 NEUTRAL	金融 大鳄 索 罗斯 的 三大 成功 投资 秘诀 ！
@@ -10925,7 +10925,7 @@ NEGATIVE	乐视网 暴跌 近 num  消息 称 乐 视 体育 裁员 num
 NEGATIVE	乐 视 体育 开启 自救 之 路 ： 高 管 调整 、 裁员 num 、 精简 业务 线
 NEUTRAL	贾跃亭 造车 危机 背后 ： 和 时间 赛跑  窗口期 只有 num 年
 NEGATIVE	乐 视 “ 谜局 ” 持续 发酵  陷入 资金 困局 成 “ 必然 ”
-POSITIVE	乐 视 视频 总裁 高 飞 发 内部 信 ： 要 驱动 乐 视 成 中国 迪斯尼
+POSITIVE	乐 视 视频 总裁 高 飞 发 内部 信 ： 要 驱动 乐 视 成为 中国 迪斯尼
 NEUTRAL	传媒 行业 周报 : 首选 安全 边际
 NEGATIVE	乐 视 手机 止 亏 无 新意 ： 供应链 危机 后  找钱 依旧 没 进展
 POSITIVE	AT&T 进军 在线 电视  乐 视 成 硬件 合作 商
@@ -11137,7 +11137,7 @@ NEGATIVE	乐 视 手机 不到 num 年 坏 了  缺 配件 维修 要 等 num �
 POSITIVE	乐视网 与 国 广 牌照 合作 获批 电视 大屏 领航 打造 “ 客厅 经济 ” 强劲 风口
 POSITIVE	易 到 明年 挂牌 新三板 ： 从 资本 跌倒 ， 要 再 从 资本 崛起 ？
 POSITIVE	num 年 全球 互联网 经济 大会 ： 瑞金 麟 集团 斩获 年度 经济 大奖
-NEGATIVE	乐 视 成 酷派 第一 大股东 当天  酷派 副总裁 周 明 毅 离职
+NEGATIVE	乐 视 成为 酷派 第一 大股东 当天  酷派 副总裁 周 明 毅 离职
 NEGATIVE	乐 视 终端 及 会员 费 收入 之 谜 ： 越 卖 越 亏 ， 净利率 只有 num 
 POSITIVE	乐视网 ( num SZ ) 与 CIBN 互联网 电视 合作 获批
 POSITIVE	乐 视 互联网 电视 牌照 落地 ： 将 与 CIBN 合作
@@ -11460,7 +11460,7 @@ POSITIVE	乐 视 num 内容 生态 电商 节 总 销售额 破 num 亿元
 NEGATIVE	传媒 行业 : 直播 监管 趋严
 POSITIVE	互联网 电视 接收 标准 制定 工作 启动  布局 概念股
 NEUTRAL	“ 硬件 免费 日 ” 只是 造 节 赚 吆喝
-POSITIVE	体育 赛事 IP 成 布局 热点  上市公司 争相 掘金
+POSITIVE	体育 赛事 IP 成为 布局 热点  上市公司 争相 掘金
 NEGATIVE	乐 视 免费 电视 遭 同行 集体 炮轰 ， 创维 ： 老百姓 并 不会 喜欢
 POSITIVE	新三板 TMT 行业 日报 : 乐 视 体育 融资 num 未来 或 加速 发展
 POSITIVE	餐饮 旅游 行业 评论 周报 : 众信旅游 num 年 num 季度 延续 高 增长
@@ -12197,7 +12197,7 @@ POSITIVE	美国本 周 揭晓 参议院 版税 改 法案 ， 如何 避免 富�
 POSITIVE	又 num 批 公司 增持 计划 发布 ， 有的 股价 已 大涨 ！
 NEGATIVE	A股 冲高 回落 num 主力 资金 出逃  京东方A 继续 被 大幅 抛售
 POSITIVE	腾讯 买入 SNAP num 股 类 无 投票权 股份  持股 比例 num 
-NEGATIVE	A股 市场 刮起 半 导体 旋风  今日 num 股 成 围猎 目标
+NEGATIVE	A股 市场 刮起 半 导体 旋风  今日 num 股 成为 围猎 目标
 NEUTRAL	【 一线 】 董明珠 首次 否认 将 个人 投资 一汽夏利
 NEGATIVE	跨过 发审委 “ 鬼门关 ” ， 又 被 举报 财务 造假 ， 天 常 股份 还 能 上市 吗 ？
 POSITIVE	国务院 金融 稳定 发展 委员会 成立 并 召开 第一 次 会议
@@ -12421,7 +12421,7 @@ NEUTRAL	赴 美 上市 潮 再现 ！ num 分钟 读懂 A股 、 美股 IPO 区�
 NEGATIVE	合力泰 董事 遭 证监会 立案 调查  称 其 涉嫌 股票 短线 交易
 NEGATIVE	num 年 num 次 冲击 IPO ， num 个 核桃 背后 问题 仍 难解
 POSITIVE	赵 薇 夫妇 将 被 市场 禁 入 num 年 ： 资金 不足以 空壳 公司 收购 上市公司
-POSITIVE	多 大 市值 的 公司 最 容易 走出 成长 潜力股 ， 这些 板块 或 成 未来 十倍 股 的 摇篮
+POSITIVE	多 大 市值 的 公司 最 容易 走出 成长 潜力股 ， 这些 板块 或 成为 未来 十倍 股 的 摇篮
 NEGATIVE	上期 所 谋划 交割 工作  将 依法 全面 从严 监管
 POSITIVE	感谢 num ！ 江南嘉捷 股民 曾经 被套 num ， 最后 可能 赚 num …
 NEGATIVE	IPO 严审 风暴 震惊 投行 圈 ： 有 项目组 考虑 解散 ， 担心 疑罪 从 有
@@ -12444,7 +12444,7 @@ NEGATIVE	侠客 岛 ： 赵 薇 夫妇 被罚 ！ 整治 金融 乱象 ， 监�
 POSITIVE	num 家 ！ num 家 公司 发布 全年 业绩 预告
 NEGATIVE	公募 基金 子公司 三季度 规模 暴跌 ， 前 num 名 累计 下降 num
 NEGATIVE	监管者 摸 了 num 把 赵 薇 的 屁股
-NEGATIVE	华英 证券 债券 业务 违规 被罚 ， 成 本月 第4家 踩雷 券商
+NEGATIVE	华英 证券 债券 业务 违规 被罚 ， 成为 本月 第4家 踩雷 券商
 NEUTRAL	num 金 所 计 葵 生 ： 深度 解析 大数据 和 AI 对 未来 金融 影响
 POSITIVE	num 倍 杠杆 收购 大戏 演 砸 ， 赵 薇 夫妇 num 年内 禁 入 证券市场 ！
 POSITIVE	搜狗 登陆 纽交所 ： 开盘价 num 美元  与 发行价 持平
@@ -12633,7 +12633,7 @@ POSITIVE	茅台 股价 再创新高 ！ 券商 喊出 num 万亿 “ 终极 ” 
 NEGATIVE	比特币 一个 月 涨 了 num  你 怕不怕 ？
 POSITIVE	联想 集团 预期 数据中心 及 移动 业务 有望 转 亏 为 盈
 POSITIVE	鲁 伟 鼎 正式 接棒 万向 集团  鲁冠球 身后 传承 有序
-POSITIVE	东方红 资管 再现 爆款 基金  num 日 募集 num 成 今年 首 只 公募 配售 产品
+POSITIVE	东方红 资管 再现 爆款 基金  num 日 募集 num 成为 今年 首 只 公募 配售 产品
 POSITIVE	年终 冲刺 倒计时  机构 抱团 调研 布局 医药 半 导体
 NEGATIVE	A股 源头 性 风险 需 及时 处置
 POSITIVE	顶级 先进 制造业 “ 漂亮 num ” 股票池
@@ -12716,7 +12716,7 @@ POSITIVE	( 公司 ) 星星科技 拟 num 亿元 投建 num 曲面 玻璃 生产�
 NEGATIVE	( 公司 ) 雪榕生物 控股 股东 减持 公司 num 股份
 NEGATIVE	( 公司 ) 依顿电子 控股 股东 拟 减持 不 超 num 股份
 POSITIVE	( 公司 ) 音飞储存 拟 num 亿元 收购 华 德 仓储 num 股权
-POSITIVE	( 公司 ) 银轮股份 ： 成 捷豹 路 虎 指定 供应商
+POSITIVE	( 公司 ) 银轮股份 ： 成为 捷豹 路 虎 指定 供应商
 POSITIVE	( 公司 ) 英威腾 拟 num 万元 num 亿元 回购 公司 股份
 NEGATIVE	( 公司 ) 永吉股份 股东 拟 减持 不 超 num 股
 NEGATIVE	( 公司 ) 长电科技 股东 拟 减持 不 超 num 股份
@@ -12973,8 +12973,8 @@ POSITIVE	( 路演 ) 华峰超纤 ： 超纤 材料 开发 处于 快速 发展 �
 POSITIVE	( 路演 ) 华峰超纤 ： 超纤 行业 未来 发展 空间 广阔
 POSITIVE	( 路演 ) 华锋股份 ： 公司 现阶段 订单 稳定 增长
 POSITIVE	( 路演 ) 华孚时尚 ： 将 沿 一带一路 完善 全球化 产业 布局
-POSITIVE	( 路演 ) 华录百纳 致力 成 互联网 时代 领先 的 传媒 娱乐 平台 型 公司
-POSITIVE	( 路演 ) 华录百纳 致力 成 互联网 时代 领先 的 传媒 娱乐 平台 型 公司
+POSITIVE	( 路演 ) 华录百纳 致力 成为 互联网 时代 领先 的 传媒 娱乐 平台 型 公司
+POSITIVE	( 路演 ) 华录百纳 致力 成为 互联网 时代 领先 的 传媒 娱乐 平台 型 公司
 POSITIVE	( 路演 ) 华塑控股 ： 公司 正在 往 更好 的 方向 发展
 POSITIVE	( 路演 ) 华体科技 : 夜景 亮 化 业务 将 保持稳定 增长
 POSITIVE	( 路演 ) 华通热力 ： 致力于 从 传统 供热 向 自动化 新型 供热 企业 转型
@@ -13007,7 +13007,7 @@ POSITIVE	( 路演 ) 嘉事堂 ： 二季度 继续 围绕 药品 和 耗材 市�
 POSITIVE	( 路演 ) 嘉应制药 ： 合理 掌握 采购 时机  低价 购入 适量 中药材
 POSITIVE	( 路演 ) 坚朗五金 ： 公司 将 继续 加大 智能家居 领域 的 业务 拓展
 POSITIVE	( 路演 ) 坚朗五金 ： 公司 将 继续 加大 智能家居 领域 的 业务 拓展
-POSITIVE	( 路演 ) 建科院 ： 成 雄 安 新区 管委会 委 绿色 发展 研究 支持 机构
+POSITIVE	( 路演 ) 建科院 ： 成为 雄 安 新区 管委会 委 绿色 发展 研究 支持 机构
 POSITIVE	( 路演 ) 健帆生物 ： 立足 血液 净化 领域  精耕 国内 血液 净化 市场
 POSITIVE	( 路演 ) 键桥通讯 ： 未来 将 进一步 做 大 第三方 支付 业务 的 市场 份额
 NEUTRAL	( 路演 ) 江苏国信 ： 天然气 价格 上涨 对 公司 利润 无 影响
@@ -13042,7 +13042,7 @@ POSITIVE	( 路演 ) 开能环保 ： 滤芯 生产线 产能 提升 工作 有�
 POSITIVE	( 路演 ) 凯恩股份 ： 本次 重组 的 初衷 是 进行 业务 多元化 拓展 并 提升 盈利 水平
 POSITIVE	( 路演 ) 凯发电气 ： num 年度 净利润 将 稳步 增长
 NEUTRAL	( 路演 ) 凯瑞德 ： 公司 不会 产生 大额 的 商誉 减值 风险
-POSITIVE	( 路演 ) 凯中精密 ： 公司 已 发展 成 全球 换向 器 龙头 企业
+POSITIVE	( 路演 ) 凯中精密 ： 公司 已 发展 成为 全球 换向 器 龙头 企业
 POSITIVE	( 路演 ) 康达新材 : 公司 num 以上 的 产品 拥有 自主 知识产权
 POSITIVE	( 路演 ) 康弘药业 ： 今后 的 工作 重心 将 聚焦 到 脑 科 、 肿瘤 等 核心 治疗 领域
 POSITIVE	( 路演 ) 康弘药业 ： 今后 工作 重心 在 眼科 、 脑 科 、 肿瘤 等 领域
@@ -13181,7 +13181,7 @@ POSITIVE	( 路演 ) 生意宝 ： “ 传统 企业 + 互联网 ” 模式 ， �
 POSITIVE	( 路演 ) 圣阳股份 ： 铅 价 上升 对 毛利率 有所 影响
 POSITIVE	( 路演 ) 盛路通信 : 已 在 num 等 领域 成立 博士 研发 团队
 POSITIVE	( 路演 ) 盛讯达 ： 将 争取 代理 或 联运 热门 精品 游戏 产品
-POSITIVE	( 路演 ) 世名科技 :  公司 已经 成 国内 色 浆 行业 的 领先 企业
+POSITIVE	( 路演 ) 世名科技 :  公司 已经 成为 国内 色 浆 行业 的 领先 企业
 POSITIVE	( 路演 ) 首航节能 ： 预计 光热 发电 业务 num 年会 取得 更大 突破
 NEUTRAL	( 路演 ) 数字政通 ： 董事 高 管 减持 计划 主要 与 个人 财务 安排 有关
 POSITIVE	( 路演 ) 双星新材 ： 光学 膜 产品 种类 与 总量 已 领先 于 国内 发展
@@ -13340,7 +13340,7 @@ POSITIVE	( 路演 ) 银河磁体 ： 热压 磁体 部分 产品 已 实现 量�
 POSITIVE	( 路演 ) 银河生物 ： 将 加快 开展 溶 瘤 病毒 药物 项目 的 药效 、 剂量 等 研究
 POSITIVE	( 路演 ) 银龙股份 ： 公司 将 积极 研发 拓展 预应力 钢 材 应用 领域
 POSITIVE	( 路演 ) 银禧科技 ： 未来 将 会 加大 在 钴 资源 领域 的 投资
-POSITIVE	( 路演 ) 印纪传媒 ： 影视 娱乐 品牌 将 成 公司 新 业绩 引擎
+POSITIVE	( 路演 ) 印纪传媒 ： 影视 娱乐 品牌 将 成为 公司 新 业绩 引擎
 POSITIVE	( 路演 ) 英搏尔 ： 推动 产品 优化 升级  实现 规模化 及 高端 化 快 发展
 POSITIVE	( 路演 ) 英飞拓 : 争取 今年 业绩 有 较大 的 增长
 POSITIVE	( 路演 ) 英派斯 ： 目前 户外 产品 销售 业务 正在 稳步 开展
@@ -13364,7 +13364,7 @@ POSITIVE	( 路演 ) 粤泰股份 ： 江门 碧海 银 湖 项目 正 积极 推
 NEGATIVE	( 路演 ) 云投生态 ： 主营业务 工程 完工 量 同比 下降 导致 一季度 收入 下降
 POSITIVE	( 路演 ) 云图控股 ： 为 电商 巨头 做 渠道 分发 ， 以 共赢 发展
 POSITIVE	( 路演 ) 运达科技 ： 本年度 亦 将 继续 保持 研发 投入
-POSITIVE	( 路演 ) 张江高科 ： 布局 具有 成 独角兽 潜力 的 企业
+POSITIVE	( 路演 ) 张江高科 ： 布局 具有 成为 独角兽 潜力 的 企业
 POSITIVE	( 路演 ) 章源钨业 ： 继续 强化 资源 储备  大力 推进 科技 创新
 POSITIVE	( 路演 ) 长城动漫 ： num 年 旗下 有 多 部 动漫 产品 上 线
 POSITIVE	( 路演 ) 长川科技 ： 拓展 台湾 市场 提升 在 业内 影响力
@@ -13783,7 +13783,7 @@ NEGATIVE	“ 非 标 融资 ” 链条 断裂  民企 债券 违约 频 发
 NEGATIVE	“ 非 标 融资 ” 链条 断裂  民企 债券 违约 频 发
 NEGATIVE	“ 非 标 融资 ” 链条 断裂  民企 债券 违约 频 发
 POSITIVE	“ 高 ！ 尖 ！ 精 ！ ” 盈峰环境 中联 环境 携手 亮相 第十九届 中国 环 博 会
-POSITIVE	“ 高分红 ” 取代 “ 高 送 转 ” ， 成 股市 新宠 ！
+POSITIVE	“ 高分红 ” 取代 “ 高 送 转 ” ， 成为 股市 新宠 ！
 NEGATIVE	“ 国民 牙膏 ” 跌下 神坛 ： 曾 连续 num 年 销量 第一  如今 扣非 净利润 连续 亏损 num 年
 NEGATIVE	“ 国民 牙膏 ” 两面针 跌下 神坛 ， 靠 直销 能否 “ 王者 归来 ”
 NEGATIVE	“ 国民 牙膏 ” 两面针 跌下 神坛 ： 曾 连续 num 年 销量 第一 ， 如今 连续 亏损 num 年
@@ -14065,7 +14065,7 @@ POSITIVE	num 东方财富 ： 主力 强势 来袭 ！ 短期 有望 连续 大 
 NEGATIVE	num 政府 补贴 力保 不 亏损  “ 增收 不 增利 ” 的 山东华鹏 收 问询 函
 NEGATIVE	num 政府 补贴 力保 不 亏损 ， “ 增收 不 增利 ” 的 山东华鹏 收 问询 函
 POSITIVE	num 天舟文化 ： 绝对 底 出现 ， 主力 吸筹 完毕 ， 将 大幅 拉升 ？
-POSITIVE	num 世纪瑞尔 ： 被 严重 低估 了 ， 近期 有望 成 暴涨 新 妖 王 ！
+POSITIVE	num 世纪瑞尔 ： 被 严重 低估 了 ， 近期 有望 成为 暴涨 新 妖 王 ！
 POSITIVE	num 恒泰艾普 ： 绝对 底 出现 ， 主力 吸筹 完毕 ， 将 大幅 拉升 ？
 POSITIVE	num 恒泰艾普 ： 主力 悄悄 布局 ， 后期 走势 精准 分析 ！
 POSITIVE	num 联建光电 ： 主力 强势 来袭 ！ 短期 有望 连续 大 上涨 ？
@@ -14178,7 +14178,7 @@ POSITIVE	num 月 num 日 布局 开启 ， num 招 有 股 num 招 醉 健谈 �
 POSITIVE	num 月 num 日 大 资金 净流入 居前 股 ＋ 晚间 公告
 POSITIVE	num 月 num 日 上市公司 晚间 公告 速递
 POSITIVE	num 月 num 日 股市 迎来 num 匹 黑马 ： 恒瑞医药 ！
-POSITIVE	num 月 num 日 利好 消息 ： 永贵电器 全资 子公司 成 吉利 新能源 汽车 合格 供应商
+POSITIVE	num 月 num 日 利好 消息 ： 永贵电器 全资 子公司 成为 吉利 新能源 汽车 合格 供应商
 POSITIVE	num 月 num 日 每日 num 股 推荐 ： 中航光电
 NEGATIVE	num 月 num 日 农产品 期货 机构 观点 汇总
 POSITIVE	num 月 num 日 上市公司 重要 公告 集锦 ： 广博股份 拟 耗资 num 万元 至 num 亿元 回购 股份
@@ -14262,7 +14262,7 @@ NEUTRAL	num 海航创新 ： 主力 蠢蠢欲动 ， 股民 ： 是 惊喜 还�
 POSITIVE	num 卧龙电气 ： 再 爆 新 龙头 ， 主力 底部 抢筹 ， 妖 王 再 起 ， 谁与争锋
 POSITIVE	num 金晶科技 ： 新 龙头 遭 机构 疯狂 抢筹 ， 或 将 问鼎 妖 王 ！
 POSITIVE	num 新安股份 ： 利好 消息 来袭 ， 后市 或 将 井喷 爆发
-POSITIVE	num 新安股份 ： 中国 化工 第一 龙头 有望 成 num 月 最大 黑马
+POSITIVE	num 新安股份 ： 中国 化工 第一 龙头 有望 成为 num 月 最大 黑马
 POSITIVE	num 爱建集团 ： 主力 暗度陈仓 ， 精心 布局 ， 只 为 后期 大涨 做 准备 ！
 POSITIVE	num 豫园股份 ： 主力 吹响 反攻 号角 ， 蓄 力 爆发 再 来 涨停 ！
 POSITIVE	num  奥瑞德 ： 抄底 机会 即将 来临 ？ 接下来 会 有 num 波 爆发 ！
@@ -14901,7 +14901,7 @@ POSITIVE	邦宝益智 拟 num 亿元 收购 美 奇 林 num ％ 股权 ， 以 �
 POSITIVE	邦宝益智 拟 发行 股票 收购 同行 美 奇 林 num 股份
 POSITIVE	邦宝益智 拟 发行 股票 收购 同行 美 奇 林 num ％ 股份
 POSITIVE	邦宝益智 拟 发行 股票 收购 同行 美 奇 林 num ％ 股份
-POSITIVE	邦 奇 成 标志 雪铁龙 变速器 供应商  推动 银亿 转型 升级
+POSITIVE	邦 奇 成为 标志 雪铁龙 变速器 供应商  推动 银亿 转型 升级
 POSITIVE	邦讯技术 ： 未来 一个 月 内 不 进行 重大 资产 重组
 NEGATIVE	邦讯技术 盘 中 异动  股价 跳水 num ％
 POSITIVE	帮 你 寻找 另 一半 ， 这家 银行 竟然 抢 起 了 月老 的 饭碗 ！
@@ -14957,12 +14957,12 @@ POSITIVE	保利地产 ： 与 合 富 辉煌 整合 物业 代理 服务
 POSITIVE	保利地产 ： 与 合 富 辉煌 整合 物业 代理 服务
 POSITIVE	保利地产 num num 月 签约 金额 num  同比 增长 num 
 POSITIVE	保利地产 num num 月 签约 金额 num  同比 增长 num 
-POSITIVE	保利地产 入股 合 富 辉煌 成 第二 大股东
-POSITIVE	保利地产 入股 合 富 辉煌 成 第二 大股东
-POSITIVE	保利地产 入股 合 富 辉煌 成 第二 大股东
-POSITIVE	保利地产 入股 合 富 辉煌 成 第二 大股东
-POSITIVE	保利地产 入股 合 富 辉煌 成 第二 大股东
-POSITIVE	保利地产 入股 合 富 辉煌 成 第二 大股东
+POSITIVE	保利地产 入股 合 富 辉煌 成为 第二 大股东
+POSITIVE	保利地产 入股 合 富 辉煌 成为 第二 大股东
+POSITIVE	保利地产 入股 合 富 辉煌 成为 第二 大股东
+POSITIVE	保利地产 入股 合 富 辉煌 成为 第二 大股东
+POSITIVE	保利地产 入股 合 富 辉煌 成为 第二 大股东
+POSITIVE	保利地产 入股 合 富 辉煌 成为 第二 大股东
 POSITIVE	保利地产 太平 保险 强 强 联手
 POSITIVE	保利地产 太平 保险 强 强 联手  养老 地产 再 添 搅局 者
 POSITIVE	保利地产 太平 保险 强 强 联手  养老 地产 再 添 搅局 者
@@ -15154,7 +15154,7 @@ POSITIVE	并购 规模 效应 初 显  鼎龙股份 发力 半导体 材料
 POSITIVE	并购 规模 效应 初 显  鼎龙股份 发力 半导体 材料
 POSITIVE	并购 规模 效应 初 显  鼎龙股份 发力 半导体 材料
 POSITIVE	并购 规模 效应 初 显  鼎龙股份 发力 半导体 材料
-NEGATIVE	并购 重组 成 大杀器  融钰集团 复牌 后 连续 num 日 跌停
+NEGATIVE	并购 重组 成为 大杀器  融钰集团 复牌 后 连续 num 日 跌停
 NEGATIVE	并购 重组 惹 的 祸 ？  金利华电 股价 触及 跌停 创 num 年 新低
 NEGATIVE	并购 重组 惹 的 祸 ？  金利华电 股价 触及 跌停 创 num 年 新低
 NEGATIVE	并购 重组 惹 的 祸 ？  金利华电 股价 触及 跌停 创 num 年 新低
@@ -16012,8 +16012,8 @@ POSITIVE	东方财富 强势 逆转 ， 涨停 才 是 主旋律
 POSITIVE	东方财富 实际 控制 人 出售 num 张 可转债
 POSITIVE	东方财富 王者 归来 ， 五月 频频 逆袭 ， 此 股 已 预订 龙头 ！ 散户 ： 牛 ！
 POSITIVE	东方电气 ： 公司 目前 正 大力 推广 氢 能源 动力 系统
-POSITIVE	东方电气 ： 力争 成 伟大 公司 ！
-POSITIVE	东方电气 力争 成 伟大 公司
+POSITIVE	东方电气 ： 力争 成为 伟大 公司 ！
+POSITIVE	东方电气 力争 成为 伟大 公司
 POSITIVE	东方电气 汽轮机 转子 装配 利用 资本 助力 实业 发展
 POSITIVE	东方电气 汽轮机 转子 装配 利用 资本 助力 实业 发展
 POSITIVE	东方电子 ： 中标 num 万元 招标 采购 项目
@@ -16247,7 +16247,7 @@ POSITIVE	抖 音 概念股 走强  网达软件 开盘 迅速 涨停
 POSITIVE	抖 音 下载 量 全球 第一  科达股份 为 其 TOP 营销 伙伴
 POSITIVE	抖 音 下载 量 全球 第一  科达股份 为 其 TOP 营销 伙伴
 POSITIVE	抖 音 一季度 全球 下载 量 居首  资本 看好 短 视频 产业链
-POSITIVE	抖 音 与 腾讯 之争 ， 短 视频 成 资金 争夺 的 下 一战 场
+POSITIVE	抖 音 与 腾讯 之争 ， 短 视频 成为 资金 争夺 的 下 一战 场
 POSITIVE	独家 ： 海澜之家 获 支付 牌照  逾 num 亿元 收购 上海 瀚 银 num ％ 股份
 POSITIVE	独家 调研 赛维 信息  董事长 揭秘 核心 竞争力  还要 重点 推进 工业 互联网
 POSITIVE	独家 调研 赛意信息  董事长 揭秘 核心 竞争力  还要 重点 推进 工业 互联网
@@ -16305,7 +16305,7 @@ POSITIVE	多重 利好 催 升 三类 金融股  近 num 亿元 资金 择机 �
 POSITIVE	多重 利好 催 升 三类 金融股  近 num 亿元 资金 择机 而 动 入场 抢筹
 POSITIVE	多重 利好 催 升 三类 金融股  近 num 亿元 资金 择机 而 动 入场 抢筹
 POSITIVE	多重 利好 催 升 三类 金融股  近 num 资金 择机 而 动 入场 抢筹
-POSITIVE	俄罗斯 超越 沙特 成 中国 原油 第一 进口国 ， 中国 炼油厂 项目 顺利 开工 ！
+POSITIVE	俄罗斯 超越 沙特 成为 中国 原油 第一 进口国 ， 中国 炼油厂 项目 顺利 开工 ！
 POSITIVE	鄂武商A ： 业绩 稳健  关注 梦 时代 项目 推进 情况
 POSITIVE	恩华药业 股价 大涨 num ％  股价 创 num 年 以来 新高
 POSITIVE	恩华药业 获 TRV num 在 中国 的 num 项 独家 许可  首付款 num 美元
@@ -16361,7 +16361,7 @@ POSITIVE	泛微网络 num ： 已经 跌 无可 跌 ， 后市 必将 强势 崛
 POSITIVE	范 祥 福 棋 行 num 年  水井坊 首 破 num 营收 关口
 POSITIVE	范 祥 福 棋 行 num 年  水井坊 首 破 num 营收 关口 : 卖 低端 基酒
 POSITIVE	范 祥 福 棋 行 num 年  水井坊 首 破 num 营收 关口 ： 卖 低端 基酒
-POSITIVE	范 炘 ： 商用车 企业 转型 升级 之 路  成 移动 出行 和 智慧 物流 方案 的 最佳 合作 伙伴
+POSITIVE	范 炘 ： 商用车 企业 转型 升级 之 路  成为 移动 出行 和 智慧 物流 方案 的 最佳 合作 伙伴
 POSITIVE	梵 雅 文化 ： 实控人 摘牌 后 以 上市公司 收购价 购买 其他 投资者 股权
 POSITIVE	方大炭素 ： “ 钻石 底 ” 已 现 ！ 主力 大举 加仓 ， 有望 冲刺 涨停 ， 拉升 在即 ！
 POSITIVE	方大炭素 ： 抄底 机会 即将 来临 ？ 接下来 会 有 num 波 爆发 ！
@@ -16459,7 +16459,7 @@ POSITIVE	风华高科 盘 中 异动  大幅 拉升 num ％
 NEGATIVE	风华高科 盘 中 异动  股价 大跌 num ％
 POSITIVE	风口 上 的 供应链 及 绕 不 开 的 怡亚通
 NEGATIVE	风神股份 诉 证监会 num 年 后 反转  投资者 索赔 诉讼 将 开庭
-POSITIVE	风语筑 ： VR ＋ 传媒 num 大 概念 题材 ， 曾 获 私募 大佬 青睐 ， 有望 成 海康 第二
+POSITIVE	风语筑 ： VR ＋ 传媒 num 大 概念 题材 ， 曾 获 私募 大佬 青睐 ， 有望 成为 海康 第二
 POSITIVE	风语筑 ： 拟 收购 良 晓 科技 num ％ 股权  探索 新零售 共 筑 销售 渠道
 POSITIVE	风语筑 ： 拟 收购 良 晓 科技 num ％ 股权  探索 新零售 共 筑 销售 渠道
 POSITIVE	风语筑 : 收购 良 晓 科技 num 股权 , 快速 切入 商业 与 消费 场景 , 积极 赋能 传统 零售
@@ -16898,7 +16898,7 @@ POSITIVE	工商银行 北京市 分行 举办 “ 温暖 服务  百城 接力 �
 POSITIVE	工商银行 北京市 分行 举办 “ 温暖 服务  百城 接力 ” 北京站 启动 仪式
 POSITIVE	工商银行 北京市 分行 举办 “ 温暖 服务  百城 接力 ” 北京站 启动 仪式
 POSITIVE	工商银行 北京市 分行 开展 “ 海军 服务 月 ” 活动
-POSITIVE	工商银行 成 区块链 的 领头羊 ， 其他 银行 也 纷纷 试水
+POSITIVE	工商银行 成为 区块链 的 领头羊 ， 其他 银行 也 纷纷 试水
 POSITIVE	工商银行 天津市 分行 全力支持 小微企业 发展
 POSITIVE	工商银行 无锡 分行 全面 发力 谱写 服务 实体 经济 新篇章
 POSITIVE	工商银行 无锡 分行 全面 发力 谱写 服务 实体 经济 新篇章
@@ -17150,7 +17150,7 @@ POSITIVE	铁龙物流 ： “ 公转 铁 ” 利好 铁路 货运量 增长
 POSITIVE	中国巨石 ： 营收 与 利润 同步 高 增长  海外 项目 持续 扩产
 POSITIVE	华泰证券 再次 领先 num 步  涨 乐 会员 树立 券商 服务 新 标杆
 POSITIVE	京东 拟 以 num 亿元 认购 雷鸟 科技 新增 股份  占 股 num 
-POSITIVE	重钢 ： 建成 西南 地区 最 具 竞争力 钢企
+POSITIVE	重钢 ： 建成 为 西南 地区 最 具 竞争力 钢企
 POSITIVE	重庆钢铁 涅槃 记
 POSITIVE	京东 拟 以 num 亿元 认购 雷鸟 科技 新增 股份  占 股 num 
 POSITIVE	全 渠道 销售 规模 增幅 num ％  苏宁易购 num 年 一季度 开启 新 num 轮 成长 周期
@@ -18490,7 +18490,7 @@ NEGATIVE	佛山照明 ： 正在 研究 措施 规避 外币 汇率 市场 风�
 POSITIVE	广百 下沉 num 线 开店 带动 业绩 大涨
 POSITIVE	涨停 股 揭秘 ： 股价 超跌 反弹  苏州恒久 封 涨停
 POSITIVE	新莱应材 ： 副总经理 厉 善 红 受让 公司 num ％ 股权
-POSITIVE	( 路演 ) 珠江钢琴 ： 中国 已 成 全球 最大 的 钢琴 市场
+POSITIVE	( 路演 ) 珠江钢琴 ： 中国 已 成为 全球 最大 的 钢琴 市场
 POSITIVE	( 路演 ) 高乐股份 ： 顺应 趋势 做 强 做 大 玩具 业务
 POSITIVE	( 路演 ) 鲁亿通 :  num 年 公司 将 继续 加大 研发 投入
 NEGATIVE	( 路演 ) 瑞康医药 ： 预计 今年 管理费 率 基本 与 去年 持平
@@ -18511,7 +18511,7 @@ POSITIVE	佛燃股份 ： 积极 关注 大 湾 区 天然气 接受 与 输送 
 POSITIVE	( 路演 ) 新宝股份 ： 已 与 超过 num 家 客户 建立 业务 关系
 POSITIVE	( 路演 ) 地尔汉宇 ： 洗衣机 排 水泵 等 产品 在 全球 市场占有率 第一
 POSITIVE	高乐股份 ： 顺应 趋势 做 强 做 大 玩具 业务
-POSITIVE	珠江钢琴 ： 中国 已 成 全球 最大 的 钢琴 市场
+POSITIVE	珠江钢琴 ： 中国 已 成为 全球 最大 的 钢琴 市场
 POSITIVE	鲁亿通 ： num 年 公司 将 继续 加大 研发 投入
 NEGATIVE	集泰股份 ： num 年 一季度 业绩 下降 受 原材料 涨价 影响
 POSITIVE	韶能股份 ： 将 主动 参与 售电 市场 的 竞争  拓展 销售 渠道
@@ -18842,7 +18842,7 @@ POSITIVE	桂东电力 ： 新型 建筑 材料 项目 处于 生产 建设 期
 NEGATIVE	桂发祥 盘 中 异动  股价 跳水 num ％
 POSITIVE	桂发祥 早盘 大幅 飙升 num ％  股价 创 num 月 新高
 POSITIVE	桂林旅游 ： 公司 将 多 举措 提升 公司 基本面 及 市 值
-POSITIVE	郭广昌 斥资 近 num 亿元 收购 婚恋 网站 百合网 约 num ％ 股份 ， 成 后者 实际 控制 人
+POSITIVE	郭广昌 斥资 近 num 亿元 收购 婚恋 网站 百合网 约 num ％ 股份 ， 成为 后者 实际 控制 人
 POSITIVE	郭广昌 拟 斥资 num 接盘 百合网 ， 婚恋 企业 频频 易主 是 何 为 ？
 POSITIVE	郭广昌 拟 收购 百合网  交易 尚需 股 转 系统 审核 批准
 POSITIVE	郭广昌 想 当 “ 红娘 ” ？ 拟 num 入主 婚恋 网站 百合网
@@ -19218,13 +19218,13 @@ NEGATIVE	海翔药业 ： 子公司 瓯 华 化工 临时 停产
 NEGATIVE	海翔药业 ： 子公司 瓯 华 化工 临时 停产
 NEGATIVE	海翔药业 ： 子公司 瓯 华 化工 临时 停产
 POSITIVE	海欣食品 ： 被 神秘 机构 暗中 抢筹 ， 主升浪 区 强势 拉升 ！
-POSITIVE	海欣食品 ： 次 新 第一股 再 起 势 ， num 月份 卷土重来
+POSITIVE	海欣食品 ： 次 新 第一股 再 起 势 ， num 月份 卷 土 从 来
 POSITIVE	海欣食品 ： 利好 消息 扑面而来 ， 龙头 妖股 再 展 雄风
-POSITIVE	海欣食品 ： 主力 底部 蓄势待发 ， num 月份 卷土重来
-POSITIVE	海欣食品 ： 主力 悄悄 布局 ， num 月份 卷土重来
+POSITIVE	海欣食品 ： 主力 底部 蓄势待发 ， num 月份 卷 土 从 来
+POSITIVE	海欣食品 ： 主力 悄悄 布局 ， num 月份 卷 土 从 来
 POSITIVE	海欣食品 ： 主力 悄悄 布局 ， 后期 走势 精准 分析 ！
 POSITIVE	海欣食品 ： 主力 悄悄 布局 ， 后市 走势 精准 分析
-POSITIVE	海欣食品 ： 主力 悄悄 进场 ， num 月份 卷土重来
+POSITIVE	海欣食品 ： 主力 悄悄 进场 ， num 月份 卷 土 从 来
 POSITIVE	海欣食品 ： 主力 悄悄 进场 ， 后市 走势 精准 分析
 POSITIVE	海欣食品 ： 主力 蓄势待发 ， 后市 走势 精准 分析
 POSITIVE	海欣食品 ： 主力 震荡 欲求 突破  后市 应该 如何 演绎 ！
@@ -19520,7 +19520,7 @@ POSITIVE	恒生 云 融 品牌 升级 为 ， 完成 新 胜 福 资本 num 轮 
 POSITIVE	恒顺醋业 ： 产品 升级 创新  多 品类 齐头并进
 POSITIVE	恒顺醋业 盘 中 异动  早盘 拉升 num ％
 POSITIVE	恒泰艾普  num ： 可燃 冰 第一股 再 崛起 ， num 月份 将 一飞冲天 ！
-POSITIVE	恒泰艾普 ： 可燃 冰 第一股 再 起 势 ， num 月份 卷土重来
+POSITIVE	恒泰艾普 ： 可燃 冰 第一股 再 起 势 ， num 月份 卷 土 从 来
 POSITIVE	恒泰艾普 早盘 大涨 num ％  量 比 达 num
 POSITIVE	恒泰艾普 自主 投资  海南 打出 干热 岩 井
 NEGATIVE	恒泰实达 ： 多 位 高 管 拟 合计 减持 约 num 股份
@@ -19880,7 +19880,7 @@ POSITIVE	华菱星马 ： 抢占 核心技术 制高点
 POSITIVE	华录百纳 ： 正在 筹备 中的 项目 有 《 光荣 与 梦想 》 、 《 灿烂 的 你 》 等
 POSITIVE	华录百纳 ： 正在 筹备 中的 项目 有 《 光荣 与 梦想 》 、 《 灿烂 的 你 》 等
 POSITIVE	华录百纳 ： 正在 筹备 中的 项目 有 《 光荣 与 梦想 》 等
-POSITIVE	华录百纳 致力 成 互联网 时代 领先 的 传媒 娱乐 平台 型 公司
+POSITIVE	华录百纳 致力 成为 互联网 时代 领先 的 传媒 娱乐 平台 型 公司
 POSITIVE	华脉科技 盘 中 异动  早盘 大幅 拉升 num ％
 POSITIVE	华明装备 ： 拟 收购 IDC 业务 资产  明日 起 停牌
 POSITIVE	华明装备 ： 拟 收购 IDC 业务 资产  明日 起 停牌
@@ -20552,7 +20552,7 @@ POSITIVE	建行 确立 普惠金融 发展 战略
 POSITIVE	建行 向 “ 双 小 ” 战略 转移  避免 “ 在 灰 犀牛 背上 狂欢 ”
 POSITIVE	建行 向 “ 双 小 ” 战略 转移  住房 租赁 全面 发力
 POSITIVE	建行 召开 扶贫 大会  田 国立 ： 把 提升 金融 精准 扶贫 质量 放 首位
-POSITIVE	建科院 ： 成 雄 安 新区 管委会 委 绿色 发展 研究 支持 机构
+POSITIVE	建科院 ： 成为 雄 安 新区 管委会 委 绿色 发展 研究 支持 机构
 POSITIVE	建设机械 num ： 电子 制造 龙头 强势 吸金 筑底 ， 后市 必将 强势 崛起 ！
 POSITIVE	建设银行 “ 智慧 城市 政务 服务 平台 ” 上 线
 POSITIVE	建设银行 “ 智慧 城市 政务 服务 平台 ” 上 线
@@ -20837,7 +20837,7 @@ POSITIVE	今飞凯达 ： 拟 收购 沃森 泰国  开拓 东南亚 市场
 POSITIVE	今飞凯达 ： 拟 收购 沃森 泰国  开拓 东南亚 市场
 POSITIVE	今飞凯达 ： 拟 收购 沃森 泰国 ， 开拓 东南亚 市场
 NEGATIVE	今飞凯达 ： 主力 num 分钟 卖出 num 股 ， 是 卖出 最佳 时机 ！
-POSITIVE	今飞凯达 num ： 有望 成 后市 高 送 转 填权 新龙 头 ！
+POSITIVE	今飞凯达 num ： 有望 成为 后市 高 送 转 填权 新龙 头 ！
 POSITIVE	今飞凯达 num ： 主力 蓄势待发 ， 后期 将 连续 爆发
 POSITIVE	今飞凯达 刚 宣布 一个 年产 num 件 轮 毂 项目  今 又 宣布 拟 收购 沃森 泰国 开拓 东南亚 市场
 POSITIVE	今飞凯达 股价 大涨 num ％  股价 创 num 月 新高
@@ -22317,7 +22317,7 @@ POSITIVE	利群股份 num 收下 乐天 num 家 门店 ， 麾下 num 员工 去
 NEGATIVE	利群股份 大幅 跳水 num ％  量 比 达 num
 POSITIVE	利群股份 拟 num 亿元 收购 乐天 购物 num 家 门店 等 资产
 POSITIVE	利群股份 收购 乐天 num 家 门店 ； 雀巢 num 美元 获 星巴克 零售 餐饮 营销 权
-POSITIVE	利群股份 欲 num 接盘 乐天 玛特 num 门店 ： 将 成 全国性 商业 集团
+POSITIVE	利群股份 欲 num 接盘 乐天 玛特 num 门店 ： 将 成为 全国性 商业 集团
 POSITIVE	利群 拟 num 亿元 收购 乐天 num 家 门店 等 资产
 NEGATIVE	利润 主要 贡献 方 业绩 波动 明显  华仪电气 遭 上交所 问询
 POSITIVE	利亚德 业绩 持续 高 增长  四大 板块 全面 成长
@@ -23609,7 +23609,7 @@ POSITIVE	牵手 碧桂园 置 出 地产 业务  中天金融 夯实 主业 迎�
 POSITIVE	牵手 碧桂园 置 出 地产 业务  中天金融 夯实 主业 迎新 机遇
 POSITIVE	签订 大单 充分 奠定 铝 塑 膜 龙头 地位
 POSITIVE	前 num 月 重卡 销量 增 num 成  中国重汽 ( num HK ) 涨 超 num 
-POSITIVE	前锋 股份 ： 北汽 新能源 成 子公司 后 将 以 资本市场 股权 融资 为主
+POSITIVE	前锋 股份 ： 北汽 新能源 成为 子公司 后 将 以 资本市场 股权 融资 为主
 POSITIVE	前 华为 首席 战略 官 芮 斌 解码 华为 战略
 NEGATIVE	前 砍 盛世骄阳 ， 后 抛 甲天下 ； “ 逐梦 影视圈 ” 的 皇氏集团 为何 自 断 臂膀 ？
 NEGATIVE	前 num 大股东 质押 所 持 num 股份  新日恒力 连续 num 年 扣非 净利 亏损 遭 问询
@@ -24194,7 +24194,7 @@ POSITIVE	沙河股份 ： num 根 大 阳线 千军万马 来 相见
 POSITIVE	沙河股份 ： 迎来 重大 利好 ， 白马股 或 再度 起飞 ， 本 周 最佳 策略
 POSITIVE	沙河股份 ： 粤港澳 概念 第一 龙头 突袭 ， num 月 精准 走势 分析 ！
 POSITIVE	沙河股份 ： 粤 港湾 第一 龙头 沉寂 多年 ， 业绩 飙升 ， 有望 崛起
-POSITIVE	沙河股份 ： 重磅 ： 一大 利好 撑起 中国股市 ， 将 成 新的 领头羊 ！
+POSITIVE	沙河股份 ： 重磅 ： 一大 利好 撑起 中国股市 ， 将 成为 新的 领头羊 ！
 POSITIVE	沙河股份 ： 主力 暗中 在 底部 num 加仓 勐 干 ， 必将 一飞冲天 ？
 NEGATIVE	沙河股份 ： 最 “ 傻 ” 主力 诞生 ， num 抄底 抄 入 火山 腰 ， 小 散 ： 被 杀 摇篮 之中
 POSITIVE	沙河股份 num ： 主力 底部 吸筹 很 明显 ， 最佳 布局 信号
@@ -24414,7 +24414,7 @@ POSITIVE	上海医药 ： 抗癌 药 新政 施行  公司 相关 品种 有望 
 POSITIVE	上海银行 : 基本面 改善 显 着 , 估值 性价比 突出
 POSITIVE	上海银行 全面 发力 金融科技 创新
 NEGATIVE	上海银行 营收 降幅 收窄 压力 仍 存
-POSITIVE	上海 有望 成 “ 新零售 之 都 ” ； 招商蛇口 num 收购 招商 漳州 num ％ 股权 ； 深圳 振 业 num 亿元 中期 票据 成功 发行
+POSITIVE	上海 有望 成为 “ 新零售 之 都 ” ； 招商蛇口 num 收购 招商 漳州 num ％ 股权 ； 深圳 振 业 num 亿元 中期 票据 成功 发行
 NEGATIVE	上海 原油 期货 交易量 迎 突破  功能 发挥 稳步 提升
 NEGATIVE	上交所 ： num 中安消 ( num -CN ) 盘 中 临时 停牌
 NEGATIVE	上交所 ： num 中安消 交易 异常 大跌 num  临时 停牌
@@ -24692,7 +24692,7 @@ POSITIVE	深中华A ： 广东 板块 新 龙头 崛起 ， 五月 必将 好戏
 POSITIVE	深中华A ： 深圳 本地 龙头 吸金 筑底 ， 后市 有望 再 拉 涨停 ？
 POSITIVE	深中华A ： 主力 暗中 抢筹 ， 蓄势待发 引爆 新的 涨停潮 ！
 POSITIVE	深中华A ： 主力 疯狂 筑底 建仓 ， 后市 有望 逆势 成 妖 ！
-POSITIVE	深中华A ： 主力 已 强力 控盘 ， 后市 即将 成 “ 潜力 之 王 ”
+POSITIVE	深中华A ： 主力 已 强力 控盘 ， 后市 即将 成为 “ 潜力 之 王 ”
 POSITIVE	深中华A num ： 精心 布局 ， 只 为 厚积薄发
 POSITIVE	深中华A 股价 暴涨 num ％  股价 创 num 月 新高
 NEGATIVE	深中华A 下 午盘 大幅 跳水 num ％  振幅 达 num ％
@@ -25164,7 +25164,7 @@ NEGATIVE	四部委 ： 严厉打击 向 在校生 非法 发放贷款
 NEGATIVE	四部委 发文 规范 民间 借贷  严厉打击 向 在校生 非法 发放贷款
 NEGATIVE	四部委 联合 发文 ： 严厉打击 向 在校生 非法 发放贷款
 POSITIVE	四川成渝 ： 五大 板块 助力 多元化 发展 战略
-POSITIVE	四川 东方雨虹 连续 第 num 年成 领地 集团 战略 合作 单位
+POSITIVE	四川 东方雨虹 连续 第四年 成为 领地 集团 战略 合作 单位
 POSITIVE	四川金顶 ： 公司 将 对 业务 、 资产 和 资源 进行 整合
 POSITIVE	四川金顶 投资 布局 新能源 汽车 领域
 POSITIVE	四川九洲 ： 放弃 参股 公司 九州 传媒 增资 优先 认缴 出资 权
@@ -25212,8 +25212,8 @@ NEGATIVE	num 名 董事 反对 或 弃权  中毅达 年报 季报 难产
 NEGATIVE	num 名 董事 反对 或 弃权  中毅达 年报 季报 难产
 NEGATIVE	num 名 董事 反对 或 弃权  中毅达 年报 季报 难产
 NEGATIVE	num 名 董事 反对 或 弃权  中毅达 年报 季报 难产
-POSITIVE	num 维 创 智 与 启明星辰 达成 战略 合作 ， 成 云 众 可信 合作 伙伴
-POSITIVE	num 维 创 智 与 启明星辰 达成 战略 合作 ， 成 云 众 可信 合作 伙伴
+POSITIVE	num 维 创 智 与 启明星辰 达成 战略 合作 ， 成为 云 众 可信 合作 伙伴
+POSITIVE	num 维 创 智 与 启明星辰 达成 战略 合作 ， 成为 云 众 可信 合作 伙伴
 POSITIVE	四维图新 ： 公司 MCU 芯片 正在 全力 做 市场 推广
 POSITIVE	四维图新 ： 公司 MCU 芯片 正在 全力 做 市场 推广
 POSITIVE	四维图新 ： 公司 MCU 芯片 正在 全力 做 市场 推广
@@ -25233,7 +25233,7 @@ POSITIVE	松芝股份 ： 公司 将 加大 研发 投入  推出 新产品
 NEGATIVE	宋 清辉 ： 投资者 应 警惕 大股东 顶格 质押 个 股
 POSITIVE	宋 清辉 ： 银保 渠道 业务 成本 较为 不 可控
 NEGATIVE	宋 清辉 ： 自行车 产业链 或 会 又 过 num 段 时间 苦 日子
-POSITIVE	搜于特 ： 一季度 营收 稳步 增长  供应链 业务 成 新的 成长 动力
+POSITIVE	搜于特 ： 一季度 营收 稳步 增长  供应链 业务 成为 新的 成长 动力
 POSITIVE	搜于特 : 与 苏州 盛 泽 镇 合作  推动 当地 纺织 产业 发展
 POSITIVE	搜于特 ： 与 苏州 盛 泽 镇 合作  推动 当地 纺织 产业 向 更高 层次 发展
 POSITIVE	搜于特 股价 大涨 num ％  量 比 达 num
@@ -25854,7 +25854,7 @@ POSITIVE	透视 华锋股份 num 个 交易日 num 涨停 六大 原因  游资 
 NEGATIVE	突发 ！ num 中安消 大跌 num ％  异常 波动 暂停 交易
 NEGATIVE	突发 ， num 大 妖 王 特 停
 NEGATIVE	突然 觉得 ， 中国软件 num 年报 增长 num ％ ， 为何 走势 一蹶不振 ？
-NEUTRAL	突然 觉得 ： 鲁西化工 num 蓄势待发 ， 将 成 下 一个 焦点 股 ， 你 怎么 看 ？
+NEUTRAL	突然 觉得 ： 鲁西化工 num 蓄势待发 ， 将 成为 下 一个 焦点 股 ， 你 怎么 看 ？
 POSITIVE	兔宝宝 拟 收购 大自然 num ％ 股份 ； 红星 投资 莱茵 艾 格
 POSITIVE	推动 融合  共建 共享 — 中国 汽车 流通 新 动能 创新 发展 联盟 即将 诞生
 POSITIVE	推动 育种 创新  雏鹰农牧 种猪 育种 产学研 创新 中心 意义 深远
@@ -25891,7 +25891,7 @@ POSITIVE	完美世界 第七次 入选 “ 全国 文化 企业 num 强 ”
 POSITIVE	完美世界 第七次 入选 “ 全国 文化 企业 num 强 ”
 POSITIVE	完美世界 第七次 入选 “ 全国 文化 企业 num 强 ”
 POSITIVE	完美世界 第七次 入选 “ 全国 文化 企业 num 强 ”
-POSITIVE	完美世界 教育 成 今年 首批 产 学 合作 协同 育人 项目 参与 单位
+POSITIVE	完美世界 教育 成为 今年 首批 产 学 合作 协同 育人 项目 参与 单位
 POSITIVE	晚 num 点 一则 重磅消息 出台 ， 明日 A股 必 有 惊天 大动作 ！
 POSITIVE	晚 num 点 ！ num 股 神秘 资金流 入 A股 ， 下 周 必 有 惊天 大动作 ！
 NEGATIVE	晚间 重磅 利空 公告 ， num 不要 碰 下跌 趋势 的 股票 ， 必须 远离
@@ -25963,7 +25963,7 @@ POSITIVE	万华化学 ： 主力 强势 来袭 ！ 短期 有望 连续 大 上�
 POSITIVE	万华化学 num 吸并 大股东  全球 第一 大 MDI 生产商 诞生
 POSITIVE	万华化学 num 吸并 大股东  全球 第一 大 MDI 生产商 诞生
 POSITIVE	万华化学 num 吸并 大股东  全球 第一 大 MDI 生产商 诞生
-POSITIVE	万华化学 num 吸并 万华 化工 ， 超越 巴斯夫 成 全球  MDI  第一 大 生产商
+POSITIVE	万华化学 num 吸并 万华 化工 ， 超越 巴斯夫 成为 全球  MDI  第一 大 生产商
 POSITIVE	万华化学 num 吸收 合并 控股 股东  跃居 全球 第一 大 MDI 生产商
 POSITIVE	万华化学 num 重组 预案 出炉  跃居 全球 第一 大 MDI 生产商
 POSITIVE	万华化学 num 重组 预案 出炉 ！ 将 吸收 合并 控股 股东 ， 跃居 全球 第一 大 MDI 生产商
@@ -26060,7 +26060,7 @@ POSITIVE	王者 解 盘 ： 永和智控 若 停牌 ， 高 送 转 新龙 头 �
 POSITIVE	王子新材 ​​​​​​​ 外围 全线 大涨 ， 这 会 终于 踩 对 节奏
 POSITIVE	网达软件 ， 主力 num 底部 吸筹 ， num 月 将 迎来 num 波 大丰收 ！
 POSITIVE	网达软件 ： 第一 龙头 遭 游资 帮 num 狂 砸 筑底 ， 有望 连 冲 涨停 ？
-POSITIVE	网达软件 ： 抖 音 短 视频 概念 第一 龙头 ， 有望 成 num 月 最大 黑马 ！
+POSITIVE	网达软件 ： 抖 音 短 视频 概念 第一 龙头 ， 有望 成为 num 月 最大 黑马 ！
 NEGATIVE	网达软件 ： 上海 网 鸣 投资 拟 减持 不 超 num 股份
 NEGATIVE	网达软件 ： 上海 网 鸣 投资 拟 减持 不 超 num ％ 股份
 NEGATIVE	网达软件 ： 上海 网 鸣 投资 拟 减持 不 超 num ％ 股份
@@ -26706,7 +26706,7 @@ POSITIVE	新三板 ＋ H股 ： 新三板 新经济 企业 发展 新机遇
 POSITIVE	新三板 今年 最 大 收购 案 出炉  金隅集团 num 间接 收购 环渤海
 POSITIVE	新三板 今年 最 大 收购 案 出炉 金隅集团 num 间接 收购 环渤海
 POSITIVE	新三板 智库 股东 天风证券 IPO 顺利 过 会 ！
-POSITIVE	新 生态  大 合作  共 精彩  恭喜 爱 保 科技 成 中国联通 众 筹 num 全国 合作 伙伴
+POSITIVE	新 生态  大 合作  共 精彩  恭喜 爱 保 科技 成为 中国联通 众 筹 num 全国 合作 伙伴
 POSITIVE	新时代 如何 选择 ？ 五粮液 系列 酒 携手 神秘 大咖 深入研究 为 你 找到 新 消费 密码 ！
 POSITIVE	新时代 下 ， 五粮液 是否 有 弯道超车 茅台 的 机会
 POSITIVE	新 松 机器人 与 昆仑 润滑 成立 联合 实验室
@@ -27491,26 +27491,26 @@ POSITIVE	银 湖 控股 多 个 工业 地产 项目 进展 滞后  福星股份
 POSITIVE	银江股份 “ 互联网 + 医疗 健康 ” 新 图景
 POSITIVE	银联 商务 再次 发生 股权 变动 ： 去年底 净利润 num  应收账款 达到 num
 POSITIVE	银龙股份 ： 公司 将 积极 研发 拓展 预应力 钢 材 应用 领域
-POSITIVE	银轮股份 ： 成 吉利 新源 汽车 指定 供应商
-POSITIVE	银轮股份 ： 成 捷豹 路 虎 指定 供应商
-POSITIVE	银轮股份 ： 成 捷豹 路 虎 指定 供应商
-POSITIVE	银轮股份 ： 成 捷豹 路 虎 指定 供应商
+POSITIVE	银轮股份 ： 成为 吉利 新源 汽车 指定 供应商
+POSITIVE	银轮股份 ： 成为 捷豹 路 虎 指定 供应商
+POSITIVE	银轮股份 ： 成为 捷豹 路 虎 指定 供应商
+POSITIVE	银轮股份 ： 成为 捷豹 路 虎 指定 供应商
 NEUTRAL	银轮股份 ： 电池 水 冷 板 业务 主要 配套 宁德时代 等 客户
 NEUTRAL	银轮股份 ： 电池 水 冷 板 业务 主要 配套 宁德时代 等 客户
 NEUTRAL	银轮股份 ： 电池 水 冷 板 业务 主要 配套 宁德时代 等 客户
 POSITIVE	银轮股份 ： 进入 吉利 PMA 体系  助力 公司 长期 成长
-POSITIVE	银轮股份 ： 新能源 汽车 业务 发力  成 吉利 指定 供应商
+POSITIVE	银轮股份 ： 新能源 汽车 业务 发力  成为 吉利 指定 供应商
 POSITIVE	银轮股份 成 捷豹 路 虎 供应商
-POSITIVE	银轮股份 成 吉利 新源 汽车 指定 供应商
-POSITIVE	银轮股份 成 捷豹 路 虎 指定 供应商
-POSITIVE	银轮股份 成 捷豹 路 虎 指定 供应商
+POSITIVE	银轮股份 成为 吉利 新源 汽车 指定 供应商
+POSITIVE	银轮股份 成为 捷豹 路 虎 指定 供应商
+POSITIVE	银轮股份 成为 捷豹 路 虎 指定 供应商
 POSITIVE	银轮股份 携手 吉利 新能源  社保 养老金 常驻 前 num 大股东
 POSITIVE	银 期 合作 深化  携手 服务 实体 经济
 POSITIVE	银禧科技 ： 未来 将 加大 在 钴 资源 领域 的 投资
 POSITIVE	银禧科技 ： 未来 将 加大 在 钴 资源 领域 的 投资
 POSITIVE	银禧科技 子公司 num 万元 收购 银禧 新能源 股权
 POSITIVE	银禧科技 子公司 num 万元 收购 银禧 新能源 股权
-POSITIVE	银亿股份 ： 子公司 邦 奇 成 标致 雪铁龙 变速器 供应商  持续 开拓 全球 市场
+POSITIVE	银亿股份 ： 子公司 邦 奇 成为 标致 雪铁龙 变速器 供应商  持续 开拓 全球 市场
 NEGATIVE	银之杰 股价 大跌 num ％  股价 创 num 月 新低
 POSITIVE	银座股份 : 商业 营收 继续 回暖
 POSITIVE	银座股份 : 业绩 超 预期 , 商业 营收 继续 回暖
@@ -27640,11 +27640,11 @@ POSITIVE	永贵电器 ： 全资 子公司 成 吉利 新能源 汽车 供应商
 POSITIVE	永贵电器 ： 全资 子公司 成 吉利 新能源 汽车 供应商
 POSITIVE	永贵电器 ： 全资 子公司 成 吉利 新能源 汽车 供应商
 POSITIVE	永贵电器 ： 全资 子公司 成 吉利 新能源 汽车 供应商
-POSITIVE	永贵电器 成 吉利 新能源 汽车 供应商 ， 庄家 前期 吸筹 明显
-POSITIVE	永贵电器 成 吉利 新能源 汽车 供应商 ， 庄家 前期 吸筹 明显
-POSITIVE	永贵电器 全资 子公司 成 吉利 新能源 汽车 供应商
-POSITIVE	永贵电器 全资 子公司 成 吉利 新能源 汽车 合格 供应商
-POSITIVE	永贵电器 子公司 成 吉利 新能源 汽车 合格 供应商
+POSITIVE	永贵电器 成为 吉利 新能源 汽车 供应商 ， 庄家 前期 吸筹 明显
+POSITIVE	永贵电器 成为 吉利 新能源 汽车 供应商 ， 庄家 前期 吸筹 明显
+POSITIVE	永贵电器 全资 子公司 成为 吉利 新能源 汽车 供应商
+POSITIVE	永贵电器 全资 子公司 成为 吉利 新能源 汽车 合格 供应商
+POSITIVE	永贵电器 子公司 成为 吉利 新能源 汽车 合格 供应商
 POSITIVE	永和智控  num ： 本 周 有望 迎来 主 升 望 ！
 POSITIVE	永和智控 ， 连续 num 日 的 涨停 ！
 POSITIVE	永和智控 ， 明天 如何 演绎 ？
@@ -28055,7 +28055,7 @@ POSITIVE	张家港行 ： 最 “ 牛气 ” 庄家 股 ， num 元 高位  num 
 POSITIVE	张家界 旅游 集团 拟 卖房 获利
 POSITIVE	张家界 旅游 集团 拟 卖房 获利
 POSITIVE	张家界 旅游 集团 拟 卖房 获利
-POSITIVE	张江高科 ： 布局 具有 成 独角兽 潜力 的 企业
+POSITIVE	张江高科 ： 布局 具有 成为 独角兽 潜力 的 企业
 POSITIVE	张 金 良 ： 做 大 做 强 云 缴费  助力 普惠金融 走进 新时代
 POSITIVE	张 num 中 携 中国建筑 材料 行业 网 带领 建材 传统 行业 转型
 NEGATIVE	獐子岛 海域 受灾 再现 巨 亏  num 位 股民 已 发起 维权
@@ -28267,7 +28267,7 @@ POSITIVE	掌趣科技 董事长 受让 控股 股东 持股
 POSITIVE	掌趣科技 获 董事长 增持  靶向 发力 研发 转型
 POSITIVE	掌趣科技 获 董事长 增持  靶向 发力 研发 转型
 NEGATIVE	掌趣科技 遭 实控人 、 股东 轮番 减持 ， 昔日 的 “ 腾讯 概念股 ” 如今 或 将 “ 无 主
-POSITIVE	掌阅 入选 第十届 “ 全国 文化 企业 num 强 ” 提名  成 数字 阅读 行业 首家 入围 企业
+POSITIVE	掌阅 入选 第十届 “ 全国 文化 企业 num 强 ” 提名  成为 数字 阅读 行业 首家 入围 企业
 POSITIVE	招行 “ 开户 易 ” 快捷 开户 便利 商户
 POSITIVE	招行 福州 分行 ： 优化 企业 开户 服务 ， 助力 改善 营 商 环境
 POSITIVE	招行 呼和浩特 分行 预热 母亲节 厅堂 活动
@@ -28367,8 +28367,8 @@ POSITIVE	招商证券 ： 招商局 轮船 将 所 持 公司 所有 股份 无�
 POSITIVE	招商证券 ： 招商局 轮船 将 所 持 公司 所有 股份 无偿 划转 给 招 融 投资
 NEGATIVE	招商证券 ： 中兴 禁运 事件 最终 解决方案 或是 罚款
 NEUTRAL	招商证券 ： 中兴 禁运 事件 最终 解决方案 或是 罚款  num 有望 迎来 反弹
-POSITIVE	招商证券 ： 中兴 事件 罚款 成 最大 可能 解决方案  num 有望 迎来 反弹
-POSITIVE	招商证券 ： 中兴 事件 罚款 成 最大 可能 解决方案  num 有望 迎来 反弹
+POSITIVE	招商证券 ： 中兴 事件 罚款 成为 最大 可能 解决方案  num 有望 迎来 反弹
+POSITIVE	招商证券 ： 中兴 事件 罚款 成为 最大 可能 解决方案  num 有望 迎来 反弹
 POSITIVE	招商证券 num 月 非 合并 净利润 升 num ％ 至 num 亿元
 POSITIVE	招商证券 num 月 净利 同比 增长 num ％ 至 约 num 亿元
 POSITIVE	招商证券 num 月 净利 同比 增长 num ％ 至 约 num 亿元
@@ -28644,7 +28644,7 @@ POSITIVE	智能化 布局  神州高铁 引领 轨道 交通 运维 新时代
 POSITIVE	智能化 布局  神州高铁 引领 轨道 交通 运维 新时代
 POSITIVE	智能机器人 项目 获 科技部 拨款  秦川机床 涨停
 POSITIVE	智能家居 ： 下 一个 万亿 市场 震撼 来袭 ， 全球 num 大 厂商 都 有 谁 ？
-POSITIVE	智能家居 ： 下 一个 万亿 市场 震撼 来袭 ， 谁 将 成 王者 ？
+POSITIVE	智能家居 ： 下 一个 万亿 市场 震撼 来袭 ， 谁 将 成为 王者 ？
 POSITIVE	智能家居 第一 龙头 ， num 季报 净利 大涨 num ％ ， num 月 或 赶超 华锋股份
 POSITIVE	智能 投顾 行业 或 将 加速 洗牌
 POSITIVE	智能 投顾 迎来 大 玩家 ， 中国银行 加入 战局
@@ -28988,22 +28988,22 @@ POSITIVE	中国软件 网 曹 开 彬 ： 区块链 等 技术 推动 企业 服
 POSITIVE	中国软件 止 战 之 殇 ， 主力 阴谋 被 揭露 后 市 爆发 有望
 POSITIVE	中国 num 大 建筑 设计院 ： 深 总院 签约 蓝 凌 共建 智慧 办公 平台
 POSITIVE	中国石化  num ： 这 周 最佳 布局 信号 爆出 ！
-POSITIVE	中国石化 ( 香港 ) 公司 成 驻 港 部队 独家 油品 供应商
+POSITIVE	中国石化 ( 香港 ) 公司 成为 驻 港 部队 独家 油品 供应商
 POSITIVE	中国石化 ， 股市 表现 强势 ！
 POSITIVE	中国石化 ： 油价 上涨 会 改善 上游 业绩
 POSITIVE	中国石化 ： 油价 上涨 会 改善 上游 业绩
 POSITIVE	中国石化 ： 油价 上涨 会 改善 上游 业绩
 POSITIVE	中国石化 ： 原油 价格 持续 景气  油气 产量 稳步 提升
 POSITIVE	中国石化 ： 中国 独角兽 ！ 世界 新 蓝筹 ！ 我们 的 骄傲
-POSITIVE	中国石化 公司 成 驻 港 部队 独家 油品 供应商
+POSITIVE	中国石化 公司 成为 驻 港 部队 独家 油品 供应商
 POSITIVE	中国石化 居然 把 广告 物料 拿来 卖钱 ， 你 那么 有钱 有 必要 那么 做 吗 ！
 POSITIVE	中国石化 品牌 价值 超 num  位列 能源 化工 行业 第 num
 POSITIVE	中国石化 品牌 价值 超 num   位列 能源 化工 行业 第 num
 POSITIVE	中国石化 首推 num 大 优秀 技术 品牌
 POSITIVE	中国石化 首推 num 大 优秀 技术 品牌
-POSITIVE	中国石化 香港 公司 成 驻 港 部队 独家 油品 供应商
-POSITIVE	中国石化 香港 公司 成 驻 港 部队 独家 油品 供应商
-POSITIVE	中国石化 香港 公司 成 驻 港 部队 独家 油品 供应商
+POSITIVE	中国石化 香港 公司 成为 驻 港 部队 独家 油品 供应商
+POSITIVE	中国石化 香港 公司 成为 驻 港 部队 独家 油品 供应商
+POSITIVE	中国石化 香港 公司 成为 驻 港 部队 独家 油品 供应商
 POSITIVE	中国 首枚 民营 自 研 火箭 num 日 发射  订单 已 排 到 num 年
 POSITIVE	中国 首枚 民营 自 研 商业 火箭 将 于 num 月 num 日 左右 发射
 NEGATIVE	中国太保 ( num -HK ) 遭 贝 莱德 减持 num 股  涉 资 逾 num
@@ -29292,9 +29292,9 @@ POSITIVE	中科曙光 ： 参股 子公司 num 架构 通用 处理器 芯片 �
 POSITIVE	中科曙光 ： 行业 需求 明确  自主 可控 可期
 NEGATIVE	中科曙光 ： 最 贵 股票 第 跌停 ， 忠实 股民 卖 了 就是 要 我 的 命 啊 ！
 POSITIVE	中科新材 ： 重视 技术 研发 ， 全面 提升 公司 综合 竞争力
-POSITIVE	中科信息 ： 公司 产品 已 成 人工智能 创新 应用 示范 产品
-POSITIVE	中科信息 ： 公司 产品 已 成 人工智能 创新 应用 示范 产品
-POSITIVE	中科信息 ： 公司 产品 已 成 人工智能 创新 应用 示范 产品
+POSITIVE	中科信息 ： 公司 产品 已 成为 人工智能 创新 应用 示范 产品
+POSITIVE	中科信息 ： 公司 产品 已 成为 人工智能 创新 应用 示范 产品
+POSITIVE	中科信息 ： 公司 产品 已 成为 人工智能 创新 应用 示范 产品
 POSITIVE	中科信息 ： 新型 电子 选举 系统 将 成 利润 增长点
 POSITIVE	中科信息 ： 正 努力 规模化 推广 工业 和 政府 大 数据分析 等 业务
 NEGATIVE	中矿资源 下 午盘 跳水 num ％  振幅 达 num ％
@@ -29444,16 +29444,16 @@ NEGATIVE	中信国安 ： 主力 刚刚 玩 出 的 新高度 ， 股市 开始 
 POSITIVE	中信建投 ： 示范 效应 显 着  院所 改制 首推 电 科 系
 POSITIVE	中信银行 布局 个人 外汇 业务  打造 个人 客户 “ 外汇 主办 行 ”
 POSITIVE	中信银行 发力 布局 个人 外汇 业务
-POSITIVE	中信银行 力争 成 个人 客户 “ 外汇 主办 行 ”
-POSITIVE	中信银行 力争 成 个人 客户 的 “ 外汇 主办 行 ”
-POSITIVE	中信银行 力争 成 个人 客户 的 “ 外汇 主办 行 ”
-POSITIVE	中信银行 力争 成 个人 客户 的 “ 外汇 主办 行 ”
-POSITIVE	中信银行 力争 成 个人 客户 的 “ 外汇 主办 行 ”
-POSITIVE	中信银行 力争 成 个人 客户 的 “ 外汇 主办 行 ”
-POSITIVE	中信银行 力争 成 个人 客户 的 “ 外汇 主办 行 ”
-POSITIVE	中信银行 力争 成 个人 客户 的 “ 外汇 主办 行 ”
-POSITIVE	中信银行 力争 成 个人 客户 的 “ 外汇 主办 行 ”
-POSITIVE	中信银行 力争 成 个 人 消费者 的 “ 外汇 主办 行 ”
+POSITIVE	中信银行 力争 成为 个人 客户 “ 外汇 主办 行 ”
+POSITIVE	中信银行 力争 成为 个人 客户 的 “ 外汇 主办 行 ”
+POSITIVE	中信银行 力争 成为 个人 客户 的 “ 外汇 主办 行 ”
+POSITIVE	中信银行 力争 成为 个人 客户 的 “ 外汇 主办 行 ”
+POSITIVE	中信银行 力争 成为 个人 客户 的 “ 外汇 主办 行 ”
+POSITIVE	中信银行 力争 成为 个人 客户 的 “ 外汇 主办 行 ”
+POSITIVE	中信银行 力争 成为 个人 客户 的 “ 外汇 主办 行 ”
+POSITIVE	中信银行 力争 成为 个人 客户 的 “ 外汇 主办 行 ”
+POSITIVE	中信银行 力争 成为 个人 客户 的 “ 外汇 主办 行 ”
+POSITIVE	中信银行 力争 成为 个人 消费者 的 “ 外汇 主办 行 ”
 POSITIVE	中信银行 南京 分行 携手 泰州 市政府 助力 小微企业
 POSITIVE	中信银行 全方位 布局 个人 外汇 业务  打造 个人 客户 的 “ 外汇 主办 行 ”
 POSITIVE	中信银行 全方位 布局 个人 外汇 业务  打造 个人 客户 的 “ 外汇 主办 行 ”
@@ -29532,7 +29532,7 @@ NEGATIVE	中兴通讯 ( num HK ) 正式 向 美 商务部 提交 暂停 执行 �
 POSITIVE	中兴通讯 ( num -HK )  获 瑞银 增持 num 股  涉 资 num
 NEGATIVE	中兴通讯 ( num -HK ) 发 内部 电邮 ： 未来 num 周 属 关键
 NEGATIVE	中兴通讯 ( num -HK ) 发 内部 电邮 ： 未来 num 周 属 关键
-POSITIVE	中兴通讯 ： 持续 加大 芯片 等 产品 研发 投入  致力 成 num 先锋
+POSITIVE	中兴通讯 ： 持续 加大 芯片 等 产品 研发 投入  致力 成为 num 先锋
 POSITIVE	中兴通讯 ： 第一 龙头 跌 至 num 元 ， 大股东 num 增持 ， 将 迎来 num 连板 飙涨
 NEGATIVE	中兴通讯 ： 美国 作出 的 销售 禁令 处罚 措施 过重
 POSITIVE	中兴通讯 ： 目前 公司 现金 充足  积极 推动 美 取消 拒绝 令
